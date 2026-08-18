@@ -198,3 +198,29 @@ document.addEventListener("DOMContentLoaded", () => {
   document.head.appendChild(style);
 
 });
+
+
+/* =========================================================
+   RESPONSIVE DESKTOP NAV VISIBILITY
+   Desktop nav is completely removed from mobile layout.
+========================================================= */
+
+function handleResponsiveNavigation() {
+  const desktopNav = document.querySelector(".site-menu");
+
+  if (!desktopNav) return;
+
+  if (window.innerWidth <= 900) {
+    desktopNav.style.display = "none";
+  } else {
+    desktopNav.style.display = "";
+  }
+}
+
+
+/* Run immediately */
+handleResponsiveNavigation();
+
+
+/* Run when viewport changes */
+window.addEventListener("resize", handleResponsiveNavigation);
