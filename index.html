@@ -1,2066 +1,781 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Jupito Secure | Governed Secure Execution Infrastructure</title>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+    content="JupitoSecure One™ — Five Security Platforms. One Unified Security Fabric. Secure human, data and AI workloads.">
+  <meta name="theme-color" content="#ffffff">
+  <title>JupitoSecure One | Five Security Platforms. One Unified Security Fabric.</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
-    <meta
-      name="description"
-      content="Jupito Secure provides Zero Trust secure access, governed AI execution, isolated workspaces, browser isolation, and enterprise data protection in one unified platform."
-    />
+<body>
+  <header class="site-header" data-header>
+    <div class="container nav-wrap">
+      <a class="brand" href="#home" aria-label="JupitoSecure home">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
 
-    <!-- Existing CSS -->
-    <link rel="stylesheet" href="style.css" />
+      </a>
 
-    <!-- Inter Font -->
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
-      rel="stylesheet"
-    />
-  </head>
+      <!--<button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu"
+        data-menu-toggle>
+        <span></span><span></span><span></span>
+      </button> -->
 
-  <body>
-    <!-- ===================================================== -->
-    <!-- NAVBAR -->
-    <!-- ===================================================== -->
+      <button
+  type="button"
+  id="jpMobileToggle"
+  class="jp-mobile-toggle"
+  aria-label="Open navigation"
+  aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
 
-    <header class="navbar">
-      <div class="container">
-        <div class="nav-wrapper">
-          <div class="logo">Jupito Secure</div>
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation" data-menu>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>JupitoSecure One </button>
+          <div class="dropdown">
+            <a href="#one">Overview</a>
+            <a href="#one">Unified Security Fabric</a>
+            <a href="#one">Architecture</a>
+            <a href="#one">Security Model</a>
+          </div>
+        </div>
 
-          <div class="nav-menu">
-            <div class="nav-links">
-              <div class="nav-item">
-                <a href="#">Platform</a>
-              </div>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Platforms </button>
+          <div class="dropdown dropdown-wide">
+            <a href="#platforms"><b>01 TeleWorkspace</b><small>Location-independent secure workspace</small></a>
+            <a href="#platforms"><b>02 Enterprise Browser</b><small>Enterprise-controlled browsing</small></a>
+            <a href="#platforms"><b>03 Browser Isolation</b><small>Isolate web execution</small></a>
+            <a href="#platforms"><b>04 TeleConnect</b><small>Secure connectivity without inbound exposure</small></a>
+            <a href="#platforms"><b>05 AI & Agent Execution</b><small>Governed AI agents, tools and
+                workloads</small></a>
+          </div>
+        </div>
 
-              <div class="nav-item">
-                <a href="#">Products</a>
-              </div>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Products </button>
+          <div class="dropdown dropdown-wide">
+            <a href="#products"><b>TeleWorkspace Products</b><small>Desktop, ephemeral and virtual workspace
+                products</small></a>
+            <a href="#products"><b>Enterprise Browser Products</b><small>Managed browser, policy and DLP</small></a>
+            <a href="#products"><b>Browser Isolation Products</b><small>Remote ephemeral isolated browser</small></a>
+            <a href="#products"><b>TeleConnect Products</b><small>Gateway, proxy, client and edge components</small></a>
+            <a href="#products"><b>AI & Agent Execution Products</b><small>AI Brain, MCP Gateway, services and
+                tools</small></a>
+            <a href="#products"><b>Fabric Services</b><small>Identity, policy, DLP, orchestration and audit</small></a>
+          </div>
+        </div>
 
-              <div class="nav-item">
-                <a href="#">AI Governance</a>
-              </div>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Solutions </button>
+          <div class="dropdown dropdown-wide">
+            <a href="#solutions"><b>Secure Remote Operations</b><small>Remote IT, support, branch and third-party
+                operations</small></a>
+            <a href="#solutions"><b>Secure IT/OT Access</b><small>Industrial, restricted and critical
+                environments</small></a>
+            <a href="#solutions"><b>Secure Contractor Workspace</b><small>Ephemeral, controlled contractor
+                execution</small></a>
+            <a href="#solutions"><b>High-Risk Web Browsing</b><small>Threat research, untrusted sites and privileged
+                browsing</small></a>
+            <a href="#solutions"><b>Secure AI Workforce</b><small>Governed AI across tools, browsers and
+                workspaces</small></a>
+            <a href="#solutions"><b>Secure AI Agent</b><small>Identity → Policy → DLP → Execution → Audit</small></a>
+          </div>
+        </div>
 
-              <div class="nav-item">
-                <a href="#">Architecture</a>
-              </div>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Resources </button>
+          <div class="dropdown">
+            <a href="#resources">Documentation</a>
+            <a href="#resources">Product Guides</a>
+            <a href="#resources">Compliance</a>
+            <a href="#resources">Events / Exhibits</a>
+            <a href="#resources">News</a>
+            <a href="#resources">Security Alerts</a>
+          </div>
+        </div>
 
-              <div class="nav-item">
-                <a href="#">Solutions</a>
-              </div>
+        <a class="nav-link direct" href="#marketplace">Marketplace</a>
+        <a class="nav-cta" href="#final-cta">GET IT NOW</a>
+        <a class="nav-demo" href="#final-cta">BOOK A DEMO</a>
+      </nav>
+    </div>
+  </header>
 
-              <div class="nav-item">
-                <a href="#">Pricing</a>
-              </div>
-
-              <div class="nav-item">
-                <a href="#">Resources</a>
-              </div>
+  <main id="home">
+    <section class="hero section-rule">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="kicker">JUPITOSECURE ONE</div>
+          <h1>FIVE SECURITY PLATFORMS</h1>
+          <h2>ONE UNIFIED <span>SECURITY FABRIC</span></h2>
+          <p class="hero-promise">Secure human, data and AI workloads.</p>
+          <p>JupitoSecure brings secure workspaces, enterprise browsing, browser isolation, secure connectivity and
+            governed
+            AI execution together through one unified security fabric.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#platforms">EXPLORE PRODUCTS</a>
+            <a class="button button-outline" href="#marketplace">START FREE TRIAL</a>
+            <a class="text-link" href="#final-cta">BOOK A DEMO →</a>
+          </div>
+          <div class="hero-points">
+            <div>
+              <img src="images/deploy-icon.svg" alt="Jupito Secure Hero Right" class="icon-image-small">
+              <b>Deploy independently.</b><span>Integrate when you're ready.</span>
             </div>
-
-            <div class="nav-actions">
-              <a href="#" class="nav-btn"> Contact Sales </a>
-
-              <a href="#" class="btn-primary"> Book Demo </a>
+            <div>
+              <img src="images/multi-cloud-icon.png" alt="Jupito Secure Hero Right" class="icon-image-small">
+              <b>Multi-cloud | Multi-site | On-Prem</b><span>Built for distributed environments.</span>
+            </div>
+            <div>
+              <img src="images/zero-trust-icon.png" alt="Jupito Secure Hero Right" class="icon-image-small">
+              <b>Zero Trust. DLP.</b><span>Governed execution.</span>
             </div>
           </div>
-
-          <button class="mobile-toggle">☰</button>
         </div>
+
+        <div class="hero-diagram" aria-label="Five platform security fabric overview">
+          <img src="images/main-platform-img.png" alt="Jupito Secure Hero Right" class="hero-visual-image">
+        </div>
+    </section>
+    <section id="madeinindia" class="section-rule">
+      <div class="section-heading center">
+        <h3>MADE IN INDIA. <span>BUILD FOR WORLD.</span></h3>
       </div>
-    </header>
+    </section>
+    <section class="trust section-rule">
+      <div class="container trust-row">
+        <div><strong>TRUSTED.</strong> MEMBERSHIP & PARTNERS</div>
+        <div><img src="images/microsoft-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small"></div>
+        <div><img src="images/nasscom-logo.svg" alt="Jupito Secure Hero Right" class="hero-visual-image-small"></div>
+        <div><img src="images/ncoe-logo.svg" alt="Jupito Secure Hero Right" class="hero-visual-image-small"></div>
+        <div><img src="images/dsci-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small"></div>
 
-    <!-- ===================================================== -->
-    <!-- HERO -->
-    <!-- ===================================================== -->
-
-    <section class="hero">
-      <div class="container hero-container">
-        <div class="hero-grid">
-          <!-- LEFT -->
-
-          <div class="hero-column">
-            <div class="hero-visual-card">
-              <img
-                src="images/hero-main-left.png"
-                alt="Jupito Secure Hero Left"
-                class="hero-visual-image"
-              />
-              <div class="hero-actions">
-                &nbsp; &nbsp; &nbsp;
-                <a href="#" class="btn-primary"> Book Demo </a>
-                &nbsp;
-                <a href="#" class="btn-secondary"> Explore Platform </a>
-              </div>
-            </div>
-          </div>
-
-          <!-- RIGHT -->
-
-          <div class="hero-column">
-            <div class="hero-visual-card">
-              <img
-                src="images/hero-main-right.png"
-                alt="Jupito Secure Hero Right"
-                class="hero-visual-image"
-              />
-            </div>
-          </div>
-        </div>
       </div>
     </section>
 
-    <!-- ===================================================== -->
-    <!-- TRUST SECTION -->
-    <!-- ===================================================== -->
 
-    <section class="logo-section">
-      <div class="container">
-        <h2 class="section-title" style="text-align: center">
-          Trusted for Secure Work & AI Operations
+    <!-- 04 — WHY JUPITOSECURE -->
+    <section class="why-jupitosecure" id="why-jupitosecure">
+
+      <div class="why-header">
+
+        <div class="section-eyebrow">
+          WHY JUPITOSECURE?
+        </div>
+
+        <h2>
+          Security that connects the workflow
+          <span>— not just the tool.</span>
         </h2>
 
-        <p
-          class="section-subtitle"
-          style="text-align: center; margin: auto auto 60px"
-        >
-          Built for organizations securing distributed workforces, contractor
-          access, AI-assisted operations, browser-native workflows, and governed
-          execution environments.
+        <p>
+          Modern organizations operate across cloud, on-premises environments,
+          remote users, browsers, contractors and AI. JupitoSecure applies one
+          security model across independently deployable platforms.
         </p>
 
-        <div class="trust-wrapper">
-          <div class="trust-wrapper">
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M16 21V19C16 17.8954 15.1046 17 14 17H6C4.89543 17 4 17.8954 4 19V21"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <circle
-                    cx="10"
-                    cy="9"
-                    r="4"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  />
-
-                  <path
-                    d="M20 8V14"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M23 11H17"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Remote Workforce</h3>
-
-              <p>
-                Secure distributed employee access across modern hybrid and
-                remote operating environments.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M12 3L4 7V12C4 17 7.5 20.5 12 21C16.5 20.5 20 17 20 12V7L12 3Z"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M9 12L11 14L15 10"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>AI Operations</h3>
-
-              <p>
-                Governed AI-assisted workflows with controlled execution, audit
-                visibility, and runtime guardrails.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M12 2L4 6V11C4 16 7.5 19.5 12 21C16.5 19.5 20 16 20 11V6L12 2Z"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M9 11L11 13L15 9"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Contractor Access</h3>
-
-              <p>
-                Controlled third-party and vendor access with isolated sessions
-                and policy enforcement.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <rect
-                    x="7"
-                    y="2"
-                    width="10"
-                    height="20"
-                    rx="2"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  />
-
-                  <path
-                    d="M11 18H13"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>BYOD Security</h3>
-
-              <p>
-                Secure unmanaged and personal devices through isolated execution
-                environments and access governance.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <rect
-                    x="3"
-                    y="4"
-                    width="18"
-                    height="14"
-                    rx="2"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  />
-
-                  <path
-                    d="M8 21H16"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M12 18V21"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Browser Isolation</h3>
-
-              <p>
-                Protected browser-native execution for secure enterprise web
-                access and controlled sessions.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- ITEM -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M4 19V5"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M10 19V9"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M16 19V13"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M22 19V7"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Data Governance</h3>
-
-              <p>
-                Centralized policy enforcement, audit logging, DLP controls, and
-                operational visibility.
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
+
+
+      <div class="why-comparison">
+
+        <!-- PROBLEM -->
+        <article class="why-comparison-card problem">
+
+          <h3 class="why-comparison-title">
+            PROBLEM
+          </h3>
+
+          <div class="why-comparison-list">
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Security tool sprawl</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Untrusted endpoints</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Risky web activity</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Open inbound network access</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Uncontrolled AI actions</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Persistent high-risk environments</span>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark no">×</span>
+              <span>Fragmented security policies</span>
+            </div>
+
+          </div>
+        </article>
+
+
+        <!-- JUPITOSECURE APPROACH -->
+        <article class="why-comparison-card approach">
+
+          <h3 class="why-comparison-title">
+            JUPITOSECURE APPROACH
+          </h3>
+
+          <div class="why-comparison-list">
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>One security fabric across five platforms</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Controlled workspace execution</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Remote browser isolation</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Outbound-only secure connectivity</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Governed AI &amp; agent execution</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Ephemeral-by-design execution</strong>
+            </div>
+
+            <div class="why-comparison-item">
+              <span class="why-comparison-mark yes">✓</span>
+              <strong>Common security model</strong>
+            </div>
+
+          </div>
+        </article>
+
+      </div>
+      
+
     </section>
 
-    <!-- ===================================================== -->
-    <!-- PROBLEM SECTION -->
-    <!-- ===================================================== -->
-
-    <section>
+    <section id="one" class="fabric section-rule">
       <div class="container">
-        <h2 class="section-title" style="text-align: center">
-          Traditional Remote Access Was Not Built for AI-Era Workloads
-        </h2>
-
-        <p
-          class="section-subtitle"
-          style="text-align: center; margin: auto auto 60px"
-        >
-          Modern enterprises face growing operational and governance challenges
-          across remote access, unmanaged devices, AI-assisted workflows,
-          contractor access, and data protection. Legacy VPN and VDI
-          architectures were not designed for controlled execution and governed
-          AI operations.
-        </p>
-
-        <div class="trust-wrapper">
-          <div class="trust-wrapper">
-            <!-- ===================================================== -->
-            <!-- CARD -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M4 7H20M4 12H20M4 17H14"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Fragmented Security Stack</h3>
-
-              <p>
-                Multiple disconnected security tools increase operational
-                complexity, governance gaps, and enterprise management overhead.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- CARD -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M12 17V14"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <rect
-                    x="5"
-                    y="10"
-                    width="14"
-                    height="10"
-                    rx="2"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  />
-
-                  <path
-                    d="M8 10V7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7V10"
-                    stroke="currentColor"
-                    stroke-width="2"
-                  />
-                </svg>
-              </div>
-
-              <h3>Insecure Remote Access</h3>
-
-              <p>
-                Traditional VPN-centric architectures create excessive trust
-                exposure and limited visibility across distributed operations.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- CARD -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M12 3L4 7V12C4 17 7.5 20.5 12 21C16.5 20.5 20 17 20 12V7L12 3Z"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M9 12L11 14L15 10"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Data Leakage Risks</h3>
-
-              <p>
-                Clipboard access, downloads, uploads, screenshots, and unmanaged
-                devices increase enterprise data exposure.
-              </p>
-            </div>
-
-            <!-- ===================================================== -->
-            <!-- CARD -->
-            <!-- ===================================================== -->
-
-            <div class="trust-box">
-              <div class="trust-icon">
-                <svg
-                  width="30"
-                  height="30"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M9 3H15V7H9V3Z"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M6 21V11H18V21"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M9 15H9.01"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M15 15H15.01"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <h3>Uncontrolled AI Execution</h3>
-
-              <p>
-                AI agents and autonomous tooling require governed execution,
-                deterministic workflows, and policy enforcement controls.
-              </p>
-            </div>
-          </div>
+        <div class="section-heading center">
+          <div class="kicker">JUPITOSECURE ONE</div>
+          <h2>ONE SECURITY MODEL. <span>EVERY PLATFORM.</span></h2>
+          <p>Identity, policy, DLP, secure data, encryption, governance and audit connect independently deployable
+            platforms.</p>
         </div>
-      </div>
-    </section>
+        <div class="why-grid">
 
-    <!-- ===================================================== -->
-    <!-- PLATFORM OVERVIEW -->
-    <!-- ===================================================== -->
-
-    <section>
-      <div class="container">
-        <h2 class="section-title" style="text-align: center">
-          Unified Secure Execution Platform for Human & AI Workloads
-        </h2>
-
-        <p
-          class="section-subtitle"
-          style="text-align: center; margin: auto auto 60px"
-        >
-          Jupito Secure combines Zero Trust access, isolated execution
-          environments, enterprise data protection, and governed AI execution
-          into one modern operational security platform.
-        </p>
-
-        <div class="pricing-grid">
-          <div class="pricing-card">
-            <h3 class="plan-name">Secure Access</h3>
-
-            <p class="plan-description">
-              Zero Trust access for users, applications, browsers, and remote
-              workspaces.
-            </p>
-          </div>
-
-          <div class="pricing-card">
-            <h3 class="plan-name">Secure Execution</h3>
-
-            <p class="plan-description">
-              Disposable and isolated execution environments for controlled
-              enterprise operations.
-            </p>
-          </div>
-
-          <div class="pricing-card">
-            <h3 class="plan-name">Governed AI</h3>
-
-            <p class="plan-description">
-              Controlled AI actions with policy enforcement, deterministic
-              workflows, and audit visibility.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================================================== -->
-    <!-- PRODUCT SHOWCASE -->
-    <!-- ===================================================== -->
-
-    <section class="product-showcase">
-      <div class="container">
-        <div class="showcase-header">
-          <h2 class="section-title">
-            One Unified Platform for Secure Access, Execution & Governance
-          </h2>
-
-          <p class="section-subtitle" style="margin: auto">
-            Modern infrastructure for secure human operations, controlled AI
-            execution, and enterprise governance.
+        <article class="why-card">
+          <h3>
+            Security That<br>
+            Connects the<br>
+            Workflow
+          </h3>
+          <p>
+            Protect people, data and AI across the workflow.
           </p>
-        </div>
-
-        <div class="product-grid">
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Secure Browser -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <rect
-                    x="10"
-                    y="12"
-                    width="44"
-                    height="32"
-                    rx="7"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path d="M10 22H54" stroke="currentColor" stroke-width="3" />
-
-                  <circle cx="18" cy="17" r="2" fill="currentColor" />
-
-                  <circle cx="25" cy="17" r="2" fill="currentColor" />
-
-                  <circle cx="32" cy="17" r="2" fill="currentColor" />
-
-                  <path
-                    d="M24 34L30 28L38 36L44 30"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure Browser</h3>
-
-              <p class="product-excerpt">
-                Browser-native isolated execution with secure enterprise
-                browsing, session protection, and policy-governed web access.
-              </p>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Secure Access -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="18"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M32 14V8"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M32 56V50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M14 32H8"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M56 32H50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M24 32L30 38L42 26"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure Access</h3>
-
-              <p class="product-excerpt">
-                Identity-aware Zero Trust access with continuous validation,
-                secure connectivity, and controlled remote operations.
-              </p>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Workspace -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <rect
-                    x="12"
-                    y="12"
-                    width="40"
-                    height="28"
-                    rx="5"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M20 50H44"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M32 40V50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path d="M22 22H42" stroke="currentColor" stroke-width="3" />
-
-                  <path d="M22 30H34" stroke="currentColor" stroke-width="3" />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure Workspace</h3>
-
-              <p class="product-excerpt">
-                Disposable isolated workspaces for secure remote work,
-                contractor operations, and AI development environments.
-              </p>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Secure AI -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="16"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <circle cx="32" cy="32" r="5" fill="currentColor" />
-
-                  <path
-                    d="M32 16V8"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M32 56V48"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M16 32H8"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M56 32H48"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M20 20L14 14"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M50 50L44 44"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure AI</h3>
-
-              <p class="product-excerpt">
-                Governed AI execution infrastructure enabling deterministic
-                workflows, runtime guardrails, and controlled autonomous
-                operations.
-              </p>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Data Protect -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <path
-                    d="M32 10L16 16V28C16 40 23 49 32 54C41 49 48 40 48 28V16L32 10Z"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linejoin="round"
-                  />
-
-                  <path
-                    d="M26 32L30 36L38 28"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-
-                  <circle cx="32" cy="24" r="3" fill="currentColor" />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure DataProtect</h3>
-
-              <p class="product-excerpt">
-                Enterprise data protection with DLP enforcement, governance
-                policies, audit visibility, and secure data movement controls.
-              </p>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  PRODUCT
-  ===================================================== -->
-
-          <div class="product-card">
-            <div class="product-content">
-              <div class="product-icon">
-                <!-- Gateway -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="18"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M32 14V50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M14 32H50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <circle cx="32" cy="32" r="5" fill="currentColor" />
-
-                  <circle cx="32" cy="14" r="3" fill="currentColor" />
-
-                  <circle cx="32" cy="50" r="3" fill="currentColor" />
-                </svg>
-              </div>
-
-              <div class="product-category">PRODUCT</div>
-
-              <h3 class="product-title">Jupito Secure Gateway</h3>
-
-              <p class="product-excerpt">
-                Unified gateway architecture for secure routing, governance
-                orchestration, policy enforcement, and runtime visibility.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ===================================================== -->
-    <!-- AI EXECUTION -->
-    <!-- ===================================================== -->
-
-    <section>
-      <div class="container">
-        <h2 class="section-title" style="text-align: center">
-          Governed AI Execution Architecture for Enterprise Operations
-        </h2>
-
-        <p
-          class="section-subtitle"
-          style="text-align: center; margin: auto auto 60px"
-        >
-          Jupito Secure enables secure AI execution through policy-controlled
-          workflows, deterministic execution paths, guardrails, identity-aware
-          controls, and isolated execution environments.
-        </p>
-
-        <div class="article ai-flow-article">
-          <h2 class="section-title ai-flow-title">AI Execution Flow</h2>
-
-          <p class="section-subtitle ai-flow-subtitle">
-            Secure execution pipeline for policy-controlled AI operations,
-            deterministic workflows, runtime governance, and centralized audit
-            visibility.
+        </article>
+
+        <article class="why-card">
+          <h3>
+            Zero Trust by<br>
+            Design
+          </h3>
+          <p>
+            Identity, policy, data and context drive every execution.
           </p>
+        </article>
 
-          <div class="ai-flow-image-wrapper">
-            <div class="ai-flow-glow"></div>
+        <article class="why-card">
+          <h3>
+            Ephemeral by<br>
+            Default
+          </h3>
+          <p>
+            Reduce persistence. Limit exposure. Recover fast.
+          </p>
+        </article>
 
-            <img
-              src="images/ai-execution-flow2.png"
-              alt="Jupito Secure AI Execution Flow Diagram"
-              class="ai-flow-image"
-              id="aiFlowImage"
-            />
+        <article class="why-card">
+          <h3>
+            Data &amp; IP<br>
+            Protection
+          </h3>
+          <p>
+            DLP, encryption, data governance and controlled execution.
+          </p>
+        </article>
 
-            <div class="ai-flow-overlay">Click to expand architecture</div>
-          </div>
-        </div>
+        <article class="why-card">
+          <h3>
+            AI Governance
+          </h3>
+          <p>
+            Govern agents, tools, workflows, data, rights and approvals.
+          </p>
+        </article>
 
-        <!-- ===================================================== -->
-        <!-- FULLSCREEN MODAL -->
-        <!-- ===================================================== -->
+        <article class="why-card">
+          <h3>
+            Lower Cost. More<br>
+            Control.
+          </h3>
+          <p>
+            Consolidate tools and simplify security operations.
+          </p>
+        </article>
 
-        <div class="ai-flow-modal" id="imageModal">
-          <button class="ai-flow-close" id="closeModal">×</button>
-
-          <img
-            src="images/ai-execution-flow2.png"
-            alt="AI Execution Flow Fullscreen"
-            class="ai-flow-modal-image"
-          />
-        </div>
+      </div>
+        <div class="execution-flow"><b>Identity</b><i>→</i><b>Policy</b><i>→</i><b>Data
+            Protection</b><i>→</i><b>Execution</b><i>→</i><b>Audit</b></div>
+        <p class="fabric-tagline">Deploy independently. <strong>Secure together.</strong></p>
       </div>
     </section>
 
-    <!-- ===================================================== -->
-    <!-- SECURITY -->
-    <!-- ===================================================== -->
-
-    <section>
+    <section id="platforms" class="platforms section-rule">
       <div class="container">
-        <h2 class="section-title">
-          Built for Security, Governance & Operational Control
-        </h2>
-
-        <p class="section-subtitle">
-          Designed to help organizations strengthen security posture and support
-          compliance initiatives through policy enforcement, audit visibility,
-          data protection controls, and governed execution workflows.
-        </p>
-
-        <div class="trust-wrapper">
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- Zero Trust -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <circle
-                  cx="32"
-                  cy="32"
-                  r="18"
-                  stroke="currentColor"
-                  stroke-width="3"
-                />
-
-                <path
-                  d="M24 32L30 38L42 26"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-
-                <path
-                  d="M32 14V8"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M32 56V50"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-              </svg>
-            </div>
-
-            <h3>Zero Trust Architecture</h3>
-          </div>
-
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- Session Governance -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <rect
-                  x="12"
-                  y="14"
-                  width="40"
-                  height="28"
-                  rx="5"
-                  stroke="currentColor"
-                  stroke-width="3"
-                />
-
-                <path
-                  d="M20 50H44"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M32 42V50"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <circle cx="32" cy="28" r="5" fill="currentColor" />
-              </svg>
-            </div>
-
-            <h3>Session Governance</h3>
-          </div>
-
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- AI Guardrails -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <circle
-                  cx="32"
-                  cy="32"
-                  r="16"
-                  stroke="currentColor"
-                  stroke-width="3"
-                />
-
-                <path
-                  d="M32 16V8"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M32 56V48"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M16 32H8"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M56 32H48"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M26 32L30 36L38 28"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
-
-            <h3>AI Guardrails</h3>
-          </div>
-
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- Disposable Sessions -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <rect
-                  x="14"
-                  y="14"
-                  width="36"
-                  height="24"
-                  rx="4"
-                  stroke="currentColor"
-                  stroke-width="3"
-                />
-
-                <path
-                  d="M20 46H44"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M26 24L38 24"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M26 30L34 30"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-              </svg>
-            </div>
-
-            <h3>Disposable Sessions</h3>
-          </div>
-
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- DLP -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <path
-                  d="M32 10L16 16V28C16 40 23 49 32 54C41 49 48 40 48 28V16L32 10Z"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linejoin="round"
-                />
-
-                <path
-                  d="M26 32L30 36L38 28"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
-
-            <h3>DLP Controls</h3>
-          </div>
-
-          <!-- =====================================================
-  ITEM
-  ===================================================== -->
-
-          <div class="trust-box">
-            <div class="trust-icon">
-              <!-- Audit -->
-
-              <svg viewBox="0 0 64 64" fill="none">
-                <path
-                  d="M20 14H44"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M20 26H44"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <path
-                  d="M20 38H34"
-                  stroke="currentColor"
-                  stroke-width="3"
-                  stroke-linecap="round"
-                />
-
-                <rect
-                  x="14"
-                  y="10"
-                  width="36"
-                  height="44"
-                  rx="4"
-                  stroke="currentColor"
-                  stroke-width="3"
-                />
-              </svg>
-            </div>
-
-            <h3>Audit Logging</h3>
-          </div>
+        <div class="section-heading">
+          <div class="kicker">FIVE INDEPENDENT SECURITY PLATFORMS</div>
+          <h2>One unified security fabric.</h2>
+          <p>Each platform solves a distinct problem and can be deployed independently.</p>
+        </div>
+        <div class="platform-grid">
+          <article class="platform-card blue"><span class="number">01</span>
+            <img src="images/workspace-logo.png" alt="Jupito Secure Hero Right" class="product-logo-image">
+            <h3>TeleWorkspace™</h3><small>Location-independent secure workspace</small>
+            <p>VDI • DaaS • Ephemeral • AI/GPU • PC/VM • Container</p><a href="#products">Explore →</a>
+          </article>
+          <article class="platform-card olive"><span class="number">02</span>
+            <img src="images/ent-browser-logo.png" alt="Jupito Secure Hero Right" class="product-logo-image">
+            <h3>Enterprise Browser™</h3><small>Enterprise-controlled browsing</small>
+            <p>Managed Browser • DLP • SaaS • GenAI Governance</p><a href="#products">Explore →</a>
+          </article>
+          <article class="platform-card purple"><span class="number">03</span>
+            <img src="images/browse-iso-logo.png" alt="Jupito Secure Hero Right" class="product-logo-image">
+            <h3>Browser Isolation™</h3><small>Move risky web execution off the endpoint</small>
+            <p>RBI • Remote Browser • Threat Containment • Data Control</p><a href="#products">Explore →</a>
+          </article>
+          <article class="platform-card orange"><span class="number">04</span>
+            <img src="images/teleconnect-logo.png" alt="Jupito Secure Hero Right" class="product-logo-image">
+            <h3>TeleConnect™</h3><small>Secure connectivity without inbound exposure</small>
+            <p>Outbound-Only • TLS • Private Resources • Time-Bound</p><a href="#products">Explore →</a>
+          </article>
+          <article class="platform-card violet wide"><span class="number">05</span>
+            <img src="images/ai-execute-logo.png" alt="Jupito Secure Hero Right" class="product-logo-image">
+            <h3>AI & Agent Execution™</h3><small>Govern AI agents, tools and workloads</small>
+            <p>AI Execution Brain • MCP • Tools • Workflows • DLP • Rights • Approvals • Audit</p><a
+              href="#products">Explore →</a>
+          </article>
         </div>
       </div>
     </section>
 
-    <!-- ===================================================== -->
-    <!-- COMPARISON -->
-    <!-- ===================================================== -->
+    
 
-    <section>
+    <section class="impact section-rule">
       <div class="container">
-        <h2 class="section-title">
-          Beyond VPN and Traditional Workspace Security
-        </h2>
+        <div class="section-heading center">
+          <div class="kicker">BUSINESS IMPACT</div>
+          <h2>Consolidate. Simplify. <span>Reduce Risk. Lower Cost.</span></h2>
+        </div>
+        <div class="impact-grid">
+          <div><b>CONSOLIDATE SILOS</b><small>Fewer Vendors</small></div>
+          <div><b>LOWER AI / GPU COST</b><small>Deterministic AI</small></div>
+          <div><b>REDUCE COMPLEXITY</b><small>Fewer Touchpoints</small></div>
+          <div><b>REDUCE RISK</b><small>Isolate • Control • Recover</small></div>
+          <div><b>UP TO 50% LOWER TCO*</b><small>Reduce Tools, Licenses, Time & Effort</small></div>
+        </div>
+        <p class="fine-print">*Actual savings depend on existing architecture, products, users, workloads and deployment
+          model.</p>
+      </div>
+    </section>
 
-        <div class="compare-table-wrapper">
-          <!-- =====================================================
-  HEADER
-  ===================================================== -->
-
-          <div class="compare-table-header">
-            <div class="compare-table-col compare-left-header">
-              Traditional Platforms
-            </div>
-
-            <div class="compare-table-col compare-right-header">
-              Jupito Secure
-            </div>
-          </div>
-
-          <!-- =====================================================
-  ROW
-  ===================================================== -->
-
-          <div class="compare-table-row">
-            <!-- LEFT -->
-
-            <div class="compare-table-card compare-negative">
-              <div class="compare-table-icon negative-icon">
-                <!-- VPN -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <path
-                    d="M18 46L46 18"
-                    stroke="currentColor"
-                    stroke-width="4"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M18 18H46V46"
-                    stroke="currentColor"
-                    stroke-width="4"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>VPN-Centric Access</h3>
-
-                <p>
-                  Broad network trust with limited operational visibility and
-                  excessive lateral exposure.
-                </p>
-              </div>
-            </div>
-
-            <!-- RIGHT -->
-
-            <div class="compare-table-card compare-positive">
-              <div class="compare-table-icon positive-icon">
-                <!-- Zero Trust -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="18"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M24 32L30 38L42 26"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Zero Trust Access</h3>
-
-                <p>
-                  Identity-aware secure access with continuous validation and
-                  governed execution.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  ROW
-  ===================================================== -->
-
-          <div class="compare-table-row">
-            <div class="compare-table-card compare-negative">
-              <div class="compare-table-icon negative-icon">
-                <!-- Persistent -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <rect
-                    x="14"
-                    y="14"
-                    width="36"
-                    height="24"
-                    rx="4"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path d="M22 24H42" stroke="currentColor" stroke-width="3" />
-
-                  <path d="M22 32H34" stroke="currentColor" stroke-width="3" />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Persistent Environments</h3>
-
-                <p>
-                  Long-lived sessions increase persistence risk and operational
-                  exposure.
-                </p>
-              </div>
-            </div>
-
-            <div class="compare-table-card compare-positive">
-              <div class="compare-table-icon positive-icon">
-                <!-- Disposable -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <rect
-                    x="12"
-                    y="12"
-                    width="40"
-                    height="28"
-                    rx="5"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M26 32L32 38L42 24"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Disposable Execution</h3>
-
-                <p>
-                  Ephemeral isolated sessions reduce persistence and improve
-                  containment.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  ROW
-  ===================================================== -->
-
-          <div class="compare-table-row">
-            <div class="compare-table-card compare-negative">
-              <div class="compare-table-icon negative-icon">
-                <!-- AI -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="16"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M20 20L44 44"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Limited AI Governance</h3>
-
-                <p>
-                  Minimal execution visibility, fragmented controls, and
-                  inconsistent policy enforcement.
-                </p>
-              </div>
-            </div>
-
-            <div class="compare-table-card compare-positive">
-              <div class="compare-table-icon positive-icon">
-                <!-- Governed AI -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="16"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <circle cx="32" cy="32" r="5" fill="currentColor" />
-
-                  <path
-                    d="M32 16V8"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M32 56V48"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Governed AI Execution</h3>
-
-                <p>
-                  Deterministic workflows with runtime guardrails, policy
-                  enforcement, and audit visibility.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <!-- =====================================================
-  ROW
-  ===================================================== -->
-
-          <div class="compare-table-row">
-            <div class="compare-table-card compare-negative">
-              <div class="compare-table-icon negative-icon">
-                <!-- Multiple -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <rect
-                    x="10"
-                    y="12"
-                    width="18"
-                    height="18"
-                    rx="3"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <rect
-                    x="36"
-                    y="12"
-                    width="18"
-                    height="18"
-                    rx="3"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <rect
-                    x="23"
-                    y="36"
-                    width="18"
-                    height="18"
-                    rx="3"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Disconnected Security Tools</h3>
-
-                <p>
-                  Operational silos increase management complexity and
-                  governance overhead.
-                </p>
-              </div>
-            </div>
-
-            <div class="compare-table-card compare-positive">
-              <div class="compare-table-icon positive-icon">
-                <!-- Unified -->
-
-                <svg viewBox="0 0 64 64" fill="none">
-                  <circle
-                    cx="32"
-                    cy="32"
-                    r="18"
-                    stroke="currentColor"
-                    stroke-width="3"
-                  />
-
-                  <path
-                    d="M32 14V50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <path
-                    d="M14 32H50"
-                    stroke="currentColor"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                  />
-
-                  <circle cx="32" cy="32" r="5" fill="currentColor" />
-                </svg>
-              </div>
-
-              <div class="compare-table-content">
-                <h3>Unified Execution Platform</h3>
-
-                <p>
-                  Secure access, governed execution, AI operations, and
-                  protection in one platform.
-                </p>
-              </div>
-            </div>
-          </div>
+    <section class="start section-rule">
+      <div class="container">
+        <div class="section-heading compact">
+          <div class="kicker">READY-TO-DEPLOY PRODUCTS</div>
+          <h2>START SMALL. <span>SCALE SECURELY.</span></h2>
+          <p>Choose the security problem you need to solve today. Deploy one product. Prove the value. Expand when
+            ready.</p>
+        </div>
+        <div class="journey">
+          <div><b>01</b><strong>Explore</strong></div><i>→</i>
+          <div><b>02</b><strong>Try</strong></div><i>→</i>
+          <div><b>03</b><strong>Deploy</strong></div><i>→</i>
+          <div><b>04</b><strong>Integrate</strong></div><i>→</i>
+          <div><b>05</b><strong>Scale</strong></div>
+        </div>
+        <div class="center-actions">
+          <a class="button button-primary" href="#platforms">EXPLORE PRODUCTS</a>
+          <a class="button button-outline" href="#marketplace">DEPLOY FROM MARKETPLACE</a>
         </div>
       </div>
     </section>
 
-    <!-- ===================================================== -->
-    <!-- FINAL CTA -->
-    <!-- ===================================================== -->
 
-    <section class="deployment-section">
-
-  <!-- =====================================================
-  BACKGROUND GLOWS
-  ===================================================== -->
-
-  <div class="deployment-glow deployment-glow-1"></div>
-  <div class="deployment-glow deployment-glow-2"></div>
-
-  <div class="container">
-
-    <!-- =====================================================
-    TOP CONTENT
-    ===================================================== -->
-
-    <div class="deployment-header">
-
-      <div class="deployment-badge">
-        Governed Secure Execution Infrastructure
+    <section id="products" class="products section-rule">
+      <div class="container">
+        <div class="section-heading">
+          <div class="kicker">PRODUCT CATALOG</div>
+          <h2>Deploy the product that solves <span>your problem.</span></h2>
+          <p>Products are deployable units. Platforms combine products. The Fabric provides shared security and
+            governance services.</p>
+        </div>
+        <div class="catalog-grid">
+          <article>
+            <h3>TeleWorkspace™</h3>
+            <p>Tele Desktop Server • Web Client • Native Client • Ephemeral Desktop • Virtual Desktop • JupitoSecure OS
+              • Platform Services</p>
+          </article>
+          <article>
+            <h3>Enterprise Browser™</h3>
+            <p>Enterprise Browser Client • Browser Policy / DLP • Platform Services</p>
+          </article>
+          <article>
+            <h3>Browser Isolation™</h3>
+            <p>Remote Ephemeral Isolated Browser • Browser Isolation Platform Services</p>
+          </article>
+          <article>
+            <h3>TeleConnect™</h3>
+            <p>Gateway Server • Gateway Proxy • Client • Edge Proxy • TeleConnect Platform Services</p>
+          </article>
+          <article>
+            <h3>AI & Agent Execution™</h3>
+            <p>AI Execution Brain • MCP Gateway • MCP Services • MCP Tools • Platform Services</p>
+          </article>
+          <article>
+            <h3>Fabric Services™</h3>
+            <p>Secure User Authentication • Policy & DLP • Connection Services • Logging & Reporting • Orchestration •
+              Remote Data Connectors • RBAC / Tenant / Device / Audit / Compliance</p>
+          </article>
+        </div>
       </div>
+    </section>
 
-      <h2 class="deployment-title">
-        Secure Human & AI Workloads
-        Across Every Deployment Model
-      </h2>
-
-      <p class="deployment-description">
-        Jupito Secure enables organizations to deploy governed secure execution
-        infrastructure across cloud, hybrid, on-premise, and enterprise-scale
-        environments with unified governance, Zero Trust access,
-        and controlled AI operations.
-      </p>
-
-      <div class="deployment-actions">
-
-        <a href="#" class="btn-primary">
-          Book Demo
-        </a>
-
-        <a href="#" class="btn-secondary">
-          Contact Sales
-        </a>
-
+    <section id="solutions" class="solutions section-rule">
+      <div class="container">
+        <div class="section-heading">
+          <div class="kicker">SOLUTIONS</div>
+          <h2>Solve the security problem — <span>not just the technology.</span></h2>
+        </div>
+        <div class="solution-grid">
+          <article>
+            <h3>Secure Remote Operations</h3>
+            <p>Remote IT administration, support, operations, branch operations and third-party support.</p>
+          </article>
+          <article>
+            <h3>Secure IT/OT Access</h3>
+            <p>PLC/HMI, SCADA, industrial PCs, engineering workstations, CNC, maintenance and vendor access.</p>
+          </article>
+          <article>
+            <h3>Secure Contractor Workspace</h3>
+            <p>Authenticate → Policy → Ephemeral Workspace → Application → Destroy.</p>
+          </article>
+          <article>
+            <h3>High-Risk Web Browsing</h3>
+            <p>Unknown websites, threat research, malware investigation, privileged browsing and third-party web
+              applications.</p>
+          </article>
+          <article>
+            <h3>Secure AI Workforce</h3>
+            <p>Governed AI across AI execution, workspaces, enterprise browsing and browser isolation.</p>
+          </article>
+          <article>
+            <h3>Secure AI Agent</h3>
+            <p>Browser, API, CLI, VDI and approved file operations under Identity → Policy → DLP → Execution → Audit.
+            </p>
+          </article>
+          <article>
+            <h3>Secure Digital Workspace</h3>
+            <p>A complete secure employee environment across workspace, browser, isolation, connectivity and fabric.</p>
+          </article>
+          <article>
+            <h3>Secure Examination / Assessment</h3>
+            <p>Controlled environments with identity, DLP, browser controls, isolation and session audit.</p>
+          </article>
+          <article>
+            <h3>Defence / Government Secure Workspace</h3>
+            <p>Secure terminals, restricted environments, mission workspaces and controlled remote operations.</p>
+          </article>
+          <article>
+            <h3>Critical Infrastructure</h3>
+            <p>Security for energy, utilities, manufacturing, transportation, telecom and government infrastructure.</p>
+          </article>
+          <article>
+            <h3>Healthcare Secure Workspace</h3>
+            <p>Clinical systems, hospital applications, remote specialists and controlled vendor access.</p>
+          </article>
+          <article>
+            <h3>BFSI Secure Operations</h3>
+            <p>Privileged operations, financial applications, contractor access, sensitive SaaS and secure branch
+              environments.</p>
+          </article>
+        </div>
       </div>
+    </section>
 
+    <section class="industries section-rule">
+      <div class="container">
+        <div class="section-heading center">
+          <div class="kicker">INDUSTRIES WE SERVE</div>
+          <h2>Security for the way <span>your industry works.</span></h2>
+        </div>
+        <div class="industry-row">
+          <span>BFSI</span><span>Healthcare</span><span>Manufacturing</span><span>Defence</span><span>Government</span><span>Critical
+            Infrastructure</span><span>Energy &
+            Utilities</span><span>Transportation</span><span>Telecom</span><span>Technology</span><span>Education</span><span>Professional
+            Services</span><span>SMB</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="marketplace" class="conversion section-rule">
+      <div class="container conversion-grid">
+        <article>
+          <div class="kicker">MARKETPLACE</div>
+          <h2>Deploy JupitoSecure from your preferred cloud marketplace.</h2>
+          <p>Explore supported marketplace offerings and choose a deployment path that fits your environment.</p><a
+            class="button button-outline" href="#">EXPLORE MARKETPLACE →</a>
+        </article>
+        <article>
+          <div class="kicker">FREE TRIAL</div>
+          <h2>Start with the problem you need to solve.</h2>
+          <p>Try the platform, prove the value and expand when ready.</p><a class="button button-primary" href="#">START
+            FREE TRIAL →</a>
+        </article>
+        <article id="resources">
+          <div class="kicker">RESOURCES</div>
+          <h2>Learn. Evaluate. Deploy.</h2>
+          <p>Documentation, product guides, solution briefs, compliance material and security information.</p><a
+            class="text-link" href="#">EXPLORE RESOURCES →</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="events section-rule">
+      <div class="container three-col">
+        <article>
+          <div class="kicker">EVENTS / EXHIBITS</div>
+          <h2>Meet JupitoSecure.</h2>
+          <p>Meet the team at cybersecurity, cloud, AI and enterprise technology events.</p><a class="text-link"
+            href="#">VIEW EVENTS →</a>
+        </article>
+        <article>
+          <div class="kicker">LIVE DEMONSTRATIONS</div>
+          <h2>See the platforms in action.</h2>
+          <p>Explore Workspace, Enterprise Browser, Browser Isolation, TeleConnect and AI & Agent Execution.</p><a
+            class="text-link" href="#final-cta">BOOK A DEMO →</a>
+        </article>
+        <article>
+          <div class="kicker">MEMBERSHIP & PARTNERS</div>
+          <h2>Built with the ecosystem.</h2>
+          <p>Microsoft Partner, NASSCOM, NCoE, DSCI and technology ecosystem relationships.</p><a class="text-link"
+            href="#">MEET OUR PARTNERS →</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="news section-rule">
+      <div class="container three-col">
+        <article>
+          <div class="kicker">PRODUCT NEWS</div>
+          <h2>New releases & capabilities.</h2>
+          <p>Platform updates, new products and deployment improvements.</p><a class="text-link" href="#">VIEW PRODUCT
+            NEWS →</a>
+        </article>
+        <article>
+          <div class="kicker red">SECURITY ALERTS</div>
+          <h2>Security updates.</h2>
+          <p>CVE, vulnerability alerts, security advisories and product security updates.</p><a
+            class="text-link red-link" href="#">VIEW SECURITY ALERTS →</a>
+        </article>
+        <article>
+          <div class="kicker">COMPANY & ECOSYSTEM</div>
+          <h2>What's new at JupitoSecure.</h2>
+          <p>Partnerships, memberships, marketplace updates, events and company milestones.</p><a class="text-link"
+            href="#">VIEW NEWS →</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="final-cta" class="final-cta">
+      <div class="container final-inner">
+        <div>
+          <div class="kicker light">JUPITOSECURE ONE™</div>
+          <h2>START WITH ONE.<br><span>BUILD YOUR SECURITY FABRIC.</span></h2>
+          <p>Choose the security problem you need to solve today. Deploy one product. Expand when you're ready.</p>
+        </div>
+        <div class="final-actions">
+          <a class="button button-lime" href="#">GET IT NOW</a>
+          <a class="button button-blue" href="#">START FREE TRIAL</a>
+          <a class="button button-purple" href="#">EXPLORE MARKETPLACE</a>
+          <a class="button button-white" href="#">BOOK A DEMO</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div><strong>JupitoSecure One</strong>
+        <p>Five Security Platforms. One Unified Security Fabric.</p>
+      </div>
+      <div><b>Explore</b><a href="#platforms">Platforms</a><a href="#products">Products</a><a
+          href="#solutions">Solutions</a></div>
+      <div><b>Resources</b><a href="#resources">Documentation</a><a href="#marketplace">Marketplace</a><a
+          href="#final-cta">Get It Now</a></div>
+      <div><b>Company</b><a href="#">OEM & Partners</a><a href="#">Support</a><a href="#">Company</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Jupito DeepTech Pvt Ltd. All rights reserved.</div>
+  </footer>
+<!-- =========================================================
+     JUPITOSECURE MOBILE MENU
+========================================================= -->
+
+<div id="jpMobileMenu" class="jp-mobile-menu" aria-hidden="true">
+
+  <div class="jp-mobile-menu-panel">
+
+    <div class="jp-mobile-menu-header">
+      <a href="/" class="jp-mobile-menu-logo">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure">
+      </a>
+
+      <button
+        type="button"
+        id="jpMobileClose"
+        class="jp-mobile-menu-close"
+        aria-label="Close menu">
+        ×
+      </button>
     </div>
 
-    <!-- =====================================================
-    DEPLOYMENT GRID
-    ===================================================== -->
+    <nav class="jp-mobile-menu-nav">
 
-    <div class="deployment-grid">
+      <a href="/">Home</a>
 
-      <!-- =====================================================
-      ITEM
-      ===================================================== -->
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          JupitoSecure One™
+          <span>+</span>
+        </button>
 
-      <div class="deployment-card">
-
-        <div class="deployment-icon">
-
-          <!-- CLOUD -->
-
-          <svg
-            viewBox="0 0 64 64"
-            fill="none"
-          >
-
-            <path
-              d="M22 46H46C52 46 56 42 56 36C56 30 52 26 46 26C45 18 39 12 30 12C21 12 14 19 14 28C8 29 4 34 4 40C4 46 9 50 16 50H22"
-              stroke="currentColor"
-              stroke-width="3"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            />
-
-          </svg>
-
+        <div class="jp-mobile-menu-submenu">
+          <a href="/jupitosecure-one/">Overview</a>
+          <a href="/jupitosecure-one/#platforms">Five Security Platforms</a>
+          <a href="/jupitosecure-one/#fabric">Unified Security Fabric</a>
+          <a href="/jupitosecure-one/#architecture">Architecture</a>
+          <a href="/jupitosecure-one/#security">Security Model</a>
         </div>
-
-        <h3>
-          Cloud
-        </h3>
-
-        <p>
-          Deploy across modern public cloud infrastructure
-          with scalable secure execution and centralized governance.
-        </p>
-
       </div>
 
-      <!-- =====================================================
-      ITEM
-      ===================================================== -->
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Platforms
+          <span>+</span>
+        </button>
 
-      <div class="deployment-card">
-
-        <div class="deployment-icon">
-
-          <!-- HYBRID -->
-
-          <svg
-            viewBox="0 0 64 64"
-            fill="none"
-          >
-
-            <rect
-              x="10"
-              y="14"
-              width="18"
-              height="18"
-              rx="3"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <rect
-              x="36"
-              y="14"
-              width="18"
-              height="18"
-              rx="3"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <rect
-              x="23"
-              y="38"
-              width="18"
-              height="18"
-              rx="3"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <path
-              d="M28 23H36"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <path
-              d="M32 32V38"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-          </svg>
-
+        <div class="jp-mobile-menu-submenu">
+          <a href="/platforms/teleworkspace/">TeleWorkspace™</a>
+          <a href="/platforms/enterprise-browser/">Enterprise Browser™</a>
+          <a href="/platforms/browser-isolation/">Browser Isolation™</a>
+          <a href="/platforms/teleconnect/">TeleConnect™</a>
+          <a href="/platforms/ai-agent-execution/">AI &amp; Agent Execution™</a>
         </div>
-
-        <h3>
-          Hybrid
-        </h3>
-
-        <p>
-          Integrate seamlessly with existing enterprise
-          infrastructure and operational environments.
-        </p>
-
       </div>
 
-      <!-- =====================================================
-      ITEM
-      ===================================================== -->
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Products
+          <span>+</span>
+        </button>
 
-      <div class="deployment-card">
-
-        <div class="deployment-icon">
-
-          <!-- ON PREM -->
-
-          <svg
-            viewBox="0 0 64 64"
-            fill="none"
-          >
-
-            <rect
-              x="14"
-              y="12"
-              width="36"
-              height="14"
-              rx="3"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <rect
-              x="14"
-              y="36"
-              width="36"
-              height="14"
-              rx="3"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <circle
-              cx="22"
-              cy="19"
-              r="2"
-              fill="currentColor"
-            />
-
-            <circle
-              cx="22"
-              cy="43"
-              r="2"
-              fill="currentColor"
-            />
-
-          </svg>
-
+        <div class="jp-mobile-menu-submenu">
+          <a href="/products/">Product Catalog</a>
+          <a href="/products/teleworkspace/">TeleWorkspace Products</a>
+          <a href="/products/enterprise-browser/">Enterprise Browser Products</a>
+          <a href="/products/browser-isolation/">Browser Isolation Products</a>
+          <a href="/products/teleconnect/">TeleConnect Products</a>
+          <a href="/products/ai-agent-execution/">AI &amp; Agent Execution Products</a>
+          <a href="/products/fabric-services/">Fabric Services</a>
         </div>
-
-        <h3>
-          On-Prem
-        </h3>
-
-        <p>
-          Support regulated environments requiring
-          controlled infrastructure,
-          isolation,
-          and operational sovereignty.
-        </p>
-
       </div>
 
-      <!-- =====================================================
-      ITEM
-      ===================================================== -->
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Solutions
+          <span>+</span>
+        </button>
 
-      <div class="deployment-card">
-
-        <div class="deployment-icon">
-
-          <!-- MULTI TENANT -->
-
-          <svg
-            viewBox="0 0 64 64"
-            fill="none"
-          >
-
-            <circle
-              cx="20"
-              cy="22"
-              r="6"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <circle
-              cx="44"
-              cy="22"
-              r="6"
-              stroke="currentColor"
-              stroke-width="3"
-            />
-
-            <path
-              d="M10 48C10 40 15 36 20 36C25 36 30 40 30 48"
-              stroke="currentColor"
-              stroke-width="3"
-              stroke-linecap="round"
-            />
-
-            <path
-              d="M34 48C34 40 39 36 44 36C49 36 54 40 54 48"
-              stroke="currentColor"
-              stroke-width="3"
-              stroke-linecap="round"
-            />
-
-          </svg>
-
+        <div class="jp-mobile-menu-submenu">
+          <a href="/solutions/">Overview</a>
+          <a href="/solutions/secure-remote-operations/">Secure Remote Operations</a>
+          <a href="/solutions/secure-it-ot-access/">Secure IT/OT Access</a>
+          <a href="/solutions/secure-contractor-workspace/">Secure Contractor Workspace</a>
+          <a href="/solutions/secure-enterprise-browser/">Secure Enterprise Browser</a>
+          <a href="/solutions/high-risk-web-browsing/">High-Risk Web Browsing</a>
+          <a href="/solutions/secure-ai-workforce/">Secure AI Workforce</a>
+          <a href="/solutions/secure-ai-agent/">Secure AI Agent</a>
+          <a href="/solutions/secure-digital-workspace/">Secure Digital Workspace</a>
+          <a href="/solutions/secure-examination/">Secure Examination / Assessment</a>
+          <a href="/solutions/defence-government/">Defence / Government Secure Workspace</a>
+          <a href="/solutions/critical-infrastructure/">Critical Infrastructure</a>
+          <a href="/solutions/healthcare/">Healthcare Secure Workspace</a>
+          <a href="/solutions/bfsi/">BFSI Secure Operations</a>
+          <a href="/solutions/smb/">SMB Secure Operations</a>
         </div>
-
-        <h3>
-          Multi-Tenant
-        </h3>
-
-        <p>
-          Built for MSPs and enterprise-scale operations
-          requiring centralized governance and secure tenancy isolation.
-        </p>
-
       </div>
 
-    </div>
+      <a href="/resources/">Resources</a>
+
+      <a href="/marketplace/">Marketplace</a>
+
+      <div class="jp-mobile-menu-actions">
+        <a href="/get-it-now/" class="jp-mobile-btn jp-mobile-btn-primary">
+          GET IT NOW
+        </a>
+
+        <a href="/book-demo/" class="jp-mobile-btn jp-mobile-btn-secondary">
+          BOOK A DEMO
+        </a>
+      </div>
+
+    </nav>
 
   </div>
+</div>
+  <script src="app.js"></script>
+</body>
 
-</section>
-
-    <!-- ===================================================== -->
-    <!-- FOOTER -->
-    <!-- ===================================================== -->
-
-    <footer class="legal-footer">
-      <div class="container">
-        <div class="legal-top">
-          <div class="legal-brand">
-            <div class="logo">Jupito Secure</div>
-
-            <p>
-              Governed Secure Execution Infrastructure for Human and AI
-              Workloads.
-            </p>
-          </div>
-
-          <div class="legal-links-grid">
-            <div class="legal-column">
-              <h4>Products</h4>
-
-              <a href="#">Secure Browser</a>
-              <a href="#">Secure Access</a>
-              <a href="#">Secure Workspace</a>
-              <a href="#">Secure AI</a>
-              <a href="#">Secure Gateway</a>
-            </div>
-
-            <div class="legal-column">
-              <h4>Solutions</h4>
-
-              <a href="#">Remote Workforce</a>
-              <a href="#">Contractor Access</a>
-              <a href="#">Secure AI Development</a>
-              <a href="#">BYOD Security</a>
-            </div>
-
-            <div class="legal-column">
-              <h4>Resources</h4>
-
-              <a href="#">Documentation</a>
-              <a href="#">Architecture</a>
-              <a href="#">Security</a>
-              <a href="#">Blog</a>
-            </div>
-
-            <div class="legal-column">
-              <h4>Company</h4>
-
-              <a href="#">About</a>
-              <a href="#">Partners</a>
-              <a href="#">Careers</a>
-              <a href="#">Contact</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="legal-bottom">
-          <div class="legal-copy">
-            © 2026 Jupito Secure. Developed and operated by Jupito DeepTech Pvt
-            Ltd.
-          </div>
-
-          <div class="legal-badges">
-            <span>Zero Trust</span>
-            <span>Governed AI</span>
-            <span>Secure Execution</span>
-            <span>Enterprise Security</span>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <!-- Existing JS -->
-    <script src="app.js"></script>
-  </body>
 </html>
