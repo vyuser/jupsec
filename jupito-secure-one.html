@@ -1,0 +1,1005 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JupitoSecure One — Secure Execution Infrastructure. One Security Fabric. Five independently deployable security platforms.">
+  <title>JupitoSecure One | Secure Execution Infrastructure</title>
+
+  <link
+  rel="stylesheet"
+  href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,600,700,900&display=swap">
+  <link rel="stylesheet" href="./css/style.css">
+   <link rel="stylesheet" href="./css/secure-one.css">
+</head>
+
+<body>
+
+ <header class="site-header" data-header>
+    <div class="container nav-wrap">
+      <a class="brand" href="/" aria-label="JupitoSecure home">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+
+      </a>
+
+      <!--<button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu"
+        data-menu-toggle>
+        <span></span><span></span><span></span>
+      </button> -->
+
+      <button
+  type="button"
+  id="jpMobileToggle"
+  class="jp-mobile-toggle"
+  aria-label="Open navigation"
+  aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation" data-menu>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>JupitoSecure One </button>
+          <div class="dropdown">
+            <a href="./jupito-secure-one.html#one-overview">Overview</a>
+            <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+            <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+            <a href="./jupito-secure-one.html#one-security">Security Model</a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Platforms </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./teleworkspace.html"><b>01 TeleWorkspace</b><small>Location-independent secure workspace</small></a>
+            <a href="./enterprise-browser.html"><b>02 Enterprise Browser</b><small>Enterprise-controlled browsing</small></a>
+            <a href="./browser-isolation.html"><b>03 Browser Isolation</b><small>Isolate web execution</small></a>
+            <a href="./teleconnect.html"><b>04 TeleConnect</b><small>Secure connectivity without inbound exposure</small></a>
+            <a href="./ai-aiagent-execution.html"><b>05 AI & Agent Execution</b><small>Governed AI agents, tools and
+                workloads</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Products </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./products.html#teleworkspace-products"><b>TeleWorkspace Products</b><small>Desktop, ephemeral and virtual workspace
+                products</small></a>
+            <a href="./products.html#enterprise-browser-products"><b>Enterprise Browser Products</b><small>Managed browser, policy and DLP</small></a>
+            <a href="./products.html#browser-isolation-products"><b>Browser Isolation Products</b><small>Remote ephemeral isolated browser</small></a>
+            <a href="./products.html#teleconnect-products"><b>TeleConnect Products</b><small>Gateway, proxy, client and edge components</small></a>
+            <a href="./products.html#ai-agent-products"><b>AI & Agent Execution Products</b><small>AI Brain, MCP Gateway, services and
+                tools</small></a>
+            <a href="./products.html#fabric-services"><b>Fabric Services</b><small>Identity, policy, DLP, orchestration and audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Solutions </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./solutions-by-usecase.html#secure-remote-operations"><b>Secure Remote Operations</b><small>Remote IT, support, branch and third-party
+                operations</small></a>
+            <a href="./solutions-by-usecase.html#secure-it-ot-access"><b>Secure IT/OT Access</b><small>Industrial, restricted and critical
+                environments</small></a>
+            <a href="./solutions-by-usecase.html#secure-contractor-workspace"><b>Secure Contractor Workspace</b><small>Ephemeral, controlled contractor
+                execution</small></a>
+            <a href="./solutions-by-usecase.html#high-risk-web"><b>High-Risk Web Browsing</b><small>Threat research, untrusted sites and privileged
+                browsing</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-workforce"><b>Secure AI Workforce</b><small>Governed AI across tools, browsers and
+                workspaces</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-agent"><b>Secure AI Agent</b><small>Identity → Policy → DLP → Execution → Audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Resources </button>
+          <div class="dropdown">
+            <a href="./resources.html#documentation">Documentation</a>
+            <a href="./resources.html#product-guides">Product Guides</a>
+            <a href="./resources.html#compliance">Compliance</a>
+            <a href="./resources.html#exhibits">Events / Exhibits</a>
+            <a href="./resources.html#news">News</a>
+            <a href="./resources.html#security-alerts">Security Alerts</a>
+          </div>
+        </div>
+
+        <a class="nav-link direct" href="./index.html#marketplace">Marketplace</a>
+        <a class="nav-cta" href="./index.html#final-cta">GET IT NOW</a>
+        <a class="nav-demo" href="./index.html#final-cta">BOOK A DEMO</a>
+      </nav>
+    </div>
+  </header>
+
+<!-- JupitoSecure One page sections
+     Designed to sit inside the existing JupitoSecure index/header/footer system.
+     Uses the homepage vocabulary: .container, .section-rule, .kicker, .button,
+     .button-primary, .button-outline, .platform-card, .fabric, .impact, .start.
+-->
+
+<main id="home" class="one-page">
+
+  <!-- =========================================================
+       01 — HERO
+       ========================================================= -->
+  <section class="one-hero section-rule" id="one-overview">
+    <div class="container one-hero-grid">
+
+      <div class="one-hero-copy">
+        <div class="kicker">JUPITOSECURE ONE</div>
+
+        <h1>ONE SECURITY FABRIC.<br><span>FIVE SECURITY PLATFORMS.</span></h1>
+
+        <div class="one-hero-rule"></div>
+
+        <p class="hero-promise">
+          Secure human, application and AI execution across desktops,
+          browsers, private resources and workloads.
+        </p>
+
+        <p class="one-lead">
+          JupitoSecure One brings together five independently deployable
+          security platforms under a common security and governance model.
+        </p>
+
+        <p class="one-hero-message">
+          <strong>Start with one platform.</strong>
+          Integrate when ready. Build the Fabric over time.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#platforms">EXPLORE THE PLATFORMS →</a>
+          <a class="button button-outline" href="/book-demo/">BOOK A DEMO →</a>
+        </div>
+
+        <div class="one-hero-points">
+          <div>
+            <b>Independent deployment</b>
+            <span>Start with the problem you need to solve.</span>
+          </div>
+          <div>
+            <b>Common security model</b>
+            <span>Identity → Policy → DLP → Execution → Governance → Audit</span>
+          </div>
+          <div>
+            <b>Land and expand</b>
+            <span>Add platforms and Fabric services when ready.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="one-hero-visual" aria-label="JupitoSecure One five-platform security fabric">
+        <div class="one-orbit one-orbit-a"></div>
+        <div class="one-orbit one-orbit-b"></div>
+
+        <div class="one-fabric-core">
+          <b>JupitoSecure</b>
+          <span>One Unified</span>
+          <strong>Security Fabric</strong>
+        </div>
+
+        <div class="one-node one-node-1">
+          <b>01</b> TeleWorkspace
+          <small>Secure workspace</small>
+        </div>
+        <div class="one-node one-node-2">
+          <b>02</b> Enterprise Browser
+          <small>Controlled browsing</small>
+        </div>
+        <div class="one-node one-node-3">
+          <b>03</b> Browser Isolation
+          <small>Isolated web execution</small>
+        </div>
+        <div class="one-node one-node-4">
+          <b>04</b> TeleConnect
+          <small>Private connectivity</small>
+        </div>
+        <div class="one-node one-node-5">
+          <b>05</b> AI &amp; Agent Execution
+          <small>Governed AI execution</small>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       02 — WHAT / WHY
+       ========================================================= -->
+  <section class="one-overview section-rule">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">WHY JUPITOSECURE ONE</div>
+        <h2>Security that connects the workflow — <span>not just the tool.</span></h2>
+        <p>
+          JupitoSecure One is a unified security platform architecture designed
+          to secure how people, applications and AI workloads connect, execute,
+          access data and interact with enterprise resources.
+        </p>
+      </div>
+
+      <div class="one-value-grid">
+        <article class="one-value-card">
+          <span class="number">01</span>
+          <h3>Unified Architecture</h3>
+          <p>
+            One security model across workspace, browser, isolated execution,
+            private connectivity and AI execution.
+          </p>
+        </article>
+
+        <article class="one-value-card">
+          <span class="number">02</span>
+          <h3>Modular Instead of Monolithic</h3>
+          <p>
+            Solve an immediate problem without replacing existing infrastructure.
+            Connect additional platforms through shared Fabric services.
+          </p>
+        </article>
+
+        <article class="one-value-card">
+          <span class="number">03</span>
+          <h3>Independent by Design</h3>
+          <p>
+            Deploy one platform independently, then expand as requirements,
+            users, workloads and security needs grow.
+          </p>
+        </article>
+      </div>
+
+      <div class="execution-flow">
+        <b><span>START</span></b>
+        <b>ONE PRODUCT</b>
+        <i>→</i>
+        <b>MULTIPLE PLATFORMS</b>
+        <i>→</i>
+        <b>ONE SECURITY FABRIC</b>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       03 — FIVE PLATFORMS
+       ========================================================= -->
+  <section  class="platforms section-rule one-platforms">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">FIVE INDEPENDENT SECURITY PLATFORMS</div>
+        <h2>Different security problems. <span>One Fabric.</span></h2>
+        <p>
+          Each platform addresses a distinct execution or connectivity problem
+          and can be deployed independently.
+        </p>
+      </div>
+
+      <div class="platform-grid one-platform-grid">
+
+        <article class="platform-card blue">
+          <span class="number">01</span>
+          <div class="one-card-label">TELEWORKSPACE</div>
+          <h3>Location-Independent Secure Workspace</h3>
+          <small>Secure where work executes.</small>
+          <p>
+            Secure remote, virtual and disposable workspaces for people,
+            applications and specialized workloads.
+          </p>
+          <div class="one-capabilities">
+            VDI • DaaS • Ephemeral • AI/GPU • PC/VM • Container
+          </div>
+          <div class="one-problem"><b>Solves:</b> Secure workspace execution.</div>
+          <a href="/platforms/teleworkspace/">Explore TeleWorkspace →</a>
+        </article>
+
+        <article class="platform-card olive">
+          <span class="number">02</span>
+          <div class="one-card-label">ENTERPRISE BROWSER</div>
+          <h3>Enterprise-Controlled Browsing</h3>
+          <small>Bring security policy into the browser.</small>
+          <p>
+            Bring policy, DLP and governance to enterprise browsing,
+            SaaS and web-based work.
+          </p>
+          <div class="one-capabilities">
+            Managed Browser • SaaS Control • DLP • Policy • GenAI Governance
+          </div>
+          <div class="one-problem"><b>Solves:</b> Secure enterprise browsing.</div>
+          <a href="/platforms/enterprise-browser/">Explore Enterprise Browser →</a>
+        </article>
+
+        <article class="platform-card purple">
+          <span class="number">03</span>
+          <div class="one-card-label">BROWSER ISOLATION</div>
+          <h3>Move Risky Web Execution Off the Endpoint</h3>
+          <small>Contain untrusted web activity remotely.</small>
+          <p>
+            Execute untrusted and higher-risk web activity inside remotely
+            isolated environments.
+          </p>
+          <div class="one-capabilities">
+            RBI • Isolate • Contain • Data Control
+          </div>
+          <div class="one-problem"><b>Solves:</b> Isolated web execution.</div>
+          <a href="/platforms/browser-isolation/">Explore Browser Isolation →</a>
+        </article>
+
+        <article class="platform-card orange">
+          <span class="number">04</span>
+          <div class="one-card-label">TELECONNECT</div>
+          <h3>Secure Connectivity Without Inbound Exposure</h3>
+          <small>Reach approved private resources without opening inbound paths.</small>
+          <p>
+            Connect users and systems to approved private resources through
+            controlled outbound connectivity.
+          </p>
+          <div class="one-capabilities">
+            Outbound-Only • TLS • Certificate Authentication • Private Resources • Time-Bound
+          </div>
+          <div class="one-problem"><b>Solves:</b> Secure private-resource connectivity.</div>
+          <a href="/platforms/teleconnect/">Explore TeleConnect →</a>
+        </article>
+
+        <article class="platform-card violet wide one-ai-card">
+          <span class="number">05</span>
+          <div class="one-card-label">AI &amp; AGENT EXECUTION</div>
+          <h3>Govern AI Agents, Tools and Workloads</h3>
+          <small>Control what AI can access, invoke and execute.</small>
+          <p>
+            Control AI execution across data, applications, APIs, tools,
+            browsers, workspaces and infrastructure.
+          </p>
+          <div class="one-capabilities">
+            AI Execution Brain • MCP • Tools • Workflows • DLP • Rights • Approvals • Audit
+          </div>
+          <div class="one-problem"><b>Solves:</b> Governed AI execution.</div>
+          <a href="/platforms/ai-agent-execution/">Explore AI &amp; Agent Execution →</a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       04 — FABRIC
+       ========================================================= -->
+  <section class="fabric section-rule one-fabric-section"  id="one-fabric" >
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">UNIFIED SECURITY FABRIC</div>
+        <h2>ONE SECURITY MODEL. <span>EVERY PLATFORM.</span></h2>
+        <p>
+          Shared identity, policy, data protection, connectivity, orchestration
+          and governance services connect independently deployable platforms.
+        </p>
+      </div>
+
+      
+
+      <div class="execution-flow " aria-label="JupitoSecure common security spine">
+        <b>IDENTITY</b>
+        <i>→</i>
+        <b>POLICY</b>
+        <i>→</i>
+        <b>DLP</b>
+        <i>→</i>
+        <b>EXECUTION</b>
+        <i>→</i>
+        <b>GOVERNANCE</b>
+        <i>→</i>
+        <b>AUDIT</b>
+      </div>
+
+      <div class="one-fabric-services">
+        <article>
+          <b>Identity</b>
+          <span>Who is accessing?</span>
+          <p>Authentication, MFA, SSO, RBAC and device identity.</p>
+        </article>
+        <article>
+          <b>Policy</b>
+          <span>What is permitted?</span>
+          <p>Resource, workspace, browser and AI execution policies.</p>
+        </article>
+        <article>
+          <b>DLP</b>
+          <span>What data can move?</span>
+          <p>Control sensitive information across execution surfaces.</p>
+        </article>
+        <article>
+          <b>Secure Data</b>
+          <span>What can be accessed?</span>
+          <p>Control access to enterprise information and remote data sources.</p>
+        </article>
+        <article>
+          <b>Encryption</b>
+          <span>How is it protected?</span>
+          <p>Protect supported data and communication paths.</p>
+        </article>
+        <article>
+          <b>Governance</b>
+          <span>What controls apply?</span>
+          <p>Apply organizational controls consistently across platforms.</p>
+        </article>
+        <article>
+          <b>Audit</b>
+          <span>What happened?</span>
+          <p>Record access, execution, policy and security events.</p>
+        </article>
+        <article class="ai">
+          <b>AI Governance</b>
+          <span>What may the agent execute?</span>
+          <p>Extend control to AI agents, tools, workflows, data and execution.</p>
+        </article>
+      </div>
+
+      <div class="one-fabric-assembly">
+        <p class="fabric-tagline">DEPLOY INDEPENDENTLY </p>
+       
+        <div class="execution-flow">
+          <b>TeleWorkspace</b>
+          <b>Enterprise Browser</b>
+          <b>Browser Isolation</b>
+          <b>TeleConnect</b>
+          <b>AI Execution</b>
+        </div>
+        <b>↓</b>
+        <p class="fabric-tagline">JUPITOSECURE FABRIC <b>Secure together.</b></p>
+      
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       05 — FABRIC SERVICES
+       ========================================================= -->
+  <section class="products section-rule one-services">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">FABRIC SERVICES</div>
+        <h2>The control plane <span>behind the platforms.</span></h2>
+        <p>
+          Shared services operate, secure, connect and govern JupitoSecure
+          platforms as the environment expands.
+        </p>
+      </div>
+
+      <div class="one-service-grid">
+        <article>
+          <span>01</span>
+          <h3>Secure User Authentication</h3>
+          <p>Common identity foundation for users and platform access.</p>
+          <small>Authentication • MFA • SSO • RBAC • Device Identity</small>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Policy &amp; DLP</h3>
+          <p>Centralized security and data policies across execution surfaces.</p>
+          <small>Policy Engine • DLP • Access Policy • Workspace Policy • AI Execution Policy</small>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Connection Services</h3>
+          <p>Controlled connectivity between platforms and protected resources.</p>
+          <small>Connection Server • Routing • TeleConnect Integration • Secure Tunnels</small>
+        </article>
+        <article>
+          <span>04</span>
+          <h3>Orchestration</h3>
+          <p>Manage workspace, container, VM and AI execution lifecycles.</p>
+          <small>Workspace Lifecycle • Container Lifecycle • VM Lifecycle • AI Execution Lifecycle</small>
+        </article>
+        <article>
+          <span>05</span>
+          <h3>Remote Data Connectors</h3>
+          <p>Connect controlled environments to approved enterprise data sources.</p>
+          <small>Remote Data Connectors • Data Policy • Secure Data Access</small>
+        </article>
+        <article>
+          <span>06</span>
+          <h3>Logging &amp; Reporting</h3>
+          <p>Centralize operational and security visibility.</p>
+          <small>Logging • Audit • Reports • Security Analytics • Compliance</small>
+        </article>
+        <article>
+          <span>07</span>
+          <h3>Enterprise Management</h3>
+          <p>Common management capabilities across the platform.</p>
+          <small>Tenant • Organization • Licensing • APIs • RBAC • Device • Audit • Compliance</small>
+        </article>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       06 — SECURITY MODEL + AI
+       ========================================================= -->
+  <section class="one-security section-rule" id="one-security">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">SECURITY MODEL</div>
+        <h2>SECURITY FOLLOWS <span>THE EXECUTION.</span></h2>
+        <p>
+          The same control sequence follows users, applications, workspaces,
+          browsers, private resources and AI execution.
+        </p>
+      </div>
+
+      <div class="one-control-grid">
+        <article>
+          <span>01</span>
+          <b>IDENTITY</b>
+          <strong>Who is requesting access?</strong>
+          <p>Establish identity and context for the user, device, application or AI agent.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <b>POLICY</b>
+          <strong>What is permitted?</strong>
+          <p>Apply organizational, resource, workspace, browser or AI execution policies.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <b>DLP</b>
+          <strong>What data can move?</strong>
+          <p>Control data movement and protect sensitive information.</p>
+        </article>
+        <article>
+          <span>04</span>
+          <b>EXECUTION</b>
+          <strong>Where does the work happen?</strong>
+          <p>Execute through the appropriate workspace, browser, isolated environment or controlled AI runtime.</p>
+        </article>
+        <article>
+          <span>05</span>
+          <b>GOVERNANCE</b>
+          <strong>What controls apply?</strong>
+          <p>Enforce organizational requirements throughout the execution lifecycle.</p>
+        </article>
+        <article>
+          <span>06</span>
+          <b>AUDIT</b>
+          <strong>What happened?</strong>
+          <p>Record relevant access, policy, execution and security events.</p>
+        </article>
+      </div>
+
+      <div class="one-ai-security">
+        <div>
+          <div class="kicker">AI SECURITY EXTENSION</div>
+          <h3>AI execution is governed before it reaches the tool or resource.</h3>
+          <p>
+            The AI platform adds rights, approvals, data entitlements and tool
+            permissions to the execution decision.
+          </p>
+        </div>
+
+        <div class="one-ai-chain">
+          <span>Prompt</span><i>→</i>
+          <span>Context</span><i>→</i>
+          <span>Data</span><i>→</i>
+          <span>Tool</span><i>→</i>
+          <span>Agent</span><i>→</i>
+          <span>Execution</span><i>→</i>
+          <span>Response</span>
+        </div>
+
+        <div class="one-ai-note">
+          <b>AI request ≠ automatic trust.</b>
+          Rights, approvals, data entitlements and tool permissions participate in the decision.
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       07 — ARCHITECTURE
+       ========================================================= -->
+  <section class="one-architecture section-rule" id="one-architecture">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">ARCHITECTURE</div>
+        <h2>A modular security architecture <span>built around execution.</span></h2>
+        <p>
+          Separate execution surfaces, connectivity and shared security controls
+          so the architecture can fit existing infrastructure.
+        </p>
+      </div>
+
+      <div class="one-architecture-stack">
+
+        <div class="one-arch-layer user">
+          <small>USERS / AGENTS</small>
+        </div>
+
+        <div class="one-arch-connector">↓</div>
+
+        <div class="one-arch-layer execution">
+          <small>EXECUTION PLATFORMS</small>
+          <div>
+            <span>TeleWorkspace</span>
+            <span>Enterprise Browser</span>
+            <span>Browser Isolation</span>
+            <span>AI &amp; Agent Execution</span>
+          </div>
+        </div>
+
+        <div class="one-arch-connector">↓</div>
+
+        <div class="one-arch-layer connectivity">
+          <small>CONNECTIVITY</small>
+          <strong>TeleConnect</strong>
+          <em>Controlled access to approved private resources</em>
+        </div>
+
+        <div class="one-arch-connector">↓</div>
+
+        <div class="one-arch-layer fabric">
+          <small>JUPITOSECURE FABRIC</small>
+          <div>
+            <span>Identity</span><span>Policy</span><span>DLP</span>
+            <span>Secure Data</span><span>Orchestration</span>
+            <span>Logging / Audit</span><span>Governance</span>
+          </div>
+        </div>
+
+        <div class="one-arch-connector">↓</div>
+
+        <div class="one-arch-layer resources">
+          <small>ENTERPRISE RESOURCES / SYSTEMS</small>
+          <div>
+            <span>Desktops</span><span>VMs</span><span>Applications</span>
+            <span>SaaS</span><span>APIs</span><span>Servers</span>
+            <span>Cloud</span><span>Private Networks</span><span>AI / GPU Workloads</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="one-location-model">
+        <div>
+          <div class="kicker">EXECUTION WHEREVER IT RUNS</div>
+          <h3>Location-independent execution.</h3>
+          <p>
+            Users may be Local, Remote, On-Premises, Branch, Home, Restricted
+            Network or Thin Client.
+          </p>
+        </div>
+        <div class="one-location-tags">
+          <span>Physical PC</span>
+          <span>Server</span>
+          <span>VM</span>
+          <span>Container</span>
+          <span>Private Cloud</span>
+          <span>Public Cloud</span>
+          <span>Isolated Network</span>
+        </div>
+      </div>
+
+      <div class="one-modular-grid">
+        <article><b>Existing Infrastructure</b><p>Use existing PCs, VMs and enterprise infrastructure where appropriate.</p></article>
+        <article><b>New Secure Workloads</b><p>Provision controlled VM or container environments for isolated or ephemeral workspaces.</p></article>
+        <article><b>Browser Execution</b><p>Use managed enterprise browsing for normal enterprise web workloads.</p></article>
+        <article><b>Risk-Based Isolation</b><p>Move higher-risk browsing into remote isolated execution.</p></article>
+        <article><b>Private Connectivity</b><p>Use TeleConnect for controlled connectivity to approved resources.</p></article>
+        <article><b>AI Execution</b><p>Use governed AI environments for agents, workflows and AI/GPU workloads.</p></article>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       08 — DEPLOYMENT
+       ========================================================= -->
+  <section class="one-deployment section-rule">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">DEPLOYMENT MODEL</div>
+        <h2>DEPLOY <span>WHERE YOU ARE.</span></h2>
+        <p>
+          Fit JupitoSecure into existing infrastructure rather than forcing
+          a single deployment model.
+        </p>
+      </div>
+
+      <div class="execution-flow">
+        <b>PC</b>
+        <b>VM</b>
+        <b>Container</b>
+        <b>Kubernetes</b>
+        <b>Cloud</b>
+        <b>On-Premises</b>
+      </div>
+
+      <div class="one-pattern-grid">
+        <article>
+          <span>01</span>
+          <h3>Start With Existing Infrastructure</h3>
+          <div>Existing PC / VM <i>→</i> JupitoSecure Product <i>→</i> Security Controls</div>
+        </article>
+
+        <article>
+          <span>02</span>
+          <h3>Build a Secure Workspace</h3>
+          <div>User <i>→</i> Identity <i>→</i> Policy <i>→</i> Workspace <i>→</i> Application <i>→</i> Data</div>
+        </article>
+
+        <article>
+          <span>03</span>
+          <h3>Add Private Connectivity</h3>
+          <div>Workspace <i>→</i> TeleConnect <i>→</i> Private Resource</div>
+        </article>
+
+        <article>
+          <span>04</span>
+          <h3>Add Risk-Based Browser Security</h3>
+          <div>Normal Web <i>→</i> Enterprise Browser <i>→</i> Higher-Risk Web <i>→</i> Browser Isolation</div>
+        </article>
+
+        <article class="wide">
+          <span>05</span>
+          <h3>Add AI Execution</h3>
+          <div>AI Agent <i>→</i> AI Brain <i>→</i> Policy <i>→</i> MCP / Tools <i>→</i> Controlled Runtime <i>→</i> Enterprise Resource</div>
+        </article>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       09 — INTEGRATIONS
+       ========================================================= -->
+  <section class="one-integrations section-rule">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">INTEGRATIONS</div>
+        <h2>Connect the Security Fabric <span>to your environment.</span></h2>
+        <p>
+          Operate with the systems and execution surfaces already present
+          in enterprise environments.
+        </p>
+      </div>
+
+      <div class="one-integration-grid">
+        <article><b>Identity</b><span>Authentication • MFA • SSO • RBAC • Device Identity</span></article>
+        <article><b>Enterprise Applications</b><span>Applications • SaaS • Internal Services • Enterprise Systems</span></article>
+        <article><b>APIs</b><span>Approved applications and AI agents interact with controlled APIs.</span></article>
+        <article><b>MCP</b><span>MCP Gateway • MCP Services • MCP Tools</span></article>
+        <article><b>Browser</b><span>Enterprise browsing and isolated browser execution.</span></article>
+        <article><b>Workspace</b><span>Browser, AI and enterprise application workloads.</span></article>
+        <article><b>Private Resources</b><span>Servers • VMs • Applications • Cloud • On-Prem Infrastructure</span></article>
+        <article><b>Security Operations</b><span>Logging • Audit • Security Analytics • SIEM</span></article>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       10 — LAND / EXPAND
+       ========================================================= -->
+  <section class="start section-rule one-land-expand">
+    <div class="container">
+
+      <div class="section-heading center">
+        <div class="kicker">LAND &amp; EXPAND</div>
+        <h2>START SMALL. <span>SCALE SECURELY.</span></h2>
+        <p>
+          You do not need to deploy every JupitoSecure platform to solve your
+          first security problem. Start where the need is greatest.
+        </p>
+      </div>
+
+      <div class="one-journey">
+        <article class="is-active">
+          <span>01</span>
+          <b>IDENTIFY</b>
+          <strong>Find the problem.</strong>
+          <p>Remote desktop • Contractor access • Enterprise browser • High-risk browsing • Private connectivity • AI governance</p>
+        </article>
+        <i>→</i>
+        <article>
+          <span>02</span>
+          <b>SELECT</b>
+          <strong>Choose the product.</strong>
+          <p>Deploy the platform that directly addresses the immediate requirement.</p>
+        </article>
+        <i>→</i>
+        <article>
+          <span>03</span>
+          <b>POC</b>
+          <strong>Prove the use case.</strong>
+          <p>Validate deployment, controls, user experience and operational fit.</p>
+        </article>
+        <i>→</i>
+        <article>
+          <span>04</span>
+          <b>EXPAND</b>
+          <strong>Add another platform.</strong>
+          <p>TeleWorkspace → TeleConnect → Enterprise Browser → Browser Isolation → AI Execution</p>
+        </article>
+        <i>→</i>
+        <article>
+          <span>05</span>
+          <b>UNIFY</b>
+          <strong>Build the Security Fabric.</strong>
+          <p>Bring identity, policy, DLP, connectivity, orchestration, data and audit together.</p>
+        </article>
+      </div>
+
+      
+
+    </div>
+  </section>    
+  <section id="final-cta" class="final-cta">
+      <div class="container final-inner">
+
+        <div>
+          <div class="kicker light">THE JUPITOSECURE ONE MODEL</div>
+          <h2>ONE PRODUCT → MULTIPLE PLATFORMS → <span>ONE SECURITY FABRIC</span></h2>
+          <p><b>No rip-and-replace.</b> Solve today's problem. Integrate when needed. Expand when ready.</p>
+        </div>
+        <div class="final-actions">
+          <a class="button button-white" href="/products/">EXPLORE PRODUCTS →</a>
+          <a class="button button-blue" href="/get-it-now/">START FREE TRIAL →</a>
+          <a class="button button-purple" href="/book-demo/">BOOK A DEMO →</a>
+        </div>
+
+      </div>
+    </section>
+
+</main>
+
+ <footer class="site-footer">
+    <div class="container footer-grid">
+      <div><strong>JupitoSecure One</strong>
+        <p>Five Security Platforms. One Unified Security Fabric.</p>
+      </div>
+      <div><b>Explore</b><a href="./index.html#platforms">Platforms</a><a href="./index.html#products">Products</a><a
+          href="./index.html#solutions">Solutions</a></div>
+      <div><b>Resources</b><a href="./index.html#resources">Documentation</a><a href="./index.html#marketplace">Marketplace</a><a
+          href="#final-cta">Get It Now</a></div>
+      <div><b>Company</b><a href="#">OEM & Partners</a><a href="#">Support</a><a href="#">Company</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Jupito DeepTech Pvt Ltd. All rights reserved.</div>
+  </footer>
+  
+<!-- =========================================================
+     JUPITOSECURE MOBILE MENU
+========================================================= -->
+
+<div id="jpMobileMenu" class="jp-mobile-menu" aria-hidden="true">
+
+  <div class="jp-mobile-menu-panel">
+
+    <div class="jp-mobile-menu-header">
+      <a href="/" class="jp-mobile-menu-logo">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure">
+      </a>
+
+      <button
+        type="button"
+        id="jpMobileClose"
+        class="jp-mobile-menu-close"
+        aria-label="Close menu">
+        ×
+      </button>
+    </div>
+
+    <nav class="jp-mobile-menu-nav">
+
+      <a href="/">Home</a>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          JupitoSecure One™
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./jupito-secure-one.html#one-overview">Overview</a>
+          <a href="./jupito-secure-one.html#one-overview">Five Security Platforms</a>
+          <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+          <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+          <a href="./jupito-secure-one.html#one-security">Security Model</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Platforms
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./teleworkspace.html">TeleWorkspace™</a>
+          <a href="./enterprise-browser.html">Enterprise Browser™</a>
+          <a href="./browser-isolation.html">Browser Isolation™</a>
+          <a href="./teleconnect.html">TeleConnect™</a>
+          <a href="./ai-aiagent-execution.html">AI &amp; Agent Execution™</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Products
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./products.html">Product Catalog</a>
+          <a href="./products.html#teleworkspace-products">TeleWorkspace Products</a>
+          <a href="./products.html#enterprise-browser-products">Enterprise Browser Products</a>
+          <a href="./products.html#browser-isolation-products">Browser Isolation Products</a>
+          <a href="./products.html#teleconnect-products">TeleConnect Products</a>
+          <a href="./products.html#ai-agent-products">AI &amp; Agent Execution Products</a>
+          <a href="./products.html#fabric-services">Fabric Services</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Solutions
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./solutions-by-usecase.html">Overview</a>
+          <a href="./solutions-by-usecase.html#secure-remote-operations">Secure Remote Operations</a>
+          <a href="./solutions-by-usecase.html#secure-it-ot-access">Secure IT/OT Access</a>
+          <a href="./solutions-by-usecase.html#secure-contractor-workspace">Secure Contractor Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-enterprise-browser">Secure Enterprise Browser</a>
+          <a href="./solutions-by-usecase.html#high-risk-web">High-Risk Web Browsing</a>
+          <a href="./solutions-by-usecase.html#secure-ai-workforce">Secure AI Workforce</a>
+          <a href="./solutions-by-usecase.html#secure-ai-agent">Secure AI Agent</a>
+          <a href="./solutions-by-usecase.html#secure-digital-workspace">Secure Digital Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-assessment">Secure Examination / Assessment</a>
+          <a href="./solutions-by-industry.html#defence">Defence / Government Secure Workspace</a>
+          <a href="./solutions-by-industry.html#critical-infrastructure">Critical Infrastructure</a>
+          <a href="./solutions-by-industry.html#healthcare">Healthcare Secure Workspace</a>
+          <a href="./solutions-by-industry.html#bfsi">BFSI Secure Operations</a>
+          <a href="./solutions-by-industry.html#smb">SMB Secure Operations</a>
+        </div>
+      </div>
+
+      <a href="./resources.html">Resources</a>
+
+      <a href="#marketplace">Marketplace</a>
+
+      <div class="jp-mobile-menu-actions">
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-primary">
+          GET IT NOW
+        </a>
+
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-secondary">
+          BOOK A DEMO
+        </a>
+      </div>
+
+    </nav>
+
+  </div>
+</div>
+  <script src="./js/app.js"></script>
+</body>
+
+</html>

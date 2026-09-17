@@ -1,0 +1,65 @@
+/* =========================================================
+   SOLUTIONS BY INDUSTRY
+   Minimal additions to the existing JupitoSecure CSS
+   ========================================================= */
+
+#solutions-by-industry {
+  overflow: hidden;
+}
+
+#solutions-by-industry .platform-card,
+#solutions-by-industry .why-card {
+  height: 100%;
+}
+
+#solutions-by-industry .platform-card .text-link,
+#solutions-by-industry .why-card .text-link {
+  display: inline-block;
+  margin-top: 18px;
+}
+
+#solutions-by-industry .card-meta {
+  margin-top: 14px;
+}
+
+#solutions-by-industry .hero-points {
+  flex-wrap: wrap;
+}
+
+#solutions-by-industry .hero-points span {
+  white-space: nowrap;
+}
+
+#solutions-by-industry .product-section,
+#solutions-by-industry .industry-section {
+  scroll-margin-top: 90px;
+}
+
+#solutions-by-industry .fabric .execution-flow {
+  margin-top: 20px;
+}
+
+#solutions-by-industry .why-comparison-card ul {
+  margin-top: 18px;
+}
+
+#solutions-by-industry .why-comparison-card li {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 860px) {
+  #solutions-by-industry .hero-points span {
+    white-space: normal;
+  }
+}
+
+@media (max-width: 600px) {
+  #solutions-by-industry .card-meta {
+    line-height: 1.5;
+  }
+
+  #solutions-by-industry .platform-card .text-link,
+  #solutions-by-industry .why-card .text-link {
+    margin-top: 14px;
+  }
+}

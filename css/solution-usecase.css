@@ -1,0 +1,68 @@
+/* =========================================================
+   SOLUTIONS BY USE CASE
+   Reuses JupitoSecure global classes wherever possible.
+   ========================================================= */
+
+#solutions-by-usecase .usecase-grid {
+  align-items: stretch;
+}
+
+#solutions-by-usecase .usecase-grid .platform-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#solutions-by-usecase .usecase-grid .platform-card .card-meta {
+  margin-top: auto;
+  padding-top: 18px;
+}
+
+#solutions-by-usecase .usecase-grid .platform-card .text-link {
+  margin-top: 14px;
+}
+
+#solutions-by-usecase .hero-points {
+  flex-wrap: wrap;
+}
+
+#solutions-by-usecase .why-comparison-card ul {
+  margin: 18px 0 0;
+  padding-left: 20px;
+}
+
+#solutions-by-usecase .why-comparison-card li {
+  margin-bottom: 8px;
+}
+
+#solutions-by-usecase .usecase-details {
+  scroll-margin-top: 100px;
+}
+
+#solutions-by-usecase .usecase-details + .usecase-details {
+  padding-top: 0;
+}
+
+@media (max-width: 860px) {
+  #solutions-by-usecase .usecase-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  #solutions-by-usecase .execution-flow {
+    gap: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  #solutions-by-usecase .usecase-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #solutions-by-usecase .hero-points {
+    gap: 8px;
+  }
+
+  #solutions-by-usecase .usecase-details {
+    scroll-margin-top: 70px;
+  }
+}

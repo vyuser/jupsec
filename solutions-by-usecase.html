@@ -1,0 +1,1205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JupitoSecure One — Secure Execution Infrastructure. One Security Fabric. Five independently deployable security platforms.">
+  <title>JupitoSecure One | Secure Execution Infrastructure</title>
+
+  <link
+  rel="stylesheet"
+  href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,600,700,900&display=swap">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/solution-usecase.css">
+
+
+
+</head>
+
+<body>
+
+<header class="site-header" data-header>
+    <div class="container nav-wrap">
+      <a class="brand" href="/" aria-label="JupitoSecure home">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+
+      </a>
+
+      <!--<button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu"
+        data-menu-toggle>
+        <span></span><span></span><span></span>
+      </button> -->
+
+      <button
+  type="button"
+  id="jpMobileToggle"
+  class="jp-mobile-toggle"
+  aria-label="Open navigation"
+  aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation" data-menu>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>JupitoSecure One </button>
+          <div class="dropdown">
+            <a href="./jupito-secure-one.html#one-overview">Overview</a>
+            <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+            <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+            <a href="./jupito-secure-one.html#one-security">Security Model</a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Platforms </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./teleworkspace.html"><b>01 TeleWorkspace</b><small>Location-independent secure workspace</small></a>
+            <a href="./enterprise-browser.html"><b>02 Enterprise Browser</b><small>Enterprise-controlled browsing</small></a>
+            <a href="./browser-isolation.html"><b>03 Browser Isolation</b><small>Isolate web execution</small></a>
+            <a href="./teleconnect.html"><b>04 TeleConnect</b><small>Secure connectivity without inbound exposure</small></a>
+            <a href="./ai-aiagent-execution.html"><b>05 AI & Agent Execution</b><small>Governed AI agents, tools and
+                workloads</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Products </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./products.html#teleworkspace-products"><b>TeleWorkspace Products</b><small>Desktop, ephemeral and virtual workspace
+                products</small></a>
+            <a href="./products.html#enterprise-browser-products"><b>Enterprise Browser Products</b><small>Managed browser, policy and DLP</small></a>
+            <a href="./products.html#browser-isolation-products"><b>Browser Isolation Products</b><small>Remote ephemeral isolated browser</small></a>
+            <a href="./products.html#teleconnect-products"><b>TeleConnect Products</b><small>Gateway, proxy, client and edge components</small></a>
+            <a href="./products.html#ai-agent-products"><b>AI & Agent Execution Products</b><small>AI Brain, MCP Gateway, services and
+                tools</small></a>
+            <a href="./products.html#fabric-services"><b>Fabric Services</b><small>Identity, policy, DLP, orchestration and audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Solutions </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./solutions-by-usecase.html#secure-remote-operations"><b>Secure Remote Operations</b><small>Remote IT, support, branch and third-party
+                operations</small></a>
+            <a href="./solutions-by-usecase.html#secure-it-ot-access"><b>Secure IT/OT Access</b><small>Industrial, restricted and critical
+                environments</small></a>
+            <a href="./solutions-by-usecase.html#secure-contractor-workspace"><b>Secure Contractor Workspace</b><small>Ephemeral, controlled contractor
+                execution</small></a>
+            <a href="./solutions-by-usecase.html#high-risk-web"><b>High-Risk Web Browsing</b><small>Threat research, untrusted sites and privileged
+                browsing</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-workforce"><b>Secure AI Workforce</b><small>Governed AI across tools, browsers and
+                workspaces</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-agent"><b>Secure AI Agent</b><small>Identity → Policy → DLP → Execution → Audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Resources </button>
+          <div class="dropdown">
+            <a href="./resources.html#documentation">Documentation</a>
+            <a href="./resources.html#product-guides">Product Guides</a>
+            <a href="./resources.html#compliance">Compliance</a>
+            <a href="./resources.html#exhibits">Events / Exhibits</a>
+            <a href="./resources.html#news">News</a>
+            <a href="./resources.html#security-alerts">Security Alerts</a>
+          </div>
+        </div>
+
+        <a class="nav-link direct" href="./index.html#marketplace">Marketplace</a>
+        <a class="nav-cta" href="./index.html#final-cta">GET IT NOW</a>
+        <a class="nav-demo" href="./index.html#final-cta">BOOK A DEMO</a>
+      </nav>
+    </div>
+  </header>
+
+
+<main id="solutions-by-usecase">
+
+  <!-- =========================================================
+       HERO
+       ========================================================= -->
+  <section class="hero">
+    <div class="container hero-grid">
+
+      <div class="hero-copy">
+        <span class="kicker">SOLUTIONS BY USE CASE</span>
+
+        <h1>
+          Security Built Around<br>
+          <span>How Work Gets Done.</span>
+        </h1>
+
+        <p class="hero-promise">
+          JupitoSecure combines secure workspaces, enterprise browsing,
+          browser isolation, outbound connectivity and governed AI execution
+          to secure real-world business and operational use cases.
+        </p>
+
+        <div class="hero-actions">
+          <a href="#use-cases" class="button button-primary">
+            EXPLORE USE CASES
+          </a>
+
+          <a href="#architecture" class="button button-outline">
+            SEE THE ARCHITECTURE
+          </a>
+        </div>
+
+        <div class="hero-points">
+          <span>Identity</span>
+          <span>Policy</span>
+          <span>DLP</span>
+          <span>Secure Execution</span>
+          <span>Isolation</span>
+          <span>Outbound Connectivity</span>
+          <span>Audit</span>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="why-comparison-card">
+          <div class="problem">
+            <span class="card-kicker">THE SECURITY CHALLENGE</span>
+            <h3>Every use case has a different security boundary.</h3>
+            <p>
+              Remote users, contractors, browsers, AI agents, operational
+              environments and critical infrastructure should not all be
+              secured with the same access model.
+            </p>
+          </div>
+
+          <div class="approach">
+            <span class="card-kicker">JUPITOSECURE APPROACH</span>
+            <h3>Choose the right execution boundary.</h3>
+            <p>
+              Combine JupitoSecure platforms according to the user,
+              workload, data, application, resource and risk involved.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       INTRO
+       ========================================================= -->
+  <section class="section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">ONE SECURITY FABRIC</span>
+
+        <h2>
+          Start With the Use Case.<br>
+          Build the Right Security Boundary.
+        </h2>
+
+        <p>
+          JupitoSecure does not force every workload into a single
+          security architecture. Each use case can use the platform
+          combination required to control identity, execution, data
+          and connectivity.
+        </p>
+      </div>
+
+      <div class="impact-grid">
+        <div class="why-card">
+          <span class="card-kicker">WHO</span>
+          <h3>People & Agents</h3>
+          <p>
+            Employees, operators, engineers, contractors, candidates,
+            applications and AI agents.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">WHAT</span>
+          <h3>Workloads</h3>
+          <p>
+            Desktops, browsers, SaaS, applications, AI workflows,
+            private resources and operational systems.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">WHERE</span>
+          <h3>Execution</h3>
+          <p>
+            Endpoint, secure workspace, remote browser, private resource
+            or controlled AI runtime.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">HOW</span>
+          <h3>Security Controls</h3>
+          <p>
+            Identity, policy, DLP, least privilege, isolation,
+            encryption, connectivity and audit.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       USE CASES
+       ========================================================= -->
+  <section class="platforms" id="use-cases">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">USE CASE PORTFOLIO</span>
+
+        <h2>
+          Secure the Work.<br>
+          Not Just the Network.
+        </h2>
+
+        <p>
+          Select a use case to see how JupitoSecure platforms combine
+          to create the required security boundary.
+        </p>
+      </div>
+
+
+      <div class="platform-grid usecase-grid">
+
+        <!-- 01 -->
+        <article class="platform-card blue">
+          <span class="number">01</span>
+          <span class="card-kicker">REMOTE OPERATIONS</span>
+
+          <h3>Secure Remote Operations</h3>
+
+          <p>
+            Give remote operators controlled access to workspaces,
+            applications and private resources without unnecessarily
+            extending enterprise exposure.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · TeleConnect · Enterprise Browser
+          </div>
+
+          <a href="#secure-remote-operations" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 02 -->
+        <article class="platform-card olive">
+          <span class="number">02</span>
+          <span class="card-kicker">IT / OT</span>
+
+          <h3>Secure IT/OT Access</h3>
+
+          <p>
+            Connect authorized people and applications to sensitive
+            IT/OT environments without making protected infrastructure
+            broadly reachable.
+          </p>
+
+          <div class="card-meta">
+            TeleConnect · TeleWorkspace
+          </div>
+
+          <a href="#secure-it-ot-access" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 03 -->
+        <article class="platform-card purple">
+          <span class="number">03</span>
+          <span class="card-kicker">THIRD-PARTY ACCESS</span>
+
+          <h3>Secure Contractor Workspace</h3>
+
+          <p>
+            Give contractors the workspace they need while limiting
+            access to the required scope, duration and data.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · Enterprise Browser · TeleConnect
+          </div>
+
+          <a href="#secure-contractor-workspace" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 04 -->
+        <article class="platform-card orange">
+          <span class="number">04</span>
+          <span class="card-kicker">BROWSING</span>
+
+          <h3>Secure Enterprise Browser</h3>
+
+          <p>
+            Control enterprise browsing, SaaS and GenAI through one
+            managed browser security model.
+          </p>
+
+          <div class="card-meta">
+            Enterprise Browser · DLP · GenAI Governance
+          </div>
+
+          <a href="#secure-enterprise-browser" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 05 -->
+        <article class="platform-card violet">
+          <span class="number">05</span>
+          <span class="card-kicker">WEB RISK</span>
+
+          <h3>High-Risk Web Browsing</h3>
+
+          <p>
+            Move risky web execution away from the endpoint using
+            controlled remote browser execution and isolation.
+          </p>
+
+          <div class="card-meta">
+            Browser Isolation · Enterprise Browser · DLP
+          </div>
+
+          <a href="#high-risk-web" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 06 -->
+        <article class="platform-card blue">
+          <span class="number">06</span>
+          <span class="card-kicker">AI WORKFORCE</span>
+
+          <h3>Secure AI Workforce</h3>
+
+          <p>
+            Enable employees to use approved AI services while
+            protecting enterprise data and governing AI usage.
+          </p>
+
+          <div class="card-meta">
+            Enterprise Browser · AI Governance · DLP
+          </div>
+
+          <a href="#secure-ai-workforce" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 07 -->
+        <article class="platform-card purple">
+          <span class="number">07</span>
+          <span class="card-kicker">AI AGENTS</span>
+
+          <h3>Secure AI Agent</h3>
+
+          <p>
+            Govern AI agents by controlling identity, rights, data,
+            tools, workflows, approvals and execution.
+          </p>
+
+          <div class="card-meta">
+            AI Execution · MCP · DLP · Audit
+          </div>
+
+          <a href="#secure-ai-agent" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 08 -->
+        <article class="platform-card orange">
+          <span class="number">08</span>
+          <span class="card-kicker">WORKSPACE</span>
+
+          <h3>Secure Digital Workspace</h3>
+
+          <p>
+            Create controlled digital environments for people,
+            applications and data using the execution model
+            appropriate to the workload.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · Browser · AI · TeleConnect
+          </div>
+
+          <a href="#secure-digital-workspace" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 09 -->
+        <article class="platform-card olive">
+          <span class="number">09</span>
+          <span class="card-kicker">ASSESSMENT</span>
+
+          <h3>Secure Examination & Assessment</h3>
+
+          <p>
+            Provide controlled, purpose-built digital environments
+            for examinations, assessments and other controlled-use
+            scenarios.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · Enterprise Browser · Isolation
+          </div>
+
+          <a href="#secure-assessment" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 10 -->
+        <article class="platform-card violet">
+          <span class="number">10</span>
+          <span class="card-kicker">DEFENCE / GOVERNMENT</span>
+
+          <h3>Defence & Government Workspace</h3>
+
+          <p>
+            Combine controlled workspaces, private-resource access,
+            browser controls and isolation according to the required
+            security boundary.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · TeleConnect · Browser · Isolation
+          </div>
+
+          <a href="#defence-government" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+
+        <!-- 11 -->
+        <article class="platform-card blue">
+          <span class="number">11</span>
+          <span class="card-kicker">CRITICAL INFRASTRUCTURE</span>
+
+          <h3>Secure Critical Infrastructure</h3>
+
+          <p>
+            Protect access to sensitive operational environments while
+            maintaining controlled connectivity and execution.
+          </p>
+
+          <div class="card-meta">
+            TeleWorkspace · TeleConnect · Identity · Audit
+          </div>
+
+          <a href="#critical-infrastructure" class="text-link">
+            EXPLORE USE CASE →
+          </a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       COMMON SECURITY MODEL
+       ========================================================= -->
+  <section class="why-jupitosecure" id="architecture">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">COMMON SECURITY MODEL</span>
+
+        <h2>
+          One Control Model Across<br>
+          Every Use Case.
+        </h2>
+
+        <p>
+          Different use cases may use different execution boundaries,
+          but the security controls remain consistent.
+        </p>
+      </div>
+
+      <div class="execution-flow">
+
+        <div class="flow-step">
+          <span class="number">01</span>
+          <strong>IDENTITY</strong>
+          <small>Who is requesting access?</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">02</span>
+          <strong>POLICY</strong>
+          <small>What is permitted?</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">03</span>
+          <strong>EXECUTION</strong>
+          <small>Where does work happen?</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">04</span>
+          <strong>DATA</strong>
+          <small>What can move?</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">05</span>
+          <strong>AUDIT</strong>
+          <small>What actually happened?</small>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       PLATFORM SELECTION
+       ========================================================= -->
+  <section class="products">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">PLATFORM COMPOSITION</span>
+
+        <h2>
+          Combine Platforms<br>
+          Around the Use Case.
+        </h2>
+
+        <p>
+          JupitoSecure platforms can operate independently or be
+          combined through the shared security fabric.
+        </p>
+      </div>
+
+      <div class="catalog-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">WORKSPACE</span>
+          <h3>TeleWorkspace™</h3>
+          <p>
+            Secure remote desktops, virtual workspaces,
+            ephemeral environments and specialized execution.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">BROWSING</span>
+          <h3>Enterprise Browser™</h3>
+          <p>
+            Govern web, SaaS, GenAI and browser-based
+            data movement.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">ISOLATION</span>
+          <h3>Browser Isolation™</h3>
+          <p>
+            Move higher-risk web execution into a controlled
+            remote browser boundary.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">CONNECTIVITY</span>
+          <h3>TeleConnect™</h3>
+          <p>
+            Connect protected environments to approved private
+            resources using outbound-only connectivity.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">AI</span>
+          <h3>AI & Agent Execution™</h3>
+          <p>
+            Govern AI workflows, agents, tools, data,
+            approvals and controlled execution.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       USE CASE DETAIL MATRIX
+       ========================================================= -->
+  <section class="section-rule">
+    <div class="container">
+
+      <div class="section-heading compact">
+        <span class="kicker">USE CASE → SECURITY BOUNDARY</span>
+
+        <h2>
+          Match the Workload to the Control.
+        </h2>
+      </div>
+
+      <div class="why-comparison-card">
+
+        <div class="problem">
+          <span class="card-kicker">WORK REQUIREMENT</span>
+
+          <h3>Different risks require different controls.</h3>
+
+          <ul>
+            <li>Remote desktop and application access</li>
+            <li>Private IT/OT resource access</li>
+            <li>Contractor and third-party access</li>
+            <li>Enterprise web and SaaS</li>
+            <li>High-risk web content</li>
+            <li>Employee AI usage</li>
+            <li>Autonomous AI agents</li>
+            <li>Specialized digital workspaces</li>
+            <li>Controlled assessment environments</li>
+            <li>Defence and government workloads</li>
+            <li>Critical infrastructure access</li>
+          </ul>
+        </div>
+
+        <div class="approach">
+          <span class="card-kicker">JUPITOSECURE RESPONSE</span>
+
+          <h3>Compose the appropriate security boundary.</h3>
+
+          <ul>
+            <li>TeleWorkspace</li>
+            <li>TeleConnect</li>
+            <li>Enterprise Browser</li>
+            <li>Browser Isolation</li>
+            <li>AI & Agent Execution</li>
+            <li>DLP & Data Protection</li>
+            <li>Identity & Policy</li>
+            <li>Audit & Governance</li>
+          </ul>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       SECURITY FABRIC
+       ========================================================= -->
+  <section class="fabric">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker light">JUPITOSECURE ONE™</span>
+
+        <h2>
+          One Security Fabric.<br>
+          Many Security Boundaries.
+        </h2>
+
+        <p>
+          Use-case solutions are built from the same underlying
+          security fabric, allowing organizations to expand without
+          creating disconnected security models.
+        </p>
+      </div>
+
+      <div class="fabric-flow">
+
+        <div class="fabric-node">
+          <strong>IDENTITY</strong>
+          <span>Users · Agents · Devices</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>POLICY</strong>
+          <span>Access · Rights · Context</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>DATA PROTECTION</strong>
+          <span>DLP · Data Movement</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>EXECUTION</strong>
+          <span>Workspace · Browser · AI</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>CONNECTIVITY</strong>
+          <span>Private Resources</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>AUDIT</strong>
+          <span>Events · Governance</span>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       EXPANSION
+       ========================================================= -->
+  <section class="platforms">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">EXPAND WHEN NEEDED</span>
+
+        <h2>
+          Start With One Use Case.<br>
+          Expand Into the Fabric.
+        </h2>
+
+        <p>
+          Organizations can start with a specific operational problem
+          and progressively add security boundaries as requirements
+          expand.
+        </p>
+      </div>
+
+      <div class="execution-flow">
+
+        <div class="flow-step">
+          <span class="number">01</span>
+          <strong>USE CASE</strong>
+          <small>Start with one business need</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">02</span>
+          <strong>WORKSPACE</strong>
+          <small>Secure execution</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">03</span>
+          <strong>BROWSER</strong>
+          <small>Govern web and SaaS</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">04</span>
+          <strong>ISOLATION</strong>
+          <small>Contain higher-risk execution</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">05</span>
+          <strong>CONNECT</strong>
+          <small>Reach approved resources</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">06</span>
+          <strong>AI</strong>
+          <small>Govern intelligent execution</small>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       FINAL CTA
+       ========================================================= -->
+  <section class="conversion">
+    <div class="container">
+
+      <div class="final-cta">
+        <div class="final-inner">
+
+          <div>
+            <span class="kicker">JUPITOSECURE ONE™</span>
+
+            <h2>
+              Secure the Use Case.<br>
+              Expand When You're Ready.
+            </h2>
+
+            <p>
+              Start with the security problem that matters today
+              and build toward a unified security architecture
+              as your requirements grow.
+            </p>
+          </div>
+
+          <div class="final-actions">
+            <a href="#use-cases" class="button button-primary">
+              EXPLORE USE CASES →
+            </a>
+
+            <a href="#architecture" class="button button-outline">
+              EXPLORE ARCHITECTURE →
+            </a>
+
+            <a href="#demo" class="button button-outline">
+              BOOK A DEMO →
+            </a>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       DETAIL ANCHORS
+       ========================================================= -->
+
+  <section class="section-rule usecase-details" id="secure-remote-operations">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">01 · SECURE REMOTE OPERATIONS</span>
+        <h2>Controlled Remote Execution.</h2>
+        <p>
+          TeleWorkspace provides controlled remote access to existing
+          Windows/Linux PCs and VMs and supports disposable VM and
+          container workspaces. TeleConnect can connect approved
+          workspaces to private resources through outbound connectivity.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-it-ot-access">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">02 · SECURE IT/OT ACCESS</span>
+        <h2>Connect Without Broad Network Exposure.</h2>
+        <p>
+          Use outbound-only TeleConnect connectivity together with
+          identity, certificate, policy, time-bound and least-privilege
+          controls for sensitive IT/OT access.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-contractor-workspace">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">03 · SECURE CONTRACTOR WORKSPACE</span>
+        <h2>Temporary Access Without Permanent Exposure.</h2>
+        <p>
+          Provide contractors with disposable or controlled workspaces,
+          least-privilege access, time-bound permissions, DLP and
+          auditable sessions.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-enterprise-browser">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">04 · SECURE ENTERPRISE BROWSER</span>
+        <h2>Govern Browsing, SaaS and GenAI.</h2>
+        <p>
+          Enterprise Browser combines web access policy, identity,
+          DLP, data-transfer controls, GenAI governance and audit
+          in a managed browsing experience.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="high-risk-web">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">05 · HIGH-RISK WEB BROWSING</span>
+        <h2>Isolate Risky Web Execution.</h2>
+        <p>
+          Browser Isolation moves higher-risk browser workloads into
+          a controlled remote execution boundary while providing
+          controlled browsing to the user.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-ai-workforce">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">06 · SECURE AI WORKFORCE</span>
+        <h2>Enable AI Without Losing Data Control.</h2>
+        <p>
+          Enterprise Browser provides GenAI governance while
+          AI & Agent Execution can extend controls into governed
+          AI workflows and execution.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-ai-agent">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">07 · SECURE AI AGENT</span>
+        <h2>Govern AI Agents — Not Just AI Access.</h2>
+        <p>
+          Control agent identity, rights, data entitlements, tool
+          permissions, workflows, authorization, execution and audit.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-digital-workspace">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">08 · SECURE DIGITAL WORKSPACE</span>
+        <h2>One Workspace Model for Different Workloads.</h2>
+        <p>
+          Use existing, virtual, ephemeral or specialized workspaces
+          for AI/GPU, CAD/CAM, developer, contractor and BPO/call-center
+          workloads.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="secure-assessment">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">09 · SECURE EXAMINATION & ASSESSMENT</span>
+        <h2>Purpose-Built Controlled Environments.</h2>
+        <p>
+          Create controlled desktop or ephemeral environments with
+          managed applications, browsing controls, data restrictions,
+          session control and audit.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="defence-government">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">10 · DEFENCE / GOVERNMENT</span>
+        <h2>Security Boundaries for Sensitive Work.</h2>
+        <p>
+          Combine TeleWorkspace, TeleConnect, Enterprise Browser and
+          Browser Isolation according to the required security boundary.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section-rule usecase-details" id="critical-infrastructure">
+    <div class="container">
+      <div class="section-heading">
+        <span class="kicker">11 · CRITICAL INFRASTRUCTURE</span>
+        <h2>Protect Access to Operational Environments.</h2>
+        <p>
+          Combine identity-aware access, least privilege, time-bound
+          access, certificate authentication, outbound-only connectivity,
+          private-resource orientation and audit.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+<footer class="site-footer">
+    <div class="container footer-grid">
+      <div><strong>JupitoSecure One</strong>
+        <p>Five Security Platforms. One Unified Security Fabric.</p>
+      </div>
+      <div><b>Explore</b><a href="./index.html#platforms">Platforms</a><a href="./index.html#products">Products</a><a
+          href="./index.html#solutions">Solutions</a></div>
+      <div><b>Resources</b><a href="./index.html#resources">Documentation</a><a href="./index.html#marketplace">Marketplace</a><a
+          href="#final-cta">Get It Now</a></div>
+      <div><b>Company</b><a href="#">OEM & Partners</a><a href="#">Support</a><a href="#">Company</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Jupito DeepTech Pvt Ltd. All rights reserved.</div>
+  </footer>
+
+
+<!-- =========================================================
+     JUPITOSECURE MOBILE MENU
+========================================================= -->
+
+<div id="jpMobileMenu" class="jp-mobile-menu" aria-hidden="true">
+
+  <div class="jp-mobile-menu-panel">
+
+    <div class="jp-mobile-menu-header">
+      <a href="/" class="jp-mobile-menu-logo">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure">
+      </a>
+
+      <button
+        type="button"
+        id="jpMobileClose"
+        class="jp-mobile-menu-close"
+        aria-label="Close menu">
+        ×
+      </button>
+    </div>
+
+    <nav class="jp-mobile-menu-nav">
+
+      <a href="/">Home</a>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          JupitoSecure One™
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./jupito-secure-one.html#one-overview">Overview</a>
+          <a href="./jupito-secure-one.html#one-overview">Five Security Platforms</a>
+          <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+          <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+          <a href="./jupito-secure-one.html#one-security">Security Model</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Platforms
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./teleworkspace.html">TeleWorkspace™</a>
+          <a href="./enterprise-browser.html">Enterprise Browser™</a>
+          <a href="./browser-isolation.html">Browser Isolation™</a>
+          <a href="./teleconnect.html">TeleConnect™</a>
+          <a href="./ai-aiagent-execution.html">AI &amp; Agent Execution™</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Products
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./products.html">Product Catalog</a>
+          <a href="./products.html#teleworkspace-products">TeleWorkspace Products</a>
+          <a href="./products.html#enterprise-browser-products">Enterprise Browser Products</a>
+          <a href="./products.html#browser-isolation-products">Browser Isolation Products</a>
+          <a href="./products.html#teleconnect-products">TeleConnect Products</a>
+          <a href="./products.html#ai-agent-products">AI &amp; Agent Execution Products</a>
+          <a href="./products.html#fabric-services">Fabric Services</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Solutions
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./solutions-by-usecase.html">Overview</a>
+          <a href="./solutions-by-usecase.html#secure-remote-operations">Secure Remote Operations</a>
+          <a href="./solutions-by-usecase.html#secure-it-ot-access">Secure IT/OT Access</a>
+          <a href="./solutions-by-usecase.html#secure-contractor-workspace">Secure Contractor Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-enterprise-browser">Secure Enterprise Browser</a>
+          <a href="./solutions-by-usecase.html#high-risk-web">High-Risk Web Browsing</a>
+          <a href="./solutions-by-usecase.html#secure-ai-workforce">Secure AI Workforce</a>
+          <a href="./solutions-by-usecase.html#secure-ai-agent">Secure AI Agent</a>
+          <a href="./solutions-by-usecase.html#secure-digital-workspace">Secure Digital Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-assessment">Secure Examination / Assessment</a>
+          <a href="./solutions-by-industry.html#defence">Defence / Government Secure Workspace</a>
+          <a href="./solutions-by-industry.html#critical-infrastructure">Critical Infrastructure</a>
+          <a href="./solutions-by-industry.html#healthcare">Healthcare Secure Workspace</a>
+          <a href="./solutions-by-industry.html#bfsi">BFSI Secure Operations</a>
+          <a href="./solutions-by-industry.html#smb">SMB Secure Operations</a>
+        </div>
+      </div>
+
+      <a href="./resources.html">Resources</a>
+
+      <a href="#marketplace">Marketplace</a>
+
+      <div class="jp-mobile-menu-actions">
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-primary">
+          GET IT NOW
+        </a>
+
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-secondary">
+          BOOK A DEMO
+        </a>
+      </div>
+
+    </nav>
+
+  </div>
+</div>
+  <script src="./js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,1976 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JupitoSecure One — Secure Execution Infrastructure. One Security Fabric. Five independently deployable security platforms.">
+  <title>JupitoSecure One | Secure Execution Infrastructure</title>
+
+  <link
+  rel="stylesheet"
+  href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,600,700,900&display=swap">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/resources.css">
+
+
+
+</head>
+
+<body>
+
+<header class="site-header" data-header>
+    <div class="container nav-wrap">
+      <a class="brand" href="/" aria-label="JupitoSecure home">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+
+      </a>
+
+      <!--<button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu"
+        data-menu-toggle>
+        <span></span><span></span><span></span>
+      </button> -->
+
+      <button
+  type="button"
+  id="jpMobileToggle"
+  class="jp-mobile-toggle"
+  aria-label="Open navigation"
+  aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation" data-menu>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>JupitoSecure One </button>
+          <div class="dropdown">
+            <a href="./jupito-secure-one.html#one-overview">Overview</a>
+            <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+            <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+            <a href="./jupito-secure-one.html#one-security">Security Model</a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Platforms </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./teleworkspace.html"><b>01 TeleWorkspace</b><small>Location-independent secure workspace</small></a>
+            <a href="./enterprise-browser.html"><b>02 Enterprise Browser</b><small>Enterprise-controlled browsing</small></a>
+            <a href="./browser-isolation.html"><b>03 Browser Isolation</b><small>Isolate web execution</small></a>
+            <a href="./teleconnect.html"><b>04 TeleConnect</b><small>Secure connectivity without inbound exposure</small></a>
+            <a href="./ai-aiagent-execution.html"><b>05 AI & Agent Execution</b><small>Governed AI agents, tools and
+                workloads</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Products </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./products.html#teleworkspace-products"><b>TeleWorkspace Products</b><small>Desktop, ephemeral and virtual workspace
+                products</small></a>
+            <a href="./products.html#enterprise-browser-products"><b>Enterprise Browser Products</b><small>Managed browser, policy and DLP</small></a>
+            <a href="./products.html#browser-isolation-products"><b>Browser Isolation Products</b><small>Remote ephemeral isolated browser</small></a>
+            <a href="./products.html#teleconnect-products"><b>TeleConnect Products</b><small>Gateway, proxy, client and edge components</small></a>
+            <a href="./products.html#ai-agent-products"><b>AI & Agent Execution Products</b><small>AI Brain, MCP Gateway, services and
+                tools</small></a>
+            <a href="./products.html#fabric-services"><b>Fabric Services</b><small>Identity, policy, DLP, orchestration and audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Solutions </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./solutions-by-usecase.html#secure-remote-operations"><b>Secure Remote Operations</b><small>Remote IT, support, branch and third-party
+                operations</small></a>
+            <a href="./solutions-by-usecase.html#secure-it-ot-access"><b>Secure IT/OT Access</b><small>Industrial, restricted and critical
+                environments</small></a>
+            <a href="./solutions-by-usecase.html#secure-contractor-workspace"><b>Secure Contractor Workspace</b><small>Ephemeral, controlled contractor
+                execution</small></a>
+            <a href="./solutions-by-usecase.html#high-risk-web"><b>High-Risk Web Browsing</b><small>Threat research, untrusted sites and privileged
+                browsing</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-workforce"><b>Secure AI Workforce</b><small>Governed AI across tools, browsers and
+                workspaces</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-agent"><b>Secure AI Agent</b><small>Identity → Policy → DLP → Execution → Audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Resources </button>
+          <div class="dropdown">
+            <a href="./resources.html#documentation">Documentation</a>
+            <a href="./resources.html#product-guides">Product Guides</a>
+            <a href="./resources.html#compliance">Compliance</a>
+            <a href="./resources.html#exhibits">Events / Exhibits</a>
+            <a href="./resources.html#news">News</a>
+            <a href="./resources.html#security-alerts">Security Alerts</a>
+          </div>
+        </div>
+
+        <a class="nav-link direct" href="./index.html#marketplace">Marketplace</a>
+        <a class="nav-cta" href="./index.html#final-cta">GET IT NOW</a>
+        <a class="nav-demo" href="./index.html#final-cta">BOOK A DEMO</a>
+      </nav>
+    </div>
+</header>
+
+
+<main id="resources">
+
+  <!-- =========================================================
+       HERO
+       ========================================================= -->
+  <section class="hero">
+    <div class="container hero-grid">
+
+      <div class="hero-copy">
+        <span class="kicker">JUPITOSECURE RESOURCES™</span>
+
+        <h1>
+          Knowledge for<br>
+          <span>Secure Deployment.</span>
+        </h1>
+
+        <p class="hero-promise">
+          Documentation, product guidance, technical resources,
+          solution information and security updates for the
+          JupitoSecure platform.
+        </p>
+
+        <p>
+          From evaluating a product to deploying it in production,
+          find the information needed to understand, deploy,
+          secure, operate and expand JupitoSecure.
+        </p>
+
+        <div class="hero-actions">
+          <a href="#resource-library" class="button button-primary">
+            EXPLORE RESOURCES
+          </a>
+
+          <a href="#security-center" class="button button-outline">
+            SECURITY ALERTS
+          </a>
+        </div>
+
+        <div class="hero-points">
+          <span>Documentation</span>
+          <span>Product Guides</span>
+          <span>Solution Briefs</span>
+          <span>Datasheets</span>
+          <span>Compliance</span>
+          <span>Security Alerts</span>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="why-comparison-card">
+
+          <div class="problem">
+            <span class="card-kicker">FIND WHAT YOU NEED</span>
+
+            <h3>
+              From evaluation to production.
+            </h3>
+
+            <p>
+              Understand the platform, evaluate products,
+              design the deployment, configure the environment
+              and operate it securely.
+            </p>
+          </div>
+
+          <div class="approach">
+            <span class="card-kicker">JUPITOSECURE RESOURCES</span>
+
+            <h3>
+              One knowledge center for the entire lifecycle.
+            </h3>
+
+            <p>
+              Technical documentation, product guidance,
+              architecture resources, security information,
+              current developments and operational updates.
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       RESOURCE LIBRARY
+       ========================================================= -->
+  <section class="platforms" id="resource-library">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">RESOURCE LIBRARY</span>
+
+        <h2>
+          Find the Information<br>
+          You Need.
+        </h2>
+
+        <p>
+          Explore resources by technical depth, business requirement,
+          product, platform or security need.
+        </p>
+      </div>
+
+
+      <div class="platform-grid resource-grid">
+
+        <!-- Documentation -->
+        <article class="platform-card blue">
+          <span class="number">01</span>
+          <span class="card-kicker">TECHNICAL</span>
+
+          <h3>Documentation</h3>
+
+          <p>
+            Technical documentation for installation, configuration,
+            administration, integration and operation.
+          </p>
+
+          <div class="card-meta">
+            Getting Started · Deployment · Configuration · Operations
+          </div>
+
+          <a href="#documentation" class="text-link">
+            EXPLORE DOCUMENTATION →
+          </a>
+        </article>
+
+
+        <!-- Product Guides -->
+        <article class="platform-card purple">
+          <span class="number">02</span>
+          <span class="card-kicker">PRODUCT</span>
+
+          <h3>Product Guides</h3>
+
+          <p>
+            Practical guidance for understanding and using
+            individual JupitoSecure products.
+          </p>
+
+          <div class="card-meta">
+            Architecture · Deployment · Security · Operations
+          </div>
+
+          <a href="#product-guides" class="text-link">
+            EXPLORE PRODUCT GUIDES →
+          </a>
+        </article>
+
+
+        <!-- Solution Briefs -->
+        <article class="platform-card orange">
+          <span class="number">03</span>
+          <span class="card-kicker">SOLUTIONS</span>
+
+          <h3>Solution Briefs</h3>
+
+          <p>
+            Understand how JupitoSecure addresses specific
+            security and operational requirements.
+          </p>
+
+          <div class="card-meta">
+            Use Case · Industry · Architecture
+          </div>
+
+          <a href="#solution-briefs" class="text-link">
+            EXPLORE SOLUTION BRIEFS →
+          </a>
+        </article>
+
+
+        <!-- Datasheets -->
+        <article class="platform-card olive">
+          <span class="number">04</span>
+          <span class="card-kicker">TECHNICAL</span>
+
+          <h3>Datasheets</h3>
+
+          <p>
+            Concise technical information for JupitoSecure
+            products and platforms.
+          </p>
+
+          <div class="card-meta">
+            Capabilities · Security · Integration · Deployment
+          </div>
+
+          <a href="#datasheets" class="text-link">
+            EXPLORE DATASHEETS →
+          </a>
+        </article>
+
+
+        <!-- Compliance -->
+        <article class="platform-card violet">
+          <span class="number">05</span>
+          <span class="card-kicker">ASSURANCE</span>
+
+          <h3>Compliance</h3>
+
+          <p>
+            Security, assurance and compliance information supporting
+            JupitoSecure deployments.
+          </p>
+
+          <div class="card-meta">
+            Security · Assurance · Compliance
+          </div>
+
+          <a href="#compliance" class="text-link">
+            EXPLORE COMPLIANCE →
+          </a>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       STAY CURRENT
+       ========================================================= -->
+  <section class="products">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">STAY CURRENT</span>
+
+        <h2>
+          What’s New Across<br>
+          JupitoSecure.
+        </h2>
+
+        <p>
+          Follow product developments, technical perspectives,
+          demonstrations and company updates.
+        </p>
+      </div>
+
+
+      <div class="catalog-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">EVENTS</span>
+
+          <h3>Events</h3>
+
+          <p>
+            Upcoming events, demonstrations and opportunities
+            to meet the JupitoSecure team.
+          </p>
+
+          <a href="#events" class="text-link">
+            VIEW EVENTS →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">DEMONSTRATIONS</span>
+
+          <h3>Exhibits</h3>
+
+          <p>
+            Conferences, exhibitions, demonstrations and
+            showcased JupitoSecure technologies.
+          </p>
+
+          <a href="#exhibits" class="text-link">
+            EXPLORE EXHIBITS →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">COMPANY</span>
+
+          <h3>News</h3>
+
+          <p>
+            Product releases, company announcements,
+            partnerships and major updates.
+          </p>
+
+          <a href="#news" class="text-link">
+            VIEW NEWS →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">INSIGHTS</span>
+
+          <h3>Blog</h3>
+
+          <p>
+            Security architecture, enterprise browsing,
+            remote workspaces, connectivity and AI governance.
+          </p>
+
+          <a href="#blog" class="text-link">
+            READ THE BLOG →
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       SECURITY CENTER
+       ========================================================= -->
+  <section class="why-jupitosecure" id="security-center">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">SECURITY CENTER</span>
+
+        <h2>
+          Security Information<br>
+          You Can Act On.
+        </h2>
+
+        <p>
+          Security information should be easy to find, understand
+          and act upon. The JupitoSecure Security Alerts center
+          provides a dedicated location for security-related
+          information.
+        </p>
+      </div>
+
+
+      <div class="impact-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">CVE</span>
+
+          <h3>Common Vulnerabilities</h3>
+
+          <p>
+            Track published CVE information relevant to
+            JupitoSecure products and components where applicable.
+          </p>
+
+          <a href="#security-cve" class="text-link">
+            VIEW CVE →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">VULNERABILITY</span>
+
+          <h3>Vulnerability Alerts</h3>
+
+          <p>
+            Security notifications concerning identified
+            vulnerabilities and affected deployments.
+          </p>
+
+          <a href="#security-vulnerabilities" class="text-link">
+            VIEW ALERTS →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">ADVISORY</span>
+
+          <h3>Security Advisories</h3>
+
+          <p>
+            Detailed security guidance, affected versions
+            and recommended actions.
+          </p>
+
+          <a href="#security-advisories" class="text-link">
+            VIEW ADVISORIES →
+          </a>
+        </div>
+
+
+        <div class="why-card">
+          <span class="card-kicker">PRODUCT</span>
+
+          <h3>Product Security Updates</h3>
+
+          <p>
+            Security fixes, patches, configuration changes
+            and security improvements.
+          </p>
+
+          <a href="#security-updates" class="text-link">
+            VIEW UPDATES →
+          </a>
+        </div>
+
+      </div>
+
+
+      <div class="final-cta resource-security-cta">
+
+        <div class="final-inner">
+
+          <div>
+            <span class="kicker">SECURITY ALERTS</span>
+
+            <h2>
+              Know What Changed.<br>
+              Know What to Do.
+            </h2>
+
+            <p>
+              Identify affected products, understand the issue
+              and determine the appropriate remediation.
+            </p>
+          </div>
+
+          <div class="final-actions">
+            <a href="#security-alerts" class="button button-primary">
+              VISIT SECURITY ALERTS →
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       RESOURCES BY JOURNEY
+       ========================================================= -->
+  <section class="section-rule" id="resource-journey">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">RESOURCES BY JOURNEY</span>
+
+        <h2>
+          Start Where You Are.<br>
+          Find What Comes Next.
+        </h2>
+
+        <p>
+          Use the resource journey that matches your current stage
+          of evaluating, deploying, operating, securing or expanding
+          JupitoSecure.
+        </p>
+      </div>
+
+
+      <div class="platform-grid journey-grid">
+
+        <article class="platform-card blue">
+          <span class="number">01</span>
+          <span class="card-kicker">EVALUATE</span>
+
+          <h3>Understand the Platform</h3>
+
+          <p>
+            Understand the platform and product architecture before
+            selecting the right solution.
+          </p>
+
+          <div class="card-meta">
+            Solution Briefs · Datasheets · Product Guides
+          </div>
+
+          <a href="#solution-briefs" class="text-link">
+            START EVALUATING →
+          </a>
+        </article>
+
+
+        <article class="platform-card purple">
+          <span class="number">02</span>
+          <span class="card-kicker">DEPLOY</span>
+
+          <h3>Build Your Environment</h3>
+
+          <p>
+            Deploy and configure JupitoSecure in your selected
+            infrastructure environment.
+          </p>
+
+          <div class="card-meta">
+            Documentation · Product Guides
+          </div>
+
+          <a href="#documentation" class="text-link">
+            START DEPLOYING →
+          </a>
+        </article>
+
+
+        <article class="platform-card orange">
+          <span class="number">03</span>
+          <span class="card-kicker">OPERATE</span>
+
+          <h3>Run Securely</h3>
+
+          <p>
+            Manage users, policies, workspaces, connectivity
+            and security controls.
+          </p>
+
+          <div class="card-meta">
+            Documentation · Product Guides
+          </div>
+
+          <a href="#documentation" class="text-link">
+            START OPERATING →
+          </a>
+        </article>
+
+
+        <article class="platform-card violet">
+          <span class="number">04</span>
+          <span class="card-kicker">SECURE</span>
+
+          <h3>Stay Informed</h3>
+
+          <p>
+            Stay informed about vulnerabilities, advisories
+            and security updates.
+          </p>
+
+          <div class="card-meta">
+            Security Alerts · Compliance
+          </div>
+
+          <a href="#security-center" class="text-link">
+            REVIEW SECURITY →
+          </a>
+        </article>
+
+
+        <article class="platform-card olive">
+          <span class="number">05</span>
+          <span class="card-kicker">EXPAND</span>
+
+          <h3>Extend the Architecture</h3>
+
+          <p>
+            Explore additional platforms, products, solutions
+            and deployment patterns.
+          </p>
+
+          <div class="card-meta">
+            Solutions · Products · Documentation
+          </div>
+
+          <a href="#expand" class="text-link">
+            START EXPANDING →
+          </a>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       DOCUMENTATION
+       ========================================================= -->
+  <section class="products resource-detail" id="documentation">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">DOCUMENTATION</span>
+
+        <h2>
+          Documentation for<br>
+          Every Stage.
+        </h2>
+
+        <p>
+          Technical documentation for deploying, configuring,
+          integrating and operating JupitoSecure.
+        </p>
+      </div>
+
+
+      <div class="catalog-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">01</span>
+          <h3>Getting Started</h3>
+          <p>
+            Prerequisites, architecture and deployment options.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">02</span>
+          <h3>Installation & Deployment</h3>
+          <p>
+            Deploy JupitoSecure products across supported
+            environments.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">03</span>
+          <h3>Configuration</h3>
+          <p>
+            Configure users, policies, connectivity, workspaces,
+            browsers and security controls.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">04</span>
+          <h3>Administration</h3>
+          <p>
+            Manage users, devices, sessions, policies, resources
+            and platform services.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">05</span>
+          <h3>Integration</h3>
+          <p>
+            Connect JupitoSecure with enterprise systems and
+            security infrastructure.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">06</span>
+          <h3>Operations</h3>
+          <p>
+            Monitor, troubleshoot and maintain deployed environments.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">07</span>
+          <h3>Security</h3>
+          <p>
+            Understand security controls, audit, data protection
+            and security operations.
+          </p>
+        </div>
+
+      </div>
+
+
+      <div class="fabric resource-platforms">
+
+        <div class="section-heading center">
+          <span class="kicker light">DOCUMENTATION BY PLATFORM</span>
+
+          <h2>
+            One Documentation Model<br>
+            Across Five Platforms.
+          </h2>
+        </div>
+
+        <div class="fabric-flow">
+
+          <div class="fabric-node">
+            <strong>TELEWORKSPACE™</strong>
+            <span>Workspaces · Remote Desktop · Lifecycle</span>
+          </div>
+
+          <div class="fabric-node">
+            <strong>ENTERPRISE BROWSER™</strong>
+            <span>Browser · SaaS · GenAI · DLP</span>
+          </div>
+
+          <div class="fabric-node">
+            <strong>BROWSER ISOLATION™</strong>
+            <span>Remote Browser · Isolation · Data</span>
+          </div>
+
+          <div class="fabric-node">
+            <strong>TELECONNECT™</strong>
+            <span>Connectivity · Certificates · Resources</span>
+          </div>
+
+          <div class="fabric-node">
+            <strong>AI & AGENT EXECUTION™</strong>
+            <span>AI · Agents · MCP · Tools · Audit</span>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <div class="final-actions resource-actions">
+        <a href="#documentation" class="button button-primary">
+          OPEN DOCUMENTATION →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       PRODUCT GUIDES
+       ========================================================= -->
+  <section class="section-rule resource-detail" id="product-guides">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">PRODUCT GUIDES</span>
+
+        <h2>
+          Product-by-Product<br>
+          Guidance.
+        </h2>
+
+        <p>
+          Practical guidance for understanding and using individual
+          JupitoSecure products.
+        </p>
+      </div>
+
+
+      <div class="platform-grid">
+
+        <article class="platform-card blue">
+          <span class="card-kicker">TELEWORKSPACE™</span>
+
+          <h3>Workspace Products</h3>
+
+          <p>
+            Tele Desktop Server, Web Client, Native Client,
+            Ephemeral Desktop, Virtual Desktop, JupitoSecure OS
+            and Platform Services.
+          </p>
+        </article>
+
+        <article class="platform-card orange">
+          <span class="card-kicker">ENTERPRISE BROWSER™</span>
+
+          <h3>Browser Products</h3>
+
+          <p>
+            Enterprise Browser Client, Browser Policy / DLP
+            and Enterprise Browser Platform Services.
+          </p>
+        </article>
+
+        <article class="platform-card violet">
+          <span class="card-kicker">BROWSER ISOLATION™</span>
+
+          <h3>Isolation Products</h3>
+
+          <p>
+            Remote Ephemeral Isolated Browser and Browser
+            Isolation Platform Services.
+          </p>
+        </article>
+
+        <article class="platform-card olive">
+          <span class="card-kicker">TELECONNECT™</span>
+
+          <h3>Connectivity Products</h3>
+
+          <p>
+            Gateway Server, Gateway Proxy, Client, Edge Proxy
+            and Platform Services.
+          </p>
+        </article>
+
+        <article class="platform-card purple">
+          <span class="card-kicker">AI & AGENT EXECUTION™</span>
+
+          <h3>AI Products</h3>
+
+          <p>
+            AI Execution Brain, MCP Gateway, MCP Services,
+            MCP Tools and Platform Services.
+          </p>
+        </article>
+
+      </div>
+
+
+      <div class="why-comparison-card resource-guide-model">
+
+        <div class="problem">
+          <span class="card-kicker">EVERY GUIDE</span>
+
+          <h3>Understand the Product.</h3>
+
+          <p>
+            Overview, architecture, deployment and configuration.
+          </p>
+        </div>
+
+        <div class="approach">
+          <span class="card-kicker">OPERATE SECURELY</span>
+
+          <h3>Operate the Product.</h3>
+
+          <p>
+            Security controls, integration, administration
+            and lifecycle.
+          </p>
+        </div>
+
+      </div>
+
+
+      <div class="final-actions resource-actions">
+        <a href="#product-guides" class="button button-primary">
+          EXPLORE PRODUCT GUIDES →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       SOLUTION BRIEFS
+       ========================================================= -->
+  <section class="platforms resource-detail" id="solution-briefs">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">SOLUTION BRIEFS</span>
+
+        <h2>
+          Understand the Solution<br>
+          Around the Problem.
+        </h2>
+
+        <p>
+          Explore how JupitoSecure addresses real security and
+          operational challenges.
+        </p>
+      </div>
+
+
+      <div class="platform-grid">
+
+        <article class="platform-card blue">
+          <h3>Secure Remote Operations</h3>
+          <p>
+            Controlled remote access to workspaces, applications
+            and private resources.
+          </p>
+        </article>
+
+        <article class="platform-card olive">
+          <h3>Secure IT/OT Access</h3>
+          <p>
+            Controlled connectivity to sensitive operational
+            environments.
+          </p>
+        </article>
+
+        <article class="platform-card purple">
+          <h3>Secure Contractor Workspace</h3>
+          <p>
+            Temporary and controlled workspace access for
+            contractors and third parties.
+          </p>
+        </article>
+
+        <article class="platform-card orange">
+          <h3>Secure Enterprise Browser</h3>
+          <p>
+            Managed browsing, SaaS and GenAI governance.
+          </p>
+        </article>
+
+        <article class="platform-card violet">
+          <h3>High-Risk Web Browsing</h3>
+          <p>
+            Remote isolation for higher-risk web execution.
+          </p>
+        </article>
+
+        <article class="platform-card blue">
+          <h3>Secure AI Workforce</h3>
+          <p>
+            Controlled employee access to AI services and
+            enterprise data.
+          </p>
+        </article>
+
+        <article class="platform-card purple">
+          <h3>Secure AI Agent</h3>
+          <p>
+            Governed AI-agent execution across tools, data
+            and enterprise systems.
+          </p>
+        </article>
+
+        <article class="platform-card orange">
+          <h3>Secure Digital Workspace</h3>
+          <p>
+            Controlled workspace environments for distributed
+            users and specialized workloads.
+          </p>
+        </article>
+
+        <article class="platform-card olive">
+          <h3>Secure Examination / Assessment</h3>
+          <p>
+            Controlled digital environments for assessments
+            and examinations.
+          </p>
+        </article>
+
+        <article class="platform-card violet">
+          <h3>Defence / Government Workspace</h3>
+          <p>
+            Controlled workspaces and connectivity for
+            restricted environments.
+          </p>
+        </article>
+
+        <article class="platform-card blue">
+          <h3>Critical Infrastructure</h3>
+          <p>
+            Controlled access to sensitive operational
+            infrastructure.
+          </p>
+        </article>
+
+      </div>
+
+
+      <div class="why-card industry-resource-card">
+        <span class="card-kicker">BY INDUSTRY</span>
+
+        <h3>
+          Solution Resources by Industry
+        </h3>
+
+        <p>
+          BFSI · Healthcare · Manufacturing · Defence · Government ·
+          Critical Infrastructure · Energy & Utilities · Transportation ·
+          Telecom · Technology · Education · Professional Services · SMB
+        </p>
+
+        <a href="#industry-solutions" class="text-link">
+          EXPLORE INDUSTRY SOLUTIONS →
+        </a>
+      </div>
+
+
+      <div class="final-actions resource-actions">
+        <a href="#solution-briefs" class="button button-primary">
+          EXPLORE SOLUTION BRIEFS →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       DATASHEETS
+       ========================================================= -->
+  <section class="products resource-detail" id="datasheets">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">TECHNICAL DATASHEETS</span>
+
+        <h2>
+          Concise Technical<br>
+          Product Information.
+        </h2>
+
+        <p>
+          Technical information for evaluating JupitoSecure
+          products and platforms.
+        </p>
+      </div>
+
+
+      <div class="catalog-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">01</span>
+          <h3>TeleWorkspace™</h3>
+          <p>
+            Remote desktop, virtual workspace and ephemeral
+            execution capabilities.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">02</span>
+          <h3>Enterprise Browser™</h3>
+          <p>
+            Browser management, web control, DLP,
+            GenAI governance and audit.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">03</span>
+          <h3>Browser Isolation™</h3>
+          <p>
+            Remote browser execution, threat containment
+            and data controls.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">04</span>
+          <h3>TeleConnect™</h3>
+          <p>
+            Outbound-only connectivity, TLS, certificate
+            authentication and private-resource access.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">05</span>
+          <h3>AI & Agent Execution™</h3>
+          <p>
+            AI governance, agents, MCP, tools, DLP,
+            execution control and audit.
+          </p>
+        </div>
+
+      </div>
+
+
+      <div class="execution-flow">
+
+        <div class="flow-step">
+          <span class="number">01</span>
+          <strong>OVERVIEW</strong>
+          <small>What it does</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">02</span>
+          <strong>ARCHITECTURE</strong>
+          <small>How it fits</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">03</span>
+          <strong>CAPABILITIES</strong>
+          <small>What it provides</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">04</span>
+          <strong>SECURITY</strong>
+          <small>How it is protected</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">05</span>
+          <strong>DEPLOYMENT</strong>
+          <small>Where it runs</small>
+        </div>
+
+      </div>
+
+
+      <div class="final-actions resource-actions">
+        <a href="#datasheets" class="button button-primary">
+          BROWSE DATASHEETS →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       COMPLIANCE
+       ========================================================= -->
+  <section class="section-rule resource-detail" id="compliance">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">SECURITY · ASSURANCE · COMPLIANCE</span>
+
+        <h2>
+          Understand the Security<br>
+          Foundation.
+        </h2>
+
+        <p>
+          Understand the security controls, architecture and
+          assurance information supporting JupitoSecure deployments.
+        </p>
+      </div>
+
+
+      <div class="impact-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">IDENTITY</span>
+          <h3>Who?</h3>
+          <p>
+            Who is accessing the environment?
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">POLICY</span>
+          <h3>What?</h3>
+          <p>
+            What is permitted?
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">DLP</span>
+          <h3>Data</h3>
+          <p>
+            What information can move?
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">EXECUTION</span>
+          <h3>Where?</h3>
+          <p>
+            Where does the workload run?
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">CONNECTIVITY</span>
+          <h3>Which Resources?</h3>
+          <p>
+            Which resources can be reached?
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">AUDIT</span>
+          <h3>What Happened?</h3>
+          <p>
+            What activity was actually performed?
+          </p>
+        </div>
+
+      </div>
+
+
+      <div class="why-comparison-card">
+
+        <div class="problem">
+          <span class="card-kicker">SECURITY FOUNDATION</span>
+
+          <h3>Platform Security</h3>
+
+          <p>
+            Identity, authorization, session controls, policy,
+            DLP, least privilege, encryption, connectivity,
+            execution control and audit.
+          </p>
+        </div>
+
+        <div class="approach">
+          <span class="card-kicker">ASSURANCE</span>
+
+          <h3>Verified Information Only</h3>
+
+          <p>
+            Publish only formally established certifications,
+            attestations, standards mappings and contractual
+            or security documentation.
+          </p>
+        </div>
+
+      </div>
+
+
+      <div class="final-actions resource-actions">
+        <a href="#compliance" class="button button-primary">
+          EXPLORE COMPLIANCE RESOURCES →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       EVENTS / EXHIBITS / NEWS / BLOG
+       ========================================================= -->
+  <section class="platforms" id="current-resources">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">CURRENT RESOURCES</span>
+
+        <h2>
+          Follow JupitoSecure<br>
+          as It Evolves.
+        </h2>
+
+        <p>
+          Discover events, demonstrations, announcements and
+          technical perspectives.
+        </p>
+      </div>
+
+
+      <div class="platform-grid">
+
+        <article class="platform-card blue" id="events">
+          <span class="card-kicker">EVENTS</span>
+
+          <h3>Events</h3>
+
+          <p>
+            Technology, cybersecurity, cloud, AI and enterprise
+            events featuring JupitoSecure.
+          </p>
+
+          <div class="card-meta">
+            Upcoming · Speaking · Demonstrations · Past Events
+          </div>
+
+          <a href="#events" class="text-link">
+            VIEW EVENTS →
+          </a>
+        </article>
+
+
+        <article class="platform-card orange" id="exhibits">
+          <span class="card-kicker">EXHIBITS</span>
+
+          <h3>Exhibits & Demonstrations</h3>
+
+          <p>
+            Explore JupitoSecure technologies showcased through
+            conferences, exhibitions and demonstrations.
+          </p>
+
+          <div class="card-meta">
+            Workspace · Browser · Isolation · AI · Fabric
+          </div>
+
+          <a href="#exhibits" class="text-link">
+            EXPLORE EXHIBITS →
+          </a>
+        </article>
+
+
+        <article class="platform-card purple" id="news">
+          <span class="card-kicker">NEWS</span>
+
+          <h3>JupitoSecure News</h3>
+
+          <p>
+            Company, product, platform, partnership,
+            marketplace and security updates.
+          </p>
+
+          <div class="card-meta">
+            Company · Products · Platforms · Partnerships
+          </div>
+
+          <a href="#news" class="text-link">
+            VIEW NEWS →
+          </a>
+        </article>
+
+
+        <article class="platform-card violet" id="blog">
+          <span class="card-kicker">BLOG</span>
+
+          <h3>JupitoSecure Blog</h3>
+
+          <p>
+            Security architecture, secure execution,
+            enterprise browsing, workspace and AI governance.
+          </p>
+
+          <div class="card-meta">
+            Security · Architecture · AI · Engineering
+          </div>
+
+          <a href="#blog" class="text-link">
+            READ THE BLOG →
+          </a>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       SECURITY ALERT TYPES
+       ========================================================= -->
+  <section class="section-rule" id="security-alerts">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">SECURITY ALERTS</span>
+
+        <h2>
+          A Security Operations<br>
+          Resource.
+        </h2>
+
+        <p>
+          Identify security issues, understand affected products
+          and determine the appropriate response.
+        </p>
+      </div>
+
+
+      <div class="platform-grid">
+
+        <article class="platform-card blue" id="security-cve">
+          <span class="number">01</span>
+          <span class="card-kicker">CVE</span>
+
+          <h3>Common Vulnerabilities</h3>
+
+          <p>
+            Track published CVE information relevant to
+            JupitoSecure products and components where applicable.
+          </p>
+
+          <a href="#security-cve" class="text-link">
+            VIEW CVE →
+          </a>
+        </article>
+
+
+        <article class="platform-card orange" id="security-vulnerabilities">
+          <span class="number">02</span>
+          <span class="card-kicker">VULNERABILITY</span>
+
+          <h3>Vulnerability Alerts</h3>
+
+          <p>
+            Security notifications concerning vulnerabilities
+            that may affect JupitoSecure deployments.
+          </p>
+
+          <a href="#security-vulnerabilities" class="text-link">
+            VIEW VULNERABILITY ALERTS →
+          </a>
+        </article>
+
+
+        <article class="platform-card purple" id="security-advisories">
+          <span class="number">03</span>
+          <span class="card-kicker">ADVISORY</span>
+
+          <h3>Security Advisories</h3>
+
+          <p>
+            Detailed security guidance, affected versions
+            and recommended actions.
+          </p>
+
+          <a href="#security-advisories" class="text-link">
+            VIEW ADVISORIES →
+          </a>
+        </article>
+
+
+        <article class="platform-card violet" id="security-updates">
+          <span class="number">04</span>
+          <span class="card-kicker">PRODUCT SECURITY</span>
+
+          <h3>Product Security Updates</h3>
+
+          <p>
+            Security fixes, patches, configuration changes,
+            dependency updates and security improvements.
+          </p>
+
+          <a href="#security-updates" class="text-link">
+            VIEW SECURITY UPDATES →
+          </a>
+        </article>
+
+      </div>
+
+
+      <div class="execution-flow">
+
+        <div class="flow-step">
+          <span class="number">01</span>
+          <strong>IDENTIFY</strong>
+          <small>Security issue</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">02</span>
+          <strong>ASSESS</strong>
+          <small>Understand impact</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">03</span>
+          <strong>ADVISE</strong>
+          <small>Communicate action</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">04</span>
+          <strong>REMEDIATE</strong>
+          <small>Fix or mitigate</small>
+        </div>
+
+        <div class="flow-arrow">→</div>
+
+        <div class="flow-step">
+          <span class="number">05</span>
+          <strong>VERIFY</strong>
+          <small>Confirm resolution</small>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       SECURITY FILTER MODEL
+       ========================================================= -->
+  <section class="products">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="kicker">SECURITY ALERT SEARCH</span>
+
+        <h2>
+          Find the Alert<br>
+          That Matters.
+        </h2>
+
+        <p>
+          The Security Alerts center can be organized around
+          product, alert type, severity, status, version and date.
+        </p>
+      </div>
+
+
+      <div class="catalog-grid">
+
+        <div class="why-card">
+          <span class="card-kicker">PRODUCT</span>
+          <h3>Which Platform?</h3>
+          <p>
+            TeleWorkspace · Enterprise Browser · Browser Isolation ·
+            TeleConnect · AI & Agent Execution
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">TYPE</span>
+          <h3>What Kind of Alert?</h3>
+          <p>
+            CVE · Vulnerability · Advisory · Product Security Update
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">SEVERITY</span>
+          <h3>How Serious?</h3>
+          <p>
+            Critical · High · Medium · Low
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">STATUS</span>
+          <h3>What Is the State?</h3>
+          <p>
+            Investigating · Mitigation · Fixed · Resolved
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">VERSION</span>
+          <h3>Which Release?</h3>
+          <p>
+            Identify the affected product release or version.
+          </p>
+        </div>
+
+        <div class="why-card">
+          <span class="card-kicker">DATE</span>
+          <h3>When?</h3>
+          <p>
+            Published and updated security information.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       START WITH THE RIGHT RESOURCE
+       ========================================================= -->
+  <section class="platforms" id="start">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker">START WITH THE RIGHT RESOURCE</span>
+
+        <h2>
+          What Are You Trying<br>
+          to Do?
+        </h2>
+      </div>
+
+
+      <div class="platform-grid">
+
+        <article class="platform-card blue">
+          <span class="card-kicker">EVALUATING</span>
+
+          <h3>Evaluating JupitoSecure?</h3>
+
+          <p>
+            Start with Solution Briefs and Datasheets to understand
+            the platform and product architecture.
+          </p>
+
+          <a href="#solution-briefs" class="text-link">
+            START HERE →
+          </a>
+        </article>
+
+
+        <article class="platform-card purple">
+          <span class="card-kicker">DEPLOYING</span>
+
+          <h3>Deploying a Product?</h3>
+
+          <p>
+            Start with Documentation and Product Guides for
+            deployment and configuration.
+          </p>
+
+          <a href="#documentation" class="text-link">
+            START HERE →
+          </a>
+        </article>
+
+
+        <article class="platform-card violet">
+          <span class="card-kicker">SECURITY REVIEW</span>
+
+          <h3>Reviewing Security?</h3>
+
+          <p>
+            Visit Security Alerts and Compliance for security
+            and assurance information.
+          </p>
+
+          <a href="#security-center" class="text-link">
+            START HERE →
+          </a>
+        </article>
+
+
+        <article class="platform-card orange">
+          <span class="card-kicker">CURRENT DEVELOPMENTS</span>
+
+          <h3>Looking for What's New?</h3>
+
+          <p>
+            Follow News, Blog and Events for current developments,
+            technical perspectives and announcements.
+          </p>
+
+          <a href="#current-resources" class="text-link">
+            START HERE →
+          </a>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       EXPAND
+       ========================================================= -->
+  <section class="fabric" id="expand">
+    <div class="container">
+
+      <div class="section-heading center">
+        <span class="kicker light">JUPITOSECURE ONE™</span>
+
+        <h2>
+          Learn. Deploy. Secure.<br>
+          Operate. Expand.
+        </h2>
+
+        <p>
+          Resources follow the same lifecycle as the JupitoSecure
+          security architecture—from understanding the platform
+          through operating and expanding it.
+        </p>
+      </div>
+
+
+      <div class="fabric-flow">
+
+        <div class="fabric-node">
+          <strong>EVALUATE</strong>
+          <span>Solutions · Datasheets · Guides</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>DEPLOY</strong>
+          <span>Documentation · Configuration</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>OPERATE</strong>
+          <span>Administration · Operations</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>SECURE</strong>
+          <span>Alerts · Advisories · Compliance</span>
+        </div>
+
+        <div class="fabric-node">
+          <strong>EXPAND</strong>
+          <span>Products · Solutions · Platforms</span>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =========================================================
+       FINAL CTA
+       ========================================================= -->
+  <section class="conversion">
+    <div class="container">
+
+      <div class="final-cta">
+
+        <div class="final-inner">
+
+          <div>
+            <span class="kicker">JUPITOSECURE RESOURCES™</span>
+
+            <h2>
+              Find the Knowledge<br>
+              to Move Forward.
+            </h2>
+
+            <p>
+              Whether you are evaluating, deploying, operating,
+              securing or expanding JupitoSecure, start with
+              the resource that matches your next step.
+            </p>
+          </div>
+
+          <div class="final-actions">
+            <a href="#resource-library" class="button button-primary">
+              EXPLORE RESOURCES →
+            </a>
+
+            <a href="#documentation" class="button button-outline">
+              OPEN DOCUMENTATION →
+            </a>
+
+            <a href="#security-center" class="button button-outline">
+              SECURITY ALERTS →
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+
+<footer class="site-footer">
+    <div class="container footer-grid">
+      <div><strong>JupitoSecure One</strong>
+        <p>Five Security Platforms. One Unified Security Fabric.</p>
+      </div>
+      <div><b>Explore</b><a href="./index.html#platforms">Platforms</a><a href="./index.html#products">Products</a><a
+          href="./index.html#solutions">Solutions</a></div>
+      <div><b>Resources</b><a href="./index.html#resources">Documentation</a><a href="./index.html#marketplace">Marketplace</a><a
+          href="#final-cta">Get It Now</a></div>
+      <div><b>Company</b><a href="#">OEM & Partners</a><a href="#">Support</a><a href="#">Company</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Jupito DeepTech Pvt Ltd. All rights reserved.</div>
+  </footer>
+
+<!-- =========================================================
+     JUPITOSECURE MOBILE MENU
+========================================================= -->
+
+<div id="jpMobileMenu" class="jp-mobile-menu" aria-hidden="true">
+
+  <div class="jp-mobile-menu-panel">
+
+    <div class="jp-mobile-menu-header">
+      <a href="/" class="jp-mobile-menu-logo">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure">
+      </a>
+
+      <button
+        type="button"
+        id="jpMobileClose"
+        class="jp-mobile-menu-close"
+        aria-label="Close menu">
+        ×
+      </button>
+    </div>
+
+    <nav class="jp-mobile-menu-nav">
+
+      <a href="/">Home</a>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          JupitoSecure One™
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./jupito-secure-one.html#one-overview">Overview</a>
+          <a href="./jupito-secure-one.html#one-overview">Five Security Platforms</a>
+          <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+          <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+          <a href="./jupito-secure-one.html#one-security">Security Model</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Platforms
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./teleworkspace.html">TeleWorkspace™</a>
+          <a href="./enterprise-browser.html">Enterprise Browser™</a>
+          <a href="./browser-isolation.html">Browser Isolation™</a>
+          <a href="./teleconnect.html">TeleConnect™</a>
+          <a href="./ai-aiagent-execution.html">AI &amp; Agent Execution™</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Products
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./products.html">Product Catalog</a>
+          <a href="./products.html#teleworkspace-products">TeleWorkspace Products</a>
+          <a href="./products.html#enterprise-browser-products">Enterprise Browser Products</a>
+          <a href="./products.html#browser-isolation-products">Browser Isolation Products</a>
+          <a href="./products.html#teleconnect-products">TeleConnect Products</a>
+          <a href="./products.html#ai-agent-products">AI &amp; Agent Execution Products</a>
+          <a href="./products.html#fabric-services">Fabric Services</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Solutions
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./solutions-by-usecase.html">Overview</a>
+          <a href="./solutions-by-usecase.html#secure-remote-operations">Secure Remote Operations</a>
+          <a href="./solutions-by-usecase.html#secure-it-ot-access">Secure IT/OT Access</a>
+          <a href="./solutions-by-usecase.html#secure-contractor-workspace">Secure Contractor Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-enterprise-browser">Secure Enterprise Browser</a>
+          <a href="./solutions-by-usecase.html#high-risk-web">High-Risk Web Browsing</a>
+          <a href="./solutions-by-usecase.html#secure-ai-workforce">Secure AI Workforce</a>
+          <a href="./solutions-by-usecase.html#secure-ai-agent">Secure AI Agent</a>
+          <a href="./solutions-by-usecase.html#secure-digital-workspace">Secure Digital Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-assessment">Secure Examination / Assessment</a>
+          <a href="./solutions-by-industry.html#defence">Defence / Government Secure Workspace</a>
+          <a href="./solutions-by-industry.html#critical-infrastructure">Critical Infrastructure</a>
+          <a href="./solutions-by-industry.html#healthcare">Healthcare Secure Workspace</a>
+          <a href="./solutions-by-industry.html#bfsi">BFSI Secure Operations</a>
+          <a href="./solutions-by-industry.html#smb">SMB Secure Operations</a>
+        </div>
+      </div>
+
+      <a href="./resources.html">Resources</a>
+
+      <a href="#marketplace">Marketplace</a>
+
+      <div class="jp-mobile-menu-actions">
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-primary">
+          GET IT NOW
+        </a>
+
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-secondary">
+          BOOK A DEMO
+        </a>
+      </div>
+
+    </nav>
+
+  </div>
+</div>
+  <script src="./js/app.js"></script>
+</body>
+
+</html>

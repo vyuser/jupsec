@@ -1,0 +1,73 @@
+/* =========================================================
+   JUPITOSECURE RESOURCES
+   Reuses existing global JupitoSecure classes.
+   ========================================================= */
+
+#resources .resource-grid,
+#resources .journey-grid {
+  align-items: stretch;
+}
+
+#resources .resource-grid .platform-card,
+#resources .journey-grid .platform-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#resources .resource-grid .card-meta,
+#resources .journey-grid .card-meta {
+  margin-top: auto;
+  padding-top: 18px;
+}
+
+#resources .resource-grid .text-link,
+#resources .journey-grid .text-link {
+  margin-top: 14px;
+}
+
+#resources .hero-points {
+  flex-wrap: wrap;
+}
+
+#resources .resource-detail {
+  scroll-margin-top: 100px;
+}
+
+#resources .resource-actions {
+  margin-top: 28px;
+}
+
+#resources .resource-security-cta {
+  margin-top: 42px;
+}
+
+#resources .resource-platforms {
+  margin-top: 42px;
+}
+
+#resources .resource-guide-model {
+  margin-top: 32px;
+}
+
+#resources .industry-resource-card {
+  margin-top: 28px;
+}
+
+@media (max-width: 860px) {
+  #resources .resource-grid,
+  #resources .journey-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  #resources .resource-grid,
+  #resources .journey-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #resources .resource-detail {
+    scroll-margin-top: 70px;
+  }
+}

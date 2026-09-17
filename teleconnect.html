@@ -1,0 +1,870 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JupitoSecure One — Secure Execution Infrastructure. One Security Fabric. Five independently deployable security platforms.">
+  <title>JupitoSecure One | Secure Execution Infrastructure</title>
+
+  <link
+  rel="stylesheet"
+  href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,600,700,900&display=swap">
+  <link rel="stylesheet" href="./css/style.css">
+
+
+
+</head>
+
+<body>
+
+<header class="site-header" data-header>
+    <div class="container nav-wrap">
+      <a class="brand" href="/" aria-label="JupitoSecure home">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+
+      </a>
+
+      <!--<button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu"
+        data-menu-toggle>
+        <span></span><span></span><span></span>
+      </button> -->
+
+      <button
+  type="button"
+  id="jpMobileToggle"
+  class="jp-mobile-toggle"
+  aria-label="Open navigation"
+  aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation" data-menu>
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>JupitoSecure One </button>
+          <div class="dropdown">
+            <a href="./jupito-secure-one.html#one-overview">Overview</a>
+            <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+            <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+            <a href="./jupito-secure-one.html#one-security">Security Model</a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Platforms </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./teleworkspace.html"><b>01 TeleWorkspace</b><small>Location-independent secure workspace</small></a>
+            <a href="./enterprise-browser.html"><b>02 Enterprise Browser</b><small>Enterprise-controlled browsing</small></a>
+            <a href="./browser-isolation.html"><b>03 Browser Isolation</b><small>Isolate web execution</small></a>
+            <a href="./teleconnect.html"><b>04 TeleConnect</b><small>Secure connectivity without inbound exposure</small></a>
+            <a href="./ai-aiagent-execution.html"><b>05 AI & Agent Execution</b><small>Governed AI agents, tools and
+                workloads</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Products </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./products.html#teleworkspace-products"><b>TeleWorkspace Products</b><small>Desktop, ephemeral and virtual workspace
+                products</small></a>
+            <a href="./products.html#enterprise-browser-products"><b>Enterprise Browser Products</b><small>Managed browser, policy and DLP</small></a>
+            <a href="./products.html#browser-isolation-products"><b>Browser Isolation Products</b><small>Remote ephemeral isolated browser</small></a>
+            <a href="./products.html#teleconnect-products"><b>TeleConnect Products</b><small>Gateway, proxy, client and edge components</small></a>
+            <a href="./products.html#ai-agent-products"><b>AI & Agent Execution Products</b><small>AI Brain, MCP Gateway, services and
+                tools</small></a>
+            <a href="./products.html#fabric-services"><b>Fabric Services</b><small>Identity, policy, DLP, orchestration and audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Solutions </button>
+          <div class="dropdown dropdown-wide">
+            <a href="./solutions-by-usecase.html#secure-remote-operations"><b>Secure Remote Operations</b><small>Remote IT, support, branch and third-party
+                operations</small></a>
+            <a href="./solutions-by-usecase.html#secure-it-ot-access"><b>Secure IT/OT Access</b><small>Industrial, restricted and critical
+                environments</small></a>
+            <a href="./solutions-by-usecase.html#secure-contractor-workspace"><b>Secure Contractor Workspace</b><small>Ephemeral, controlled contractor
+                execution</small></a>
+            <a href="./solutions-by-usecase.html#high-risk-web"><b>High-Risk Web Browsing</b><small>Threat research, untrusted sites and privileged
+                browsing</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-workforce"><b>Secure AI Workforce</b><small>Governed AI across tools, browsers and
+                workspaces</small></a>
+            <a href="./solutions-by-usecase.html#secure-ai-agent"><b>Secure AI Agent</b><small>Identity → Policy → DLP → Execution → Audit</small></a>
+          </div>
+        </div>
+
+        <div class="nav-item has-menu">
+          <button class="nav-link" type="button" data-dropdown>Resources </button>
+          <div class="dropdown">
+            <a href="./resources.html#documentation">Documentation</a>
+            <a href="./resources.html#product-guides">Product Guides</a>
+            <a href="./resources.html#compliance">Compliance</a>
+            <a href="./resources.html#exhibits">Events / Exhibits</a>
+            <a href="./resources.html#news">News</a>
+            <a href="./resources.html#security-alerts">Security Alerts</a>
+          </div>
+        </div>
+
+        <a class="nav-link direct" href="./index.html#marketplace">Marketplace</a>
+        <a class="nav-cta" href="./index.html#final-cta">GET IT NOW</a>
+        <a class="nav-demo" href="./index.html#final-cta">BOOK A DEMO</a>
+      </nav>
+    </div>
+  </header>
+
+
+<main id="teleconnect">
+
+  <!-- HERO -->
+  <section class="hero section-rule">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <div class="kicker">TELECONNECT™</div>
+        <h1>Zero Inbound Ports. Secure Outbound Connectivity.</h1>
+        <p class="hero-promise">
+          <strong>Outbound-Only • TLS • Certificate Authentication • Private Resource Access</strong>
+        </p>
+        <p>
+          TeleConnect provides controlled connectivity between protected
+          environments and approved resources through an outbound connection model.
+        </p>
+        <p>
+          The protected environment initiates the connection rather than requiring
+          inbound service exposure.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#get-it-now">Get It Now</a>
+          <a class="button button-outline" href="#contact">Book a Demo</a>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="why-comparison-card approach">
+          <span class="card-kicker">OUTBOUND-ONLY CONNECTIVITY</span>
+          <h3>Connect Without Opening the Door In</h3>
+          <div class="execution-flow">
+            <span>PROTECTED ENVIRONMENT</span>
+            <b>→</b>
+            <span>TELECONNECT</span>
+            <b>→</b>
+            <span>AUTHORIZED RESOURCE</span>
+          </div>
+          <p>
+            Desktop • Application • Server&nbsp;&nbsp;|&nbsp;&nbsp;Outbound-Only • TLS • Certificate Authentication
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- OVERVIEW -->
+  <section class="why-jupitosecure section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.1 OVERVIEW</div>
+        <h2>Connect Without Opening the Door In</h2>
+        <p>
+          TeleConnect is designed for environments where connectivity is required
+          but broad inbound exposure is undesirable.
+        </p>
+      </div>
+
+      <div class="why-comparison-card approach">
+        <span class="card-kicker">CONNECTIVITY MODEL</span>
+        <div class="execution-flow">
+          <span>PROTECTED ENVIRONMENT</span>
+          <b>→</b>
+          <span>TELECONNECT</span>
+          <b>→</b>
+          <span>AUTHORIZED RESOURCE</span>
+        </div>
+        <p>
+          Desktop • Application • Server → Outbound-Only • TLS →
+          Certificate Authentication → Authorized Resource
+        </p>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">APPLICATIONS</span>
+          <h3>Applications</h3>
+          <p>Connect approved users and applications to specific authorized resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">SERVERS</span>
+          <h3>Servers</h3>
+          <p>Provide controlled connectivity to approved server resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CLOUD</span>
+          <h3>Cloud Resources</h3>
+          <p>Connect protected environments to approved private cloud resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">ON-PREMISES</span>
+          <h3>On-Premises Systems</h3>
+          <p>Reach internal systems without making broad inbound exposure the default.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">INTERNAL SERVICES</span>
+          <h3>Internal Services</h3>
+          <p>Connect to specific approved internal services under policy.</p>
+        </article>
+      </div>
+
+      <div class="section-heading compact">
+        <p>
+          Access can combine <strong>identity, certificates, policy and time-bound controls.</strong>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CAPABILITIES -->
+  <section class="products section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.2 CAPABILITIES</div>
+        <h2>Controlled Connectivity Without Broad Network Exposure</h2>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">CONNECTIVITY</span>
+          <h3>Outbound-Only Connectivity</h3>
+          <p>The protected environment initiates the connection.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">EXPOSURE</span>
+          <h3>Zero Inbound Ports</h3>
+          <p>Avoid making inbound service exposure the default connectivity model.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">RESOURCE ACCESS</span>
+          <h3>Private Resource Connectivity</h3>
+          <p>Connect to specific approved resources rather than exposing an entire network.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">TRANSPORT</span>
+          <h3>TLS-Secured Connectivity</h3>
+          <p>Protect communications through TLS-secured connections.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">AUTHENTICATION</span>
+          <h3>Certificate-Based Authentication</h3>
+          <p>Use certificates as part of the access-control model.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">IDENTITY</span>
+          <h3>Identity-Aware Access</h3>
+          <p>Associate connectivity with authorized identities.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">TIME</span>
+          <h3>Time-Bound Access</h3>
+          <p>Limit connectivity to the required duration.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">LEAST PRIVILEGE</span>
+          <h3>Least Privilege</h3>
+          <p>Control access around specific resources and permissions.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CENTRAL CONTROL</span>
+          <h3>Central Routing &amp; Policy</h3>
+          <p>Apply routing and policy controls centrally.</p>
+        </article>
+      </div>
+
+      <div class="section-heading compact">
+        <p>
+          The model combines outbound-only connections, zero inbound ports,
+          private-resource connectivity, central routing, TLS, certificate
+          authentication, identity-aware access, time-bound access and least privilege.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCT PORTFOLIO -->
+  <section class="fabric section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.3 PRODUCT PORTFOLIO</div>
+        <h2>TeleConnect Components and Platform Services</h2>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card platform-card blue">
+          <span class="number">01</span>
+          <span class="card-kicker">GATEWAY</span>
+          <h3>TeleConnect Gateway Server</h3>
+          <p>Central connectivity and routing component for controlled outbound access.</p>
+        </article>
+
+        <article class="why-card platform-card purple">
+          <span class="number">02</span>
+          <span class="card-kicker">PROXY</span>
+          <h3>TeleConnect Gateway Proxy</h3>
+          <p>Policy-controlled connectivity proxy for approved resource access.</p>
+        </article>
+
+        <article class="why-card platform-card orange">
+          <span class="number">03</span>
+          <span class="card-kicker">CLIENT</span>
+          <h3>TeleConnect Client</h3>
+          <p>Client-side connectivity component that establishes authorized outbound communication.</p>
+        </article>
+
+        <article class="why-card platform-card violet">
+          <span class="number">04</span>
+          <span class="card-kicker">EDGE</span>
+          <h3>TeleConnect Edge Proxy</h3>
+          <p>Edge connectivity component for controlled access between protected environments and authorized resources.</p>
+        </article>
+
+        <article class="why-card platform-card olive">
+          <span class="number">05</span>
+          <span class="card-kicker">PLATFORM SERVICES</span>
+          <h3>TeleConnect Platform Services</h3>
+          <p>
+            Identity • Certificates • Policy • Routing • Resource Authorization •
+            Time-Bound Access • Connection Monitoring • Logging • Audit • Security Events • SIEM Integration
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ZERO INBOUND PORTS -->
+  <section class="platforms section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.4 ZERO INBOUND PORTS</div>
+        <h2>Make Inbound Exposure the Exception — Not the Foundation</h2>
+        <p>
+          Traditional remote access frequently begins by exposing a reachable
+          service. TeleConnect reverses the connectivity model.
+        </p>
+      </div>
+
+      <div class="impact-grid">
+        <div class="why-comparison-card">
+          <span class="card-kicker">TRADITIONAL EXPOSURE</span>
+          <h3>Internet → Inbound Port → Protected Network</h3>
+          <p>Connectivity begins with an externally reachable service.</p>
+        </div>
+
+        <div class="why-comparison-card approach">
+          <span class="card-kicker">TELECONNECT</span>
+          <h3>Protected Environment → Outbound Connection → TeleConnect → Authorized Resource</h3>
+          <p>Connectivity begins from the protected environment.</p>
+        </div>
+      </div>
+
+      <div class="section-heading compact center">
+        <h3>Security Principle</h3>
+        <p><strong>Connect out. Do not expose in by default.</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- OUTBOUND CONNECTIVITY -->
+  <section class="why-jupitosecure section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.5 OUTBOUND CONNECTIVITY</div>
+        <h2>Secure Outbound Connections to Specific Resources</h2>
+        <p>
+          TeleConnect is designed around controlled connectivity rather than
+          broad network exposure.
+        </p>
+      </div>
+
+      <div class="why-comparison-card approach">
+        <span class="card-kicker">CONTROLLED CONNECTION</span>
+        <div class="execution-flow">
+          <span>PRIVATE ENVIRONMENT</span>
+          <b>→</b>
+          <span>TELECONNECT CONNECTOR</span>
+          <b>→</b>
+          <span>OUTBOUND TLS</span>
+          <b>→</b>
+          <span>SECURE ROUTING / POLICY</span>
+          <b>→</b>
+          <span>AUTHORIZED USER / APPLICATION</span>
+        </div>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">PRIVATE INFRASTRUCTURE</span>
+          <h3>Private Infrastructure</h3>
+          <p>Controlled connectivity to private environments and resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">ON-PREMISES</span>
+          <h3>On-Premises</h3>
+          <p>Outbound connectivity for internal infrastructure.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CLOUD</span>
+          <h3>Cloud Resources</h3>
+          <p>Secure access to approved private cloud resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">WORKSPACES</span>
+          <h3>Remote Workspaces</h3>
+          <p>Connect secure desktops to approved applications and infrastructure.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">RESTRICTED</span>
+          <h3>Restricted Environments</h3>
+          <p>Enable controlled outbound communication where organizational policy permits.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- TLS / CERTIFICATE -->
+  <section class="products section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.6 TLS / CERTIFICATE AUTHENTICATION</div>
+        <h2>Build Connectivity on Cryptographic Trust</h2>
+        <p>TeleConnect combines transport security, component authentication, identity and policy.</p>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">TLS</span>
+          <h3>Secure Transport</h3>
+          <p>Secure the transport connection through TLS.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CERTIFICATES</span>
+          <h3>Certificate Authentication</h3>
+          <p>Authenticate participating endpoints and components.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">IDENTITY</span>
+          <h3>Identity</h3>
+          <p>Associate access with the requesting user or application.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">POLICY</span>
+          <h3>Policy</h3>
+          <p>Determine whether the requested connection is permitted.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">TIME</span>
+          <h3>Time</h3>
+          <p>Limit access to the required period.</p>
+        </article>
+      </div>
+
+      <div class="why-comparison-card approach">
+        <span class="card-kicker">AUTHORIZED CONNECTION</span>
+        <div class="execution-flow">
+          <span>IDENTITY</span>
+          <b>+</b>
+          <span>CERTIFICATE</span>
+          <b>+</b>
+          <span>POLICY</span>
+          <b>+</b>
+          <span>RESOURCE</span>
+          <b>+</b>
+          <span>TIME</span>
+          <b>→</b>
+          <span>AUTHORIZED CONNECTION</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRIVATE RESOURCE ACCESS -->
+  <section class="conversion section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.7 PRIVATE RESOURCE ACCESS</div>
+        <h2>Connect to the Resource — Not the Whole Network</h2>
+        <p>
+          TeleConnect is designed around specific approved resources.
+        </p>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">APPLICATIONS</span>
+          <h3>Applications</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">SERVERS</span>
+          <h3>Servers</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">VMS</span>
+          <h3>Virtual Machines</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CLOUD</span>
+          <h3>Cloud Resources</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">ON-PREMISES</span>
+          <h3>On-Premises Infrastructure</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">INTERNAL</span>
+          <h3>Internal Services</h3>
+        </article>
+      </div>
+
+      <div class="section-heading compact">
+        <h3>Examples</h3>
+      </div>
+
+      <div class="impact-grid">
+        <div class="why-comparison-card">
+          <span class="card-kicker">SECURE DESKTOP</span>
+          <h3>Secure Desktop → Approved Internal Application</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">ENTERPRISE BROWSER</span>
+          <h3>Enterprise Browser → Approved Private Resource</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">AI AGENT</span>
+          <h3>AI Agent → Approved API</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DEPLOYMENT -->
+  <section class="why-jupitosecure section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.8 DEPLOYMENT</div>
+        <h2>Deploy Into Existing Environments</h2>
+        <p>
+          TeleConnect supports cloud, on-premises, VM, server and existing
+          infrastructure. It can be introduced without requiring wholesale
+          replacement of the existing infrastructure.
+        </p>
+      </div>
+
+      <div class="impact-grid">
+        <div class="why-comparison-card">
+          <span class="card-kicker">CLOUD</span>
+          <h3>Cloud</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">ON-PREMISES</span>
+          <h3>On-Premises</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">VM</span>
+          <h3>Virtual Machine</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">SERVER</span>
+          <h3>Server</h3>
+        </div>
+        <div class="why-comparison-card">
+          <span class="card-kicker">EXISTING INFRASTRUCTURE</span>
+          <h3>Existing Infrastructure</h3>
+        </div>
+      </div>
+
+      <div class="why-comparison-card approach">
+        <span class="card-kicker">TYPICAL ARCHITECTURE</span>
+        <div class="execution-flow">
+          <span>PROTECTED ENVIRONMENT</span>
+          <b>↓</b>
+          <span>OUTBOUND TLS</span>
+          <b>↓</b>
+          <span>TELECONNECT GATEWAY</span>
+          <b>↓</b>
+          <span>POLICY / ROUTING</span>
+          <b>↓</b>
+          <span>AUTHORIZED RESOURCE</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- USE CASES -->
+  <section class="products section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.9 USE CASES</div>
+        <h2>Secure Private Connectivity for Real-World Environments</h2>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">PRIVATE INFRASTRUCTURE</span>
+          <h3>Private Infrastructure</h3>
+          <p>Reach internal resources without exposing inbound service ports.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">ON-PREMISES</span>
+          <h3>On-Premises Environments</h3>
+          <p>Connect approved users or applications to internal infrastructure.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CLOUD</span>
+          <h3>Cloud Resources</h3>
+          <p>Secure access to private cloud resources.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">REMOTE WORKSPACES</span>
+          <h3>Remote Workspaces</h3>
+          <p>Connect secure desktops to approved applications and infrastructure.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">CONTRACTORS / THIRD PARTIES</span>
+          <h3>Contractors / Third Parties</h3>
+          <p>Provide limited and time-bound access.</p>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">RESTRICTED ENVIRONMENTS</span>
+          <h3>Restricted Environments</h3>
+          <p>Enable controlled outbound communication where organizational policy permits.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- GET IT NOW -->
+  <section id="get-it-now" class="conversion section-rule">
+    <div class="container">
+      <div class="section-heading">
+        <div class="kicker">5.10 GET IT NOW</div>
+        <h2>Secure Private Access Without Making Inbound Exposure the Default</h2>
+        <p>
+          Start with one protected environment or one private resource and
+          expand connectivity as required.
+        </p>
+      </div>
+
+      <div class="impact-grid">
+        <div class="why-comparison-card">
+          <span class="card-kicker">EXPLORE</span>
+          <h3>Explore TeleConnect</h3>
+          <a class="text-link" href="#teleconnect">Explore TeleConnect →</a>
+        </div>
+
+        <div class="why-comparison-card">
+          <span class="card-kicker">TRIAL</span>
+          <h3>Start a Trial</h3>
+          <a class="text-link" href="#trial">Start a Trial →</a>
+        </div>
+
+        <div class="why-comparison-card">
+          <span class="card-kicker">MARKETPLACE</span>
+          <h3>Deploy from Marketplace</h3>
+          <a class="text-link" href="#marketplace">Deploy from Marketplace →</a>
+        </div>
+
+        <div class="why-comparison-card">
+          <span class="card-kicker">DEMO</span>
+          <h3>Request a Demo</h3>
+          <a class="text-link" href="#contact">Request a Demo →</a>
+        </div>
+      </div>
+
+      <div class="section-heading compact">
+        <h3>Business Value</h3>
+      </div>
+
+      <div class="catalog-grid">
+        <article class="why-card">
+          <span class="card-kicker">01</span>
+          <h3>Zero Inbound Ports</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">02</span>
+          <h3>Reduced Network Exposure</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">03</span>
+          <h3>Time-Bound Access</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">04</span>
+          <h3>Centralized Control</h3>
+        </article>
+        <article class="why-card">
+          <span class="card-kicker">05</span>
+          <h3>Reduced VPN Dependency for Applicable Use Cases</h3>
+        </article>
+      </div>
+
+      <div class="why-comparison-card approach">
+        <h3>Secure outbound connectivity without making inbound exposure the default.</h3>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section id="contact" class="final-cta">
+    <div class="container final-inner">
+      <div>
+        <div class="kicker light">TELECONNECT™</div>
+        <h2>Zero Inbound Ports. Secure Outbound Connectivity.</h2>
+        <p>
+          Connect protected environments to approved private resources through
+          controlled outbound connectivity.
+        </p>
+      </div>
+
+      <div class="final-actions">
+        <a class="button button-white" href="#get-it-now">Get It Now →</a>
+        <a class="button button-outline" href="#demo">Book a Demo →</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+<footer class="site-footer">
+    <div class="container footer-grid">
+      <div><strong>JupitoSecure One</strong>
+        <p>Five Security Platforms. One Unified Security Fabric.</p>
+      </div>
+      <div><b>Explore</b><a href="./index.html#platforms">Platforms</a><a href="./index.html#products">Products</a><a
+          href="./index.html#solutions">Solutions</a></div>
+      <div><b>Resources</b><a href="./index.html#resources">Documentation</a><a href="./index.html#marketplace">Marketplace</a><a
+          href="#final-cta">Get It Now</a></div>
+      <div><b>Company</b><a href="#">OEM & Partners</a><a href="#">Support</a><a href="#">Company</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Jupito DeepTech Pvt Ltd. All rights reserved.</div>
+  </footer>
+
+
+
+<!-- =========================================================
+     JUPITOSECURE MOBILE MENU
+========================================================= -->
+
+<div id="jpMobileMenu" class="jp-mobile-menu" aria-hidden="true">
+
+  <div class="jp-mobile-menu-panel">
+
+    <div class="jp-mobile-menu-header">
+      <a href="/" class="jp-mobile-menu-logo">
+        <img src="images/jupitosecure-logo.png" alt="Jupito Secure">
+      </a>
+
+      <button
+        type="button"
+        id="jpMobileClose"
+        class="jp-mobile-menu-close"
+        aria-label="Close menu">
+        ×
+      </button>
+    </div>
+
+    <nav class="jp-mobile-menu-nav">
+
+      <a href="/">Home</a>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          JupitoSecure One™
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./jupito-secure-one.html#one-overview">Overview</a>
+          <a href="./jupito-secure-one.html#one-overview">Five Security Platforms</a>
+          <a href="./jupito-secure-one.html#one-fabric">Unified Security Fabric</a>
+          <a href="./jupito-secure-one.html#one-architecture">Architecture</a>
+          <a href="./jupito-secure-one.html#one-security">Security Model</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Platforms
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./teleworkspace.html">TeleWorkspace™</a>
+          <a href="./enterprise-browser.html">Enterprise Browser™</a>
+          <a href="./browser-isolation.html">Browser Isolation™</a>
+          <a href="./teleconnect.html">TeleConnect™</a>
+          <a href="./ai-aiagent-execution.html">AI &amp; Agent Execution™</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Products
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./products.html">Product Catalog</a>
+          <a href="./products.html#teleworkspace-products">TeleWorkspace Products</a>
+          <a href="./products.html#enterprise-browser-products">Enterprise Browser Products</a>
+          <a href="./products.html#browser-isolation-products">Browser Isolation Products</a>
+          <a href="./products.html#teleconnect-products">TeleConnect Products</a>
+          <a href="./products.html#ai-agent-products">AI &amp; Agent Execution Products</a>
+          <a href="./products.html#fabric-services">Fabric Services</a>
+        </div>
+      </div>
+
+      <div class="jp-mobile-menu-group">
+        <button type="button" class="jp-mobile-menu-dropdown">
+          Solutions
+          <span>+</span>
+        </button>
+
+        <div class="jp-mobile-menu-submenu">
+          <a href="./solutions-by-usecase.html">Overview</a>
+          <a href="./solutions-by-usecase.html#secure-remote-operations">Secure Remote Operations</a>
+          <a href="./solutions-by-usecase.html#secure-it-ot-access">Secure IT/OT Access</a>
+          <a href="./solutions-by-usecase.html#secure-contractor-workspace">Secure Contractor Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-enterprise-browser">Secure Enterprise Browser</a>
+          <a href="./solutions-by-usecase.html#high-risk-web">High-Risk Web Browsing</a>
+          <a href="./solutions-by-usecase.html#secure-ai-workforce">Secure AI Workforce</a>
+          <a href="./solutions-by-usecase.html#secure-ai-agent">Secure AI Agent</a>
+          <a href="./solutions-by-usecase.html#secure-digital-workspace">Secure Digital Workspace</a>
+          <a href="./solutions-by-usecase.html#secure-assessment">Secure Examination / Assessment</a>
+          <a href="./solutions-by-industry.html#defence">Defence / Government Secure Workspace</a>
+          <a href="./solutions-by-industry.html#critical-infrastructure">Critical Infrastructure</a>
+          <a href="./solutions-by-industry.html#healthcare">Healthcare Secure Workspace</a>
+          <a href="./solutions-by-industry.html#bfsi">BFSI Secure Operations</a>
+          <a href="./solutions-by-industry.html#smb">SMB Secure Operations</a>
+        </div>
+      </div>
+
+      <a href="./resources.html">Resources</a>
+
+      <a href="#marketplace">Marketplace</a>
+
+      <div class="jp-mobile-menu-actions">
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-primary">
+          GET IT NOW
+        </a>
+
+        <a href="./index.html#final-cta" class="jp-mobile-btn jp-mobile-btn-secondary">
+          BOOK A DEMO
+        </a>
+      </div>
+
+    </nav>
+
+  </div>
+</div>
+  <script src="./js/app.js"></script>
+</body>
+
+</html>
