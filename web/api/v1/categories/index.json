@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "categories": [
+    {
+      "id": "banking-finance-india",
+      "name": "Banking Finance India",
+      "file": "banking-finance-india.json",
+      "count": 27
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "file": "business.json",
+      "count": 40
+    },
+    {
+      "id": "education-india",
+      "name": "Education India",
+      "file": "education-india.json",
+      "count": 16
+    },
+    {
+      "id": "government-india",
+      "name": "Government India",
+      "file": "government-india.json",
+      "count": 24
+    },
+     {
+      "id": "legal",
+      "name": "Legal",
+      "file": "legal-india.json",
+      "count": 46
+    },
+    {
+      "id": "health-india",
+      "name": "Health India",
+      "file": "health-india.json",
+      "count": 10
+    },
+    {
+      "id": "jobs-india",
+      "name": "Jobs India",
+      "file": "jobs-india.json",
+      "count": 64
+    },
+    
+    {
+      "id": "popular",
+      "name": "Popular",
+      "file": "popular.json",
+      "count": 20
+    },
+    {
+      "id": "shopping-india",
+      "name": "Shopping India",
+      "file": "shopping-india.json",
+      "count": 18
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media",
+      "file": "social-media.json",
+      "count": 20
+    },
+    
+    {
+      "id": "telecom-india",
+      "name": "Telecom India",
+      "file": "telecom-india.json",
+      "count": 6
+    },
+    {
+      "id": "travel-india",
+      "name": "Travel India",
+      "file": "travel-india.json",
+      "count": 17
+    },
+    {
+      "id": "utilities-india",
+      "name": "Utilities India",
+      "file": "utilities-india.json",
+      "count": 144
+    },
+    {
+      "id": "ai",
+      "name": "AI & Artificial Intelligence",
+      "file": "ai.json",
+      "count": 10
+    },
+    {
+      "id": "creative",
+      "name": "Creative & Design",
+      "file": "creative.json",
+      "count": 12
+    }
+
+  ]
+}

@@ -1,0 +1,1160 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "jobs-india",
+  "count": 64,
+  "urls": [
+    {
+      "id": "jobs_india_001",
+      "name": "National Career Service",
+      "domain": "www.ncs.gov.in",
+      "canonical_url": "https://www.ncs.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government-backed career services and job search",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_002",
+      "name": "Union Public Service Commission (UPSC)",
+      "domain": "upsc.gov.in",
+      "canonical_url": "https://upsc.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Civil service examinations and central government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_003",
+      "name": "Staff Selection Commission (SSC)",
+      "domain": "ssc.gov.in",
+      "canonical_url": "https://ssc.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central government recruitment examinations",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_004",
+      "name": "Institute of Banking Personnel Selection (IBPS)",
+      "domain": "www.ibps.in",
+      "canonical_url": "https://www.ibps.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Banking recruitment examinations",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_005",
+      "name": "Railway Recruitment Boards",
+      "domain": "www.rrbapply.gov.in",
+      "canonical_url": "https://www.rrbapply.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Railway recruitment information; check relevant regional board",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_006",
+      "name": "Employment News",
+      "domain": "employmentnews.gov.in",
+      "canonical_url": "https://employmentnews.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government employment news and recruitment announcements",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_007",
+      "name": "LinkedIn Jobs",
+      "domain": "www.linkedin.com/jobs",
+      "canonical_url": "https://www.linkedin.com/jobs/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Professional roles across technology, finance, management and other sectors",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_008",
+      "name": "Naukri.com",
+      "domain": "www.naukri.com",
+      "canonical_url": "https://www.naukri.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Broad job marketplace across sectors and experience levels",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_009",
+      "name": "Indeed India",
+      "domain": "in.indeed.com",
+      "canonical_url": "https://in.indeed.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Job search across industries and employment types",
+      "source_type": "suggested_official_domain",
+      "subcategory": "general_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_010",
+      "name": "Foundit",
+      "domain": "www.foundit.in",
+      "canonical_url": "https://www.foundit.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Professional and specialist job listings",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_011",
+      "name": "Apna",
+      "domain": "apna.co",
+      "canonical_url": "https://apna.co/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Local, entry-level, operations and blue-collar jobs",
+      "source_type": "suggested_official_domain",
+      "subcategory": "blue_collar_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_012",
+      "name": "Internshala",
+      "domain": "internshala.com",
+      "canonical_url": "https://internshala.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Internships, fresher jobs and entry-level opportunities",
+      "source_type": "suggested_official_domain",
+      "subcategory": "internships",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_013",
+      "name": "Freshersworld",
+      "domain": "www.freshersworld.com",
+      "canonical_url": "https://www.freshersworld.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fresher and entry-level jobs",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freshers",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_014",
+      "name": "Cutshort",
+      "domain": "cutshort.io",
+      "canonical_url": "https://cutshort.io/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Technology, startup and specialist professional jobs",
+      "source_type": "suggested_official_domain",
+      "subcategory": "technology_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_015",
+      "name": "Wellfound",
+      "domain": "wellfound.com",
+      "canonical_url": "https://wellfound.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Startup jobs in engineering, product, design and business",
+      "source_type": "suggested_official_domain",
+      "subcategory": "startup_jobs",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_016",
+      "name": "Hirist",
+      "domain": "www.hirist.com",
+      "canonical_url": "https://www.hirist.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Technology and IT jobs",
+      "source_type": "suggested_official_domain",
+      "subcategory": "technology_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_017",
+      "name": "Instahyre",
+      "domain": "www.instahyre.com",
+      "canonical_url": "https://www.instahyre.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Technology, product, data and professional hiring",
+      "source_type": "suggested_official_domain",
+      "subcategory": "technology_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_018",
+      "name": "AICTE Internship Portal",
+      "domain": "internship.aicte-india.org",
+      "canonical_url": "https://internship.aicte-india.org/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Internship opportunities and student career resources",
+      "source_type": "suggested_official_domain",
+      "subcategory": "internships",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_019",
+      "name": "PM Internship Scheme",
+      "domain": "pminternship.mca.gov.in",
+      "canonical_url": "https://pminternship.mca.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government of India internship scheme; check current application windows",
+      "source_type": "suggested_official_domain",
+      "subcategory": "internships",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_020",
+      "name": "National Apprenticeship Promotion Scheme",
+      "domain": "www.apprenticeshipindia.gov.in",
+      "canonical_url": "https://www.apprenticeshipindia.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Apprenticeship opportunities and employer information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "apprenticeships",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_021",
+      "name": "National Apprenticeship Training Scheme (NATS)",
+      "domain": "nats.education.gov.in",
+      "canonical_url": "https://nats.education.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Apprenticeship training opportunities for eligible candidates",
+      "source_type": "suggested_official_domain",
+      "subcategory": "apprenticeships",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_022",
+      "name": "Public Enterprises Selection Board (PESB)",
+      "domain": "pesb.gov.in",
+      "canonical_url": "https://pesb.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Senior leadership selection for central public sector enterprises",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_023",
+      "name": "ONGC",
+      "domain": "ongcindia.com",
+      "canonical_url": "https://ongcindia.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector energy company; careers and recruitment notices",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_024",
+      "name": "Indian Oil Corporation",
+      "domain": "iocl.com",
+      "canonical_url": "https://iocl.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector energy company; careers and recruitment notices",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_025",
+      "name": "Bharat Heavy Electricals Limited (BHEL)",
+      "domain": "bhel.com",
+      "canonical_url": "https://www.bhel.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector engineering and industrial recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_026",
+      "name": "Bharat Electronics Limited (BEL)",
+      "domain": "bel-india.in",
+      "canonical_url": "https://bel-india.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Defence electronics PSU careers and recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_027",
+      "name": "Steel Authority of India Limited (SAIL)",
+      "domain": "sail.co.in",
+      "canonical_url": "https://sail.co.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Steel-sector PSU recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_028",
+      "name": "Coal India Limited",
+      "domain": "coalindia.in",
+      "canonical_url": "https://www.coalindia.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Coal-sector PSU recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_029",
+      "name": "Power Grid Corporation of India",
+      "domain": "powergrid.in",
+      "canonical_url": "https://www.powergrid.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Power transmission PSU careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_030",
+      "name": "NTPC Limited",
+      "domain": "ntpc.co.in",
+      "canonical_url": "https://ntpc.co.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Power generation PSU careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "government_psu",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_031",
+      "name": "State Bank of India Careers",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/web/careers",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank careers and recruitment announcements",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_032",
+      "name": "Reserve Bank of India",
+      "domain": "rbi.org.in",
+      "canonical_url": "https://www.rbi.org.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central bank recruitment and career notices",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_033",
+      "name": "NABARD",
+      "domain": "nabard.org",
+      "canonical_url": "https://www.nabard.org/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Development finance and rural banking recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_034",
+      "name": "HDFC Bank",
+      "domain": "www.hdfcbank.com",
+      "canonical_url": "https://www.hdfcbank.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private-sector banking careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_035",
+      "name": "ICICI Bank",
+      "domain": "www.icicibank.com",
+      "canonical_url": "https://www.icicibank.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private-sector banking careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_036",
+      "name": "Axis Bank",
+      "domain": "www.axisbank.com",
+      "canonical_url": "https://www.axisbank.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private-sector banking careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_037",
+      "name": "National Stock Exchange of India",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Financial markets and exchange careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_038",
+      "name": "BSE",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Financial markets and exchange careers",
+      "source_type": "suggested_official_domain",
+      "subcategory": "banking_bfsi",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_039",
+      "name": "ICAI",
+      "domain": "www.icai.org",
+      "canonical_url": "https://www.icai.org/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Chartered accountancy professional resources",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_040",
+      "name": "ICAI Campus Placement Portal",
+      "domain": "cmib.icai.org",
+      "canonical_url": "https://cmib.icai.org/",
+      "category": "jobs-india",
+      "status": "pending_review",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_review",
+        "method": "manual_review"
+      },
+      "description": "Campus placement and career opportunities for eligible chartered accountants",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_041",
+      "name": "Bar Council of India",
+      "domain": "www.barcouncilofindia.org",
+      "canonical_url": "https://www.barcouncilofindia.org/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Legal profession and regulatory information; not a general job board",
+      "source_type": "suggested_official_domain",
+      "subcategory": "professional_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_042",
+      "name": "Urban Company",
+      "domain": "www.urbancompany.com",
+      "canonical_url": "https://www.urbancompany.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Service professional opportunities in home and personal services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "blue_collar_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_043",
+      "name": "Swiggy",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Delivery partner and corporate career information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "gig_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_044",
+      "name": "Zomato",
+      "domain": "www.zomato.com",
+      "canonical_url": "https://www.zomato.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Delivery partner and corporate career information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "gig_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_045",
+      "name": "WorkIndia",
+      "domain": "www.workindia.in",
+      "canonical_url": "https://www.workindia.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Local jobs including sales, delivery, office support and operations",
+      "source_type": "suggested_official_domain",
+      "subcategory": "blue_collar_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_046",
+      "name": "Quikr Jobs",
+      "domain": "www.quikr.com/jobs",
+      "canonical_url": "https://www.quikr.com/jobs/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Local and entry-level job listings; check current availability",
+      "source_type": "suggested_official_domain",
+      "subcategory": "blue_collar_jobs",
+      "region": "India",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_047",
+      "name": "Freelancer",
+      "domain": "www.freelancer.in",
+      "canonical_url": "https://www.freelancer.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelance projects in technology, design, writing and business services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freelance",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_048",
+      "name": "Upwork",
+      "domain": "www.upwork.com",
+      "canonical_url": "https://www.upwork.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelance contracts and remote project work",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freelance",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_049",
+      "name": "Fiverr",
+      "domain": "www.fiverr.com",
+      "canonical_url": "https://www.fiverr.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelance services marketplace",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freelance",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_050",
+      "name": "Truelancer",
+      "domain": "www.truelancer.com",
+      "canonical_url": "https://www.truelancer.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelance projects and services marketplace",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freelance",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_051",
+      "name": "Guru",
+      "domain": "www.guru.com",
+      "canonical_url": "https://www.guru.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelance projects across technical and professional categories",
+      "source_type": "suggested_official_domain",
+      "subcategory": "freelance",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_052",
+      "name": "Remote OK",
+      "domain": "remoteok.com",
+      "canonical_url": "https://remoteok.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Remote job listings including technology and specialist roles",
+      "source_type": "suggested_official_domain",
+      "subcategory": "remote_jobs",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_053",
+      "name": "We Work Remotely",
+      "domain": "weworkremotely.com",
+      "canonical_url": "https://weworkremotely.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Remote job listings across professional functions",
+      "source_type": "suggested_official_domain",
+      "subcategory": "remote_jobs",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_054",
+      "name": "FlexJobs",
+      "domain": "www.flexjobs.com",
+      "canonical_url": "https://www.flexjobs.com/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Remote, flexible and part-time jobs; some services require payment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "remote_jobs",
+      "region": "International",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_055",
+      "name": "Maharashtra Public Service Commission",
+      "domain": "mpsc.gov.in",
+      "canonical_url": "https://mpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maharashtra state government recruitment and examinations",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_056",
+      "name": "MahaSwayam",
+      "domain": "www.mahaswayam.gov.in",
+      "canonical_url": "https://www.mahaswayam.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maharashtra employment, skill development and job-seeker resources",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_057",
+      "name": "Delhi Subordinate Services Selection Board",
+      "domain": "dsssb.delhi.gov.in",
+      "canonical_url": "https://dsssb.delhi.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Delhi government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_058",
+      "name": "Tamil Nadu Public Service Commission",
+      "domain": "www.tnpsc.gov.in",
+      "canonical_url": "https://www.tnpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamil Nadu state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Tamil Nadu",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_059",
+      "name": "Karnataka Public Service Commission",
+      "domain": "kpsc.kar.nic.in",
+      "canonical_url": "https://kpsc.kar.nic.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Karnataka",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_060",
+      "name": "Kerala Public Service Commission",
+      "domain": "www.keralapsc.gov.in",
+      "canonical_url": "https://www.keralapsc.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kerala state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Kerala",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_061",
+      "name": "West Bengal Public Service Commission",
+      "domain": "psc.wb.gov.in",
+      "canonical_url": "https://psc.wb.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "West Bengal state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "West Bengal",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_062",
+      "name": "Gujarat Public Service Commission",
+      "domain": "gpsc.gujarat.gov.in",
+      "canonical_url": "https://gpsc.gujarat.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Gujarat state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Gujarat",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_063",
+      "name": "Rajasthan Public Service Commission",
+      "domain": "rpsc.rajasthan.gov.in",
+      "canonical_url": "https://rpsc.rajasthan.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Rajasthan state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Rajasthan",
+      "review_required": true
+    },
+    {
+      "id": "jobs_india_064",
+      "name": "Bihar Public Service Commission",
+      "domain": "bpsc.bihar.gov.in",
+      "canonical_url": "https://bpsc.bihar.gov.in/",
+      "category": "jobs-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bihar state government recruitment",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_government_jobs",
+      "region": "Bihar",
+      "review_required": true
+    }
+  ]
+}

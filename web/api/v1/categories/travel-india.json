@@ -1,0 +1,1062 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "travel-india",
+  "count": 62,
+  "urls": [
+    {
+      "id": "travel_india_001",
+      "name": "IRCTC",
+      "domain": "www.irctc.co.in",
+      "canonical_url": "https://www.irctc.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Railway ticket booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "rail",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_002",
+      "name": "Indian Railways",
+      "domain": "indianrailways.gov.in",
+      "canonical_url": "https://indianrailways.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official railway information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "rail",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_003",
+      "name": "MakeMyTrip",
+      "domain": "www.makemytrip.com",
+      "canonical_url": "https://www.makemytrip.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-mode travel booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "travel_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_004",
+      "name": "Cleartrip",
+      "domain": "www.cleartrip.com",
+      "canonical_url": "https://www.cleartrip.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Flight and travel booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "travel_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_005",
+      "name": "Yatra",
+      "domain": "www.yatra.com",
+      "canonical_url": "https://www.yatra.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Travel booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "travel_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_006",
+      "name": "Air India",
+      "domain": "www.airindia.com",
+      "canonical_url": "https://www.airindia.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airline bookings and passenger services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "airline",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_007",
+      "name": "IndiGo",
+      "domain": "www.goindigo.in",
+      "canonical_url": "https://www.goindigo.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airline bookings and passenger services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "airline",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_008",
+      "name": "Akasa Air",
+      "domain": "www.akasaair.com",
+      "canonical_url": "https://www.akasaair.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airline bookings and passenger services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "airline",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_009",
+      "name": "SpiceJet",
+      "domain": "www.spicejet.com",
+      "canonical_url": "https://www.spicejet.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airline bookings and passenger services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "airline",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_010",
+      "name": "Delhi Metro Rail Corporation",
+      "domain": "www.delhimetrorail.com",
+      "canonical_url": "https://www.delhimetrorail.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Delhi Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_011",
+      "name": "Maha Mumbai Metro Operation Corporation",
+      "domain": "www.mmmocl.co.in",
+      "canonical_url": "https://www.mmmocl.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mumbai Metro operations and service information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_012",
+      "name": "Bangalore Metro Rail Corporation",
+      "domain": "english.bmrc.co.in",
+      "canonical_url": "https://english.bmrc.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Namma Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_013",
+      "name": "Chennai Metro Rail",
+      "domain": "chennaimetrorail.org",
+      "canonical_url": "https://chennaimetrorail.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Chennai Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_014",
+      "name": "Kochi Metro Rail",
+      "domain": "corporate.kochimetro.org",
+      "canonical_url": "https://corporate.kochimetro.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kochi Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_015",
+      "name": "Hyderabad Metro Rail",
+      "domain": "ltmetro.com",
+      "canonical_url": "https://ltmetro.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hyderabad Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_016",
+      "name": "Kolkata Metro Railway",
+      "domain": "mtp.indianrailways.gov.in",
+      "canonical_url": "https://mtp.indianrailways.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kolkata Metro information through Indian Railways",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_017",
+      "name": "Pune Metro",
+      "domain": "punemetrorail.org",
+      "canonical_url": "https://www.punemetrorail.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Pune Metro information and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_018",
+      "name": "Nagpur Metro",
+      "domain": "mahametro.org",
+      "canonical_url": "https://mahametro.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nagpur Metro and Maha Metro service information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_019",
+      "name": "Gujarat Metro Rail Corporation",
+      "domain": "gujaratmetrorail.com",
+      "canonical_url": "https://www.gujaratmetrorail.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ahmedabad and Gandhinagar Metro information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "metro",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_020",
+      "name": "Maharashtra State Road Transport Corporation",
+      "domain": "msrtc.maharashtra.gov.in",
+      "canonical_url": "https://msrtc.maharashtra.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maharashtra state-run intercity and regional bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_021",
+      "name": "Karnataka State Road Transport Corporation",
+      "domain": "ksrtc.karnataka.gov.in",
+      "canonical_url": "https://ksrtc.karnataka.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka state bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_022",
+      "name": "Kerala State Road Transport Corporation",
+      "domain": "online.keralartc.com",
+      "canonical_url": "https://online.keralartc.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kerala state bus booking and services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_023",
+      "name": "Tamil Nadu State Transport Corporation",
+      "domain": "tnstc.in",
+      "canonical_url": "https://www.tnstc.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamil Nadu state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_024",
+      "name": "Andhra Pradesh State Road Transport Corporation",
+      "domain": "apsrtconline.in",
+      "canonical_url": "https://www.apsrtconline.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Andhra Pradesh state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_025",
+      "name": "Telangana State Road Transport Corporation",
+      "domain": "tgsrtc.telangana.gov.in",
+      "canonical_url": "https://tgsrtc.telangana.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telangana state bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_026",
+      "name": "Gujarat State Road Transport Corporation",
+      "domain": "gsrtc.in",
+      "canonical_url": "https://gsrtc.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Gujarat state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_027",
+      "name": "Rajasthan State Road Transport Corporation",
+      "domain": "rsrtconline.rajasthan.gov.in",
+      "canonical_url": "https://rsrtconline.rajasthan.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Rajasthan state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_028",
+      "name": "Uttar Pradesh State Road Transport Corporation",
+      "domain": "upsrtc.up.gov.in",
+      "canonical_url": "https://upsrtc.up.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Uttar Pradesh state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_029",
+      "name": "Haryana Roadways",
+      "domain": "hartrans.gov.in",
+      "canonical_url": "https://hartrans.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Haryana state bus transport information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_030",
+      "name": "Punjab Roadways / PUNBUS",
+      "domain": "punbusonline.com",
+      "canonical_url": "https://punbusonline.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab road transport and booking information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_031",
+      "name": "West Bengal Transport Corporation",
+      "domain": "wbtconline.in",
+      "canonical_url": "https://wbtconline.in/home",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "West Bengal state and city bus transport information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_032",
+      "name": "Odisha State Road Transport Corporation",
+      "domain": "osrtc.org",
+      "canonical_url": "https://osrtc.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Odisha state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_033",
+      "name": "Bihar State Road Transport Corporation",
+      "domain": "bsrtc.co.in",
+      "canonical_url": "https://bsrtc.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bihar state bus services and booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_034",
+      "name": "Assam State Transport Corporation",
+      "domain": "astc.assam.gov.in",
+      "canonical_url": "https://astc.assam.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Assam state bus transport information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "state_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_035",
+      "name": "Delhi Transport Corporation",
+      "domain": "dtc.delhi.gov.in",
+      "canonical_url": "https://dtc.delhi.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Delhi city bus transport information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_036",
+      "name": "BEST Undertaking",
+      "domain": "bestundertaking.com",
+      "canonical_url": "https://www.bestundertaking.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mumbai city buses and public transport services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_037",
+      "name": "PMPML",
+      "domain": "pmpml.org",
+      "canonical_url": "https://pmpml.org/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Pune and Pimpri-Chinchwad city bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_038",
+      "name": "Bengaluru Metropolitan Transport Corporation",
+      "domain": "mybmtc.karnataka.gov.in",
+      "canonical_url": "https://mybmtc.karnataka.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bengaluru city bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_039",
+      "name": "Chennai Metropolitan Transport Corporation",
+      "domain": "mtcbus.tn.gov.in",
+      "canonical_url": "https://mtcbus.tn.gov.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Chennai city bus services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_040",
+      "name": "Kolkata city transport / WBTC",
+      "domain": "wbtconline.in",
+      "canonical_url": "https://wbtconline.in/home",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kolkata city transport information",
+      "source_type": "suggested_official_domain",
+      "subcategory": "city_bus",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_041",
+      "name": "Uber India",
+      "domain": "www.uber.com",
+      "canonical_url": "https://www.uber.com/in/en/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ride-hailing and taxi services",
+      "source_type": "suggested_official_domain",
+      "subcategory": "taxi_ride_hailing",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_042",
+      "name": "Ola Cabs",
+      "domain": "www.olacabs.com",
+      "canonical_url": "https://www.olacabs.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ride-hailing and taxi services; availability varies by city",
+      "source_type": "suggested_official_domain",
+      "subcategory": "taxi_ride_hailing",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_043",
+      "name": "Rapido",
+      "domain": "www.rapido.bike",
+      "canonical_url": "https://www.rapido.bike/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bike taxi and other mobility services where available",
+      "source_type": "suggested_official_domain",
+      "subcategory": "taxi_ride_hailing",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_044",
+      "name": "inDrive",
+      "domain": "indrive.com",
+      "canonical_url": "https://indrive.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ride-hailing services; availability varies by city",
+      "source_type": "suggested_official_domain",
+      "subcategory": "taxi_ride_hailing",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_045",
+      "name": "Meru Cabs",
+      "domain": "www.meru.in",
+      "canonical_url": "https://www.meru.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cab and airport taxi services; coverage varies",
+      "source_type": "suggested_official_domain",
+      "subcategory": "taxi_ride_hailing",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_046",
+      "name": "Savaari Car Rentals",
+      "domain": "www.savaari.com",
+      "canonical_url": "https://www.savaari.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Outstation and local car rentals",
+      "source_type": "suggested_official_domain",
+      "subcategory": "car_rental",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_047",
+      "name": "Zoomcar",
+      "domain": "www.zoomcar.com",
+      "canonical_url": "https://www.zoomcar.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Self-drive car rentals",
+      "source_type": "suggested_official_domain",
+      "subcategory": "car_rental",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_048",
+      "name": "redBus",
+      "domain": "www.redbus.in",
+      "canonical_url": "https://www.redbus.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private bus ticket booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "bus_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_049",
+      "name": "AbhiBus",
+      "domain": "www.abhibus.com",
+      "canonical_url": "https://www.abhibus.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bus ticket booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "bus_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_050",
+      "name": "IntrCity SmartBus",
+      "domain": "www.intrcity.com",
+      "canonical_url": "https://www.intrcity.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Intercity bus travel",
+      "source_type": "suggested_official_domain",
+      "subcategory": "bus_booking",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_051",
+      "name": "OYO",
+      "domain": "www.oyorooms.com",
+      "canonical_url": "https://www.oyorooms.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Accommodation booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "accommodation",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_052",
+      "name": "Booking.com",
+      "domain": "www.booking.com",
+      "canonical_url": "https://www.booking.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Accommodation and travel reservations",
+      "source_type": "suggested_official_domain",
+      "subcategory": "accommodation",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_053",
+      "name": "Airbnb India",
+      "domain": "www.airbnb.co.in",
+      "canonical_url": "https://www.airbnb.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Short-stay accommodation booking",
+      "source_type": "suggested_official_domain",
+      "subcategory": "accommodation",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_054",
+      "name": "Google Maps",
+      "domain": "maps.google.com",
+      "canonical_url": "https://maps.google.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maps, route planning and navigation",
+      "source_type": "suggested_official_domain",
+      "subcategory": "navigation",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_055",
+      "name": "Swiggy",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Food ordering and delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "food_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_056",
+      "name": "Zomato",
+      "domain": "www.zomato.com",
+      "canonical_url": "https://www.zomato.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Restaurant discovery and food delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "food_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_057",
+      "name": "EatSure",
+      "domain": "www.eatsure.com",
+      "canonical_url": "https://www.eatsure.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Online food ordering and delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "food_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_058",
+      "name": "Domino's India",
+      "domain": "www.dominos.co.in",
+      "canonical_url": "https://www.dominos.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Restaurant ordering and delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "food_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_059",
+      "name": "Pizza Hut India",
+      "domain": "www.pizzahut.co.in",
+      "canonical_url": "https://www.pizzahut.co.in/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Restaurant ordering and delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "food_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_060",
+      "name": "BigBasket",
+      "domain": "www.bigbasket.com",
+      "canonical_url": "https://www.bigbasket.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Online grocery ordering and delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "grocery_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_061",
+      "name": "Blinkit",
+      "domain": "blinkit.com",
+      "canonical_url": "https://blinkit.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quick commerce and grocery delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "grocery_delivery",
+      "review_required": true
+    },
+    {
+      "id": "travel_india_062",
+      "name": "Zepto",
+      "domain": "www.zepto.com",
+      "canonical_url": "https://www.zepto.com/",
+      "category": "travel-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quick commerce and grocery delivery",
+      "source_type": "suggested_official_domain",
+      "subcategory": "grocery_delivery",
+      "review_required": true
+    }
+  ]
+}

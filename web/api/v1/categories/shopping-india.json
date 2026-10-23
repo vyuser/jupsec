@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "shopping-india",
+  "count": 18,
+  "urls": [
+    {
+      "id": "shopping_india_001",
+      "name": "Amazon India",
+      "domain": "www.amazon.in",
+      "canonical_url": "https://www.amazon.in/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_002",
+      "name": "Flipkart",
+      "domain": "www.flipkart.com",
+      "canonical_url": "https://www.flipkart.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_003",
+      "name": "Myntra",
+      "domain": "www.myntra.com",
+      "canonical_url": "https://www.myntra.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fashion shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_004",
+      "name": "Ajio",
+      "domain": "www.ajio.com",
+      "canonical_url": "https://www.ajio.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fashion shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_005",
+      "name": "Tata CLiQ",
+      "domain": "www.tatacliq.com",
+      "canonical_url": "https://www.tatacliq.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_006",
+      "name": "JioMart",
+      "domain": "www.jiomart.com",
+      "canonical_url": "https://www.jiomart.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Grocery and shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_007",
+      "name": "BigBasket",
+      "domain": "www.bigbasket.com",
+      "canonical_url": "https://www.bigbasket.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Grocery",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_008",
+      "name": "Blinkit",
+      "domain": "blinkit.com",
+      "canonical_url": "https://blinkit.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quick commerce",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_009",
+      "name": "Swiggy Instamart",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quick commerce",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_010",
+      "name": "Zepto",
+      "domain": "www.zepto.com",
+      "canonical_url": "https://www.zepto.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quick commerce",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_011",
+      "name": "Nykaa",
+      "domain": "www.nykaa.com",
+      "canonical_url": "https://www.nykaa.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Beauty shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_012",
+      "name": "Meesho",
+      "domain": "www.meesho.com",
+      "canonical_url": "https://www.meesho.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_013",
+      "name": "FirstCry",
+      "domain": "www.firstcry.com",
+      "canonical_url": "https://www.firstcry.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Baby and kids shopping",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_014",
+      "name": "Croma",
+      "domain": "www.croma.com",
+      "canonical_url": "https://www.croma.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Electronics retail",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_015",
+      "name": "Reliance Digital",
+      "domain": "www.reliancedigital.in",
+      "canonical_url": "https://www.reliancedigital.in/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Electronics retail",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_016",
+      "name": "Decathlon India",
+      "domain": "www.decathlon.in",
+      "canonical_url": "https://www.decathlon.in/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sports retail",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_017",
+      "name": "IndiaMART",
+      "domain": "www.indiamart.com",
+      "canonical_url": "https://www.indiamart.com/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "B2B marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "shopping_india_018",
+      "name": "OLX India",
+      "domain": "www.olx.in",
+      "canonical_url": "https://www.olx.in/",
+      "category": "shopping-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Classifieds",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

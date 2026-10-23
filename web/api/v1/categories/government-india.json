@@ -1,0 +1,2927 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 2,
+  "category": "government-india",
+  "category_name": "Government India",
+  "count": 159,
+  "urls": [
+    {
+      "id": "government_india_001",
+      "name": "Aaple Sarkar",
+      "domain": "aaplesarkar.mahaonline.gov.in",
+      "canonical_url": "https://aaplesarkar.mahaonline.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra citizen services, applications and service status for supported departments.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_002",
+      "name": "Andhra Pradesh Government",
+      "domain": "ap.gov.in",
+      "canonical_url": "https://www.ap.gov.in/",
+      "category": "government-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+          "status": "review_required",
+        "method": "official_domain_candidate"
+      },
+      "description": "Official Andhra Pradesh government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "andhra-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_003",
+      "name": "Assam Government",
+      "domain": "assam.gov.in",
+      "canonical_url": "https://assam.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Assam government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "assam",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_004",
+      "name": "Bihar Government",
+      "domain": "state.bihar.gov.in",
+      "canonical_url": "https://state.bihar.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Official Bihar government department portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "bihar",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_005",
+      "name": "Delhi Government",
+      "domain": "delhi.gov.in",
+      "canonical_url": "https://delhi.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Government of NCT Delhi services and department links.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "delhi",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_006",
+      "name": "Goa Government",
+      "domain": "goa.gov.in",
+      "canonical_url": "https://www.goa.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Goa government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "goa",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_007",
+      "name": "Gujarat State Government",
+      "domain": "gujaratindia.gov.in",
+      "canonical_url": "https://gujaratindia.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Official Gujarat government portal and department information.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_008",
+      "name": "Haryana Government",
+      "domain": "haryana.gov.in",
+      "canonical_url": "https://haryana.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Haryana government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "haryana",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_009",
+      "name": "Himachal Pradesh Government",
+      "domain": "himachal.nic.in",
+      "canonical_url": "https://himachal.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Himachal Pradesh government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "himachal-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_010",
+      "name": "India Meteorological Department",
+      "domain": "mausam.imd.gov.in",
+      "canonical_url": "https://mausam.imd.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Weather forecasts, warnings and meteorological information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "weather",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_011",
+      "name": "Jammu and Kashmir Government",
+      "domain": "jk.nic.in",
+      "canonical_url": "https://jk.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Official Jammu and Kashmir government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "jammu-kashmir",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_012",
+      "name": "Karnataka State Government",
+      "domain": "karnataka.gov.in",
+      "canonical_url": "https://karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official Karnataka government portal and department information.",
+      "source_type": "official_government_portal",
+      "region": "karnataka",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_013",
+      "name": "Kerala Government",
+      "domain": "kerala.gov.in",
+      "canonical_url": "https://kerala.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Kerala government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "kerala",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_014",
+      "name": "Maharashtra State Excise",
+      "domain": "stateexcise.maharashtra.gov.in",
+      "canonical_url": "https://stateexcise.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "State excise department information and services.",
+      "source_type": "government_portal_candidate",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_015",
+      "name": "Maharashtra State Government",
+      "domain": "www.maharashtra.gov.in",
+      "canonical_url": "https://www.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official Maharashtra government portal and department information.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_016",
+      "name": "Ministry of External Affairs",
+      "domain": "www.mea.gov.in",
+      "canonical_url": "https://www.mea.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government ministry",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_017",
+      "name": "Ministry of Home Affairs",
+      "domain": "www.mha.gov.in",
+      "canonical_url": "https://www.mha.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government ministry",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_018",
+      "name": "MyGov India",
+      "domain": "www.mygov.in",
+      "canonical_url": "https://www.mygov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Citizen engagement",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    
+    {
+      "id": "government_india_020",
+      "name": "National Highways Authority of India",
+      "domain": "nhai.gov.in",
+      "canonical_url": "https://nhai.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "National highway information and services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "roads",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_021",
+      "name": "Odisha Government",
+      "domain": "odisha.gov.in",
+      "canonical_url": "https://odisha.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Odisha government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "odisha",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_022",
+      "name": "Puducherry Government",
+      "domain": "py.gov.in",
+      "canonical_url": "https://py.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Puducherry government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "puducherry",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_023",
+      "name": "Punjab Government",
+      "domain": "punjab.gov.in",
+      "canonical_url": "https://punjab.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Punjab government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "punjab",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_024",
+      "name": "Rajasthan Government",
+      "domain": "rajasthan.gov.in",
+      "canonical_url": "https://rajasthan.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Rajasthan government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "rajasthan",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_025",
+      "name": "Seva Sindhu",
+      "domain": "sevasindhu.karnataka.gov.in",
+      "canonical_url": "https://sevasindhu.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Karnataka citizen service delivery portal for supported departments and services.",
+      "source_type": "official_government_portal",
+      "region": "karnataka",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_026",
+      "name": "Telangana Government",
+      "domain": "telangana.gov.in",
+      "canonical_url": "https://www.telangana.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Telangana government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "telangana",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_027",
+      "name": "Uttar Pradesh Government",
+      "domain": "up.gov.in",
+      "canonical_url": "https://up.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Uttar Pradesh government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "uttar-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_028",
+      "name": "Uttarakhand Government",
+      "domain": "uk.gov.in",
+      "canonical_url": "https://uk.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Official Uttarakhand government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "uttarakhand",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_029",
+      "name": "West Bengal Government",
+      "domain": "wb.gov.in",
+      "canonical_url": "https://wb.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official West Bengal government portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "west-bengal",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_030",
+      "name": "Ahmedabad Municipal Corporation",
+      "domain": "ahmedabadcity.gov.in",
+      "canonical_url": "https://ahmedabadcity.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Ahmedabad municipal services, taxes, health and civic complaints.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_031",
+      "name": "Bangalore Water Supply and Sewerage Board",
+      "domain": "bwssb.karnataka.gov.in",
+      "canonical_url": "https://bwssb.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bengaluru water and sewerage services; verify current bill-payment route.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "water",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_032",
+      "name": "Bharat BillPay / BBPS information",
+      "domain": "npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "NPCI information about participating retail payment and bill payment systems.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "bill-payments",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_033",
+      "name": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+      "domain": "bbmp.gov.in",
+      "canonical_url": "https://bbmp.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bengaluru municipal services, property tax and civic complaints; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_034",
+      "name": "Delhi Municipal Corporation",
+      "domain": "mcdonline.nic.in",
+      "canonical_url": "https://mcdonline.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Municipal services including property tax and civic applications; select relevant MCD service.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "delhi",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_035",
+      "name": "EPFO",
+      "domain": "epfindia.gov.in",
+      "canonical_url": "https://www.epfindia.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Provident fund member, employer and pension-related services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "social-security",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_036",
+      "name": "EPFO Member Portal",
+      "domain": "unifiedportal-mem.epfindia.gov.in",
+      "canonical_url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "EPF member services including eligible claims and account services.",
+      "source_type": "government_portal_candidate",
+      "region": "central",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_037",
+      "name": "ESIC",
+      "domain": "esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Employees' State Insurance services for eligible insured persons and employers.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "social-security",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_038",
+      "name": "Goods and Services Tax Portal",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GST registration, returns, payments and taxpayer services.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_039",
+      "name": "Gujarat Commercial Tax / GST Department",
+      "domain": "commercialtax.gujarat.gov.in",
+      "canonical_url": "https://commercialtax.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Gujarat tax department information; verify current online tax service routes.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_040",
+      "name": "Income Tax e-Filing",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income tax return filing, tax payments and taxpayer services.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_041",
+      "name": "Karnataka Commercial Taxes Department",
+      "domain": "ptax.karnataka.gov.in",
+      "canonical_url": "https://ptax.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "State commercial tax department information; verify current service links.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_042",
+      "name": "Kolkata Municipal Corporation",
+      "domain": "kmcgov.in",
+      "canonical_url": "https://www.kmcgov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Kolkata municipal services, property tax and civic information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "west-bengal",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_043",
+      "name": "Maharashtra State Electricity Distribution (MSEDCL)",
+      "domain": "www.mahadiscom.in",
+      "canonical_url": "https://www.mahadiscom.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services, bills, payments and service requests.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_044",
+      "name": "Municipal Corporation of Greater Mumbai (BMC/MCGM)",
+      "domain": "portal.mcgm.gov.in",
+      "canonical_url": "https://portal.mcgm.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Mumbai civic services including property tax, water, complaints, licenses and certificates.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_045",
+      "name": "Nashik Municipal Corporation",
+      "domain": "nmc.gov.in",
+      "canonical_url": "https://nmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Nashik civic services, tax and municipal information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_046",
+      "name": "New Delhi Municipal Council",
+      "domain": "ndmc.gov.in",
+      "canonical_url": "https://www.ndmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "NDMC civic services, utility payments and citizen information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "delhi",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_047",
+      "name": "Pimpri Chinchwad Municipal Corporation",
+      "domain": "pcmcindia.gov.in",
+      "canonical_url": "https://www.pcmcindia.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "PCMC civic services, property tax, water and citizen complaints.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_048",
+      "name": "Pune Municipal Corporation",
+      "domain": "pmc.gov.in",
+      "canonical_url": "https://www.pmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Pune civic services, property tax, water, permits and complaints.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_049",
+      "name": "Reserve Bank of India",
+      "domain": "www.rbi.org.in",
+      "canonical_url": "https://www.rbi.org.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_050",
+      "name": "Surat Municipal Corporation",
+      "domain": "suratmunicipal.gov.in",
+      "canonical_url": "https://www.suratmunicipal.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Surat civic services, tax, water and complaints.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_051",
+      "name": "Akola Municipal Corporation",
+      "domain": "akolamc.in",
+      "canonical_url": "https://akolamc.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Akola civic services; verify current official domain.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_052",
+      "name": "Amravati Municipal Corporation",
+      "domain": "amravaticorporation.in",
+      "canonical_url": "https://amravaticorporation.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Amravati civic services; verify current official domain.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_053",
+      "name": "Amritsar Municipal Corporation",
+      "domain": "amritsarcorp.com",
+      "canonical_url": "https://amritsarcorp.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Amritsar municipal information; verify current official domain.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "punjab",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_054",
+      "name": "AP Eastern Power Distribution Company",
+      "domain": "apeasternpower.com",
+      "canonical_url": "https://www.apeasternpower.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered Andhra Pradesh areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "andhra-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_055",
+      "name": "BESCOM",
+      "domain": "bescom.karnataka.gov.in",
+      "canonical_url": "https://bescom.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Bengaluru electricity distribution information and consumer services.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_056",
+      "name": "BEST Undertaking",
+      "domain": "www.bestundertaking.com",
+      "canonical_url": "https://www.bestundertaking.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mumbai transport and utility",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_057",
+      "name": "Bhubaneswar Municipal Corporation",
+      "domain": "bmc.gov.in",
+      "canonical_url": "https://www.bmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bhubaneswar municipal services and civic information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "odisha",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_058",
+      "name": "Central Pollution Control Board",
+      "domain": "cpcb.nic.in",
+      "canonical_url": "https://cpcb.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Air and water pollution information and environmental regulatory resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "environment",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_059",
+      "name": "Central Public Works Department",
+      "domain": "cpwd.gov.in",
+      "canonical_url": "https://cpwd.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Central public works information and services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "public-works",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_060",
+      "name": "Chandigarh Municipal Corporation",
+      "domain": "mcchandigarh.gov.in",
+      "canonical_url": "https://mcchandigarh.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Chandigarh municipal services and civic information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "chandigarh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_061",
+      "name": "Chennai Corporation",
+      "domain": "chennaicorporation.gov.in",
+      "canonical_url": "https://chennaicorporation.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Chennai municipal services and civic information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "tamil-nadu",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_062",
+      "name": "Chhatrapati Sambhajinagar Municipal Corporation",
+      "domain": "chhsambhajinagarmc.org",
+      "canonical_url": "https://chhsambhajinagarmc.org/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Municipal information and citizen services; verify current official domain.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_063",
+      "name": "Dakshin Gujarat Vij Company Limited",
+      "domain": "dgvcl.com",
+      "canonical_url": "https://www.dgvcl.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered south Gujarat areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_064",
+      "name": "Dehradun Municipal Corporation",
+      "domain": "nndehradun.uk.gov.in",
+      "canonical_url": "https://nndehradun.uk.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Dehradun municipal services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "uttarakhand",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_065",
+      "name": "Delhi Electricity Regulatory Commission",
+      "domain": "derc.gov.in",
+      "canonical_url": "https://derc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Electricity regulation and consumer-related resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "delhi",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_066",
+      "name": "Delhi Jal Board",
+      "domain": "delhijalboard.delhi.gov.in",
+      "canonical_url": "https://delhijalboard.delhi.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Delhi water supply, bills and related services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "water",
+      "region": "delhi",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_067",
+      "name": "eNagar Gujarat",
+      "domain": "enagar.gujarat.gov.in",
+      "canonical_url": "https://enagar.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Urban local-body services such as selected certificates, registrations and municipal services.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_068",
+      "name": "Gandhinagar Municipal Corporation",
+      "domain": "gandhinagarmunicipal.com",
+      "canonical_url": "https://gandhinagarmunicipal.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Gandhinagar municipal services; verify current official domain.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_069",
+      "name": "Gujarat Electricity Regulatory Commission",
+      "domain": "gercin.org",
+      "canonical_url": "https://gercin.org/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "State electricity regulator information, orders and consumer-related regulatory resources.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_070",
+      "name": "Gujarat Gas",
+      "domain": "gujaratgas.com",
+      "canonical_url": "https://www.gujaratgas.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Piped natural gas and CNG services in served areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "gas",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_071",
+      "name": "Gujarat State Road Transport Corporation",
+      "domain": "gsrtc.in",
+      "canonical_url": "https://gsrtc.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "State bus services, schedules, bookings and passenger information.",
+      "source_type": "official_government_portal",
+      "region": "gujarat",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_072",
+      "name": "Gujarat Urja Vikas Nigam Limited",
+      "domain": "guvnl.com",
+      "canonical_url": "https://www.guvnl.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "State power-sector holding company and utility information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_073",
+      "name": "Gurugram Metropolitan Development Authority",
+      "domain": "gmda.gov.in",
+      "canonical_url": "https://gmda.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Urban infrastructure and civic project information for Gurugram.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "urban-development",
+      "region": "haryana",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_074",
+      "name": "Guwahati Municipal Corporation",
+      "domain": "gmc.assam.gov.in",
+      "canonical_url": "https://gmc.assam.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Guwahati municipal information and citizen services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "assam",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_075",
+      "name": "Hubballi-Dharwad Municipal Corporation",
+      "domain": "www.hdmc.mrc.gov.in",
+      "canonical_url": "http://www.hdmc.mrc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Hubballi-Dharwad municipal services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_076",
+      "name": "Hyderabad Metropolitan Water Supply and Sewerage Board",
+      "domain": "hyderabadwater.gov.in",
+      "canonical_url": "https://www.hyderabadwater.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Hyderabad water and sewerage services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "water",
+      "region": "telangana",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_077",
+      "name": "Jaipur Municipal Corporation Greater",
+      "domain": "jaipurmc.org",
+      "canonical_url": "https://jaipurmc.org/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Jaipur municipal information and citizen services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "rajasthan",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_078",
+      "name": "Kalyan-Dombivli Municipal Corporation",
+      "domain": "kdmc.gov.in",
+      "canonical_url": "https://www.kdmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Kalyan-Dombivli civic services; verify current service links.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_079",
+      "name": "Karnataka One",
+      "domain": "www.karnatakaone.gov.in",
+      "canonical_url": "https://www.karnatakaone.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Karnataka government and civic service access information.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_080",
+      "name": "Karnataka State Road Transport Corporation",
+      "domain": "ksrtc.karnataka.gov.in",
+      "canonical_url": "https://ksrtc.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "State transport corporation information; booking services may be on separate official portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "transport",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_081",
+      "name": "Kerala Water Authority",
+      "domain": "kwa.kerala.gov.in",
+      "canonical_url": "https://kwa.kerala.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Water supply information and consumer services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "water",
+      "region": "kerala",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_082",
+      "name": "Kolhapur Municipal Corporation",
+      "domain": "kolhapur.gov.in",
+      "canonical_url": "https://kolhapur.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Kolhapur municipal information and citizen services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_083",
+      "name": "Lucknow Municipal Corporation",
+      "domain": "lmc.up.nic.in",
+      "canonical_url": "https://lmc.up.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Lucknow municipal services; verify current service URLs.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "uttar-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_084",
+      "name": "Madhya Gujarat Vij Company Limited",
+      "domain": "mgvcl.com",
+      "canonical_url": "https://www.mgvcl.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered central Gujarat areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_085",
+      "name": "Maharashtra Jeevan Pradhikaran",
+      "domain": "mjp.maharashtra.gov.in",
+      "canonical_url": "https://mjp.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "State water supply and sanitation infrastructure authority.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "water",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_086",
+      "name": "Maharashtra Natural Gas Limited",
+      "domain": "mngl.in",
+      "canonical_url": "https://www.mngl.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Piped natural gas and CNG services in served areas; verify service territory.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "gas",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_087",
+      "name": "Maharashtra State Election Commission",
+      "domain": "mahasec.maharashtra.gov.in",
+      "canonical_url": "https://mahasec.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Local body election information and services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "civic-elections",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_088",
+      "name": "Maharashtra State Electricity Transmission Company",
+      "domain": "mahatransco.in",
+      "canonical_url": "https://www.mahatransco.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "State electricity transmission utility information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_089",
+      "name": "Maharashtra State Road Transport Corporation",
+      "domain": "msrtc.maharashtra.gov.in",
+      "canonical_url": "https://msrtc.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "State transport corporation information and passenger services.",
+      "source_type": "government_portal_candidate",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_090",
+      "name": "Mangaluru City Corporation",
+      "domain": "www.mangalurucity.mrc.gov.in",
+      "canonical_url": "http://www.mangalurucity.mrc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mangaluru civic services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_091",
+      "name": "Mira-Bhayandar Municipal Corporation",
+      "domain": "mbmc.gov.in",
+      "canonical_url": "https://www.mbmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mira-Bhayandar civic services; verify current service links.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_092",
+      "name": "Mysuru City Corporation",
+      "domain": "www.mysurucity.mrc.gov.in",
+      "canonical_url": "http://www.mysurucity.mrc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mysuru municipal information and civic services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_093",
+      "name": "Nagpur Municipal Corporation",
+      "domain": "nmcnagpur.gov.in",
+      "canonical_url": "https://www.nmcnagpur.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Nagpur civic services and municipal information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_094",
+      "name": "Navi Mumbai Municipal Corporation",
+      "domain": "nmmc.gov.in",
+      "canonical_url": "https://www.nmmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Navi Mumbai civic services and citizen information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_095",
+      "name": "Panaji City Corporation",
+      "domain": "ccpgoa.com",
+      "canonical_url": "https://ccpgoa.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Corporation of the City of Panaji information and civic services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "goa",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_096",
+      "name": "Paschim Gujarat Vij Company Limited",
+      "domain": "pgvcl.com",
+      "canonical_url": "https://www.pgvcl.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered western Gujarat areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_097",
+      "name": "Patna Municipal Corporation",
+      "domain": "pmc.bihar.gov.in",
+      "canonical_url": "https://pmc.bihar.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Patna municipal services and civic information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "bihar",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_098",
+      "name": "Puducherry Municipality",
+      "domain": "mahe.gov.in",
+      "canonical_url": "https://mahe.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Government directory entry point for local administration; locate the correct municipality service.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "puducherry",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_099",
+      "name": "Rajkot Municipal Corporation",
+      "domain": "rmc.gov.in",
+      "canonical_url": "https://www.rmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Rajkot civic services and municipal information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_100",
+      "name": "Shimla Municipal Corporation",
+      "domain": "shimlamc.hp.gov.in",
+      "canonical_url": "https://shimlamc.hp.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Shimla municipal services and citizen information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "himachal-pradesh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_101",
+      "name": "Solapur Municipal Corporation",
+      "domain": "www.solapurcorporation.gov.in",
+      "canonical_url": "https://www.solapurcorporation.gov.in/smc/home_marathi",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Solapur municipal information and citizen services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_102",
+      "name": "Srinagar Municipal Corporation",
+      "domain": "smcsrinagar.jk.gov.in",
+      "canonical_url": "https://smcsrinagar.jk.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Srinagar municipal services and information; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "jammu-kashmir",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_103",
+      "name": "Telangana Southern Power Distribution Company",
+      "domain": "tgsouthernpower.org",
+      "canonical_url": "https://tgsouthernpower.org/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered Telangana areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "telangana",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_104",
+      "name": "Thane Municipal Corporation",
+      "domain": "thanecity.gov.in",
+      "canonical_url": "https://thanecity.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Thane municipal information and citizen services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_105",
+      "name": "Uttar Gujarat Vij Company Limited",
+      "domain": "ugvcl.com",
+      "canonical_url": "https://www.ugvcl.com/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity distribution services in covered north Gujarat areas.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_106",
+      "name": "Vadodara Municipal Corporation",
+      "domain": "vmc.gov.in",
+      "canonical_url": "https://vmc.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Vadodara civic services and municipal information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_107",
+      "name": "Vasai-Virar City Municipal Corporation",
+      "domain": "vvcmc.in",
+      "canonical_url": "https://vvcmc.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Vasai-Virar civic services; verify current portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "municipal",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_108",
+      "name": "Bureau of Indian Standards",
+      "domain": "bis.gov.in",
+      "canonical_url": "https://www.bis.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Standards, product certification and consumer information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "consumer-safety",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_109",
+      "name": "Emergency Response Support System 112",
+      "domain": "www.mha.gov.in",
+      "canonical_url": "https://www.mha.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official national emergency response information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "emergency",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_110",
+      "name": "Food Safety and Standards Authority of India",
+      "domain": "fssai.gov.in",
+      "canonical_url": "https://www.fssai.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Food safety information, licensing and regulatory resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "food-safety",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_111",
+      "name": "Gujarat Police",
+      "domain": "police.gujarat.gov.in",
+      "canonical_url": "https://police.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Official Gujarat Police information and citizen service links.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_112",
+      "name": "Karnataka Police",
+      "domain": "ksp.karnataka.gov.in",
+      "canonical_url": "https://ksp.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Official Karnataka Police information and citizen services.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_113",
+      "name": "Maharashtra Police",
+      "domain": "www.mahapolice.gov.in",
+      "canonical_url": "https://www.mahapolice.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official Maharashtra Police information and citizen service links.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_114",
+      "name": "Mumbai Police",
+      "domain": "mumbaipolice.gov.in",
+      "canonical_url": "https://mumbaipolice.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Police services",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_115",
+      "name": "National Cyber Crime Reporting Portal",
+      "domain": "cybercrime.gov.in",
+      "canonical_url": "https://cybercrime.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Report eligible cybercrime incidents and online fraud.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_116",
+      "name": "National Disaster Management Authority",
+      "domain": "ndma.gov.in",
+      "canonical_url": "https://ndma.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Disaster preparedness, advisories and public safety information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "emergency-preparedness",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_117",
+      "name": "Aadhaar / UIDAI",
+      "domain": "uidai.gov.in",
+      "canonical_url": "https://uidai.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Aadhaar information, enrolment and update guidance and related services.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_118",
+      "name": "DigiLocker",
+      "domain": "www.digilocker.gov.in",
+      "canonical_url": "https://www.digilocker.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Digital document wallet for accessing and sharing eligible issued documents.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_119",
+      "name": "Election Commission of India",
+      "domain": "www.eci.gov.in",
+      "canonical_url": "https://www.eci.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Election information",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_120",
+      "name": "India Post",
+      "domain": "www.indiapost.gov.in",
+      "canonical_url": "https://www.indiapost.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Postal services",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_121",
+      "name": "Indian Railways Passenger Services",
+      "domain": "indianrail.gov.in",
+      "canonical_url": "https://www.indianrail.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Railway passenger information and services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "transport",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_122",
+      "name": "IRCTC",
+      "domain": "irctc.co.in",
+      "canonical_url": "https://www.irctc.co.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official railway ticket booking and passenger services.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "transport",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_123",
+      "name": "Parivahan Sewa",
+      "domain": "parivahan.gov.in",
+      "canonical_url": "https://parivahan.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Transport services including driving licence and vehicle-related services; availability varies by state.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_124",
+      "name": "Passport Seva",
+      "domain": "www.passportindia.gov.in",
+      "canonical_url": "https://www.passportindia.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Passport applications, appointments and application status.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_125",
+      "name": "Voter Services Portal",
+      "domain": "voters.eci.gov.in",
+      "canonical_url": "https://voters.eci.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electoral registration, voter services and application status.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_126",
+      "name": "AnyROR Gujarat Land Records",
+      "domain": "anyror.gujarat.gov.in",
+      "canonical_url": "https://anyror.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Gujarat land record viewing services.",
+      "source_type": "official_government_portal",
+      "region": "gujarat",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_127",
+      "name": "Bhoomi Karnataka Land Records",
+      "domain": "landrecords.karnataka.gov.in",
+      "canonical_url": "https://landrecords.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Karnataka land records and revenue services.",
+      "source_type": "official_government_portal",
+      "region": "karnataka",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_128",
+      "name": "Garvi Gujarat Registration",
+      "domain": "garvi.gujarat.gov.in",
+      "canonical_url": "https://garvi.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Property registration and stamp-related services; confirm the relevant service before use.",
+      "source_type": "government_portal_candidate",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_129",
+      "name": "Gujarat RERA",
+      "domain": "gujrera.gujarat.gov.in",
+      "canonical_url": "https://gujrera.gujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Real estate regulatory authority and project information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "housing",
+      "region": "gujarat",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_130",
+      "name": "Karnataka Public Grievance Portal",
+      "domain": "ipgrs.karnataka.gov.in",
+      "canonical_url": "https://ipgrs.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Karnataka public grievance registration and tracking; confirm current route.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_131",
+      "name": "Karnataka RERA",
+      "domain": "rera.karnataka.gov.in",
+      "canonical_url": "https://rera.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Karnataka real estate regulatory authority portal.",
+      "source_type": "government_portal_candidate",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_132",
+      "name": "Kaveri Online Services",
+      "domain": "kaveri.karnataka.gov.in",
+      "canonical_url": "https://kaveri.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Karnataka property registration and related registration services.",
+      "source_type": "official_government_portal",
+      "region": "karnataka",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_133",
+      "name": "MahaBhulekh Land Records",
+      "domain": "bhulekh.mahabhumi.gov.in",
+      "canonical_url": "https://bhulekh.mahabhumi.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra land record search services.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_134",
+      "name": "Mahabhumi",
+      "domain": "mahabhumi.gov.in",
+      "canonical_url": "https://mahabhumi.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Maharashtra land-record and land administration services.",
+      "source_type": "government_portal_candidate",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_135",
+      "name": "Maharashtra e-Registration and Stamps",
+      "domain": "igrmaharashtra.gov.in",
+      "canonical_url": "https://igrmaharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Property registration, stamp duty and registration department services.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_136",
+      "name": "Maharashtra Public Grievance Portal",
+      "domain": "grievances.maharashtra.gov.in",
+      "canonical_url": "https://grievances.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Maharashtra government grievance registration and tracking; verify current service route.",
+      "source_type": "government_portal_candidate",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_137",
+      "name": "MahaRERA",
+      "domain": "maharera.maharashtra.gov.in",
+      "canonical_url": "https://maharera.maharashtra.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra real estate regulator and project/complaint services.",
+      "source_type": "official_government_portal",
+      "region": "maharashtra",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_138",
+      "name": "National Consumer Helpline",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Consumer grievance assistance and complaint registration.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_139",
+      "name": "Ayushman Bharat PM-JAY",
+      "domain": "abdm.gov.in",
+      "canonical_url": "https://abdm.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Health assurance scheme information and beneficiary resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "health-benefits",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_140",
+      "name": "eSanjeevani Telemedicine",
+      "domain": "esanjeevani.mohfw.gov.in",
+      "canonical_url": "https://esanjeevani.mohfw.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Government telemedicine services; availability may vary by state and service.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "health",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_141",
+      "name": "National Health Mission",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Public health programme information and resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "health",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_142",
+      "name": "National Career Service",
+      "domain": "www.ncs.gov.in",
+      "canonical_url": "https://www.ncs.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Employment services, job search and career resources.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_143",
+      "name": "National Scholarship Portal",
+      "domain": "scholarships.gov.in",
+      "canonical_url": "https://scholarships.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Scholarship scheme applications and related status services.",
+      "source_type": "government_portal_candidate",
+      "region": "central",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_144",
+      "name": "Central Public Grievance Portal (CPGRAMS)",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Register and track eligible grievances to participating government departments.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_145",
+      "name": "Digital Gujarat",
+      "domain": "www.digitalgujarat.gov.in",
+      "canonical_url": "https://www.digitalgujarat.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Citizen services including eligible certificates, applications and scheme services.",
+      "source_type": "official_government_portal",
+      "region": "gujarat",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_146",
+      "name": "e-Jagriti Consumer Services",
+      "domain": "e-jagriti.gov.in",
+      "canonical_url": "https://e-jagriti.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_source_reference"
+      },
+      "description": "Consumer commission case and online filing services; check eligibility and current instructions.",
+      "source_type": "government_portal_candidate",
+      "region": "central",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_147",
+      "name": "eCourts India",
+      "domain": "ecourts.gov.in",
+      "canonical_url": "https://ecourts.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Court services and links to district and subordinate courts.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_148",
+      "name": "India Code",
+      "domain": "www.indiacode.nic.in",
+      "canonical_url": "https://www.indiacode.nic.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official legislation database for Central Acts and legal texts.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_149",
+      "name": "Karnataka State Pollution Control Board",
+      "domain": "kspcb.karnataka.gov.in",
+      "canonical_url": "https://kspcb.karnataka.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "State pollution control information and complaint resources.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "environment",
+      "region": "karnataka",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_150",
+      "name": "Maharashtra Pollution Control Board",
+      "domain": "mpcb.gov.in",
+      "canonical_url": "https://mpcb.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Pollution control, environmental permissions and complaint information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "environment",
+      "region": "maharashtra",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_151",
+      "name": "RTI Online",
+      "domain": "rtionline.gov.in",
+      "canonical_url": "https://rtionline.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RTI applications and first appeals for participating Central Government public authorities.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_152",
+      "name": "Tamil Nadu e-Sevai",
+      "domain": "tnesevai.tn.gov.in",
+      "canonical_url": "https://tnesevai.tn.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+          "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Tamil Nadu citizen services and certificate applications.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "citizen-services",
+      "region": "tamil-nadu",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_153",
+      "name": "UMANG",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Unified access to participating Central and State government services.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_154",
+      "name": "Chandigarh Administration",
+      "domain": "chandigarh.gov.in",
+      "canonical_url": "https://chandigarh.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Official Chandigarh Administration portal.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "state-government",
+      "region": "chandigarh",
+      "review_required": true,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_155",
+      "name": "MyScheme",
+      "domain": "www.myscheme.gov.in",
+      "canonical_url": "https://www.myscheme.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Discover government schemes and eligibility information.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_156",
+      "name": "National Portal of India",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Central gateway to government information, schemes, online services and official directories.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_157",
+      "name": "PM-KISAN",
+      "domain": "pmkisan.gov.in",
+      "canonical_url": "https://pmkisan.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Farmer scheme information, beneficiary status and related services.",
+      "source_type": "official_government_portal",
+      "region": "central",
+      "review_required": false,
+      "category_name": "Government India"
+    },
+    {
+      "id": "government_india_158",
+      "name": "Bureau of Energy Efficiency",
+      "domain": "beeindia.gov.in",
+      "canonical_url": "https://beeindia.gov.in/",
+      "category": "government-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "official_source_review",
+        "method": "official_source_reference"
+      },
+      "description": "Energy efficiency and appliance labelling information.",
+      "source_type": "government_or_public_utility_portal",
+      "subcategory": "energy",
+      "region": "national",
+      "review_required": true,
+      "category_name": "Government India"
+    }
+   
+  ]
+}

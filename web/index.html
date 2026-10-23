@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b2c68">
+  <title>JupitoSecure | Verified URLs Directory</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main id="app">
+    <!-- LOGIN VIEW -->
+    <section class="login-view is-hidden" id="loginView" aria-labelledby="loginTitle">
+      <div class="login-top">
+        <span class="language-select">English <span aria-hidden="true">⌄</span></span>
+      </div>
+      <div class="login-brand">
+        <a class="brand" aria-label="JupitoSecure home">
+        <img src="img/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+      </a>
+        <h1 id="loginTitle">A Safer Way to the Internet</h1>
+        <p>Access verified websites. Browse with confidence.</p>
+      </div>
+
+      <div class="auth-card">
+        <div class="auth-tabs" role="tablist" aria-label="Account options">
+          <button class="auth-tab active" id="loginTab" role="tab" aria-selected="true" type="button">User Login</button>
+          <button class="auth-tab" id="createTab" role="tab" aria-selected="false" type="button">Create Account</button>
+        </div>
+        <form id="authForm">
+          <div class="form-heading" id="formHeading">Welcome Back</div>
+          <p class="form-intro" id="formIntro">Login to access Verified URLs Directory</p>
+          <label class="field">
+            <span class="sr-only">Email or username</span>
+            <span class="field-icon" aria-hidden="true">✉</span>
+            <input id="emailInput" name="email" type="text" autocomplete="username" placeholder="Email / Username" required>
+          </label>
+          <label class="field">
+            <span class="field-icon" aria-hidden="true">♙</span>
+            <input id="passwordInput" name="password" type="password" autocomplete="current-password" placeholder="Password" required minlength="4">
+            <button class="password-toggle" type="button" id="togglePassword" aria-label="Show password">◉</button>
+          </label>
+          <div class="form-options">
+            <label class="remember"><input type="checkbox" id="rememberMe"> <span>Remember me</span></label>
+            <button class="text-button" type="button" id="forgotButton">Forgot password?</button>
+          </div>
+          <p class="form-message" id="authMessage" role="status" aria-live="polite"></p>
+          <button class="primary-button login-submit" type="submit"><span id="submitLabel">Login</span><span aria-hidden="true"> →</span></button>
+          <div class="or-divider"><span></span><b>OR</b><span></span></div>
+          <button class="sso-button" type="button" id="ssoButton"><span aria-hidden="true">▦</span> Continue with SSO</button>
+        </form>
+      </div>
+
+      <aside class="community-card">
+        <div class="mini-shield" aria-hidden="true">✓</div>
+        <div>
+          <strong>Free Verified URLs Directory</strong>
+          <p>A community cybersecurity initiative. Find official websites of banks, government, shopping, technology and more.</p>
+        </div>
+      </aside>
+      <div class="login-footer">Start Small. Scale Securely.</div>
+    </section>
+
+    <!-- DIRECTORY VIEW -->
+    <section class="directory-view" id="directoryView" aria-label="Verified URLs Directory">
+      <aside class="sidebar">
+         <a  aria-label="JupitoSecure home" href="#">
+        <img src="img/jupitosecure-logo.png" alt="Jupito Secure Hero Right" class="hero-visual-image-small">
+      </a>
+        <nav class="side-nav" aria-label="Main navigation">
+          <button class="nav-item active" data-view="home"><span class="nav-icon">⌂</span> Home</button>
+          <button class="nav-item" data-view="categories"><span class="nav-icon">▦</span> Categories</button>
+        </nav>
+        <div class="sidebar-trust">
+          <div class="mini-shield">✓</div>
+          <div><strong>Only verified URLs</strong><p>Listings are reviewed before publication and rechecked regularly.</p></div>
+        </div>
+       
+      </aside>
+
+      <div class="sidebar-scrim" id="sidebarScrim" aria-hidden="true"></div>
+      <div class="directory-main">
+        <header class="topbar">
+          <button type="button" class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Open navigation menu" aria-expanded="false">☰</button>
+          <form class="search-box" id="searchForm" role="search">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Search verified websites (e.g., bank, tax, IRCTC, shopping...)" aria-label="Search verified websites">
+            <button type="button" id="clearSearch" aria-label="Clear search" title="Clear search">×</button>
+          </form>
+         
+         
+        </header>
+
+
+<section class="hero-banner">
+  <div class="hero-heading">
+    <div class="hero-shield" aria-hidden="true">✓</div>
+    <div>
+      <h2>JupitoSecure SafeWeb — Trusted Websites for Daily Life</h2>
+      <p>Find verified websites for banking, shopping, travel, healthcare, education and more.</p>
+    </div>
+  </div>
+
+  <div class="hero-benefits">
+    <div>
+      <span class="benefit-icon green">✓</span>
+      <span>
+        <b>Verified Websites</b>
+        <small>Find reviewed website addresses</small>
+      </span>
+    </div>
+
+    <div>
+      <span class="benefit-icon blue">⌕</span>
+      <span>
+        <b>Avoid Fake Websites</b>
+        <small>Find official destinations more easily</small>
+      </span>
+    </div>
+
+    <div>
+      <span class="benefit-icon teal">◎</span>
+      <span>
+        <b>Everyday Services</b>
+        <small>Banking, travel, jobs and more</small>
+      </span>
+    </div>
+  </div>
+</section>
+
+
+        <section class="categories-section" id="categoriesSection">
+          <div class="section-heading"><h2>Browse by Category</h2><button class="link-button" id="viewAllCategories">View all <span>→</span></button></div>
+          <div class="category-grid" id="categoryGrid" aria-label="Website categories"></div>
+        </section>
+
+        <section class="websites-section">
+          <div class="section-heading listing-heading">
+            <div><h2 id="listingTitle">Websites that need in Daily Life </h2><p id="listingSubtitle" class="section-subtitle">Official destinations, verified before listing</p></div>
+            <div class="sort-control" role="group" aria-label="Sort websites">
+              <button class="sort-button active" data-sort="popular">Popular</button>
+              <button class="sort-button" data-sort="az">A–Z</button>
+              <button class="sort-button" data-sort="recent">Recently Added</button>
+            </div>
+          </div>
+          <div class="active-filters" id="activeFilters"></div>
+          <div class="website-grid" id="websiteGrid"></div>
+          <div class="empty-state is-hidden" id="emptyState">
+            <span class="empty-icon">⌕</span><h3>No verified websites found</h3>
+            <p>Try a different search or choose another category.</p>
+            <button class="secondary-button" id="resetFilters">Clear filters</button>
+          </div>
+        </section>
+
+        <footer class="directory-footer">
+          <span><span class="footer-dot"></span> Verified directory </span>
+          <span>Verification status does not 100% guarantee a website can never be compromised.</span>
+        </footer>
+      </div>
+    </section>
+  </main>
+
+  <!-- Website info modal -->
+  <div class="modal-backdrop is-hidden" id="infoModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-card">
+      <button class="modal-close" data-close-modal aria-label="Close dialog">×</button>
+      <div class="modal-kicker"><span class="verified-dot">✓</span> DIRECTORY ENTRY</div>
+      <div class="modal-title-row"><div class="modal-site-icon" id="modalIcon">W</div><div><h2 id="modalTitle">Website name</h2><p id="modalCategory">Category</p></div></div>
+      <div class="detail-label">Verified destination</div>
+      <div class="domain-box"><span id="modalUrl"></span><button id="copyUrlButton" class="text-button">Copy</button></div>
+      <div class="verification-note"><span>✓</span><div><b>Approved directory entry</b><p id="modalDescription"></p></div></div>
+      <dl class="metadata-list"><div><dt>Registry status</dt><dd><span class="status-pill">Verified in demo data</span></dd></div><div><dt>Last reviewed</dt><dd id="modalDate">Demo date</dd></div></dl>
+      <div class="modal-actions"><button class="secondary-button" data-close-modal>Close</button><button class="primary-button" id="modalLaunchButton">Launch website →</button></div>
+      <p class="modal-disclaimer">Production listings require real verification and continuously maintained status.</p>
+    </div>
+  </div>
+
+  <!-- Launch confirmation / isolated-browser concept -->
+  <div class="modal-backdrop is-hidden" id="launchModal" role="dialog" aria-modal="true" aria-labelledby="launchTitle">
+    <div class="modal-card launch-card">
+      <button class="modal-close" data-close-modal aria-label="Close dialog">×</button>
+      <div class="launch-shield">✓</div>
+      <h2 id="launchTitle">Ready to launch</h2>
+      <p class="launch-intro">You selected a destination from the verified directory.</p>
+      <div class="launch-domain"><b id="launchSiteName"></b><span id="launchSiteUrl"></span></div>
+      <div class="verification-note"><span>✓</span><div><b>Directory status: verified</b><p>This URL launch in normal browser and cannot create a real isolated browser session. Isolation and watermarking will available in the Jupito Secure Enterprise Browser runtime application.</p></div></div>
+      <label class="launch-check"><input type="checkbox" id="launchAcknowledgement"> I understand and agree to open site in a normal browser tab.</label>
+      <div class="modal-actions"><button class="secondary-button" data-close-modal>Cancel</button><button class="primary-button" id="confirmLaunchButton" disabled>Open website ↗</button></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script>window.TRUSTURLS_BASE_LOCAL = window.TRUSTURLS_BASE_LOCAL || "./";</script>\n  <script src="js/app.js"></script>
+</body>
+</html>

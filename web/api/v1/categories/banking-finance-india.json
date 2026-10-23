@@ -1,0 +1,1417 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 2,
+  "category": "banking-finance-india",
+  "count": 89,
+  "urls": [
+    {
+      "id": "banking_finance_india_001",
+      "name": "State Bank of India",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    
+    {
+      "id": "banking_finance_india_003",
+      "name": "HDFC Bank",
+      "domain": "www.hdfc.bank.in",
+      "canonical_url": "https://www.hdfc.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_004",
+      "name": "ICICI Bank",
+      "domain": "www.icici.bank.in",
+      "canonical_url": "https://www.icici.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_005",
+      "name": "Axis Bank",
+      "domain": "www.axis.bank.in",
+      "canonical_url": "https://www.axis.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_006",
+      "name": "Punjab National Bank",
+      "domain": "pnb.bank.in",
+      "canonical_url": "https://pnb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_007",
+      "name": "Bank of Baroda",
+      "domain": "www.bankofbaroda.in",
+      "canonical_url": "https://www.bankofbaroda.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_008",
+      "name": "Canara Bank",
+      "domain": "www.canarabank.bank.in",
+      "canonical_url": "https://www.canarabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_009",
+      "name": "Union Bank of India",
+      "domain": "www.unionbankonline.bank.in",
+      "canonical_url": "https://www.unionbankonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_010",
+      "name": "Kotak Mahindra Bank",
+      "domain": "www.kotak.bank.in",
+      "canonical_url": "https://www.kotak.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_011",
+      "name": "IndusInd Bank",
+      "domain": "www.indusind.bank.in",
+      "canonical_url": "https://www.indusind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_012",
+      "name": "IDFC FIRST Bank",
+      "domain": "www.idfcfirst.bank.in",
+      "canonical_url": "https://www.idfcfirst.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_013",
+      "name": "Bank of India",
+      "domain": "bankofindia.bank.in",
+      "canonical_url": "https://bankofindia.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_014",
+      "name": "Indian Bank",
+      "domain": "indianbank.bank.in",
+      "canonical_url": "https://indianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_015",
+      "name": "Central Bank of India",
+      "domain": "centralbank.bank.in",
+      "canonical_url": "https://centralbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_016",
+      "name": "RBI Sachet",
+      "domain": "sachet.rbi.org.in",
+      "canonical_url": "https://sachet.rbi.org.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Financial fraud reporting",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_017",
+      "name": "SEBI",
+      "domain": "www.sebi.gov.in",
+      "canonical_url": "https://www.sebi.gov.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Securities regulator",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_018",
+      "name": "NSE India",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Stock exchange",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_019",
+      "name": "BSE India",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Stock exchange",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_020",
+      "name": "NPCI",
+      "domain": "www.npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments infrastructure",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_022",
+      "name": "National Payments Corporation of India - BHIM",
+      "domain": "www.bhimupi.org.in",
+      "canonical_url": "https://www.bhimupi.org.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "UPI payments app information",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_023",
+      "name": "Paytm",
+      "domain": "paytm.com",
+      "canonical_url": "https://paytm.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments and financial services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_024",
+      "name": "PhonePe",
+      "domain": "www.phonepe.com",
+      "canonical_url": "https://www.phonepe.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Digital payments",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_025",
+      "name": "Groww",
+      "domain": "groww.in",
+      "canonical_url": "https://groww.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Investment platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_026",
+      "name": "Zerodha",
+      "domain": "zerodha.com",
+      "canonical_url": "https://zerodha.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Brokerage platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_027",
+      "name": "AMFI",
+      "domain": "www.amfiindia.com",
+      "canonical_url": "https://www.amfiindia.com/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mutual fund association",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_090",
+      "name": "Bandhan Bank",
+      "domain": "bandhan.bank.in",
+      "canonical_url": "https://bandhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_028",
+      "name": "CSB Bank",
+      "domain": "csb.bank.in",
+      "canonical_url": "https://csb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_029",
+      "name": "City Union Bank",
+      "domain": "cityunionbank.bank.in",
+      "canonical_url": "https://cityunionbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_030",
+      "name": "DCB Bank",
+      "domain": "www.dcb.bank.in",
+      "canonical_url": "https://www.dcb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_031",
+      "name": "Dhanlaxmi Bank",
+      "domain": "www.dhan.bank.in",
+      "canonical_url": "https://www.dhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_032",
+      "name": "Federal Bank",
+      "domain": "www.federal.bank.in",
+      "canonical_url": "https://www.federal.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_033",
+      "name": "Jammu & Kashmir Bank",
+      "domain": "ibank.jkb.bank.in",
+      "canonical_url": "https://ibank.jkb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_034",
+      "name": "Karnataka Bank",
+      "domain": "www.karnatakabank.bank.in",
+      "canonical_url": "https://www.karnatakabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_035",
+      "name": "Karur Vysya Bank",
+      "domain": "www.kvb.bank.in",
+      "canonical_url": "https://www.kvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_036",
+      "name": "Nainital Bank",
+      "domain": "www.nainitalbank.bank.in",
+      "canonical_url": "https://www.nainitalbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_037",
+      "name": "RBL Bank",
+      "domain": "www.rbl.bank.in",
+      "canonical_url": "https://www.rbl.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_038",
+      "name": "South Indian Bank",
+      "domain": "www.southindianbank.bank.in",
+      "canonical_url": "https://www.southindianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_039",
+      "name": "Tamilnad Mercantile Bank",
+      "domain": "www.tmb.bank.in",
+      "canonical_url": "https://www.tmb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_040",
+      "name": "YES BANK",
+      "domain": "yes.bank.in",
+      "canonical_url": "https://yes.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Private sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_041",
+      "name": "IDBI Bank",
+      "domain": "www.idbi.bank.in",
+      "canonical_url": "https://www.idbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public-sector-owned bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_042",
+      "name": "Indian Overseas Bank",
+      "domain": "www.iob.bank.in",
+      "canonical_url": "https://www.iob.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_043",
+      "name": "Punjab & Sind Bank",
+      "domain": "punjabandsind.bank.in",
+      "canonical_url": "https://punjabandsind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_044",
+      "name": "UCO Bank",
+      "domain": "www.uco.bank.in",
+      "canonical_url": "https://www.uco.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_045",
+      "name": "Bank of Maharashtra",
+      "domain": "bankofmaharashtra.bank.in",
+      "canonical_url": "https://bankofmaharashtra.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public sector bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_046",
+      "name": "AU Small Finance Bank",
+      "domain": "www.au.bank.in",
+      "canonical_url": "https://www.au.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_047",
+      "name": "Capital Small Finance Bank",
+      "domain": "www.capital.bank.in",
+      "canonical_url": "https://www.capital.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_048",
+      "name": "Equitas Small Finance Bank",
+      "domain": "equitas.bank.in",
+      "canonical_url": "https://equitas.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_049",
+      "name": "ESAF Small Finance Bank",
+      "domain": "www.esaf.bank.in",
+      "canonical_url": "https://www.esaf.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_050",
+      "name": "Jana Small Finance Bank",
+      "domain": "www.jana.bank.in",
+      "canonical_url": "https://www.jana.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_051",
+      "name": "Shivalik Small Finance Bank",
+      "domain": "shivalik.bank.in",
+      "canonical_url": "https://shivalik.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_052",
+      "name": "Suryoday Small Finance Bank",
+      "domain": "suryoday.bank.in",
+      "canonical_url": "https://suryoday.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_053",
+      "name": "Ujjivan Small Finance Bank",
+      "domain": "www.ujjivansfb.bank.in",
+      "canonical_url": "https://www.ujjivansfb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_054",
+      "name": "Unity Small Finance Bank",
+      "domain": "unity.bank.in",
+      "canonical_url": "https://unity.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_055",
+      "name": "Utkarsh Small Finance Bank",
+      "domain": "www.utkarsh.bank.in",
+      "canonical_url": "https://www.utkarsh.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_056",
+      "name": "slice Small Finance Bank",
+      "domain": "slice.bank.in",
+      "canonical_url": "https://slice.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Small finance bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_057",
+      "name": "Airtel Payments Bank",
+      "domain": "www.airtelpayments.bank.in",
+      "canonical_url": "https://www.airtelpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_058",
+      "name": "India Post Payments Bank",
+      "domain": "ippbonline.bank.in",
+      "canonical_url": "https://ippbonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_059",
+      "name": "Fino Payments Bank",
+      "domain": "www.fino.bank.in",
+      "canonical_url": "https://www.fino.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_060",
+      "name": "Jio Payments Bank",
+      "domain": "www.jiopayments.bank.in",
+      "canonical_url": "https://www.jiopayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_061",
+      "name": "NSDL Payments Bank",
+      "domain": "nsdlpayments.bank.in",
+      "canonical_url": "https://nsdlpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payments bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_062",
+      "name": "Andhra Pradesh Grameena Bank",
+      "domain": "apgb.bank.in",
+      "canonical_url": "https://apgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_063",
+      "name": "Arunachal Pradesh Rural Bank",
+      "domain": "www.aprb.bank.in",
+      "canonical_url": "https://www.aprb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_064",
+      "name": "Assam Gramin Bank",
+      "domain": "agvb.bank.in",
+      "canonical_url": "https://agvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_065",
+      "name": "Bihar Gramin Bank",
+      "domain": "bgb.bank.in",
+      "canonical_url": "https://bgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_066",
+      "name": "Chhattisgarh Rajya Gramin Bank",
+      "domain": "cgb.bank.in",
+      "canonical_url": "https://cgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_067",
+      "name": "Gujarat Gramin Bank",
+      "domain": "www.ggb.bank.in",
+      "canonical_url": "https://www.ggb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_068",
+      "name": "Haryana Gramin Bank",
+      "domain": "hgb.bank.in",
+      "canonical_url": "https://hgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_069",
+      "name": "Himachal Pradesh Gramin Bank",
+      "domain": "www.hpgb.bank.in",
+      "canonical_url": "https://www.hpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_070",
+      "name": "Jammu and Kashmir Grameen Bank",
+      "domain": "www.jkgrameen.bank.in",
+      "canonical_url": "https://www.jkgrameen.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_071",
+      "name": "Jharkhand Rajya Gramin Bank",
+      "domain": "www.jrgbank.bank.in",
+      "canonical_url": "https://www.jrgbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_072",
+      "name": "Karnataka Grameena Bank",
+      "domain": "karnatakagb.bank.in",
+      "canonical_url": "https://karnatakagb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_073",
+      "name": "Kerala Gramin Bank",
+      "domain": "kgb.bank.in",
+      "canonical_url": "https://kgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_074",
+      "name": "Madhya Pradesh Gramin Bank",
+      "domain": "mpgb.bank.in",
+      "canonical_url": "https://mpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_075",
+      "name": "Maharashtra Gramin Bank",
+      "domain": "www.mahagramin.bank.in",
+      "canonical_url": "https://www.mahagramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_076",
+      "name": "Manipur Rural Bank",
+      "domain": "manipurrural.bank.in",
+      "canonical_url": "https://manipurrural.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_077",
+      "name": "Meghalaya Rural Bank",
+      "domain": "megrb.bank.in",
+      "canonical_url": "https://megrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_078",
+      "name": "Mizoram Rural Bank",
+      "domain": "www.mrb.bank.in",
+      "canonical_url": "https://www.mrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_079",
+      "name": "Nagaland Rural Bank",
+      "domain": "www.nrb.bank.in",
+      "canonical_url": "https://www.nrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_080",
+      "name": "Odisha Grameen Bank",
+      "domain": "ebank.ogb.bank.in",
+      "canonical_url": "https://ebank.ogb.bank.in/OGB/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_081",
+      "name": "Punjab Gramin Bank",
+      "domain": "pgb.bank.in",
+      "canonical_url": "https://pgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_082",
+      "name": "Rajasthan Gramin Bank",
+      "domain": "www.rgb.bank.in",
+      "canonical_url": "https://www.rgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_083",
+      "name": "Tamil Nadu Grama Bank",
+      "domain": "tngb.bank.in",
+      "canonical_url": "https://tngb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_084",
+      "name": "Telangana Grameena Bank",
+      "domain": "tgb.bank.in",
+      "canonical_url": "https://tgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_085",
+      "name": "Tripura Gramin Bank",
+      "domain": "ibanking.tripuragramin.bank.in",
+      "canonical_url": "https://ibanking.tripuragramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_086",
+      "name": "Uttar Pradesh Gramin Bank",
+      "domain": "upgb.bank.in",
+      "canonical_url": "https://upgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_087",
+      "name": "Uttarakhand Gramin Bank",
+      "domain": "ukgb.bank.in",
+      "canonical_url": "https://ukgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_088",
+      "name": "Bangiya Gramin Vikash Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    },
+    {
+      "id": "banking_finance_india_089",
+      "name": "Paschim Banga Gramin Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Regional rural bank",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true
+    }
+  ]
+}

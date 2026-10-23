@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "telecom-india",
+  "count": 6,
+  "urls": [
+    {
+      "id": "telecom_india_001",
+      "name": "Airtel",
+      "domain": "www.airtel.in",
+      "canonical_url": "https://www.airtel.in/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telecom",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "telecom_india_002",
+      "name": "Jio",
+      "domain": "www.jio.com",
+      "canonical_url": "https://www.jio.com/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telecom",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "telecom_india_003",
+      "name": "Vi",
+      "domain": "www.myvi.in",
+      "canonical_url": "https://www.myvi.in/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telecom",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "telecom_india_004",
+      "name": "BSNL",
+      "domain": "www.bsnl.co.in",
+      "canonical_url": "https://www.bsnl.co.in/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telecom",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "telecom_india_005",
+      "name": "TRAI",
+      "domain": "www.trai.gov.in",
+      "canonical_url": "https://www.trai.gov.in/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telecom regulator",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "telecom_india_006",
+      "name": "DoT",
+      "domain": "dot.gov.in",
+      "canonical_url": "https://dot.gov.in/",
+      "category": "telecom-india",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Department of Telecommunications",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

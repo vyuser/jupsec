@@ -1,0 +1,1807 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "health-india",
+  "count": 101,
+  "urls": [
+    {
+      "id": "health_india_001",
+      "name": "Ayushman Bharat Digital Mission",
+      "domain": "abdm.gov.in",
+      "canonical_url": "https://abdm.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public health insurance scheme for eligible beneficiaries",
+      "source_type": "government_health_scheme",
+      "review_required": true
+    },
+    {
+      "id": "health_india_002",
+      "name": "National Health Authority",
+      "domain": "nha.gov.in",
+      "canonical_url": "https://nha.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Authority implementing national digital health and health assurance programmes",
+      "source_type": "government_health_authority",
+      "review_required": true
+    },
+    {
+      "id": "health_india_003",
+      "name": "ABHA",
+      "domain": "abha.abdm.gov.in",
+      "canonical_url": "https://abha.abdm.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ayushman Bharat Health Account and digital health services",
+      "source_type": "government_digital_health",
+      "review_required": true
+    },
+    {
+      "id": "health_india_004",
+      "name": "eSanjeevani",
+      "domain": "esanjeevani.mohfw.gov.in",
+      "canonical_url": "https://esanjeevani.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government telemedicine services",
+      "source_type": "government_telemedicine",
+      "review_required": true
+    },
+    {
+      "id": "health_india_005",
+      "name": "Ministry of Health and Family Welfare",
+      "domain": "mohfw.gov.in",
+      "canonical_url": "https://mohfw.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government health information and programmes",
+      "source_type": "government_ministry",
+      "review_required": true
+    },
+    {
+      "id": "health_india_006",
+      "name": "CoWIN",
+      "domain": "www.cowin.gov.in",
+      "canonical_url": "https://www.cowin.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Vaccination services portal; availability and functions may change",
+      "source_type": "government_health_portal",
+      "review_required": true
+    },
+    {
+      "id": "health_india_007",
+      "name": "Apollo Hospitals",
+      "domain": "www.apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_008",
+      "name": "Fortis Healthcare",
+      "domain": "www.fortishealthcare.com",
+      "canonical_url": "https://www.fortishealthcare.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_009",
+      "name": "Tata 1mg",
+      "domain": "www.1mg.com",
+      "canonical_url": "https://www.1mg.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Health information, pharmacy and diagnostics platform",
+      "source_type": "healthcare_platform",
+      "review_required": true
+    },
+    {
+      "id": "health_india_010",
+      "name": "Practo",
+      "domain": "www.practo.com",
+      "canonical_url": "https://www.practo.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Healthcare discovery and appointment platform",
+      "source_type": "healthcare_platform",
+      "review_required": true
+    },
+    {
+      "id": "health_india_011",
+      "name": "AIIMS New Delhi",
+      "domain": "www.aiims.edu",
+      "canonical_url": "https://www.aiims.edu/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical institute and hospital",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_012",
+      "name": "PGIMER Chandigarh",
+      "domain": "pgimer.edu.in",
+      "canonical_url": "https://pgimer.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public postgraduate medical institute and hospital",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_013",
+      "name": "JIPMER",
+      "domain": "jipmer.edu.in",
+      "canonical_url": "https://jipmer.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical institute and hospital",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_014",
+      "name": "Tata Memorial Centre",
+      "domain": "tmc.gov.in",
+      "canonical_url": "https://tmc.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cancer care, research and medical education institution",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_015",
+      "name": "Narayana Health",
+      "domain": "www.narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_016",
+      "name": "Manipal Hospitals",
+      "domain": "www.manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_017",
+      "name": "Max Healthcare",
+      "domain": "www.maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_018",
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "domain": "www.kokilabenhospital.com",
+      "canonical_url": "https://www.kokilabenhospital.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital and specialist healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_019",
+      "name": "HCG Cancer Centre",
+      "domain": "www.hcgoncology.com",
+      "canonical_url": "https://www.hcgoncology.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cancer care hospital network",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_020",
+      "name": "KIMS Hospitals",
+      "domain": "www.kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hospital network and healthcare services",
+      "source_type": "hospital",
+      "review_required": true
+    },
+    {
+      "id": "health_india_021",
+      "name": "Star Health Insurance",
+      "domain": "www.starhealth.in",
+      "canonical_url": "https://www.starhealth.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Health insurance products and services",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_022",
+      "name": "Niva Bupa Health Insurance",
+      "domain": "www.nivabupa.com",
+      "canonical_url": "https://www.nivabupa.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Health insurance products and services",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_023",
+      "name": "Care Health Insurance",
+      "domain": "www.careinsurance.com",
+      "canonical_url": "https://www.careinsurance.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Health insurance products and services",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_024",
+      "name": "Aditya Birla Health Insurance",
+      "domain": "www.adityabirlacapital.com/healthinsurance",
+      "canonical_url": "https://www.adityabirlacapital.com/healthinsurance",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Health insurance products and services",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_025",
+      "name": "HDFC ERGO Health Insurance",
+      "domain": "www.hdfcergo.com",
+      "canonical_url": "https://www.hdfcergo.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "General insurer offering health insurance",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_026",
+      "name": "ICICI Lombard Health Insurance",
+      "domain": "www.icicilombard.com",
+      "canonical_url": "https://www.icicilombard.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "General insurer offering health insurance",
+      "source_type": "health_insurance",
+      "review_required": true
+    },
+    {
+      "id": "health_india_027",
+      "name": "New India Assurance",
+      "domain": "www.newindia.co.in",
+      "canonical_url": "https://www.newindia.co.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public-sector general insurer with health insurance products",
+      "source_type": "insurance_company",
+      "review_required": true
+    },
+    {
+      "id": "health_india_028",
+      "name": "United India Insurance",
+      "domain": "uiic.co.in",
+      "canonical_url": "https://uiic.co.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Public-sector general insurer with health insurance products",
+      "source_type": "insurance_company",
+      "review_required": true
+    },
+    {
+      "id": "health_india_029",
+      "name": "National Insurance Company",
+      "domain": "nationalinsurance.nic.co.in",
+      "canonical_url": "https://nationalinsurance.nic.co.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Public-sector general insurer with health insurance products",
+      "source_type": "insurance_company",
+      "review_required": true
+    },
+    {
+      "id": "health_india_030",
+      "name": "Oriental Insurance",
+      "domain": "orientalinsurance.org.in",
+      "canonical_url": "https://orientalinsurance.org.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public-sector general insurer with health insurance products",
+      "source_type": "insurance_company",
+      "review_required": true
+    },
+    {
+      "id": "health_india_031",
+      "name": "Insurance Regulatory and Development Authority of India",
+      "domain": "irdai.gov.in",
+      "canonical_url": "https://irdai.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Insurance regulator and consumer information",
+      "source_type": "insurance_regulator",
+      "review_required": true
+    },
+    {
+      "id": "health_india_032",
+      "name": "Emergency Response Support System 112",
+      "domain": "112.gov.in",
+      "canonical_url": "https://112.gov.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Pan-India emergency response number and services",
+      "source_type": "emergency_service",
+      "review_required": true
+    },
+    {
+      "id": "health_india_033",
+      "name": "National Health Mission",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National health mission programmes and public health resources",
+      "source_type": "government_health_programme",
+      "review_required": true
+    },
+    {
+      "id": "health_india_034",
+      "name": "Indian Red Cross Society",
+      "domain": "indianredcross.org",
+      "canonical_url": "https://indianredcross.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Humanitarian, blood-service and emergency response information",
+      "source_type": "emergency_health_service",
+      "review_required": true
+    },
+    {
+      "id": "health_india_035",
+      "name": "National Organ and Tissue Transplant Organization",
+      "domain": "notto.mohfw.gov.in",
+      "canonical_url": "https://notto.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National organ and tissue donation and transplant coordination information",
+      "source_type": "health_service",
+      "review_required": true
+    },
+    {
+      "id": "health_india_036",
+      "name": "National AIDS Control Organisation",
+      "domain": "naco.gov.in",
+      "canonical_url": "https://naco.gov.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "National HIV/AIDS programme information and services",
+      "source_type": "government_health_programme",
+      "review_required": true
+    },
+    {
+      "id": "health_india_037",
+      "name": "Central Drugs Standard Control Organisation",
+      "domain": "cdsco.gov.in",
+      "canonical_url": "https://cdsco.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National regulator for drugs, cosmetics and clinical trials",
+      "source_type": "health_regulator",
+      "review_required": true
+    },
+    {
+      "id": "health_india_038",
+      "name": "Indian Council of Medical Research",
+      "domain": "icmr.gov.in",
+      "canonical_url": "https://icmr.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Medical research and public health information",
+      "source_type": "medical_research",
+      "review_required": true
+    },
+    {
+      "id": "health_india_039",
+      "name": "National Medical Commission",
+      "domain": "nmc.org.in",
+      "canonical_url": "https://www.nmc.org.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Medical education and professional regulation",
+      "source_type": "medical_regulator",
+      "review_required": true
+    },
+    {
+      "id": "health_india_040",
+      "name": "National Ambulance Service (NHM information)",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government health mission information; ambulance availability and numbers vary by state",
+      "source_type": "emergency_service",
+      "review_required": true
+    },
+    {
+      "id": "health_india_041",
+      "name": "AIIMS Bhopal",
+      "domain": "aiimsbhopal.edu.in",
+      "canonical_url": "https://aiimsbhopal.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_042",
+      "name": "AIIMS Bhubaneswar",
+      "domain": "aiimsbhubaneswar.nic.in",
+      "canonical_url": "https://aiimsbhubaneswar.nic.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "review_required": true
+    },
+    {
+      "id": "health_india_043",
+      "name": "AIIMS Jodhpur",
+      "domain": "aiimsjodhpur.edu.in",
+      "canonical_url": "https://www.aiimsjodhpur.edu.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "review_required": true
+    },
+    {
+      "id": "health_india_044",
+      "name": "AIIMS Patna",
+      "domain": "aiimspatna.edu.in",
+      "canonical_url": "https://aiimspatna.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Patna",
+      "state": "Bihar",
+      "review_required": true
+    },
+    {
+      "id": "health_india_045",
+      "name": "AIIMS Raipur",
+      "domain": "aiimsraipur.edu.in",
+      "canonical_url": "https://www.aiimsraipur.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_046",
+      "name": "AIIMS Rishikesh",
+      "domain": "aiimsrishikesh.edu.in",
+      "canonical_url": "https://aiimsrishikesh.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Rishikesh",
+      "state": "Uttarakhand",
+      "review_required": true
+    },
+    {
+      "id": "health_india_047",
+      "name": "AIIMS Raebareli",
+      "domain": "aiimsrbl.edu.in",
+      "canonical_url": "https://aiimsrbl.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Raebareli",
+      "state": "Uttar Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_048",
+      "name": "AIIMS Gorakhpur",
+      "domain": "aiimsgorakhpur.edu.in",
+      "canonical_url": "https://aiimsgorakhpur.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_049",
+      "name": "AIIMS Mangalagiri",
+      "domain": "aiimsmangalagiri.edu.in",
+      "canonical_url": "https://www.aiimsmangalagiri.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Mangalagiri",
+      "state": "Andhra Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_050",
+      "name": "AIIMS Nagpur",
+      "domain": "aiimsnagpur.edu.in",
+      "canonical_url": "https://aiimsnagpur.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_051",
+      "name": "AIIMS Bathinda",
+      "domain": "aiimsbathinda.edu.in",
+      "canonical_url": "https://aiimsbathinda.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Bathinda",
+      "state": "Punjab",
+      "review_required": true
+    },
+    {
+      "id": "health_india_052",
+      "name": "AIIMS Bibinagar",
+      "domain": "aiimsbibinagar.edu.in",
+      "canonical_url": "https://aiimsbibinagar.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Bibinagar",
+      "state": "Telangana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_053",
+      "name": "AIIMS Kalyani",
+      "domain": "aiimskalyani.edu.in",
+      "canonical_url": "https://aiimskalyani.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Kalyani",
+      "state": "West Bengal",
+      "review_required": true
+    },
+    {
+      "id": "health_india_054",
+      "name": "AIIMS Deoghar",
+      "domain": "aiimsdeoghar.edu.in",
+      "canonical_url": "https://aiimsdeoghar.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Deoghar",
+      "state": "Jharkhand",
+      "review_required": true
+    },
+    {
+      "id": "health_india_055",
+      "name": "AIIMS Bilaspur",
+      "domain": "aiimsbilaspur.edu.in",
+      "canonical_url": "https://aiimsbilaspur.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_056",
+      "name": "AIIMS Rajkot",
+      "domain": "aiimsrajkot.edu.in",
+      "canonical_url": "https://aiimsrajkot.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "review_required": true
+    },
+    {
+      "id": "health_india_057",
+      "name": "AIIMS Guwahati",
+      "domain": "aiimsguwahati.ac.in",
+      "canonical_url": "https://aiimsguwahati.ac.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Guwahati",
+      "state": "Assam",
+      "review_required": true
+    },
+    {
+      "id": "health_india_058",
+      "name": "AIIMS Jammu (Vijaypur)",
+      "domain": "aiimsjammu.edu.in",
+      "canonical_url": "https://www.aiimsjammu.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS public medical institute and hospital",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Vijaypur",
+      "state": "Jammu and Kashmir",
+      "review_required": true
+    },
+    {
+      "id": "health_india_059",
+      "name": "AIIMS Madurai",
+      "domain": "aiimsmadurai.edu.in",
+      "canonical_url": "https://aiimsmadurai.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS project/institute information; check current operational status",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "review_required": true
+    },
+    {
+      "id": "health_india_060",
+      "name": "AIIMS Awantipora",
+      "domain": "aiimsawantipora.edu.in",
+      "canonical_url": "https://aiimsawantipora.edu.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS project; check current operational status",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Awantipora",
+      "state": "Jammu and Kashmir",
+      "review_required": true
+    },
+    {
+      "id": "health_india_061",
+      "name": "AIIMS Darbhanga",
+      "domain": "aiimsdarbhanga.edu.in",
+      "canonical_url": "https://aiimsdarbhanga.edu.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS project; check current operational status",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Darbhanga",
+      "state": "Bihar",
+      "review_required": true
+    },
+    {
+      "id": "health_india_062",
+      "name": "AIIMS Majra (Rewari)",
+      "domain": "aiimsrewari.edu.in",
+      "canonical_url": "https://aiimsrewari.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS project; check current operational status",
+      "source_type": "aiims_institution",
+      "subcategory": "aiims",
+      "city": "Majra, Rewari",
+      "state": "Haryana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_063",
+      "name": "Sir Ganga Ram Hospital",
+      "domain": "sgrh.com",
+      "canonical_url": "https://www.sgrh.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "health_india_064",
+      "name": "Indraprastha Apollo Hospitals",
+      "domain": "apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "health_india_065",
+      "name": "Max Super Speciality Hospital, Saket",
+      "domain": "maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital network",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "health_india_066",
+      "name": "Medanta - The Medicity",
+      "domain": "medanta.org",
+      "canonical_url": "https://www.medanta.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_067",
+      "name": "Safdarjung Hospital",
+      "domain": "vmmc-sjh.mohfw.gov.in",
+      "canonical_url": "https://vmmc-sjh.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central government hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "health_india_068",
+      "name": "Dr. Ram Manohar Lohia Hospital",
+      "domain": "rmlh.nic.in",
+      "canonical_url": "https://rmlh.nic.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central government hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "review_required": true
+    },
+    {
+      "id": "health_india_069",
+      "name": "Sir H. N. Reliance Foundation Hospital",
+      "domain": "rfhospital.org",
+      "canonical_url": "https://www.rfhospital.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_070",
+      "name": "Lilavati Hospital",
+      "domain": "lilavatihospital.com",
+      "canonical_url": "https://www.lilavatihospital.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_071",
+      "name": "Nanavati Max Super Speciality Hospital",
+      "domain": "nanavatimaxhospital.org",
+      "canonical_url": "https://www.nanavatimaxhospital.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_072",
+      "name": "KEM Hospital Mumbai",
+      "domain": "kem.edu",
+      "canonical_url": "https://www.kem.edu/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_073",
+      "name": "B. J. Government Medical College and Sassoon General Hospital",
+      "domain": "bjgmcpune.com",
+      "canonical_url": "https://bjgmcpune.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_074",
+      "name": "Deenanath Mangeshkar Hospital",
+      "domain": "dmhospital.org",
+      "canonical_url": "https://www.dmhospital.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_075",
+      "name": "Narayana Health City",
+      "domain": "narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital network",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "review_required": true
+    },
+    {
+      "id": "health_india_076",
+      "name": "Manipal Hospital Old Airport Road",
+      "domain": "manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "review_required": true
+    },
+    {
+      "id": "health_india_077",
+      "name": "Victoria Hospital Bengaluru",
+      "domain": "bmc.gov.in",
+      "canonical_url": "https://bmc.gov.in/",
+      "category": "health-india",
+      "status": "pending_verification",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital; verify hospital-specific page",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "review_required": true
+    },
+    {
+      "id": "health_india_078",
+      "name": "NIMHANS",
+      "domain": "nimhans.ac.in",
+      "canonical_url": "https://nimhans.ac.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National mental health and neurosciences institute and hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "review_required": true
+    },
+    {
+      "id": "health_india_079",
+      "name": "Christian Medical College Vellore",
+      "domain": "cmch-vellore.edu",
+      "canonical_url": "https://www.cmch-vellore.edu/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Teaching hospital and medical institution",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "review_required": true
+    },
+    {
+      "id": "health_india_080",
+      "name": "MGM Healthcare Chennai",
+      "domain": "mgmhealthcare.in",
+      "canonical_url": "https://mgmhealthcare.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "review_required": true
+    },
+    {
+      "id": "health_india_081",
+      "name": "Rajiv Gandhi Government General Hospital",
+      "domain": "cmchistn.com",
+      "canonical_url": "https://www.cmchistn.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital; verify official site",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "review_required": true
+    },
+    {
+      "id": "health_india_082",
+      "name": "Amrita Hospital Faridabad",
+      "domain": "amritahospitals.org",
+      "canonical_url": "https://www.amritahospitals.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Faridabad",
+      "state": "Haryana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_083",
+      "name": "Government Medical College and Hospital Chandigarh",
+      "domain": "gmch.gov.in",
+      "canonical_url": "https://gmch.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_084",
+      "name": "SMS Hospital Jaipur",
+      "domain": "medicaleducation.rajasthan.gov.in",
+      "canonical_url": "https://medicaleducation.rajasthan.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital; official department portal",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "review_required": true
+    },
+    {
+      "id": "health_india_085",
+      "name": "Yashoda Hospitals",
+      "domain": "yashodahospitals.com",
+      "canonical_url": "https://www.yashodahospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital network",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_086",
+      "name": "NIMS Hyderabad",
+      "domain": "nims.edu.in",
+      "canonical_url": "https://nims.edu.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical institute and hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_087",
+      "name": "KIMS Hospitals Hyderabad",
+      "domain": "kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital network",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_088",
+      "name": "AIG Hospitals",
+      "domain": "aighospitals.com",
+      "canonical_url": "https://www.aighospitals.com/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Specialist and multi-specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "review_required": true
+    },
+    {
+      "id": "health_india_089",
+      "name": "SCB Medical College and Hospital",
+      "domain": "scbmch.in",
+      "canonical_url": "https://scbmch.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital; verify official site",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Cuttack",
+      "state": "Odisha",
+      "review_required": true
+    },
+    {
+      "id": "health_india_090",
+      "name": "IGIMS Patna",
+      "domain": "www.igims.org",
+      "canonical_url": "https://www.igims.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical institute and hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Patna",
+      "state": "Bihar",
+      "review_required": true
+    },
+    {
+      "id": "health_india_091",
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+      "domain": "sctimst.ac.in",
+      "canonical_url": "https://www.sctimst.ac.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Medical research institute and specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "review_required": true
+    },
+    {
+      "id": "health_india_092",
+      "name": "KIMSHEALTH",
+      "domain": "kimshealth.org",
+      "canonical_url": "https://www.kimshealth.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Multi-specialty hospital network",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "review_required": true
+    },
+    {
+      "id": "health_india_093",
+      "name": "King George's Medical University",
+      "domain": "kgmu.org",
+      "canonical_url": "https://www.kgmu.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical university and teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_094",
+      "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+      "domain": "sgpgims.org.in",
+      "canonical_url": "https://sgpgims.org.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public postgraduate medical institute and hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_095",
+      "name": "Institute of Medical Sciences, Banaras Hindu University",
+      "domain": "bhu.ac.in",
+      "canonical_url": "https://www.bhu.ac.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Medical institute and teaching hospital; verify institute-specific page",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "review_required": true
+    },
+    {
+      "id": "health_india_096",
+      "name": "Government Medical College Nagpur",
+      "domain": "gmcnagpur.org",
+      "canonical_url": "https://gmcnagpur.org/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "health_india_097",
+      "name": "IPGMER and SSKM Hospital",
+      "domain": "ipgmer.gov.in",
+      "canonical_url": "https://ipgmer.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public postgraduate medical institute and hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "review_required": true
+    },
+    {
+      "id": "health_india_098",
+      "name": "Gauhati Medical College and Hospital",
+      "domain": "gmch.assam.gov.in",
+      "canonical_url": "https://gmch.assam.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Guwahati",
+      "state": "Assam",
+      "review_required": true
+    },
+    {
+      "id": "health_india_099",
+      "name": "Civil Hospital Ahmedabad",
+      "domain": "civilhospitalahd.gujarat.gov.in",
+      "canonical_url": "https://civilhospitalahd.gujarat.gov.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public teaching hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "review_required": true
+    },
+    {
+      "id": "health_india_100",
+      "name": "Dayanand Medical College and Hospital",
+      "domain": "dmch.edu",
+      "canonical_url": "https://www.dmch.edu/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Teaching hospital and medical institution",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "review_required": true
+    },
+    {
+      "id": "health_india_101",
+      "name": "Sher-i-Kashmir Institute of Medical Sciences",
+      "domain": "skims.ac.in",
+      "canonical_url": "https://skims.ac.in/",
+      "category": "health-india",
+      "status": "verified",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Public medical institute and specialty hospital",
+      "source_type": "hospital",
+      "subcategory": "hospital",
+      "city": "Srinagar",
+      "state": "Jammu and Kashmir",
+      "review_required": true
+    }
+  ]
+}
