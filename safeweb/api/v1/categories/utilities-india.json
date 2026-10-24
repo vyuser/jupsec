@@ -1,0 +1,2009 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 2,
+  "category": "utilities-india",
+  "category_name": "Utilities India",
+  "count": 112,
+  "urls": [
+    {
+      "id": "utilities_india_001",
+      "name": "Bharat Bill Payment System / NPCI",
+      "domain": "www.npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Information about interoperable bill-payment systems; use an authorized bank or biller channel to pay.",
+      "source_type": "official_payment_infrastructure",
+      "subcategory": "bill-payments",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_002",
+      "name": "ACT Fibernet",
+      "domain": "www.actcorp.in",
+      "canonical_url": "https://www.actcorp.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private broadband provider with account and bill payment services.",
+      "source_type": "private_service_provider",
+      "subcategory": "broadband",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_003",
+      "name": "Hathway",
+      "domain": "www.hathway.com",
+      "canonical_url": "https://www.hathway.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Cable television and broadband services with customer account information.",
+      "source_type": "private_service_provider",
+      "subcategory": "broadband-cable",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_004",
+      "name": "UMANG",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Access participating central and state government services.",
+      "source_type": "official_government_portal",
+      "subcategory": "citizen-services",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_005",
+      "name": "National Consumer Helpline",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Consumer grievance assistance, including issues with bills and service providers. Consumer complaints about billing, delivery and service providers.",
+      "source_type": "official_government_portal",
+      "subcategory": "consumer-grievance",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_006",
+      "name": "DHL India",
+      "domain": "www.dhl.com",
+      "canonical_url": "https://www.dhl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "International courier, parcel tracking and logistics services; select India in the official website.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-international",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_007",
+      "name": "FedEx India",
+      "domain": "www.fedex.com",
+      "canonical_url": "https://www.fedex.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Courier, parcel tracking and shipping services; select India in the official website.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-international",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_008",
+      "name": "Delhivery",
+      "domain": "www.delhivery.com",
+      "canonical_url": "https://www.delhivery.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private parcel, shipment tracking and logistics services.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-logistics",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_009",
+      "name": "Ecom Express",
+      "domain": "ecomexpress.in",
+      "canonical_url": "https://ecomexpress.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Private parcel delivery and logistics services; verify current customer-facing tracking route.",
+      "source_type": "private_service_provider_candidate",
+      "subcategory": "courier-logistics",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_010",
+      "name": "Professional Couriers",
+      "domain": "www.tpcindia.com",
+      "canonical_url": "https://www.tpcindia.com/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Private courier and shipment services; verify current tracking/booking links.",
+      "source_type": "private_service_provider_candidate",
+      "subcategory": "courier-logistics",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_011",
+      "name": "Safexpress",
+      "domain": "www.safexpress.com",
+      "canonical_url": "https://www.safexpress.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private logistics, freight and parcel services.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-logistics",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_012",
+      "name": "XpressBees",
+      "domain": "www.xpressbees.com",
+      "canonical_url": "https://www.xpressbees.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private courier, parcel tracking and logistics services.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-logistics",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_013",
+      "name": "Blue Dart",
+      "domain": "www.bluedart.com",
+      "canonical_url": "https://www.bluedart.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private courier, shipment tracking and delivery services.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-tracking",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_014",
+      "name": "DTDC",
+      "domain": "www.dtdc.com",
+      "canonical_url": "https://www.dtdc.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private courier booking, shipment tracking and logistics services.",
+      "source_type": "private_service_provider",
+      "subcategory": "courier-tracking",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_015",
+      "name": "SARATHI Driving Licence Services",
+      "domain": "sarathi.parivahan.gov.in",
+      "canonical_url": "https://sarathi.parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Driving licence applications and related services where enabled by the relevant state/RTO.",
+      "source_type": "official_government_portal",
+      "subcategory": "driving-licence",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_016",
+      "name": "Dish TV",
+      "domain": "www.dishtv.in",
+      "canonical_url": "https://www.dishtv.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "DTH television services, account management and recharge.",
+      "source_type": "private_service_provider",
+      "subcategory": "dth-bill-payment",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_017",
+      "name": "Tata Play",
+      "domain": "www.tataplay.com",
+      "canonical_url": "https://www.tataplay.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "DTH television services, account management and recharge.",
+      "source_type": "private_service_provider",
+      "subcategory": "dth-bill-payment",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_018",
+      "name": "AP Eastern Power Distribution (APEPDCL)",
+      "domain": "www.apeasternpower.com",
+      "canonical_url": "https://www.apeasternpower.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Andhra Pradesh service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "andhra-pradesh",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_019",
+      "name": "AP Southern Power Distribution (APSPDCL)",
+      "domain": "www.apsdcl.in",
+      "canonical_url": "https://www.apsdcl.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+         "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Andhra Pradesh service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "andhra-pradesh",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_020",
+      "name": "Assam Power Distribution Company (APDCL)",
+      "domain": "www.apdcl.org",
+      "canonical_url": "https://www.apdcl.org/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in Assam.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "assam",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_021",
+      "name": "North Bihar Power Distribution (NBPDCL)",
+      "domain": "www.nbpdcl.co.in",
+      "canonical_url": "https://www.nbpdcl.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in northern Bihar.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "bihar",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_022",
+      "name": "South Bihar Power Distribution (SBPDCL)",
+      "domain": "www.sbpdcl.co.in",
+      "canonical_url": "https://www.sbpdcl.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in southern Bihar.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "bihar",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_023",
+      "name": "Chhattisgarh State Power Distribution (CSPDCL)",
+      "domain": "www.cspdcl.co.in",
+      "canonical_url": "https://www.cspdcl.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in Chhattisgarh.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "chhattisgarh",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_024",
+      "name": "BSES Rajdhani Power / BSES Yamuna Power",
+      "domain": "www.bsesdelhi.com",
+      "canonical_url": "https://www.bsesdelhi.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity services in its Delhi distribution area; use the official portal to select the relevant service.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "delhi",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_025",
+      "name": "Tata Power Delhi Distribution",
+      "domain": "www.tatapower-ddl.com",
+      "canonical_url": "https://www.tatapower-ddl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in its Delhi distribution area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "delhi",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_026",
+      "name": "Dakshin Gujarat Vij Company (DGVCL)",
+      "domain": "www.dgvcl.com",
+      "canonical_url": "https://www.dgvcl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in southern Gujarat.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_027",
+      "name": "Madhya Gujarat Vij Company (MGVCL)",
+      "domain": "www.mgvcl.com",
+      "canonical_url": "https://www.mgvcl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in central Gujarat.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_028",
+      "name": "Paschim Gujarat Vij Company (PGVCL)",
+      "domain": "www.pgvcl.com",
+      "canonical_url": "https://www.pgvcl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in western Gujarat.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_029",
+      "name": "Uttar Gujarat Vij Company (UGVCL)",
+      "domain": "www.ugvcl.com",
+      "canonical_url": "https://www.ugvcl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in northern Gujarat.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_030",
+      "name": "Dakshin Haryana Bijli Vitran Nigam (DHBVN)",
+      "domain": "www.dhbvn.org.in",
+      "canonical_url": "https://www.dhbvn.org.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in southern Haryana.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "haryana",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_031",
+      "name": "Uttar Haryana Bijli Vitran Nigam (UHBVN)",
+      "domain": "www.uhbvn.org.in",
+      "canonical_url": "https://www.uhbvn.org.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in northern Haryana.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "haryana",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_032",
+      "name": "Jharkhand Bijli Vitran Nigam (JBVNL)",
+      "domain": "www.jbvnl.co.in",
+      "canonical_url": "https://www.jbvnl.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in Jharkhand.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "jharkhand",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_033",
+      "name": "BESCOM",
+      "domain": "bescom.karnataka.gov.in",
+      "canonical_url": "https://bescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Karnataka service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_034",
+      "name": "GESCOM",
+      "domain": "gescom.karnataka.gov.in",
+      "canonical_url": "https://gescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Karnataka service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_035",
+      "name": "HESCOM",
+      "domain": "hescom.karnataka.gov.in",
+      "canonical_url": "https://hescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Karnataka service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_036",
+      "name": "Karnataka Power Corporation / CESC Mysuru services",
+      "domain": "cescmysore.karnataka.gov.in",
+      "canonical_url": "https://cescmysore.karnataka.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mysuru-area electricity utility services; confirm the current official service route before use.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "electricity",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_037",
+      "name": "MESCOM",
+      "domain": "mescom.karnataka.gov.in",
+      "canonical_url": "https://mescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity distribution and consumer services in its Karnataka service area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_038",
+      "name": "Kerala State Electricity Board (KSEB)",
+      "domain": "wss.kseb.in",
+      "canonical_url": "https://wss.kseb.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in Kerala.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "kerala",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_039",
+      "name": "Adani Electricity Mumbai",
+      "domain": "www.adanielectricity.com",
+      "canonical_url": "https://www.adanielectricity.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity bills and consumer services in its Mumbai distribution area.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_040",
+      "name": "MSEDCL / Mahavitaran",
+      "domain": "www.mahadiscom.in",
+      "canonical_url": "https://www.mahadiscom.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in MSEDCL service areas in Maharashtra.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_041",
+      "name": "Tata Power",
+      "domain": "www.tatapower.com",
+      "canonical_url": "https://www.tatapower.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Power utility information and links to consumer services in supported service areas.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_042",
+      "name": "Torrent Power",
+      "domain": "www.torrentpower.com",
+      "canonical_url": "https://www.torrentpower.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity and utility consumer services in supported service areas.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_043",
+      "name": "TP Central Odisha Distribution (TPCODL)",
+      "domain": "www.tpcentralodisha.com",
+      "canonical_url": "https://www.tpcentralodisha.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services in central Odisha service areas.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "odisha",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_044",
+      "name": "Tamil Nadu Electricity utility",
+      "domain": "www.tangedco.gov.in",
+      "canonical_url": "https://www.tangedco.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Tamil Nadu electricity utility information and consumer services; confirm the current billing portal.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "electricity",
+      "region": "tamil-nadu",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_045",
+      "name": "Telangana Northern Power Distribution (TGNPDCL)",
+      "domain": "www.tgnpdcl.com",
+      "canonical_url": "https://www.tgnpdcl.com/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity consumer services in northern Telangana.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "electricity",
+      "region": "telangana",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_046",
+      "name": "Telangana Southern Power Distribution (TGSPDCL)",
+      "domain": "www.tgsouthernpower.com",
+      "canonical_url": "https://www.tgsouthernpower.com/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Electricity consumer services in southern Telangana.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "electricity",
+      "region": "telangana",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_047",
+      "name": "Uttar Pradesh Power Corporation (UPPCL)",
+      "domain": "www.upenergy.in",
+      "canonical_url": "https://www.upenergy.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment links in Uttar Pradesh.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "uttar-pradesh",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_048",
+      "name": "West Bengal State Electricity Distribution (WBSEDCL)",
+      "domain": "www.wbsedcl.in",
+      "canonical_url": "https://www.wbsedcl.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity consumer services and bill payment in West Bengal.",
+      "source_type": "official_utility",
+      "subcategory": "electricity",
+      "region": "west-bengal",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_049",
+      "name": "BEST Undertaking",
+      "domain": "www.bestundertaking.com",
+      "canonical_url": "https://www.bestundertaking.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Mumbai electricity and public transport services; electricity coverage is area-specific.",
+      "source_type": "official_utility",
+      "subcategory": "electricity-transport",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_050",
+      "name": "RBI Sachet",
+      "domain": "sachet.rbi.org.in",
+      "canonical_url": "https://sachet.rbi.org.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RBI portal for reporting information about certain suspected illegal deposit-taking activities.",
+      "source_type": "official_regulator",
+      "subcategory": "financial-consumer-safety",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_051",
+      "name": "RBI Complaint Management System",
+      "domain": "cms.rbi.org.in",
+      "canonical_url": "https://cms.rbi.org.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RBI complaint portal for eligible complaints against regulated entities.",
+      "source_type": "official_regulator",
+      "subcategory": "financial-grievance",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_052",
+      "name": "Indian Oil Corporation",
+      "domain": "iocl.com",
+      "canonical_url": "https://iocl.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official Indian Oil website with links to fuel, LPG and consumer services.",
+      "source_type": "official_utility",
+      "subcategory": "gas-lpg-fuel",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_053",
+      "name": "CPGRAMS Public Grievances",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Register and track eligible grievances with participating government departments.",
+      "source_type": "official_government_portal",
+      "subcategory": "government-grievances",
+      "region": "national",
+      "review_required": true
+    },
+    
+    {
+      "id": "utilities_india_055",
+      "name": "National Portal of India",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government information, public services and official directories.",
+      "source_type": "official_government_portal",
+      "subcategory": "government-service-directory",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_056",
+      "name": "Goods and Services Tax Portal",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GST registration, return filing, payments and taxpayer services.",
+      "source_type": "official_government_portal",
+      "subcategory": "gst",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_057",
+      "name": "GST e-Invoice System",
+      "domain": "einvoice.gst.gov.in",
+      "canonical_url": "https://einvoice.gst.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GST e-invoicing services for eligible taxpayers.",
+      "source_type": "official_government_portal",
+      "subcategory": "gst",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_058",
+      "name": "Income Tax e-Filing",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/iec/foportal/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income-tax return filing, tax payments and taxpayer services.",
+      "source_type": "official_government_portal",
+      "subcategory": "income-tax",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_059",
+      "name": "Income Tax Department",
+      "domain": "www.incometaxindia.gov.in",
+      "canonical_url": "https://www.incometaxindia.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income-tax laws, circulars, notifications and taxpayer information.",
+      "source_type": "official_government_portal",
+      "subcategory": "income-tax-information",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_060",
+      "name": "LIC India",
+      "domain": "licindia.in",
+      "canonical_url": "https://licindia.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Life insurance policy services and premium payment links.",
+      "source_type": "public_service_provider",
+      "subcategory": "insurance-premium",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_061",
+      "name": "New India Assurance",
+      "domain": "www.newindia.co.in",
+      "canonical_url": "https://www.newindia.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Public-sector general insurance policy and premium services.",
+      "source_type": "public_service_provider",
+      "subcategory": "insurance-premium",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_062",
+      "name": "Bharatgas Consumer Portal",
+      "domain": "my.ebharatgas.com",
+      "canonical_url": "https://my.ebharatgas.com/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bharatgas LPG refill booking and consumer account services.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "lpg",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_063",
+      "name": "HP Gas Consumer Portal",
+      "domain": "myhpgas.in",
+      "canonical_url": "https://myhpgas.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "HP Gas LPG refill booking and consumer account services.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "lpg",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_064",
+      "name": "Indane LPG Consumer Portal",
+      "domain": "cx.indianoil.in",
+      "canonical_url": "https://cx.indianoil.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Indane LPG booking, refill and account services for eligible customers.",
+      "source_type": "official_utility_candidate",
+      "subcategory": "lpg",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_065",
+      "name": "Maharashtra Municipal Corporation Portal",
+      "domain": "www.maharashtra.gov.in",
+      "canonical_url": "https://www.maharashtra.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official state portal for locating municipal corporations and local civic services; not a direct statewide tax-payment portal.",
+      "source_type": "official_government_portal",
+      "subcategory": "municipal-directory",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_066",
+      "name": "Brihanmumbai Municipal Corporation (BMC/MCGM)",
+      "domain": "portal.mcgm.gov.in",
+      "canonical_url": "https://portal.mcgm.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Mumbai civic services including property tax, water bills and other municipal services; navigate to the relevant department.",
+      "source_type": "official_local_government",
+      "subcategory": "municipal-property-water",
+      "region": "maharashtra-mumbai",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_067",
+      "name": "Indraprastha Gas (IGL)",
+      "domain": "www.iglonline.net",
+      "canonical_url": "https://www.iglonline.net/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Piped natural gas and CNG consumer services in Delhi NCR service areas.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "delhi-ncr",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_068",
+      "name": "Gujarat Gas",
+      "domain": "www.gujaratgas.com",
+      "canonical_url": "https://www.gujaratgas.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Piped natural gas and CNG consumer services in supported areas.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_069",
+      "name": "Mahanagar Gas",
+      "domain": "www.mahanagargas.com",
+      "canonical_url": "https://www.mahanagargas.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Piped natural gas and CNG consumer information and services in supported areas.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_070",
+      "name": "Maharashtra Natural Gas (MNGL)",
+      "domain": "www.mngl.in",
+      "canonical_url": "https://www.mngl.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Piped natural gas consumer services in supported Maharashtra service areas.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_071",
+      "name": "Adani Total Gas",
+      "domain": "www.adanigas.com",
+      "canonical_url": "https://www.adanigas.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Piped natural gas and CNG consumer services in supported areas.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_072",
+      "name": "GAIL Gas",
+      "domain": "gailgas.com",
+      "canonical_url": "https://gailgas.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "City gas distribution information and consumer services in supported locations.",
+      "source_type": "official_utility",
+      "subcategory": "piped-gas",
+      "region": "multi-state",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_073",
+      "name": "India Post / India Post Tracking / India Post Business / Speed Post",
+      "domain": "www.indiapost.gov.in",
+      "canonical_url": "https://www.indiapost.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Postal services, tracking, postage and citizen services. Official India Post website; navigate to Track 'N' Trace for postal articles. Public postal and parcel services including Speed Post; use official tracking and booking links.",
+      "source_type": "official_government_portal",
+      "subcategory": "postal-services,postal-tracking,postal-courier",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_074",
+      "name": "Delhi Municipal Corporation (MCD)",
+      "domain": "mcdonline.nic.in",
+      "canonical_url": "https://mcdonline.nic.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Delhi municipal services including property tax and civic payments; select the relevant MCD service.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax",
+      "region": "delhi",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_075",
+      "name": "Bruhat Bengaluru Mahanagara Palike",
+      "domain": "bbmp.gov.in",
+      "canonical_url": "https://bbmp.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bengaluru municipal services and property-tax information; verify the current official payment route.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax",
+      "region": "karnataka-bengaluru",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_076",
+      "name": "Thane Municipal Corporation",
+      "domain": "thanecity.gov.in",
+      "canonical_url": "https://thanecity.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Thane civic services and links to property tax and other municipal payments.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax",
+      "region": "maharashtra-thane",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_077",
+      "name": "Jaipur Municipal Corporation",
+      "domain": "jaipurmc.org",
+      "canonical_url": "https://jaipurmc.org/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Jaipur municipal services and property-tax information; verify current payment route.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax",
+      "region": "rajasthan-jaipur",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_078",
+      "name": "Greater Hyderabad Municipal Corporation",
+      "domain": "www.ghmc.gov.in",
+      "canonical_url": "https://www.ghmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Hyderabad municipal services including property tax and civic payments.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax",
+      "region": "telangana-hyderabad",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_079",
+      "name": "Lucknow Municipal Corporation",
+      "domain": "lmc.up.nic.in",
+      "canonical_url": "https://lmc.up.nic.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Lucknow civic services and property-tax information; verify current payment route.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax",
+      "region": "uttar-pradesh-lucknow",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_080",
+      "name": "New Delhi Municipal Council (NDMC)",
+      "domain": "www.ndmc.gov.in",
+      "canonical_url": "https://www.ndmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "NDMC civic services including property tax, water and other municipal payments in its jurisdiction.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "delhi",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_081",
+      "name": "Ahmedabad Municipal Corporation",
+      "domain": "ahmedabadcity.gov.in",
+      "canonical_url": "https://ahmedabadcity.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Ahmedabad municipal services including property tax and water-related payments.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "gujarat-ahmedabad",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_082",
+      "name": "Rajkot Municipal Corporation",
+      "domain": "www.rmc.gov.in",
+      "canonical_url": "https://www.rmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Rajkot civic services and municipal payment links.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "gujarat-rajkot",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_083",
+      "name": "Surat Municipal Corporation",
+      "domain": "www.suratmunicipal.gov.in",
+      "canonical_url": "https://www.suratmunicipal.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Surat civic services including property tax and water-related services.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "gujarat-surat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_084",
+      "name": "Vadodara Municipal Corporation",
+      "domain": "vmc.gov.in",
+      "canonical_url": "https://vmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Vadodara civic services and municipal payment links.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "gujarat-vadodara",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_085",
+      "name": "Mira-Bhayandar Municipal Corporation",
+      "domain": "mbmc.gov.in",
+      "canonical_url": "https://www.mbmc.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mira-Bhayandar civic services; verify current property tax and water payment routes.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-mira-bhayandar",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_086",
+      "name": "Nagpur Municipal Corporation",
+      "domain": "www.nmcnagpur.gov.in",
+      "canonical_url": "https://www.nmcnagpur.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Nagpur civic services and links to property tax and water-related services.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-nagpur",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_087",
+      "name": "Navi Mumbai Municipal Corporation",
+      "domain": "www.nmmc.gov.in",
+      "canonical_url": "https://www.nmmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Navi Mumbai civic services and links to property tax and water services.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-navi-mumbai",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_088",
+      "name": "Pimpri Chinchwad Municipal Corporation",
+      "domain": "www.pcmcindia.gov.in",
+      "canonical_url": "https://www.pcmcindia.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Civic services including property tax and water bills in Pimpri-Chinchwad.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-pimpri-chinchwad",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_089",
+      "name": "Pune Municipal Corporation",
+      "domain": "www.pmc.gov.in",
+      "canonical_url": "https://www.pmc.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Pune civic services including property tax and water-related services; use the official portal to locate current payment pages.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-pune",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_090",
+      "name": "Vasai Virar City Municipal Corporation",
+      "domain": "vvcmc.in",
+      "canonical_url": "https://vvcmc.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Vasai-Virar civic services; verify current property tax and utility payment routes.",
+      "source_type": "official_local_government_candidate",
+      "subcategory": "property-tax-water",
+      "region": "maharashtra-vasai-virar",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_091",
+      "name": "Greater Chennai Corporation",
+      "domain": "chennaicorporation.gov.in",
+      "canonical_url": "https://chennaicorporation.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Chennai municipal services including property tax and water/sewerage-related links.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "tamil-nadu-chennai",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_092",
+      "name": "Kolkata Municipal Corporation",
+      "domain": "www.kmcgov.in",
+      "canonical_url": "https://www.kmcgov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Kolkata municipal services including property tax and water-related services.",
+      "source_type": "official_local_government",
+      "subcategory": "property-tax-water",
+      "region": "west-bengal-kolkata",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_093",
+      "name": "Indian Railways Passenger Services",
+      "domain": "www.indianrail.gov.in",
+      "canonical_url": "https://www.indianrail.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Railway passenger information and services.",
+      "source_type": "public_service_provider",
+      "subcategory": "railway-information",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_094",
+      "name": "IRCTC",
+      "domain": "www.irctc.co.in",
+      "canonical_url": "https://www.irctc.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Railway ticket booking, cancellations and passenger services.",
+      "source_type": "public_service_provider",
+      "subcategory": "railway-ticketing",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_095",
+      "name": "Delhi Transport Department",
+      "domain": "transport.delhi.gov.in",
+      "canonical_url": "https://transport.delhi.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Delhi transport services and information about vehicle tax, registration and licences.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "delhi",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_096",
+      "name": "Gujarat Transport Department",
+      "domain": "cot.gujarat.gov.in",
+      "canonical_url": "https://cot.gujarat.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Gujarat transport and RTO services, including vehicle tax and registration information.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "gujarat",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_097",
+      "name": "Karnataka Transport Department",
+      "domain": "transport.karnataka.gov.in",
+      "canonical_url": "https://transport.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Karnataka transport and RTO services, including vehicle tax and registration information.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "karnataka",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_098",
+      "name": "Kerala Motor Vehicles Department",
+      "domain": "mvd.kerala.gov.in",
+      "canonical_url": "https://mvd.kerala.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Kerala motor vehicle, RTO and vehicle-tax services.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "kerala",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_099",
+      "name": "Maharashtra Motor Vehicle Department",
+      "domain": "transport.maharashtra.gov.in",
+      "canonical_url": "https://transport.maharashtra.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra RTO information and links for vehicle tax, registration, permits and driving licences.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "maharashtra",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_100",
+      "name": "Rajasthan Transport Department",
+      "domain": "transport.rajasthan.gov.in",
+      "canonical_url": "https://transport.rajasthan.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Rajasthan transport and RTO services, including vehicle tax information.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "rajasthan",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_101",
+      "name": "Tamil Nadu Transport Department",
+      "domain": "tnsta.gov.in",
+      "canonical_url": "https://tnsta.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Tamil Nadu transport department services and information; confirm current road-tax payment route.",
+      "source_type": "official_state_government_candidate",
+      "subcategory": "road-tax-rto",
+      "region": "tamil-nadu",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_102",
+      "name": "Uttar Pradesh Transport Department",
+      "domain": "uptransport.upsdc.gov.in",
+      "canonical_url": "https://uptransport.upsdc.gov.in/",
+      "category": "utilities-india",
+       "status": "verified",
+      "verified_at": null,
+      "verification": {
+         "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Uttar Pradesh RTO services and information; confirm current road-tax payment route.",
+      "source_type": "official_state_government_candidate",
+      "subcategory": "road-tax-rto",
+      "region": "uttar-pradesh",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_103",
+      "name": "West Bengal Transport Department",
+      "domain": "transport.wb.gov.in",
+      "canonical_url": "https://transport.wb.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "West Bengal transport and RTO service information.",
+      "source_type": "official_state_government",
+      "subcategory": "road-tax-rto",
+      "region": "west-bengal",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_104",
+      "name": "FASTag / National Highways Authority of India",
+      "domain": "nhai.gov.in",
+      "canonical_url": "https://nhai.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National highway information and links to FASTag-related services.",
+      "source_type": "official_government_portal",
+      "subcategory": "road-toll-fastag",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_105",
+      "name": "Parivahan Sewa",
+      "domain": "parivahan.gov.in",
+      "canonical_url": "https://parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National transport portal for driving licence, vehicle registration and related services; availability varies by state.",
+      "source_type": "official_government_portal",
+      "subcategory": "rto-transport",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_106",
+      "name": "EPFO",
+      "domain": "www.epfindia.gov.in",
+      "canonical_url": "https://www.epfindia.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Employees' Provident Fund services and member/employer information.",
+      "source_type": "official_government_portal",
+      "subcategory": "social-security",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_107",
+      "name": "ESIC",
+      "domain": "www.esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Employees' State Insurance services and information.",
+      "source_type": "official_government_portal",
+      "subcategory": "social-security",
+      "region": "national",
+      "review_required": true
+    },
+    
+    {
+      "id": "utilities_india_109",
+      "name": "Airtel",
+      "domain": "www.airtel.in",
+      "canonical_url": "https://www.airtel.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private mobile, broadband and DTH services with bill payment and account management.",
+      "source_type": "private_service_provider",
+      "subcategory": "telecom-broadband",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_110",
+      "name": "BSNL",
+      "domain": "www.bsnl.co.in",
+      "canonical_url": "https://www.bsnl.co.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Public telecom provider with landline, mobile and broadband bill/service information.",
+      "source_type": "public_service_provider",
+      "subcategory": "telecom-broadband",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_111",
+      "name": "Jio",
+      "domain": "www.jio.com",
+      "canonical_url": "https://www.jio.com/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private telecom and broadband services with recharge, bill payment and account management.",
+      "source_type": "private_service_provider",
+      "subcategory": "telecom-broadband",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_112",
+      "name": "Vi",
+      "domain": "www.myvi.in",
+      "canonical_url": "https://www.myvi.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Private mobile telecom services with recharge, bill payment and account management.",
+      "source_type": "private_service_provider",
+      "subcategory": "telecom-broadband",
+      "region": "national",
+      "review_required": true
+    },
+    {
+      "id": "utilities_india_113",
+      "name": "VAHAN Citizen Services",
+      "domain": "vahan.parivahan.gov.in",
+      "canonical_url": "https://vahan.parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Vehicle registration and related online services where enabled by the relevant RTO.",
+      "source_type": "official_government_portal",
+      "subcategory": "vehicle-registration",
+      "region": "national",
+      "review_required": true
+    }
+  ]
+}

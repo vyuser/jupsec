@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "ai",
+  "count": 10,
+  "urls": [
+    {
+      "id": "ai_001",
+      "name": "ChatGPT",
+      "domain": "chatgpt.com",
+      "canonical_url": "https://chatgpt.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI assistant for writing, research and coding",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_002",
+      "name": "Claude",
+      "domain": "claude.ai",
+      "canonical_url": "https://claude.ai/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI assistant for writing, analysis and coding",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_003",
+      "name": "Google Gemini",
+      "domain": "gemini.google.com",
+      "canonical_url": "https://gemini.google.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "Google AI assistant",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_004",
+      "name": "Microsoft Copilot",
+      "domain": "copilot.microsoft.com",
+      "canonical_url": "https://copilot.microsoft.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "Microsoft AI assistant",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_005",
+      "name": "Perplexity",
+      "domain": "www.perplexity.ai",
+      "canonical_url": "https://www.perplexity.ai/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI search and research assistant",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_006",
+      "name": "Hugging Face",
+      "domain": "huggingface.co",
+      "canonical_url": "https://huggingface.co/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI models and datasets platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_007",
+      "name": "Google AI Studio",
+      "domain": "aistudio.google.com",
+      "canonical_url": "https://aistudio.google.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "Generative AI developer environment",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_008",
+      "name": "OpenAI Platform",
+      "domain": "platform.openai.com",
+      "canonical_url": "https://platform.openai.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI API developer platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_009",
+      "name": "Anthropic",
+      "domain": "www.anthropic.com",
+      "canonical_url": "https://www.anthropic.com/",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI research and products",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "ai_010",
+      "name": "GitHub Copilot",
+      "domain": "github.com",
+      "canonical_url": "https://github.com",
+      "category": "ai",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "user_designated"
+      },
+      "description": "AI coding assistant",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

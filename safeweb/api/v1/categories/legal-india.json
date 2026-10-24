@@ -1,0 +1,668 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "legal-india",
+  "count": 46,
+  "urls": [
+    {
+      "id": "legal_india_001",
+      "name": "Supreme Court of India",
+      "domain": "www.sci.gov.in",
+      "canonical_url": "https://www.sci.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Constitutional court; judgments, case status and cause lists.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_002",
+      "name": "eCourts India",
+      "domain": "ecourts.gov.in",
+      "canonical_url": "https://ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National gateway to district courts and judicial services.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_003",
+      "name": "eCourts District Court Services",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "District and subordinate court case status, orders and services.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_004",
+      "name": "High Courts and District Courts Directory",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/directory/contact-directory",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government judiciary directory for Supreme Court, High Courts and district courts.",
+      "source_type": "official_government_directory",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_005",
+      "name": "Indian Courts e-Filing",
+      "domain": "filing.ecourts.gov.in",
+      "canonical_url": "https://filing.ecourts.gov.in/pdedev/",
+      "category": "legal-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "e-Filing for participating courts; confirm eligibility before filing.",
+      "source_type": "official_government_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_006",
+      "name": "National Judicial Data Grid",
+      "domain": "njdg.ecourts.gov.in",
+      "canonical_url": "https://njdg.ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Judicial case pendency and disposal data for participating courts.",
+      "source_type": "official_judicial_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_007",
+      "name": "Cause Lists of Indian Courts",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/?p=cause_list/index",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government directory for cause lists across courts, tribunals and commissions.",
+      "source_type": "official_government_service",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_008",
+      "name": "Judgments of Indian Courts and Tribunals",
+      "domain": "judgments.ecourts.gov.in",
+      "canonical_url": "https://judgments.ecourts.gov.in/pdfsearch/index.php",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government service directory for judgments, orders and case-status services.",
+      "source_type": "official_government_service",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_009",
+      "name": "National Legal Services Authority (NALSA)",
+      "domain": "nalsa.gov.in",
+      "canonical_url": "https://nalsa.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Legal aid and access-to-justice information.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_010",
+      "name": "e-Jagriti Consumer Commission Portal",
+      "domain": "e-jagriti.gov.in",
+      "canonical_url": "https://e-jagriti.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Consumer dispute services, case information and online filing for eligible matters.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_011",
+      "name": "National Consumer Disputes Redressal Commission",
+      "domain": "ncdrc.nic.in",
+      "canonical_url": "https://ncdrc.nic.in/",
+      "category": "legal-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "National consumer dispute redressal commission information and services.",
+      "source_type": "official_government_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_012",
+      "name": "National Consumer Helpline",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Consumer grievance assistance and pre-litigation grievance registration.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_013",
+      "name": "Ministry of Housing and Urban Affairs",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government housing information and links to relevant RERA authorities.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_014",
+      "name": "MahaRERA",
+      "domain": "maharera.maharashtra.gov.in",
+      "canonical_url": "https://maharera.maharashtra.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra real estate regulator; project information and applicable complaint services.",
+      "source_type": "official_state_regulator",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_015",
+      "name": "RERA State and UT Authorities Directory",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "Starting point for state and UT RERA portals; confirm current official portal before filing.",
+      "source_type": "official_government_directory",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_016",
+      "name": "Real Estate Appellate Tribunal Directory",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "Government directory starting point for tribunals; locate the relevant state RERA appellate tribunal.",
+      "source_type": "official_government_directory",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_017",
+      "name": "National Company Law Tribunal (NCLT)",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Company law and insolvency matters within NCLT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_018",
+      "name": "National Company Law Appellate Tribunal (NCLAT)",
+      "domain": "nclat.nic.in",
+      "canonical_url": "https://nclat.nic.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Appellate tribunal for matters assigned by law, including specified NCLT appeals.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    
+    
+    {
+      "id": "legal_india_021",
+      "name": "Central Administrative Tribunal (CAT)",
+      "domain": "cgat.gov.in",
+      "canonical_url": "https://cgat.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Service matters within CAT jurisdiction for eligible applicants.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_022",
+      "name": "Armed Forces Tribunal (AFT)",
+      "domain": "aftdelhi.nic.in",
+      "canonical_url": "https://aftdelhi.nic.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Service matters and appeals within AFT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_023",
+      "name": "National Green Tribunal (NGT)",
+      "domain": "www.greentribunal.gov.in",
+      "canonical_url": "https://www.greentribunal.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Environmental disputes and appeals within NGT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_024",
+      "name": "Securities Appellate Tribunal (SAT)",
+      "domain": "sat.gov.in",
+      "canonical_url": "https://sat.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Appeals assigned by law concerning specified securities-market decisions.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_025",
+      "name": "Appellate Tribunal for Electricity (APTEL)",
+      "domain": "aptel.gov.in",
+      "canonical_url": "https://aptel.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity-sector appeals and matters within tribunal jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_026",
+      "name": "Telecom Disputes Settlement and Appellate Tribunal (TDSAT)",
+      "domain": "tdsat.gov.in",
+      "canonical_url": "https://tdsat.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Telecom and other statutory sectors within TDSAT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_027",
+      "name": "Customs, Excise and Service Tax Appellate Tribunal (CESTAT)",
+      "domain": "cestat.gov.in",
+      "canonical_url": "https://cestat.gov.in/",
+      "category": "legal-india",
+      "status": "pending_review",
+      "verified_at": null,
+      "verification": {
+        "status": "pending_review",
+        "method": "official_directory_reference"
+      },
+      "description": "Customs, excise and other indirect-tax appeals within CESTAT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_028",
+      "name": "Income Tax Appellate Tribunal (ITAT)",
+      "domain": "itat.gov.in",
+      "canonical_url": "https://itat.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Tax appeals and matters assigned to ITAT.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_029",
+      "name": "Railway Claims Tribunal (RCT)",
+      "domain": "rct.indianrail.gov.in",
+      "canonical_url": "https://rct.indianrail.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Railway-related claims within RCT jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_030",
+      "name": "Labour Courts and Industrial Tribunals Directory",
+      "domain": "labour.gov.in",
+      "canonical_url": "https://labour.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Central labour ministry information; specific labour court and tribunal jurisdiction varies.",
+      "source_type": "official_government_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_031",
+      "name": "Competition Commission of India (CCI)",
+      "domain": "cci.gov.in",
+      "canonical_url": "https://cci.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Competition-law information and statutory complaint/information procedures.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_032",
+      "name": "Appellate Tribunal under SAFEMA",
+      "domain": "atfp.gov.in",
+      "canonical_url": "https://atfp.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Official information for tribunal matters under applicable statutes; verify jurisdiction.",
+      "source_type": "official_government_portal",
+      "review_required": true
+    },
+    {
+      "id": "legal_india_033",
+      "name": "Central Electricity Regulatory Commission (CERC)",
+      "domain": "cercind.gov.in",
+      "canonical_url": "https://cercind.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Electricity-sector regulator and regulatory orders; not a general-purpose court.",
+      "source_type": "official_regulator_portal",
+      "review_required": false
+    },
+    
+    {
+      "id": "legal_india_035",
+      "name": "Centralised Public Grievance Redress and Monitoring System",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Eligible public grievances to participating government departments; not a substitute for court filing.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_036",
+      "name": "National Cyber Crime Reporting Portal",
+      "domain": "cybervolunteer.mha.gov.in",
+      "canonical_url": "https://cybervolunteer.mha.gov.in/webform/Volunteer_AuthoLogin.aspx",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Report eligible cybercrime incidents and online fraud.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_037",
+      "name": "Right to Information Online",
+      "domain": "rtionline.gov.in",
+      "canonical_url": "https://rtionline.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RTI applications and first appeals for participating Central Government public authorities.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_038",
+      "name": "India Code",
+      "domain": "indiacode.gov.in",
+      "canonical_url": "https://indiacode.gov.in/home",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official legislation database for Central Acts and legal texts.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_039",
+      "name": "Ministry of Law and Justice",
+      "domain": "lawmin.gov.in",
+      "canonical_url": "https://lawmin.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Central government legal affairs and justice-related information.",
+      "source_type": "official_government_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_040",
+      "name": "Integrated Government Online Directory: Tribunals and Quasi-Judicial Bodies",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government directory of tribunal and quasi-judicial body websites.",
+      "source_type": "official_government_directory",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_041",
+      "name": "e-Committee, Supreme Court of India",
+      "domain": "ecommitteesci.gov.in",
+      "canonical_url": "https://ecommitteesci.gov.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Information on the eCourts project and judicial technology initiatives.",
+      "source_type": "official_judicial_portal",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_042",
+      "name": "National Commission for Women",
+      "domain": "ncw.nic.in",
+      "canonical_url": "https://ncw.nic.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Complaint information within the Commission's mandate; not a substitute for urgent police or court remedies.",
+      "source_type": "official_statutory_commission",
+      "review_required": false
+    },
+    {
+      "id": "legal_india_043",
+      "name": "National Human Rights Commission",
+      "domain": "nhrc.nic.in",
+      "canonical_url": "https://nhrc.nic.in/",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Human-rights complaint and inquiry information within NHRC jurisdiction.",
+      "source_type": "official_statutory_commission",
+      "review_required": false
+    },
+    
+    {
+      "id": "legal_india_045",
+      "name": "National Company Law Tribunal Cause Lists",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/all-cause-list",
+      "category": "legal-india",
+      "status": "verified",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official NCLT bench cause lists and hearing information.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false
+    }
+  ]
+}

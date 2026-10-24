@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "social-media",
+  "count": 20,
+  "urls": [
+    {
+      "id": "social_media_001",
+      "name": "Facebook",
+      "domain": "www.facebook.com",
+      "canonical_url": "https://www.facebook.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_002",
+      "name": "Instagram",
+      "domain": "www.instagram.com",
+      "canonical_url": "https://www.instagram.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Photo and video sharing",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_003",
+      "name": "WhatsApp",
+      "domain": "www.whatsapp.com",
+      "canonical_url": "https://www.whatsapp.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Messaging",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_004",
+      "name": "YouTube",
+      "domain": "www.youtube.com",
+      "canonical_url": "https://www.youtube.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Video sharing",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_005",
+      "name": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "canonical_url": "https://www.linkedin.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Professional networking",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_006",
+      "name": "X",
+      "domain": "x.com",
+      "canonical_url": "https://x.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_007",
+      "name": "Zoho Arattai",
+      "domain": "arattai.in",
+      "canonical_url": "https://www.arattai.in/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Short-form video",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_008",
+      "name": "Snapchat",
+      "domain": "www.snapchat.com",
+      "canonical_url": "https://www.snapchat.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Messaging and social media",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_009",
+      "name": "Pinterest",
+      "domain": "www.pinterest.com",
+      "canonical_url": "https://www.pinterest.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Visual discovery",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_010",
+      "name": "Reddit",
+      "domain": "www.reddit.com",
+      "canonical_url": "https://www.reddit.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Community discussions",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_011",
+      "name": "Discord",
+      "domain": "discord.com",
+      "canonical_url": "https://discord.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Communities and messaging",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_012",
+      "name": "Telegram",
+      "domain": "telegram.org",
+      "canonical_url": "https://telegram.org/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Messaging",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_013",
+      "name": "Threads",
+      "domain": "www.threads.net",
+      "canonical_url": "https://www.threads.net/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "social_media_014",
+      "name": "Twitch",
+      "domain": "www.twitch.tv",
+      "canonical_url": "https://www.twitch.tv/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Live streaming",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    
+    
+    {
+      "id": "social_media_017",
+      "name": "Quora",
+      "domain": "www.quora.com",
+      "canonical_url": "https://www.quora.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Question and answer community",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    
+    {
+      "id": "social_media_020",
+      "name": "Tumblr",
+      "domain": "www.tumblr.com",
+      "canonical_url": "https://www.tumblr.com/",
+      "category": "social-media",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Blogging and social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

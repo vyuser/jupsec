@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "creative",
+  "count": 12,
+  "urls": [
+    {
+      "id": "creative_001",
+      "name": "Canva",
+      "domain": "www.canva.in",
+      "canonical_url": "https://www.canva.in/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Graphic design and visual content creation platform.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_002",
+      "name": "Adobe Creative Cloud",
+      "domain": "www.adobe.com",
+      "canonical_url": "https://www.adobe.com/creativecloud.html",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Creative applications for design, photography, and video.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_003",
+      "name": "Figma",
+      "domain": "www.figma.com",
+      "canonical_url": "https://www.figma.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Collaborative interface design and prototyping platform.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_004",
+      "name": "Dribbble",
+      "domain": "dribbble.com",
+      "canonical_url": "https://dribbble.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Design showcase and creative community.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_005",
+      "name": "Behance",
+      "domain": "www.behance.net",
+      "canonical_url": "https://www.behance.net/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Creative portfolio and project showcase.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_006",
+      "name": "Pinterest",
+      "domain": "www.pinterest.com",
+      "canonical_url": "https://www.pinterest.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Visual discovery and inspiration platform.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_007",
+      "name": "Unsplash",
+      "domain": "unsplash.com",
+      "canonical_url": "https://unsplash.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Photography and visual asset library.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_008",
+      "name": "Pexels",
+      "domain": "www.pexels.com",
+      "canonical_url": "https://www.pexels.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Stock photography and video platform.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_009",
+      "name": "Krita",
+      "domain": "krita.org",
+      "canonical_url": "https://krita.org/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Digital painting and illustration software.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_010",
+      "name": "Blender",
+      "domain": "www.blender.org",
+      "canonical_url": "https://www.blender.org/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Open-source 3D modeling, animation, and rendering suite.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_011",
+      "name": "Runway",
+      "domain": "runwayml.com",
+      "canonical_url": "https://runwayml.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "AI-powered creative video tools.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "creative_012",
+      "name": "Adobe Firefly",
+      "domain": "firefly.adobe.com",
+      "canonical_url": "https://firefly.adobe.com/",
+      "category": "creative",
+      "status": "verified",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Generative AI tools for visual content creation.",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

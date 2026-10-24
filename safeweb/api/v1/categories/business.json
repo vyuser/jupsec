@@ -1,0 +1,680 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "business",
+  "count": 40,
+  "urls": [
+    {
+      "id": "business_001",
+      "name": "Google Workspace",
+      "domain": "workspace.google.com",
+      "canonical_url": "https://workspace.google.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business email and collaboration",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_002",
+      "name": "Microsoft 365 for Business",
+      "domain": "www.microsoft.com/microsoft-365/business",
+      "canonical_url": "https://www.microsoft.com/microsoft-365/business",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business productivity suite",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_003",
+      "name": "Amazon Business",
+      "domain": "business.amazon.in",
+      "canonical_url": "https://business.amazon.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "B2B purchasing in India",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_004",
+      "name": "IndiaMART",
+      "domain": "www.indiamart.com",
+      "canonical_url": "https://www.indiamart.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian B2B marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_005",
+      "name": "TradeIndia",
+      "domain": "www.tradeindia.com",
+      "canonical_url": "https://www.tradeindia.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian B2B marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_006",
+      "name": "Udyam Registration",
+      "domain": "udyamregistration.gov.in",
+      "canonical_url": "https://udyamregistration.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MSME registration portal",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_007",
+      "name": "Startup India",
+      "domain": "www.startupindia.gov.in",
+      "canonical_url": "https://www.startupindia.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government startup initiative",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_008",
+      "name": "MCA21",
+      "domain": "www.mca.gov.in",
+      "canonical_url": "https://www.mca.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ministry of Corporate Affairs services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_009",
+      "name": "GeM",
+      "domain": "gem.gov.in",
+      "canonical_url": "https://gem.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government e-Marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_010",
+      "name": "Government eProcurement System",
+      "domain": "eprocure.gov.in",
+      "canonical_url": "https://eprocure.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government tenders",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_011",
+      "name": "GST Portal",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business tax compliance",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_012",
+      "name": "Income Tax e-Filing",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business and individual tax filing",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_013",
+      "name": "EPFO Employer Portal",
+      "domain": "unifiedportal-emp.epfindia.gov.in",
+      "canonical_url": "https://unifiedportal-emp.epfindia.gov.in/epfo/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Employer provident fund services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_014",
+      "name": "ESIC Employer Portal",
+      "domain": "www.esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Employer social insurance services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_015",
+      "name": "DGFT",
+      "domain": "www.dgft.gov.in",
+      "canonical_url": "https://www.dgft.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Import and export services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_016",
+      "name": "Umang",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian customs electronic gateway",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_017",
+      "name": "Invest India",
+      "domain": "www.investindia.gov.in",
+      "canonical_url": "https://www.investindia.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Investment facilitation",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_018",
+      "name": "SIDBI",
+      "domain": "www.sidbi.in",
+      "canonical_url": "https://www.sidbi.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MSME financing institution",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_019",
+      "name": "NSIC",
+      "domain": "www.nsic.co.in",
+      "canonical_url": "https://www.nsic.co.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MSME support services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_020",
+      "name": "Startup India Seed Fund Scheme",
+      "domain": "seedfund.startupindia.gov.in",
+      "canonical_url": "https://seedfund.startupindia.gov.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Startup funding scheme information",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_021",
+      "name": "Zoho",
+      "domain": "www.zoho.com",
+      "canonical_url": "https://www.zoho.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_022",
+      "name": "Tally Solutions",
+      "domain": "tallysolutions.com",
+      "canonical_url": "https://tallysolutions.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Accounting and business software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_023",
+      "name": "Freshworks",
+      "domain": "www.freshworks.com",
+      "canonical_url": "https://www.freshworks.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_024",
+      "name": "Salesforce",
+      "domain": "www.salesforce.com",
+      "canonical_url": "https://www.salesforce.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CRM platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_025",
+      "name": "HubSpot",
+      "domain": "www.hubspot.com",
+      "canonical_url": "https://www.hubspot.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CRM and marketing platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_026",
+      "name": "Slack",
+      "domain": "slack.com",
+      "canonical_url": "https://slack.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business collaboration",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_027",
+      "name": "Atlassian",
+      "domain": "www.atlassian.com",
+      "canonical_url": "https://www.atlassian.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business and developer tools",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_028",
+      "name": "Canva for Teams",
+      "domain": "www.canva.com/teams",
+      "canonical_url": "https://www.canva.com/teams/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business design collaboration",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_029",
+      "name": "Razorpay",
+      "domain": "razorpay.com",
+      "canonical_url": "https://razorpay.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian business payments",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_030",
+      "name": "Cashfree Payments",
+      "domain": "www.cashfree.com",
+      "canonical_url": "https://www.cashfree.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian business payments",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_031",
+      "name": "PayU India",
+      "domain": "payu.in",
+      "canonical_url": "https://payu.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Payment services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_032",
+      "name": "Khatabook",
+      "domain": "khatabook.com",
+      "canonical_url": "https://khatabook.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business ledger and payments",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_033",
+      "name": "Vyapar",
+      "domain": "vyaparapp.in",
+      "canonical_url": "https://vyaparapp.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Business accounting software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_034",
+      "name": "ClearTax",
+      "domain": "cleartax.in",
+      "canonical_url": "https://cleartax.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tax and compliance software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_035",
+      "name": "KredX",
+      "domain": "www.kredx.com",
+      "canonical_url": "https://www.kredx.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Trade finance platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_036",
+      "name": "Moglix",
+      "domain": "www.moglix.com",
+      "canonical_url": "https://www.moglix.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Industrial B2B commerce",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_037",
+      "name": "Udaan",
+      "domain": "udaan.com",
+      "canonical_url": "https://udaan.com/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian B2B commerce",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_038",
+      "name": "ONDC",
+      "domain": "ondc.org",
+      "canonical_url": "https://ondc.org/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Open digital commerce network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_039",
+      "name": "FIEO",
+      "domain": "fieo.org",
+      "canonical_url": "https://fieo.org/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Export promotion organization",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_040",
+      "name": "NASSCOM",
+      "domain": "nasscom.in",
+      "canonical_url": "https://nasscom.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Export promotion organization",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_041",
+      "name": "DSCI-Data Security Council of India",
+      "domain": "www.dsci.in",
+      "canonical_url": "https://www.dsci.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Export promotion organization",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "business_042",
+      "name": "Cert-In",
+      "domain": "www.cert-in.org.in",
+      "canonical_url": "https://www.cert-in.org.in/",
+      "category": "business",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Export promotion organization",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}

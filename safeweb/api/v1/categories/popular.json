@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 1,
+  "category": "popular",
+  "count": 20,
+  "urls": [
+    {
+      "id": "popular_001",
+      "name": "Google",
+      "domain": "www.google.com",
+      "canonical_url": "https://www.google.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global search and web services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_002",
+      "name": "Microsoft",
+      "domain": "www.microsoft.com",
+      "canonical_url": "https://www.microsoft.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global software and cloud provider",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_003",
+      "name": "YouTube",
+      "domain": "www.youtube.com",
+      "canonical_url": "https://www.youtube.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global video platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_004",
+      "name": "Facebook",
+      "domain": "www.facebook.com",
+      "canonical_url": "https://www.facebook.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_005",
+      "name": "Instagram",
+      "domain": "www.instagram.com",
+      "canonical_url": "https://www.instagram.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global social media platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_006",
+      "name": "WhatsApp",
+      "domain": "www.whatsapp.com",
+      "canonical_url": "https://www.whatsapp.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Messaging service",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_007",
+      "name": "Amazon",
+      "domain": "www.amazon.com",
+      "canonical_url": "https://www.amazon.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Global shopping marketplace",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_008",
+      "name": "Apple",
+      "domain": "www.apple.com",
+      "canonical_url": "https://www.apple.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Technology company",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_009",
+      "name": "Wikipedia",
+      "domain": "www.wikipedia.org",
+      "canonical_url": "https://www.wikipedia.org/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Online encyclopedia",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_010",
+      "name": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "canonical_url": "https://www.linkedin.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Professional network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_011",
+      "name": "Reddit",
+      "domain": "www.reddit.com",
+      "canonical_url": "https://www.reddit.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Community discussion platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_012",
+      "name": "X",
+      "domain": "x.com",
+      "canonical_url": "https://x.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Social network",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_013",
+      "name": "Zoho",
+      "domain": "www.zoho.com",
+      "canonical_url": "https://www.zoho.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Short-form video platform",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_014",
+      "name": "Netflix",
+      "domain": "www.netflix.com",
+      "canonical_url": "https://www.netflix.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Streaming service",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_015",
+      "name": "ChatGPT",
+      "domain": "chatgpt.com",
+      "canonical_url": "https://chatgpt.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AI assistant",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_016",
+      "name": "Yahoo",
+      "domain": "www.yahoo.com",
+      "canonical_url": "https://www.yahoo.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Web portal and services",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_017",
+      "name": "Cloudflare",
+      "domain": "www.cloudflare.com",
+      "canonical_url": "https://www.cloudflare.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Internet infrastructure and security",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_018",
+      "name": "Adobe",
+      "domain": "www.adobe.com",
+      "canonical_url": "https://www.adobe.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Creative software",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_019",
+      "name": "Zoom",
+      "domain": "zoom.com",
+      "canonical_url": "https://www.zoom.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Video communications",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    },
+    {
+      "id": "popular_020",
+      "name": "Dropbox",
+      "domain": "www.dropbox.com",
+      "canonical_url": "https://www.dropbox.com/",
+      "category": "popular",
+      "status": "verified",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cloud storage",
+      "source_type": "suggested_official_domain",
+      "review_required": true
+    }
+  ]
+}
