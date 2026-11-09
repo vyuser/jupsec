@@ -96,6 +96,14 @@ input {
   object-fit: contain;
 }
 
+.safeweb-logo-image {
+  display: block;
+  height: auto;
+  width: 200px;
+  padding-bottom: 10px;
+  object-fit: contain;
+}
+
 .product-logo-image {
   display: block;
 
