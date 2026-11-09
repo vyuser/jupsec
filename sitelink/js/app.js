@@ -11,7 +11,7 @@
   const copy = {
     en: {
       chooseLanguage: "Choose your language",
-      languageIntro: "Select a language to continue. You can change it later.",
+      languageIntro: "Verification status does not 100% guarantee a website can never be compromised.",
       continue: "Continue",
       home: "Home",
       directoryNoteTitle: "Curated directory",
@@ -67,7 +67,7 @@
     hi: {
       chooseLanguage: "अपनी भाषा चुनें",
       languageIntro:
-        "जारी रखने के लिए भाषा चुनें। आप इसे बाद में बदल सकते हैं।",
+        "सत्यापन की स्थिति इस बात की 100% गारंटी नहीं देती कि वेबसाइट कभी भी हैक नहीं हो सकती।",
       continue: "जारी रखें",
       home: "होम",
       directoryNoteTitle: "चयनित निर्देशिका",
@@ -121,7 +121,7 @@
 
     mr: {
       chooseLanguage: "तुमची भाषा निवडा",
-      languageIntro: "पुढे जाण्यासाठी भाषा निवडा. तुम्ही ती नंतर बदलू शकता.",
+      languageIntro: "सत्यापन स्थितीमुळे वेबसाइट कधीही हॅक होऊ शकत नाही याची १००% हमी मिळत नाही.",
       continue: "पुढे चला",
       home: "मुख्यपृष्ठ",
       directoryNoteTitle: "निवडक निर्देशिका",
@@ -175,7 +175,7 @@
 
     gu: {
       chooseLanguage: "તમારી ભાષા પસંદ કરો",
-      languageIntro: "આગળ વધવા માટે ભાષા પસંદ કરો. તમે તેને પછીથી બદલી શકો છો.",
+      languageIntro: "ચકાસણી સ્થિતિ 100% ગેરંટી આપતી નથી કે વેબસાઇટ સાથે ક્યારેય ચેડા થઈ શકશે નહીં.",
       continue: "આગળ વધો",
       home: "મુખ્ય પૃષ્ઠ",
       directoryNoteTitle: "પસંદ કરેલી ડિરેક્ટરી",
