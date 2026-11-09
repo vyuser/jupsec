@@ -1,0 +1,582 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "creative",
+  "language": "en",
+  "category_name": "Creative",
+  "count": 12,
+  "urls": [
+    {
+      "id": "creative_001",
+      "name": "Canva",
+      "domain": "www.canva.in",
+      "canonical_url": "https://www.canva.in/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Graphic design and visual content creation platform.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Graphic Design",
+        "Visual Content",
+        "Templates",
+        "AI Design Tools",
+        "Team Collaboration"
+      ],
+      "keywords": [
+        "Canva",
+        "Canva India",
+        "online graphic design",
+        "free design tool",
+        "design templates",
+        "create poster online",
+        "make invitation card",
+        "presentation maker",
+        "resume maker",
+        "logo maker",
+        "social media post maker",
+        "Instagram post design",
+        "video editor online",
+        "photo editor",
+        "flyer design",
+        "business cards",
+        "AI image generator",
+        "brand kit",
+        "design collaboration"
+      ],
+      "use_cases": [
+        "Create posters, invitations, flyers, presentations and social media graphics",
+        "Design resumes, business cards, logos and branded marketing materials",
+        "Edit photos and videos using online design tools and templates",
+        "Collaborate with a team on visual content and shared brand assets"
+      ]
+    },
+    {
+      "id": "creative_002",
+      "name": "Adobe Creative Cloud",
+      "domain": "www.adobe.com",
+      "canonical_url": "https://www.adobe.com/creativecloud.html",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Adobe's suite of creative applications and services for graphic design, photography, illustration, video editing, web design and other digital content workflows.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Creative Software",
+        "Graphic Design",
+        "Photo Editing",
+        "Video Editing",
+        "Digital Publishing"
+      ],
+      "keywords": [
+        "Adobe Creative Cloud",
+        "Adobe apps",
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Premiere Pro",
+        "After Effects",
+        "Lightroom",
+        "photo editing software",
+        "video editing software",
+        "graphic design software",
+        "vector graphics",
+        "digital illustration",
+        "desktop publishing",
+        "creative cloud subscription",
+        "PDF creative tools",
+        "motion graphics",
+        "web design tools"
+      ],
+      "use_cases": [
+        "Choose and access Adobe applications for graphic design, photography and video production",
+        "Edit and retouch photographs or create digital illustrations",
+        "Produce video, animation, motion graphics and visual effects",
+        "Create layouts, publications and other professional creative content"
+      ]
+    },
+    {
+      "id": "creative_003",
+      "name": "Figma",
+      "domain": "www.figma.com",
+      "canonical_url": "https://www.figma.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Collaborative design platform for creating user interfaces, prototypes, product experiences, websites and shared visual ideas.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "UI UX Design",
+        "Prototyping",
+        "Product Design",
+        "Online Whiteboard",
+        "Team Collaboration"
+      ],
+      "keywords": [
+        "Figma",
+        "UI design tool",
+        "UX design tool",
+        "website design",
+        "app design",
+        "wireframe tool",
+        "prototype app",
+        "interactive prototype",
+        "design system",
+        "interface design",
+        "product design software",
+        "collaborative design",
+        "online whiteboard",
+        "FigJam",
+        "developer handoff",
+        "design components",
+        "mobile app mockup",
+        "website mockup"
+      ],
+      "use_cases": [
+        "Create wireframes and interface designs for websites and mobile apps",
+        "Build interactive prototypes to demonstrate user journeys and product ideas",
+        "Collaborate with designers, developers and stakeholders on shared projects",
+        "Organise design systems, components and feedback for digital products"
+      ]
+    },
+    {
+      "id": "creative_004",
+      "name": "Dribbble",
+      "domain": "dribbble.com",
+      "canonical_url": "https://dribbble.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Online design community and portfolio platform where creatives share visual work, discover design inspiration and connect with potential clients and employers.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Design Community",
+        "Creative Portfolio",
+        "Design Inspiration",
+        "Freelance Design",
+        "Creative Careers"
+      ],
+      "keywords": [
+        "Dribbble",
+        "design inspiration",
+        "designer portfolio",
+        "graphic design examples",
+        "UI design inspiration",
+        "web design ideas",
+        "app design examples",
+        "logo design inspiration",
+        "illustration showcase",
+        "creative community",
+        "hire a designer",
+        "freelance designer",
+        "design jobs",
+        "visual design trends",
+        "product design portfolio"
+      ],
+      "use_cases": [
+        "Browse examples and inspiration for graphic, web and interface design",
+        "Showcase design work and build a professional creative portfolio",
+        "Discover designers and creative professionals for projects",
+        "Explore design opportunities and connect with the design community"
+      ]
+    },
+    {
+      "id": "creative_005",
+      "name": "Behance",
+      "domain": "www.behance.net",
+      "canonical_url": "https://www.behance.net/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Creative portfolio and discovery platform for showcasing projects across graphic design, illustration, photography, branding, UI/UX and other creative disciplines.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Creative Portfolio",
+        "Design Showcase",
+        "Photography",
+        "Illustration",
+        "Creative Careers"
+      ],
+      "keywords": [
+        "Behance",
+        "Adobe Behance",
+        "online portfolio",
+        "creative portfolio website",
+        "graphic design portfolio",
+        "photography portfolio",
+        "illustration portfolio",
+        "UI UX portfolio",
+        "branding projects",
+        "logo design projects",
+        "creative inspiration",
+        "design projects",
+        "hire creative professionals",
+        "freelance creative work",
+        "portfolio examples"
+      ],
+      "use_cases": [
+        "Create and share a portfolio of creative projects",
+        "Discover work by designers, photographers, illustrators and other creatives",
+        "Find inspiration and examples for design and visual communication projects",
+        "Present professional work to potential clients, collaborators and employers"
+      ]
+    },
+    {
+      "id": "creative_006",
+      "name": "Pinterest",
+      "domain": "www.pinterest.com",
+      "canonical_url": "https://www.pinterest.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Visual discovery and bookmarking platform for finding, saving and organising ideas across design, crafts, fashion, food, home projects and other interests.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Visual Discovery",
+        "Creative Inspiration",
+        "Idea Collections",
+        "DIY Projects",
+        "Lifestyle Ideas"
+      ],
+      "keywords": [
+        "Pinterest",
+        "ideas and inspiration",
+        "save pictures",
+        "photo ideas",
+        "design inspiration",
+        "home decor ideas",
+        "DIY crafts",
+        "art inspiration",
+        "fashion ideas",
+        "recipe ideas",
+        "wedding ideas",
+        "logo inspiration",
+        "interior design ideas",
+        "creative projects",
+        "Pinterest boards",
+        "visual bookmarks"
+      ],
+      "use_cases": [
+        "Discover visual ideas for creative, personal and professional projects",
+        "Save images and organise inspiration into themed boards",
+        "Find tutorials and ideas for crafts, home decoration, fashion and events",
+        "Collect references for design, photography and content planning"
+      ]
+    },
+    {
+      "id": "creative_007",
+      "name": "Unsplash",
+      "domain": "unsplash.com",
+      "canonical_url": "https://unsplash.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Photography platform offering a searchable collection of images contributed by photographers for use in creative, editorial and other visual projects under its licensing terms.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Stock Photography",
+        "Free Photos",
+        "Image Library",
+        "Creative Assets",
+        "Photography"
+      ],
+      "keywords": [
+        "Unsplash",
+        "free photos",
+        "stock photos",
+        "high resolution images",
+        "download pictures",
+        "royalty free photos",
+        "free photography",
+        "background images",
+        "nature photography",
+        "business photos",
+        "travel photos",
+        "portrait photography",
+        "website images",
+        "presentation images",
+        "creative image library"
+      ],
+      "use_cases": [
+        "Find and download photographs for websites, presentations and creative projects",
+        "Search for high-resolution images by subject, style or photographer",
+        "Discover photographers and visual references for content creation",
+        "Review image licensing terms before using photographs in a project"
+      ]
+    },
+    {
+      "id": "creative_008",
+      "name": "Pexels",
+      "domain": "www.pexels.com",
+      "canonical_url": "https://www.pexels.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Stock media platform providing searchable photographs and videos for creative, marketing, educational and personal projects, subject to its licence.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Stock Photos",
+        "Stock Videos",
+        "Free Media",
+        "Creative Assets",
+        "Video Library"
+      ],
+      "keywords": [
+        "Pexels",
+        "free stock photos",
+        "free stock videos",
+        "download videos",
+        "download photos",
+        "royalty free images",
+        "stock footage",
+        "video backgrounds",
+        "high quality pictures",
+        "marketing images",
+        "social media videos",
+        "presentation photos",
+        "website photos",
+        "creative media library",
+        "free video clips"
+      ],
+      "use_cases": [
+        "Find photographs and video clips for websites, presentations and social media",
+        "Download visual assets for marketing, education and personal projects",
+        "Search stock media by subject, orientation and visual style",
+        "Check the Pexels licence before using downloaded photos or videos"
+      ]
+    },
+    {
+      "id": "creative_009",
+      "name": "Krita",
+      "domain": "krita.org",
+      "canonical_url": "https://krita.org/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Free and open-source digital painting application designed for illustrators, concept artists, comic creators and other digital artists.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Digital Painting",
+        "Illustration",
+        "Open Source Software",
+        "Comic Art",
+        "Creative Software"
+      ],
+      "keywords": [
+        "Krita",
+        "free drawing software",
+        "digital painting program",
+        "drawing app for PC",
+        "illustration software",
+        "open source art program",
+        "painting software",
+        "comic drawing",
+        "concept art software",
+        "brush engine",
+        "digital sketching",
+        "texture painting",
+        "2D art software",
+        "graphics tablet drawing"
+      ],
+      "use_cases": [
+        "Create digital paintings, sketches and illustrations",
+        "Draw comic pages, concept art and character designs",
+        "Use brushes, layers and painting tools for digital artwork",
+        "Download and learn to use open-source painting software"
+      ]
+    },
+    {
+      "id": "creative_010",
+      "name": "Blender",
+      "domain": "www.blender.org",
+      "canonical_url": "https://www.blender.org/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Free and open-source 3D creation software for modelling, sculpting, animation, rendering, visual effects, simulation and game asset production.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "3D Design",
+        "3D Animation",
+        "Rendering",
+        "Visual Effects",
+        "Open Source Software"
+      ],
+      "keywords": [
+        "Blender",
+        "free 3D software",
+        "3D modeling",
+        "3D animation",
+        "3D rendering",
+        "3D sculpting",
+        "visual effects software",
+        "VFX",
+        "motion graphics",
+        "3D character design",
+        "architectural visualization",
+        "game assets",
+        "3D simulation",
+        "open source 3D program",
+        "video editing Blender"
+      ],
+      "use_cases": [
+        "Create and edit 3D models, objects and scenes",
+        "Animate characters, objects and visual sequences",
+        "Render images and animations for films, games and presentations",
+        "Build visual effects, simulations and assets for creative projects"
+      ]
+    },
+    {
+      "id": "creative_011",
+      "name": "Runway",
+      "domain": "runwayml.com",
+      "canonical_url": "https://runwayml.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "AI-powered creative platform offering tools for generating and editing video and other visual media from prompts and existing content.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "AI Video Generation",
+        "Video Editing",
+        "Generative AI",
+        "Creative Production",
+        "Visual Effects"
+      ],
+      "keywords": [
+        "Runway AI",
+        "RunwayML",
+        "AI video generator",
+        "text to video",
+        "image to video",
+        "AI video editing",
+        "generate video online",
+        "video effects AI",
+        "AI filmmaking tools",
+        "video background removal",
+        "creative AI tools",
+        "generative video",
+        "video production software",
+        "AI visual content"
+      ],
+      "use_cases": [
+        "Generate video content from text prompts or images using available AI tools",
+        "Experiment with AI-assisted video editing and visual effects",
+        "Create visual concepts and short clips for creative projects",
+        "Explore AI tools for video production and content development"
+      ]
+    },
+    {
+      "id": "creative_012",
+      "name": "Adobe Firefly",
+      "domain": "firefly.adobe.com",
+      "canonical_url": "https://firefly.adobe.com/",
+      "category": "creative",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "not_documented"
+      },
+      "description": "Adobe's generative AI creative service for producing and editing images and other visual content using text prompts and AI-powered creative tools.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Generative AI",
+        "AI Image Generation",
+        "Creative Editing",
+        "Visual Content",
+        "Adobe Tools"
+      ],
+      "keywords": [
+        "Adobe Firefly",
+        "Firefly AI",
+        "AI image generator",
+        "text to image",
+        "generate images from text",
+        "AI photo editing",
+        "generative fill",
+        "AI visual design",
+        "image editing AI",
+        "creative AI tools",
+        "AI graphics",
+        "text effects",
+        "generative design",
+        "Adobe AI"
+      ],
+      "use_cases": [
+        "Generate visual concepts and images from written prompts",
+        "Edit or transform images using available generative AI features",
+        "Create visual assets for design, marketing and creative projects",
+        "Explore Adobe's generative AI tools and supported creative workflows"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1792 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "business",
+  "language": "en",
+  "category_name": "Business",
+  "count": 42,
+  "urls": [
+    {
+      "id": "business_001",
+      "name": "Google Workspace",
+      "domain": "workspace.google.com",
+      "canonical_url": "https://workspace.google.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Google Workspace provides business email and cloud-based productivity and collaboration tools, including services for communication, document work and team coordination.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Business Productivity",
+        "Email & Communication",
+        "Team Collaboration",
+        "Cloud Software"
+      ],
+      "keywords": [
+        "Google Workspace",
+        "G Suite",
+        "business email",
+        "Gmail for business",
+        "company email",
+        "custom domain email",
+        "Google Drive for business",
+        "Google Docs",
+        "Google Sheets",
+        "Google Meet",
+        "business calendar",
+        "team collaboration tools",
+        "cloud office software",
+        "online document sharing",
+        "business productivity apps"
+      ],
+      "use_cases": [
+        "Set up professional email for a business",
+        "Create, store and share work documents online",
+        "Collaborate with colleagues using business productivity tools"
+      ]
+    },
+    {
+      "id": "business_002",
+      "name": "Microsoft 365 for Business",
+      "domain": "www.microsoft.com/microsoft-365/business",
+      "canonical_url": "https://www.microsoft.com/microsoft-365/business",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Microsoft 365 for Business provides workplace productivity software and cloud services for organisations, including familiar Office applications and tools for communication and collaboration.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Business Productivity",
+        "Office Software",
+        "Email & Collaboration",
+        "Cloud Services"
+      ],
+      "keywords": [
+        "Microsoft 365 Business",
+        "Microsoft Office for business",
+        "Office 365",
+        "Word for business",
+        "Excel for business",
+        "PowerPoint",
+        "Outlook business email",
+        "Teams meetings",
+        "OneDrive business",
+        "SharePoint",
+        "business software subscription",
+        "office apps for companies",
+        "workplace collaboration"
+      ],
+      "use_cases": [
+        "Choose productivity software for a business",
+        "Create documents, spreadsheets and presentations",
+        "Manage work email, meetings and shared files"
+      ]
+    },
+        {
+      "id": "business_003",
+      "name": "Amazon Business",
+      "domain": "business.amazon.in",
+      "canonical_url": "https://business.amazon.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Amazon Business is a business purchasing platform in India that helps organisations discover products and manage procurement for workplace and operational needs.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B Marketplace",
+        "Business Purchasing",
+        "Procurement",
+        "Wholesale Supplies"
+      ],
+      "keywords": [
+        "Amazon Business India",
+        "business shopping",
+        "buy office supplies online",
+        "bulk buying",
+        "bulk orders",
+        "business procurement",
+        "company purchases",
+        "GST invoice shopping",
+        "office products",
+                "industrial supplies",
+        "business seller marketplace",
+        "wholesale products"
+      ],
+      "use_cases": [
+        "Find and purchase products for business use",
+        "Compare products and purchasing options for an organisation",
+        "Source office and operational supplies"
+      ]
+    },
+    {
+      "id": "business_004",
+      "name": "IndiaMART",
+      "domain": "www.indiamart.com",
+      "canonical_url": "https://www.indiamart.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IndiaMART is an Indian business-to-business marketplace where buyers can discover suppliers, manufacturers, wholesalers and products across many industries.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B Marketplace",
+        "Supplier Directory",
+        "Wholesale Trade",
+        "Business Enquiries"
+      ],
+      "keywords": [
+        "IndiaMART",
+        "India Mart",
+        "B2B portal India",
+        "find suppliers",
+        "manufacturer directory",
+        "wholesale suppliers",
+        "bulk products",
+        "industrial products",
+        "business buyer",
+        "business seller",
+        "supplier contact",
+        "product enquiry",
+        "buy wholesale online"
+      ],
+      "use_cases": [
+        "Find manufacturers, wholesalers and suppliers",
+        "Discover products for business purchasing",
+        "Contact businesses about product requirements"
+      ]
+    },
+    {
+      "id": "business_005",
+      "name": "TradeIndia",
+      "domain": "www.tradeindia.com",
+      "canonical_url": "https://www.tradeindia.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "TradeIndia is an Indian B2B marketplace and business directory for discovering suppliers, manufacturers, exporters, wholesalers and trade products.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B Marketplace",
+        "Supplier Directory",
+        "Wholesale Trade",
+        "Trade Enquiries"
+      ],
+      "keywords": [
+        "TradeIndia",
+        "Trade India",
+        "Indian suppliers",
+        "manufacturer search",
+        "exporters directory",
+        "wholesale market",
+        "B2B business portal",
+        "industrial goods",
+        "business products",
+        "supplier enquiry",
+        "bulk purchase",
+        "find distributors",
+        "trade leads"
+      ],
+      "use_cases": [
+        "Search for suppliers and manufacturers in India",
+        "Explore products and wholesale business listings",
+        "Connect with businesses for trade enquiries"
+      ]
+    },
+    {
+      "id": "business_006",
+      "name": "Udyam Registration",
+      "domain": "udyamregistration.gov.in",
+      "canonical_url": "https://udyamregistration.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Udyam Registration is the Government of India's online portal for registration of eligible micro, small and medium enterprises (MSMEs).",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Portal",
+        "MSME Registration",
+        "Business Registration",
+        "Small Business Support"
+      ],
+      "keywords": [
+        "Udyam Registration",
+        "Udyam certificate",
+        "MSME registration online",
+        "register small business",
+        "micro enterprise registration",
+        "small enterprise certificate",
+        "medium enterprise registration",
+        "MSME number",
+        "Udyam login",
+        "update Udyam details",
+        "government MSME portal",
+        "business registration India"
+      ],
+      "use_cases": [
+        "Register an eligible business as an MSME",
+        "Access or update Udyam registration information",
+        "Find official guidance about MSME registration"
+      ]
+    },
+    {
+      "id": "business_007",
+      "name": "Startup India",
+      "domain": "www.startupindia.gov.in",
+      "canonical_url": "https://www.startupindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Startup India is a Government of India initiative providing information and resources for startups, entrepreneurs and the wider startup ecosystem.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Initiative",
+        "Startup Support",
+        "Entrepreneurship",
+        "Business Resources"
+      ],
+      "keywords": [
+        "Startup India",
+        "startup registration",
+        "DPIIT recognition",
+        "startup recognition",
+        "start a business India",
+        "entrepreneur support",
+        "startup schemes",
+        "startup benefits",
+        "startup funding information",
+        "startup learning",
+        "incubators",
+        "Indian startup ecosystem",
+        "government startup portal"
+      ],
+      "use_cases": [
+        "Explore government support and resources for startups",
+        "Find information about startup recognition and related benefits",
+        "Discover entrepreneurship programmes and ecosystem resources"
+      ]
+    },
+    {
+      "id": "business_008",
+      "name": "MCA21",
+      "domain": "www.mca.gov.in",
+      "canonical_url": "https://www.mca.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MCA21 is the Ministry of Corporate Affairs' online system for company and limited liability partnership (LLP) filings, corporate records and related regulatory services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Portal",
+        "Company Compliance",
+        "Corporate Filings",
+        "LLP Services"
+      ],
+      "keywords": [
+        "MCA21",
+        "MCA portal",
+        "Ministry of Corporate Affairs",
+        "company registration",
+        "company master data",
+        "MCA filing",
+        "ROC filing",
+        "annual return filing",
+        "director services",
+        "DIN",
+        "LLP registration",
+        "LLP filing",
+        "corporate compliance India",
+        "company forms"
+      ],
+      "use_cases": [
+        "Access company and LLP filing services",
+        "Find company and director-related public information",
+        "Complete corporate compliance tasks and statutory filings"
+      ]
+    },
+    {
+      "id": "business_009",
+      "name": "GeM",
+      "domain": "gem.gov.in",
+      "canonical_url": "https://gem.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "GeM, the Government e-Marketplace, is an online public procurement platform used by government buyers and registered sellers to list, discover and procure goods and services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Marketplace",
+        "Public Procurement",
+        "Seller Registration",
+        "Business Supplies"
+      ],
+      "keywords": [
+        "GeM portal",
+        "Government e Marketplace",
+        "GeM registration",
+        "government seller registration",
+        "sell products to government",
+        "government tenders and orders",
+        "public procurement India",
+        "GeM buyer login",
+        "GeM seller login",
+        "vendor registration",
+        "government purchase",
+        "service provider registration",
+        "government marketplace India"
+      ],
+      "use_cases": [
+        "Register as a seller or service provider on GeM",
+        "Find government procurement opportunities",
+        "Explore products and services listed for public buyers"
+      ]
+    },
+    {
+      "id": "business_010",
+      "name": "Government eProcurement System",
+      "domain": "eprocure.gov.in",
+      "canonical_url": "https://eprocure.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Government eProcurement System provides access to online tendering and procurement opportunities published by participating government departments and organisations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Portal",
+        "E-Tendering",
+        "Public Procurement",
+        "Tender Search"
+      ],
+      "keywords": [
+        "Government eProcurement System",
+        "eProcure",
+        "government e tender",
+        "online tender search",
+        "India government tenders",
+        "tender notice",
+        "bid submission",
+        "e tender registration",
+        "procurement notices",
+        "tender documents",
+        "contract opportunities",
+        "government bids",
+        "vendor tender portal"
+      ],
+      "use_cases": [
+        "Search for government tender notices",
+        "Access tender documents and procurement information",
+        "Participate in online tendering where eligible"
+      ]
+    },
+    {
+      "id": "business_011",
+      "name": "GST Portal",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The GST Portal is the official online platform for Goods and Services Tax services in India, including taxpayer registration, return filing, payments and account-related compliance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Tax Portal",
+        "GST Services",
+        "Tax Filing",
+        "Business Compliance"
+      ],
+      "keywords": [
+        "GST portal",
+        "Goods and Services Tax",
+        "GST login",
+        "GST registration",
+        "GST return filing",
+        "GSTR-1",
+        "GSTR-3B",
+        "GST payment",
+        "GST challan",
+        "GST invoice",
+        "GST number search",
+        "GST refund",
+        "taxpayer services",
+        "business tax India"
+      ],
+      "use_cases": [
+        "Register for GST and manage taxpayer details",
+        "File GST returns and make tax payments",
+        "Access GST notices, records and compliance services"
+      ]
+    },
+    {
+      "id": "business_012",
+      "name": "Income Tax e-Filing",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Income Tax e-Filing portal is the official online platform for individuals and businesses to file income tax returns and access income-tax account and compliance services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Tax Portal",
+        "Income Tax Filing",
+        "Tax Payments",
+        "Taxpayer Services"
+      ],
+      "keywords": [
+        "Income Tax e Filing",
+        "incometax.gov.in",
+        "income tax return",
+        "ITR filing online",
+        "income tax login",
+        "PAN services",
+        "e verify ITR",
+        "income tax refund status",
+        "AIS statement",
+        "Form 26AS",
+        "tax payment",
+        "TDS details",
+        "business income tax",
+        "individual tax filing"
+      ],
+      "use_cases": [
+        "File or e-verify an income tax return",
+        "Check tax records, refunds and filing status",
+        "Access online income-tax services for individuals or businesses"
+      ]
+    },
+    {
+      "id": "business_013",
+      "name": "EPFO Employer Portal",
+      "domain": "unifiedportal-emp.epfindia.gov.in",
+      "canonical_url": "https://unifiedportal-emp.epfindia.gov.in/epfo/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The EPFO Employer Portal provides employer-facing online services for provident fund administration, including employer account access and related compliance activities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Employer Portal",
+        "Provident Fund",
+        "Payroll Compliance",
+        "Employee Benefits"
+      ],
+      "keywords": [
+        "EPFO Employer Portal",
+        "EPFO employer login",
+        "Employees Provident Fund",
+        "PF employer services",
+        "employer PF registration",
+        "EPF contribution",
+        "ECR upload",
+        "PF challan payment",
+        "employee provident fund",
+        "UAN employer services",
+        "payroll PF compliance",
+        "establishment login"
+      ],
+      "use_cases": [
+        "Access employer provident fund services",
+        "Manage relevant employee and establishment PF tasks",
+        "Complete online EPF contribution and compliance activities"
+      ]
+    },
+    {
+      "id": "business_014",
+      "name": "ESIC Employer Portal",
+      "domain": "www.esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The ESIC Employer Portal provides online employer services related to Employees' State Insurance, including establishment and employee insurance administration.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Employer Portal",
+        "Employee Insurance",
+        "Social Security",
+        "Payroll Compliance"
+      ],
+      "keywords": [
+        "ESIC employer portal",
+        "ESIC login",
+        "Employees State Insurance",
+        "ESI registration",
+        "employer ESIC services",
+        "employee insurance",
+        "ESI contribution",
+        "ESI challan",
+        "ESIC payment",
+        "employee registration",
+        "ESI compliance",
+        "establishment registration"
+      ],
+      "use_cases": [
+        "Access employer services for Employees' State Insurance",
+        "Manage establishment and employee insurance information",
+        "Complete relevant ESIC contribution and compliance tasks"
+      ]
+    },
+    {
+      "id": "business_015",
+      "name": "DGFT",
+      "domain": "www.dgft.gov.in",
+      "canonical_url": "https://www.dgft.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Directorate General of Foreign Trade (DGFT) portal provides online services and information for India's foreign trade policy, importers, exporters and trade authorisations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Trade Portal",
+        "Import & Export",
+        "Trade Licences",
+        "Foreign Trade Compliance"
+      ],
+      "keywords": [
+        "DGFT",
+        "Directorate General of Foreign Trade",
+        "DGFT login",
+        "IEC code",
+        "Import Export Code",
+        "IEC registration",
+        "export licence",
+        "import authorisation",
+        "foreign trade policy",
+        "DGFT certificate",
+        "exporter registration",
+        "importer registration",
+        "India export import services"
+      ],
+      "use_cases": [
+        "Apply for or manage an Importer Exporter Code",
+        "Access import and export authorisation services",
+        "Find official foreign trade policy and compliance information"
+      ]
+    },
+    {
+      "id": "business_016",
+      "name": "Umang",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "UMANG is a Government of India digital services platform that brings together access to participating central and state government services through a common online interface.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Services",
+        "Digital Public Services",
+        "Online Service Access",
+        "Mobile Services"
+      ],
+      "keywords": [
+        "UMANG",
+        "UMANG app",
+        "Unified Mobile Application for New-age Governance",
+        "government services online",
+        "India government app",
+        "central government services",
+        "state government services",
+        "online certificates",
+        "public service portal",
+        "government service login",
+        "UMANG web portal",
+        "citizen services"
+      ],
+      "use_cases": [
+        "Find and access participating government services online",
+        "Discover government services through one digital platform",
+        "Access available public-service information and application links"
+      ]
+    },
+    {
+      "id": "business_017",
+      "name": "Invest India",
+      "domain": "www.investindia.gov.in",
+      "canonical_url": "https://www.investindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Invest India is India's national investment promotion and facilitation agency, providing information and support for investors exploring business and investment opportunities in India.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Investment Promotion",
+        "Business Facilitation",
+        "Investor Information",
+        "India Market Entry"
+      ],
+      "keywords": [
+        "Invest India",
+        "investment in India",
+        "investor support India",
+        "start business in India",
+        "foreign investment India",
+        "FDI information",
+        "business opportunities India",
+        "investment facilitation",
+        "India market entry",
+        "set up company India",
+        "sector information",
+        "investor assistance"
+      ],
+      "use_cases": [
+        "Explore investment opportunities and sector information in India",
+        "Find guidance for setting up or expanding a business",
+        "Access investor facilitation resources"
+      ]
+    },
+    {
+      "id": "business_018",
+      "name": "SIDBI",
+      "domain": "www.sidbi.in",
+      "canonical_url": "https://www.sidbi.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "SIDBI is the Small Industries Development Bank of India, a financial institution focused on supporting the growth and development of micro, small and medium enterprises.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "MSME Finance",
+        "Development Finance",
+        "Small Business Support",
+        "Business Loans"
+      ],
+      "keywords": [
+        "SIDBI",
+        "Small Industries Development Bank of India",
+        "MSME loan",
+        "small business finance",
+        "business loan India",
+        "MSME funding",
+        "working capital finance",
+        "startup finance",
+        "micro small medium enterprise",
+        "SIDBI schemes",
+        "business credit",
+        "MSME development"
+      ],
+      "use_cases": [
+        "Explore finance and support options for MSMEs",
+        "Find information about business funding and credit programmes",
+        "Access SIDBI resources for small business development"
+      ]
+    },
+    {
+      "id": "business_019",
+      "name": "NSIC",
+      "domain": "www.nsic.co.in",
+      "canonical_url": "https://www.nsic.co.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The National Small Industries Corporation (NSIC) supports micro and small enterprises through business development, marketing, technology and other enterprise-support programmes.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "MSME Support",
+        "Government Enterprise Services",
+        "Business Development",
+        "Small Industry"
+      ],
+      "keywords": [
+        "NSIC",
+        "National Small Industries Corporation",
+        "MSME support",
+        "small business support India",
+        "micro enterprise services",
+        "small industry assistance",
+        "government schemes for MSME",
+        "marketing support",
+        "raw material assistance",
+        "technology support",
+        "NSIC registration",
+        "MSME development"
+      ],
+      "use_cases": [
+        "Explore support programmes for micro and small businesses",
+        "Find information about marketing and enterprise development assistance",
+        "Access NSIC services and business resources"
+      ]
+    },
+    {
+      "id": "business_020",
+      "name": "Startup India Seed Fund Scheme",
+      "domain": "seedfund.startupindia.gov.in",
+      "canonical_url": "https://seedfund.startupindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Startup India Seed Fund Scheme portal provides information about the government-backed seed funding programme intended to support eligible startups through selected incubators.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Startup Funding",
+        "Government Scheme",
+        "Seed Funding",
+        "Entrepreneurship"
+      ],
+      "keywords": [
+        "Startup India Seed Fund Scheme",
+        "SISFS",
+        "startup seed fund",
+        "seed funding India",
+        "startup grant information",
+        "early stage startup funding",
+        "startup incubator",
+        "startup finance scheme",
+        "DPIIT recognised startup",
+        "startup funding application",
+        "government startup scheme"
+      ],
+      "use_cases": [
+        "Find information about the Startup India Seed Fund Scheme",
+        "Explore eligibility and application-related guidance",
+        "Learn about participating incubators and startup funding support"
+      ]
+    },
+    {
+      "id": "business_021",
+      "name": "Zoho",
+      "domain": "www.zoho.com",
+      "canonical_url": "https://www.zoho.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoho provides a suite of cloud-based business applications covering areas such as office productivity, customer management, finance, human resources and business operations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Business Software",
+        "Cloud Applications",
+        "Business Management",
+        "Productivity Tools"
+      ],
+      "keywords": [
+        "Zoho",
+        "Zoho apps",
+        "business software",
+        "CRM software",
+        "online office suite",
+        "business email",
+        "accounting software",
+        "project management",
+        "HR software",
+        "inventory management",
+        "help desk software",
+        "cloud business tools",
+        "small business applications"
+      ],
+      "use_cases": [
+        "Find software to manage everyday business activities",
+        "Explore tools for customer, finance and team operations",
+        "Choose cloud applications for a small or growing business"
+      ]
+    },
+    {
+      "id": "business_022",
+      "name": "Tally Solutions",
+      "domain": "tallysolutions.com",
+      "canonical_url": "https://tallysolutions.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tally Solutions provides business management and accounting software used by organisations for bookkeeping, invoicing, inventory and financial operations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Accounting Software",
+        "Business Management",
+        "GST & Invoicing",
+        "Inventory"
+      ],
+      "keywords": [
+        "Tally Solutions",
+        "TallyPrime",
+        "Tally software",
+        "accounting software India",
+        "business accounting",
+        "GST billing software",
+        "invoice maker",
+        "GST accounting",
+        "inventory management",
+        "bookkeeping",
+        "business reports",
+        "purchase sales entry",
+        "small business accounts"
+      ],
+      "use_cases": [
+        "Maintain business accounts and financial records",
+        "Create invoices and manage GST-related accounting tasks",
+        "Track inventory, purchases and sales"
+      ]
+    },
+    {
+      "id": "business_023",
+      "name": "Freshworks",
+      "domain": "www.freshworks.com",
+      "canonical_url": "https://www.freshworks.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freshworks provides business software for customer and employee experience, including customer support, service management and sales-related tools.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Business Software",
+        "Customer Support",
+        "Sales Tools",
+        "Service Management"
+      ],
+      "keywords": [
+        "Freshworks",
+        "Freshdesk",
+        "Freshsales",
+        "customer support software",
+        "helpdesk system",
+        "customer service platform",
+        "ticket management",
+        "CRM software",
+        "sales management",
+        "IT service management",
+        "customer experience tools",
+        "business support software"
+      ],
+      "use_cases": [
+        "Manage customer questions and support requests",
+        "Organise sales and customer information",
+        "Explore software for customer and employee service teams"
+      ]
+    },
+    {
+      "id": "business_024",
+      "name": "Salesforce",
+      "domain": "www.salesforce.com",
+      "canonical_url": "https://www.salesforce.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Salesforce provides customer relationship management (CRM) software and related cloud applications to help organisations manage customer information, sales, service and business processes.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "CRM Software",
+        "Sales Management",
+        "Customer Service",
+        "Business Cloud"
+      ],
+      "keywords": [
+        "Salesforce",
+        "Salesforce CRM",
+        "customer relationship management",
+        "CRM software",
+        "sales tracking",
+        "lead management",
+        "customer database",
+        "sales pipeline",
+        "customer service platform",
+        "marketing automation",
+        "business cloud software",
+        "sales team tools"
+      ],
+      "use_cases": [
+        "Manage customer records and business relationships",
+        "Track sales leads, opportunities and pipelines",
+        "Support customer service and business processes"
+      ]
+    },
+    {
+      "id": "business_025",
+      "name": "HubSpot",
+      "domain": "www.hubspot.com",
+      "canonical_url": "https://www.hubspot.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HubSpot provides customer relationship management and marketing, sales, service and content tools for businesses managing customer engagement and growth.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "CRM Software",
+        "Marketing Tools",
+        "Sales Management",
+        "Customer Service"
+      ],
+      "keywords": [
+        "HubSpot",
+        "HubSpot CRM",
+        "CRM platform",
+        "marketing software",
+        "email marketing",
+        "sales pipeline",
+        "lead generation",
+        "customer database",
+        "marketing automation",
+        "customer service tools",
+        "content management",
+        "business growth software",
+        "small business CRM"
+      ],
+      "use_cases": [
+        "Organise contacts, leads and customer interactions",
+        "Plan and manage marketing and sales activities",
+        "Explore tools for customer support and business growth"
+      ]
+    },
+    {
+      "id": "business_026",
+      "name": "Slack",
+      "domain": "slack.com",
+      "canonical_url": "https://slack.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Slack is a workplace messaging and collaboration platform that helps teams communicate through channels, direct messages and integrations with other work tools.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Team Communication",
+        "Workplace Messaging",
+        "Collaboration",
+        "Productivity"
+      ],
+      "keywords": [
+        "Slack",
+        "Slack app",
+        "team chat",
+        "business messaging",
+        "workplace communication",
+        "team channels",
+        "direct messages",
+        "remote team collaboration",
+        "work chat software",
+        "file sharing",
+        "workplace integrations",
+        "project communication"
+      ],
+      "use_cases": [
+        "Communicate with colleagues in team channels and messages",
+        "Organise work conversations by project or topic",
+        "Connect team communication with other work applications"
+      ]
+    },
+    {
+      "id": "business_027",
+      "name": "Atlassian",
+      "domain": "www.atlassian.com",
+      "canonical_url": "https://www.atlassian.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Atlassian provides software for teams to plan projects, manage work, track issues and collaborate on software development and business processes.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Project Management",
+        "Developer Tools",
+        "Team Collaboration",
+        "Work Management"
+      ],
+      "keywords": [
+        "Atlassian",
+        "Jira",
+        "Confluence",
+        "Trello",
+        "Bitbucket",
+        "project management software",
+        "issue tracking",
+        "agile project management",
+        "team wiki",
+        "software development tools",
+        "task tracking",
+        "project planning",
+        "developer collaboration"
+      ],
+      "use_cases": [
+        "Plan and track projects and team tasks",
+        "Document and share team knowledge",
+        "Manage software development work and issues"
+      ]
+    },
+    {
+      "id": "business_028",
+      "name": "Canva for Teams",
+      "domain": "www.canva.com/teams",
+      "canonical_url": "https://www.canva.com/teams/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Canva for Teams provides collaborative design tools that allow teams to create and manage visual content and share brand and design work.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Design Software",
+        "Team Collaboration",
+        "Visual Content",
+        "Brand Management"
+      ],
+      "keywords": [
+        "Canva for Teams",
+        "Canva Teams",
+        "team design tool",
+        "online graphic design",
+        "business presentations",
+        "social media designs",
+        "marketing materials",
+        "brand kit",
+        "team templates",
+        "collaborative design",
+        "poster maker",
+        "presentation maker",
+        "visual content creation"
+      ],
+      "use_cases": [
+        "Create presentations and visual materials for work",
+        "Collaborate on marketing and social media designs",
+        "Manage shared brand assets and team templates"
+      ]
+    },
+    {
+      "id": "business_029",
+      "name": "Razorpay",
+      "domain": "razorpay.com",
+      "canonical_url": "https://razorpay.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Razorpay provides digital payment and financial technology services for businesses, including tools to accept and manage online payments.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Business Payments",
+        "Payment Gateway",
+        "Financial Technology",
+        "Online Transactions"
+      ],
+      "keywords": [
+        "Razorpay",
+        "Razorpay payment gateway",
+        "accept online payments",
+        "payment gateway India",
+        "business payment collection",
+        "UPI payments for business",
+        "payment links",
+        "online checkout",
+        "merchant account",
+        "payment settlement",
+        "business transactions",
+        "ecommerce payments"
+      ],
+      "use_cases": [
+        "Explore ways to accept online payments from customers",
+        "Manage payment collection and transaction workflows",
+        "Find payment tools for online businesses"
+      ]
+    },
+    {
+      "id": "business_030",
+      "name": "Cashfree Payments",
+      "domain": "www.cashfree.com",
+      "canonical_url": "https://www.cashfree.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cashfree Payments provides payment and payout infrastructure for businesses, supporting online payment collection and money movement services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Business Payments",
+        "Payment Gateway",
+        "Payouts",
+        "Financial Technology"
+      ],
+      "keywords": [
+        "Cashfree Payments",
+        "Cashfree",
+        "payment gateway India",
+        "online payment collection",
+        "business payouts",
+        "bulk payouts",
+        "vendor payments",
+        "UPI collection",
+        "payment links",
+        "merchant payments",
+        "ecommerce payments",
+        "payment processing",
+        "business money transfer"
+      ],
+      "use_cases": [
+        "Explore online payment collection options for a business",
+        "Manage payouts and business payment flows",
+        "Find payment infrastructure for digital commerce"
+      ]
+    },
+    {
+      "id": "business_031",
+      "name": "PayU India",
+      "domain": "payu.in",
+      "canonical_url": "https://payu.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PayU India provides digital payment technology and payment processing services for businesses accepting payments through online channels.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Business Payments",
+        "Payment Gateway",
+        "Payment Processing",
+        "Financial Technology"
+      ],
+      "keywords": [
+        "PayU India",
+        "PayU payment gateway",
+        "online payment gateway",
+        "accept payments online",
+        "merchant payment processing",
+        "UPI payment",
+        "card payments",
+        "net banking payments",
+        "ecommerce checkout",
+        "business payment solutions",
+        "payment collection India"
+      ],
+      "use_cases": [
+        "Explore payment acceptance solutions for businesses",
+        "Support online checkout and customer transactions",
+        "Find information about digital payment processing"
+      ]
+    },
+    {
+      "id": "business_032",
+      "name": "Khatabook",
+      "domain": "khatabook.com",
+      "canonical_url": "https://khatabook.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Khatabook provides digital ledger and business management tools that help merchants and small businesses record customer accounts and track transactions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Business Tools",
+        "Digital Ledger",
+        "Bookkeeping",
+        "Merchant Services"
+      ],
+      "keywords": [
+        "Khatabook",
+        "Khata book app",
+        "digital khata",
+        "online ledger",
+        "business hisaab",
+        "customer udhaar record",
+        "credit debit entry",
+        "dukaan account book",
+        "merchant bookkeeping",
+        "small shop accounting",
+        "payment reminders",
+        "business transaction records"
+      ],
+      "use_cases": [
+        "Maintain customer credit and payment records",
+        "Track day-to-day shop transactions",
+        "Manage digital account books for a small business"
+      ]
+    },
+    {
+      "id": "business_033",
+      "name": "Vyapar",
+      "domain": "vyaparapp.in",
+      "canonical_url": "https://vyaparapp.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Vyapar provides accounting and business management software for small businesses, with tools for billing, invoicing, inventory and financial record keeping.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Accounting Software",
+        "Small Business Tools",
+        "Billing & Invoicing",
+        "Inventory"
+      ],
+      "keywords": [
+        "Vyapar app",
+        "Vyapar accounting",
+        "billing software",
+        "GST billing app",
+        "invoice maker",
+        "small business accounting",
+        "shop billing",
+        "inventory tracking",
+        "stock management",
+        "sales purchase records",
+        "business expense tracking",
+        "GST invoice",
+        "offline billing software"
+      ],
+      "use_cases": [
+        "Create bills and invoices for customers",
+        "Track stock, sales, purchases and business expenses",
+        "Maintain accounts for a shop or small business"
+      ]
+    },
+    {
+      "id": "business_034",
+      "name": "ClearTax",
+      "domain": "cleartax.in",
+      "canonical_url": "https://cleartax.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ClearTax provides online tax and financial compliance products for individuals and businesses, including tools and information related to income tax and GST.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Tax Software",
+        "Tax Filing",
+        "GST Compliance",
+        "Business Finance"
+      ],
+      "keywords": [
+        "ClearTax",
+        "ClearTax India",
+        "income tax filing",
+        "ITR filing help",
+        "GST software",
+        "GST return filing",
+        "tax compliance software",
+        "business tax filing",
+        "tax calculation",
+        "tax preparation",
+        "e invoicing",
+        "tax tools India"
+      ],
+      "use_cases": [
+        "Explore online tools for income tax filing",
+        "Manage GST and related business tax compliance tasks",
+        "Find tax information and digital filing assistance"
+      ]
+    },
+    {
+      "id": "business_035",
+      "name": "KredX",
+      "domain": "www.kredx.com",
+      "canonical_url": "https://www.kredx.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KredX is a trade finance platform focused on helping businesses access working capital solutions and manage cash-flow needs linked to business transactions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Trade Finance",
+        "Business Financing",
+        "Working Capital",
+        "FinTech"
+      ],
+      "keywords": [
+        "KredX",
+        "trade finance India",
+        "invoice discounting",
+        "invoice financing",
+        "working capital for business",
+        "MSME finance",
+        "supply chain finance",
+        "business cash flow",
+        "receivables finance",
+        "early payment",
+        "business funding platform"
+      ],
+      "use_cases": [
+        "Explore trade finance and working-capital options",
+        "Find information about invoice-linked financing",
+        "Review financing resources for business cash-flow needs"
+      ]
+    },
+    {
+      "id": "business_036",
+      "name": "Moglix",
+      "domain": "www.moglix.com",
+      "canonical_url": "https://www.moglix.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Moglix is a B2B commerce platform focused on industrial and business supplies, connecting organisations with products used in manufacturing, maintenance and operations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Asia-Pacific, Middle East, North America",
+      "labels": [
+        "B2B Marketplace",
+        "Industrial Supplies",
+        "Procurement",
+        "Business Commerce"
+      ],
+      "keywords": [
+        "Moglix",
+        "industrial supplies online",
+        "B2B industrial marketplace",
+        "buy factory supplies",
+        "MRO products",
+        "manufacturing supplies",
+        "safety equipment",
+        "electrical products",
+        "tools and hardware",
+        "bulk industrial purchase",
+        "business procurement India"
+      ],
+      "use_cases": [
+        "Find industrial and maintenance supplies for business use",
+        "Explore products for factories and operational teams",
+        "Source business and manufacturing supplies online"
+      ]
+    },
+    {
+      "id": "business_037",
+      "name": "Udaan",
+      "domain": "udaan.com",
+      "canonical_url": "https://udaan.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Udaan is an Indian B2B commerce platform connecting businesses and retailers with suppliers and products across wholesale trade categories.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B Marketplace",
+        "Wholesale Trade",
+        "Retailer Supplies",
+        "Business Commerce"
+      ],
+      "keywords": [
+        "Udaan",
+        "Udaan B2B",
+        "wholesale buying app",
+        "B2B marketplace India",
+        "retailer stock purchase",
+        "wholesale suppliers",
+        "business to business shopping",
+        "kirana store supplies",
+        "bulk products",
+        "distributor marketplace",
+        "retail business procurement"
+      ],
+      "use_cases": [
+        "Discover wholesale products for a retail business",
+        "Find suppliers and purchase stock for a shop",
+        "Explore B2B trade and business supply options"
+      ]
+    },
+    {
+      "id": "business_038",
+      "name": "ONDC",
+      "domain": "ondc.org",
+      "canonical_url": "https://ondc.org/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ONDC is the Open Network for Digital Commerce, an initiative to enable an open, interoperable network for digital commerce and connect participants across the commerce ecosystem.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Digital Commerce Network",
+        "Open Commerce",
+        "Business Ecosystem",
+        "E-Commerce"
+      ],
+      "keywords": [
+        "ONDC",
+        "Open Network for Digital Commerce",
+        "open commerce network India",
+        "digital commerce India",
+        "ONDC seller",
+        "ONDC buyer apps",
+        "online business network",
+        "ecommerce interoperability",
+        "seller network",
+        "digital marketplace ecosystem",
+        "ONDC information"
+      ],
+      "use_cases": [
+        "Learn how the open digital commerce network works",
+        "Find information for businesses interested in participating",
+        "Explore resources about digital commerce and network participants"
+      ]
+    },
+    {
+      "id": "business_039",
+      "name": "FIEO",
+      "domain": "fieo.org",
+      "canonical_url": "https://fieo.org/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "FIEO, the Federation of Indian Export Organisations, represents and supports Indian exporters and provides information and resources related to international trade and export promotion.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Export Promotion",
+        "Trade Association",
+        "Exporter Support",
+        "International Trade"
+      ],
+      "keywords": [
+        "FIEO",
+        "Federation of Indian Export Organisations",
+        "Indian exporters",
+        "export promotion India",
+        "exporter membership",
+        "export business support",
+        "international trade India",
+        "export documentation guidance",
+        "export market information",
+        "export opportunities",
+        "trade events",
+        "exporter resources"
+      ],
+      "use_cases": [
+        "Find resources and support for Indian exporters",
+        "Explore export promotion and international trade information",
+        "Access exporter-related membership and business resources"
+      ]
+    },
+    {
+      "id": "business_040",
+      "name": "NASSCOM",
+      "domain": "nasscom.in",
+      "canonical_url": "https://nasscom.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NASSCOM is an industry association representing India's technology and business services sector, providing industry information, advocacy and ecosystem initiatives.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Industry Association",
+        "Technology Sector",
+        "IT Services",
+        "Business Resources"
+      ],
+      "keywords": [
+        "NASSCOM",
+        "National Association of Software and Service Companies",
+        "Indian IT industry",
+        "technology industry India",
+        "IT services companies",
+        "software industry association",
+        "business technology sector",
+        "industry reports",
+        "technology policy",
+        "IT ecosystem",
+        "industry events",
+        "NASSCOM membership"
+      ],
+      "use_cases": [
+        "Explore information about India's technology industry",
+        "Find industry reports, events and ecosystem resources",
+        "Access information about initiatives for technology businesses"
+      ]
+    },
+    {
+      "id": "business_041",
+      "name": "DSCI-Data Security Council of India",
+      "domain": "www.dsci.in",
+      "canonical_url": "https://www.dsci.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Data Security Council of India (DSCI) is an industry body focused on cybersecurity, data protection and privacy, and works on awareness, capacity building and policy-related initiatives.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Cybersecurity",
+        "Data Protection",
+        "Industry Association",
+        "Privacy & Security"
+      ],
+      "keywords": [
+        "DSCI",
+        "Data Security Council of India",
+        "cybersecurity India",
+        "data protection",
+        "data privacy",
+        "information security",
+        "cyber security awareness",
+        "privacy guidance",
+        "security best practices",
+        "cybersecurity training",
+        "data protection policy",
+        "security industry association"
+      ],
+      "use_cases": [
+        "Find cybersecurity and data protection resources",
+        "Explore privacy and information security initiatives",
+        "Access industry awareness and capacity-building information"
+      ]
+    },
+    {
+      "id": "business_042",
+      "name": "Cert-In",
+      "domain": "www.cert-in.org.in",
+      "canonical_url": "https://www.cert-in.org.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CERT-In is India's national agency for responding to cybersecurity incidents, providing cybersecurity advisories, alerts and incident-reporting information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Cybersecurity",
+        "Government Agency",
+        "Incident Response",
+        "Security Advisories"
+      ],
+      "keywords": [
+        "CERT-In",
+        "Cert-In",
+        "Indian Computer Emergency Response Team",
+        "cybersecurity India",
+        "cyber security alerts",
+        "security advisories",
+        "vulnerability alerts",
+        "incident reporting",
+        "cyber incident response",
+        "malware advisory",
+        "security guidelines",
+        "CERT India",
+        "cybersecurity notifications"
+      ],
+      "use_cases": [
+        "Read official cybersecurity alerts and advisories",
+        "Find information about reporting cybersecurity incidents",
+        "Access security guidance and incident-response resources"
+      ]
+    }
+  ]
+}

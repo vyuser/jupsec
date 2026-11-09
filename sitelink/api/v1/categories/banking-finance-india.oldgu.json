@@ -1,0 +1,3664 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "banking-finance-india",
+  "language": "gu",
+  "category_name": "બેંકિંગ અને નાણાંકીય સેવાઓ – ભારત",
+  "count": 88,
+  "urls": [
+    {
+      "id": "banking_finance_india_001",
+      "name": "State Bank of India",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "State Bank of India ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "state bank of india",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_003",
+      "name": "HDFC Bank",
+      "domain": "www.hdfc.bank.in",
+      "canonical_url": "https://www.hdfc.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HDFC Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "hdfc bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_004",
+      "name": "ICICI Bank",
+      "domain": "www.icici.bank.in",
+      "canonical_url": "https://www.icici.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ICICI Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "icici bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_005",
+      "name": "Axis Bank",
+      "domain": "www.axis.bank.in",
+      "canonical_url": "https://www.axis.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Axis Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "axis bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_006",
+      "name": "Punjab National Bank",
+      "domain": "pnb.bank.in",
+      "canonical_url": "https://pnb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab National Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "punjab national bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_007",
+      "name": "Bank of Baroda",
+      "domain": "www.bankofbaroda.in",
+      "canonical_url": "https://www.bankofbaroda.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of Baroda ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "bank of baroda",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_008",
+      "name": "Canara Bank",
+      "domain": "www.canarabank.bank.in",
+      "canonical_url": "https://www.canarabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Canara Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "canara bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_009",
+      "name": "Union Bank of India",
+      "domain": "www.unionbankonline.bank.in",
+      "canonical_url": "https://www.unionbankonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Union Bank of India ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "union bank of india",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_010",
+      "name": "Kotak Mahindra Bank",
+      "domain": "www.kotak.bank.in",
+      "canonical_url": "https://www.kotak.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kotak Mahindra Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "kotak mahindra bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_011",
+      "name": "IndusInd Bank",
+      "domain": "www.indusind.bank.in",
+      "canonical_url": "https://www.indusind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IndusInd Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "indusind bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_012",
+      "name": "IDFC FIRST Bank",
+      "domain": "www.idfcfirst.bank.in",
+      "canonical_url": "https://www.idfcfirst.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IDFC FIRST Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "idfc first bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_013",
+      "name": "Bank of India",
+      "domain": "bankofindia.bank.in",
+      "canonical_url": "https://bankofindia.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of India ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "bank of india",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_014",
+      "name": "Indian Bank",
+      "domain": "indianbank.bank.in",
+      "canonical_url": "https://indianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "indian bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_015",
+      "name": "Central Bank of India",
+      "domain": "centralbank.bank.in",
+      "canonical_url": "https://centralbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central Bank of India ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "central bank of india",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_016",
+      "name": "RBI Sachet",
+      "domain": "sachet.rbi.org.in",
+      "canonical_url": "https://sachet.rbi.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "RBI Sachet એ અનધિકૃત થાપણ સ્વીકારવાની પ્રવૃત્તિઓ સંબંધિત માહિતી અને જાણ કરવા માટે ભારતીય રિઝર્વ બેંકનું જાહેર પોર્ટલ છે. તે નાગરિકોને સંબંધિત સત્તાધિકારીઓ ઓળખવામાં અને માહિતી અથવા ફરિયાદ રજૂ કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RBI જાહેર પોર્ટલ",
+        "ગ્રાહક સુરક્ષા",
+        "અનધિકૃત થાપણની જાણ",
+        "નાણાકીય જાગૃતિ"
+      ],
+      "keywords": [
+        "RBI Sachet",
+        "Reserve Bank of India Sachet",
+        "ગેરકાયદેસર થાપણ યોજનાની જાણ",
+        "અનધિકૃત થાપણ",
+        "પોન્ઝી યોજના અંગે ફરિયાદ",
+        "નાણાકીય છેતરપિંડીની જાણ",
+        "થાપણ સ્વીકારતી કંપની",
+        "રોકાણકાર જાગૃતિ"
+      ],
+      "use_cases": [
+        "થાપણ સ્વીકારતી સંસ્થાઓ અથવા યોજનાઓ વિશે માહિતી તપાસો",
+        "શંકાસ્પદ અનધિકૃત થાપણ પ્રવૃત્તિની જાણ કરવા યોગ્ય માધ્યમ શોધો",
+        "નાણાકીય જાગૃતિ અને ગ્રાહક સુરક્ષા અંગેની જાહેર માર્ગદર્શિકા વાંચો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_017",
+      "name": "SEBI",
+      "domain": "www.sebi.gov.in",
+      "canonical_url": "https://www.sebi.gov.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતીય સિક્યોરિટીઝ અને એક્સચેન્જ બોર્ડ (SEBI) ભારતના સિક્યોરિટીઝ બજારનું નિયામક છે. તેની સત્તાવાર વેબસાઇટ પર નિયમનકારી જાહેરાતો, રોકાણકાર શિક્ષણ, મધ્યસ્થીઓની માહિતી અને રોકાણકાર ફરિયાદ નિવારણ માટેનાં સંસાધનો ઉપલબ્ધ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "બજાર નિયામક",
+        "રોકાણકાર સુરક્ષા",
+        "સિક્યોરિટીઝ બજાર",
+        "રોકાણકાર શિક્ષણ",
+        "ફરિયાદો"
+      ],
+      "keywords": [
+        "SEBI",
+        "Securities and Exchange Board of India",
+        "શેરબજાર નિયામક",
+        "શેરબજારના નિયમો",
+        "રોકાણકાર ફરિયાદ",
+        "સિક્યોરિટીઝ બજાર",
+        "નોંધાયેલ બ્રોકર",
+        "મ્યુચ્યુઅલ ફંડ નિયમન",
+        "રોકાણકાર શિક્ષણ"
+      ],
+      "use_cases": [
+        "સિક્યોરિટીઝ બજારના નિયમો, પરિપત્રો અને સત્તાવાર જાહેરાતો તપાસો",
+        "રોકાણકાર શિક્ષણ અને ફરિયાદ નિવારણ સંબંધિત માહિતી મેળવો",
+        "નિયંત્રિત બજાર મધ્યસ્થીઓ વિશેની માહિતીની ખરાઈ કરો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_018",
+      "name": "NSE India",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NSE India એ નેશનલ સ્ટોક એક્સચેન્જ ઓફ ઇન્ડિયાની સત્તાવાર વેબસાઇટ છે. તે બજાર માહિતી, ટ્રેડિંગ અને લિસ્ટિંગની વિગતો, સૂચકાંકો, ઉત્પાદનો તથા રોકાણકારો અને બજારના સહભાગીઓ માટેનાં સંસાધનો પૂરા પાડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "શેરબજાર વિનિમય",
+        "શેરબજાર",
+        "બજાર માહિતી",
+        "રોકાણકાર સંસાધનો",
+        "લિસ્ટેડ કંપનીઓ"
+      ],
+      "keywords": [
+        "NSE India",
+        "નેશનલ સ્ટોક એક્સચેન્જ",
+        "આજનું શેરબજાર",
+        "શેરબજારના ભાવ",
+        "નિફ્ટી સૂચકાંક",
+        "બજાર માહિતી",
+        "લિસ્ટેડ કંપનીઓ",
+        "ઇક્વિટી ટ્રેડિંગ",
+        "રોકાણકાર માહિતી",
+        "બજારની રજાઓ"
+      ],
+      "use_cases": [
+        "એક્સચેન્જની બજાર માહિતી, સૂચકાંકો અને બજાર પ્રવૃત્તિ તપાસો",
+        "લિસ્ટેડ કંપનીઓ અને બજારના સહભાગીઓ વિશે માહિતી મેળવો",
+        "રોકાણકાર સંસાધનો અને એક્સચેન્જ સંબંધિત સૂચનાઓ મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_019",
+      "name": "BSE India",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BSE India એ માન્ય ભારતીય સ્ટોક એક્સચેન્જ BSE Limitedની સત્તાવાર વેબસાઇટ છે. તે બજાર માહિતી, સૂચકાંકો, લિસ્ટેડ કંપનીઓની જાહેર કરેલી માહિતી, ટ્રેડિંગ સંબંધિત સંસાધનો અને રોકાણકાર સેવાઓ પૂરી પાડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "શેરબજાર વિનિમય",
+        "શેરબજાર",
+        "બજાર માહિતી",
+        "રોકાણકાર સંસાધનો",
+        "લિસ્ટેડ કંપનીઓ"
+      ],
+      "keywords": [
+        "BSE India",
+        "બોમ્બે સ્ટોક એક્સચેન્જ",
+        "BSE Sensex",
+        "શેરબજાર",
+        "શેરના ભાવ",
+        "બજાર માહિતી",
+        "લિસ્ટેડ કંપનીઓનાં પરિણામો",
+        "કોર્પોરેટ જાહેરાતો",
+        "રોકાણકાર સેવાઓ"
+      ],
+      "use_cases": [
+        "BSE બજાર માહિતી અને બેન્ચમાર્ક સૂચકાંકો તપાસો",
+        "લિસ્ટેડ કંપનીઓની જાહેરાતો અને જાહેર કરેલી માહિતી મેળવો",
+        "એક્સચેન્જની માહિતી અને રોકાણકાર સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_020",
+      "name": "NPCI",
+      "domain": "www.npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "નેશનલ પેમેન્ટ્સ કોર્પોરેશન ઓફ ઇન્ડિયા (NPCI) ભારતમાં રિટેલ ચુકવણી અને સેટલમેન્ટ પ્રણાલીઓ વિકસાવે છે અને તેનું સંચાલન કરે છે. તેની વેબસાઇટ પર ચુકવણી ઉત્પાદનો, ભાગ લેનારી સંસ્થાઓ, ઇકોસિસ્ટમ અપડેટ્સ અને સહાય સંસાધનોની માહિતી મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ચુકવણી નેટવર્ક",
+        "ડિજિટલ ચુકવણીઓ",
+        "UPI",
+        "રિટેલ ચુકવણી પ્રણાલીઓ",
+        "નાણાકીય માળખાગત વ્યવસ્થા"
+      ],
+      "keywords": [
+        "NPCI",
+        "National Payments Corporation of India",
+        "UPI",
+        "RuPay",
+        "IMPS",
+        "FASTag",
+        "AePS",
+        "ડિજિટલ ચુકવણી પ્રણાલી",
+        "બેંક ચુકવણી નેટવર્ક",
+        "ચુકવણી સેવાઓ"
+      ],
+      "use_cases": [
+        "ભારતની રિટેલ ચુકવણી પ્રણાલીઓ અને NPCI ઉત્પાદનો વિશે જાણો",
+        "UPI અને અન્ય ઉપલબ્ધ ચુકવણી સેવાઓ વિશે સત્તાવાર માહિતી મેળવો",
+        "ઇકોસિસ્ટમના અપડેટ્સ, ભાગ લેનારી બેંકો અને ચુકવણી સંસાધનોની સમીક્ષા કરો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_022",
+      "name": "National Payments Corporation of India - BHIM",
+      "domain": "www.bhimupi.org.in",
+      "canonical_url": "https://www.bhimupi.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BHIM એ NPCI ઇકોસિસ્ટમ હેઠળ વિકસાવવામાં આવેલી ભારતની UPI આધારિત ચુકવણી એપ્લિકેશન છે, જેના દ્વારા સહાયક બેંક ખાતાં મારફતે નાણાં મોકલી અને મેળવી શકાય છે. તેની સત્તાવાર વેબસાઇટ પર એપની માહિતી, સુવિધાઓ અને વપરાશકર્તા માર્ગદર્શન મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "UPI ચુકવણીઓ",
+        "ચુકવણી એપ",
+        "નાણાં ટ્રાન્સફર",
+        "QR ચુકવણીઓ",
+        "ડિજિટલ ચુકવણીઓ"
+      ],
+      "keywords": [
+        "BHIM",
+        "BHIM UPI",
+        "UPI એપ",
+        "નાણાં મોકલો",
+        "નાણાં મેળવો",
+        "સ્કેન કરીને ચુકવણી કરો",
+        "QR કોડ દ્વારા ચુકવણી",
+        "બેંકથી બેંક નાણાં ટ્રાન્સફર",
+        "ડિજિટલ ચુકવણી એપ",
+        "BHIM customer support"
+      ],
+      "use_cases": [
+        "BHIM UPI એપ્લિકેશન અને તેની સુવિધાઓ વિશે સત્તાવાર માહિતી મેળવો",
+        "ઉપલબ્ધ UPI સુવિધાઓ દ્વારા નાણાં મોકલવા અથવા મેળવવા વિશે જાણો",
+        "એપ માર્ગદર્શન, વારંવાર પૂછાતા પ્રશ્નો અને સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_023",
+      "name": "Paytm",
+      "domain": "paytm.com",
+      "canonical_url": "https://paytm.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Paytm ભારતનું ડિજિટલ ચુકવણી અને નાણાકીય સેવાઓનું પ્લેટફોર્મ છે. તેની વેબસાઇટ પર ગ્રાહક ચુકવણી સેવાઓ, વેપારીઓ માટેના ચુકવણી ઉકેલો અને અન્ય ઉપલબ્ધ નાણાકીય ઉત્પાદનો વિશે માહિતી મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ડિજિટલ ચુકવણીઓ",
+        "ચુકવણી પ્લેટફોર્મ",
+        "વેપારી સેવાઓ",
+        "નાણાં ટ્રાન્સફર",
+        "નાણાકીય સેવાઓ"
+      ],
+      "keywords": [
+        "Paytm",
+        "Paytm app",
+        "ઓનલાઇન ચુકવણી",
+        "UPI ચુકવણી",
+        "મોબાઇલ રિચાર્જ",
+        "બિલ ચુકવણી",
+        "સ્કેન કરીને ચુકવણી કરો",
+        "વેપારી QR",
+        "વ્યવસાયિક ચુકવણી",
+        "Paytm customer care"
+      ],
+      "use_cases": [
+        "Paytmની ઉપલબ્ધ ચુકવણી અને બિલ ભરવાની સેવાઓ વિશે માહિતી મેળવો",
+        "વેપારીઓ માટે ચુકવણી સ્વીકારવાની સુવિધાઓ અને સંબંધિત સાધનો વિશે જાણો",
+        "ઉત્પાદન અંગેનું સત્તાવાર માર્ગદર્શન, એપ માહિતી અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_024",
+      "name": "PhonePe",
+      "domain": "www.phonepe.com",
+      "canonical_url": "https://www.phonepe.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PhonePe ભારતનું ડિજિટલ ચુકવણી પ્લેટફોર્મ છે, જે UPI આધારિત ચુકવણીઓ તથા ગ્રાહકો અને વેપારીઓ માટે વિવિધ સેવાઓ આપે છે. તેની વેબસાઇટ પર ઉત્પાદન માહિતી, ચુકવણી માર્ગદર્શન અને વ્યવસાયિક ઉકેલો મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ડિજિટલ ચુકવણીઓ",
+        "UPI ચુકવણીઓ",
+        "ચુકવણી એપ",
+        "વેપારી સેવાઓ",
+        "નાણાકીય સેવાઓ"
+      ],
+      "keywords": [
+        "PhonePe",
+        "PhonePe app",
+        "UPI ચુકવણી",
+        "નાણાં મોકલો",
+        "સ્કેન કરીને ચુકવણી કરો",
+        "બિલ ચુકવણી",
+        "મોબાઇલ રિચાર્જ",
+        "વેપારી ચુકવણી",
+        "PhonePe business",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "UPI અને અન્ય ઉપલબ્ધ ચુકવણી સેવાઓ વિશે માહિતી મેળવો",
+        "ચુકવણી સ્વીકારવાની સુવિધાઓ અને વ્યવસાયિક ઉકેલો વિશે જાણો",
+        "એપ માર્ગદર્શન, સેવા માહિતી અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_025",
+      "name": "Groww",
+      "domain": "groww.in",
+      "canonical_url": "https://groww.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Groww ભારતનું રોકાણ પ્લેટફોર્મ છે, જે શેર અને મ્યુચ્યુઅલ ફંડ જેવા ઉપલબ્ધ રોકાણ ઉત્પાદનોની સુવિધા આપે છે. તેની વેબસાઇટ પર ઉત્પાદન માહિતી, રોકાણ સાધનો અને શૈક્ષણિક સંસાધનો મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "રોકાણ પ્લેટફોર્મ",
+        "શેર બ્રોકિંગ",
+        "મ્યુચ્યુઅલ ફંડ",
+        "રોકાણકાર સાધનો",
+        "વ્યક્તિગત નાણાં વ્યવસ્થાપન"
+      ],
+      "keywords": [
+        "Groww",
+        "રોકાણ એપ",
+        "શેરમાં રોકાણ",
+        "શેરબજાર",
+        "મ્યુચ્યુઅલ ફંડમાં રોકાણ",
+        "ડિમેટ ખાતું",
+        "ટ્રેડિંગ ખાતું",
+        "SIP",
+        "રોકાણ પોર્ટફોલિયો",
+        "રોકાણકાર શિક્ષણ"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ શેર અને મ્યુચ્યુઅલ ફંડ રોકાણ સેવાઓ વિશે જાણો",
+        "રોકાણ ખાતું ખોલવા અને તેનો ઉપયોગ કરવા વિશે માહિતી મેળવો",
+        "પોર્ટફોલિયો સાધનો, ઉત્પાદનની વિગતો અને રોકાણકાર શિક્ષણ સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_026",
+      "name": "Zerodha",
+      "domain": "zerodha.com",
+      "canonical_url": "https://zerodha.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zerodha ભારતનો સ્ટોક બ્રોકર છે, જે ઓનલાઇન ટ્રેડિંગ અને રોકાણ સેવાઓ આપે છે. તેની વેબસાઇટ પર બ્રોકરેજ ઉત્પાદનો, બજાર સાધનો, રોકાણ શિક્ષણ અને ગ્રાહક સહાય વિશે માહિતી મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "શેર બ્રોકિંગ",
+        "ઓનલાઇન ટ્રેડિંગ",
+        "રોકાણ પ્લેટફોર્મ",
+        "બજાર સાધનો",
+        "રોકાણકાર શિક્ષણ"
+      ],
+      "keywords": [
+        "Zerodha",
+        "સ્ટોક બ્રોકર",
+        "ટ્રેડિંગ ખાતું",
+        "ડિમેટ ખાતું",
+        "શેર ટ્રેડિંગ",
+        "ઇક્વિટીમાં રોકાણ",
+        "મ્યુચ્યુઅલ ફંડ",
+        "Kite ટ્રેડિંગ પ્લેટફોર્મ",
+        "બ્રોકરેજ ચાર્જિસ",
+        "Varsity રોકાણકાર શિક્ષણ"
+      ],
+      "use_cases": [
+        "Zerodhaની બ્રોકરેજ અને ટ્રેડિંગ સેવાઓ વિશે માહિતી મેળવો",
+        "બજારનાં સાધનો અને ઉપલબ્ધ રોકાણ ઉત્પાદનો વિશે જાણો",
+        "રોકાણકાર શિક્ષણ, ખાતા અંગેનું માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_027",
+      "name": "AMFI",
+      "domain": "www.amfiindia.com",
+      "canonical_url": "https://www.amfiindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "એસોસિયેશન ઓફ મ્યુચ્યુઅલ ફંડ્સ ઇન ઇન્ડિયા (AMFI) મ્યુચ્યુઅલ ફંડ ઉદ્યોગની સંસ્થા છે. તેની વેબસાઇટ પર ઉદ્યોગની માહિતી, રોકાણકાર શિક્ષણ, મ્યુચ્યુઅલ ફંડ અંગે જાગૃતિનાં સંસાધનો અને વિતરક સંબંધિત માહિતી મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "મ્યુચ્યુઅલ ફંડ ઉદ્યોગ",
+        "રોકાણકાર શિક્ષણ",
+        "ફંડ માહિતી",
+        "ઉદ્યોગ સંસ્થા"
+      ],
+      "keywords": [
+        "AMFI",
+        "Association of Mutual Funds in India",
+        "મ્યુચ્યુઅલ ફંડ માહિતી",
+        "મ્યુચ્યુઅલ ફંડ NAV",
+        "AMFI સાથે નોંધાયેલ વિતરક",
+        "મ્યુચ્યુઅલ ફંડ રોકાણકાર શિક્ષણ",
+        "SIP જાગૃતિ",
+        "મ્યુચ્યુઅલ ફંડ ઉદ્યોગ"
+      ],
+      "use_cases": [
+        "મ્યુચ્યુઅલ ફંડ અને રોકાણ અંગેની શૈક્ષણિક સામગ્રી વાંચો",
+        "ઉદ્યોગની માહિતી અને વિતરક સંબંધિત સંસાધનો મેળવો",
+        "મ્યુચ્યુઅલ ફંડ અંગેની સત્તાવાર જાગૃતિ સામગ્રી અને રોકાણકાર માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_090",
+      "name": "Bandhan Bank",
+      "domain": "bandhan.bank.in",
+      "canonical_url": "https://bandhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bandhan Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "bandhan bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_028",
+      "name": "CSB Bank",
+      "domain": "csb.bank.in",
+      "canonical_url": "https://csb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CSB Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "csb bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_029",
+      "name": "City Union Bank",
+      "domain": "cityunionbank.bank.in",
+      "canonical_url": "https://cityunionbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "City Union Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "city union bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_030",
+      "name": "DCB Bank",
+      "domain": "www.dcb.bank.in",
+      "canonical_url": "https://www.dcb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "DCB Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "dcb bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_031",
+      "name": "Dhanlaxmi Bank",
+      "domain": "www.dhan.bank.in",
+      "canonical_url": "https://www.dhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Dhanlaxmi Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "dhanlaxmi bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_032",
+      "name": "Federal Bank",
+      "domain": "www.federal.bank.in",
+      "canonical_url": "https://www.federal.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Federal Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "federal bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_033",
+      "name": "Jammu & Kashmir Bank",
+      "domain": "ibank.jkb.bank.in",
+      "canonical_url": "https://ibank.jkb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jammu & Kashmir Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "jammu & kashmir bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_034",
+      "name": "Karnataka Bank",
+      "domain": "www.karnatakabank.bank.in",
+      "canonical_url": "https://www.karnatakabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "karnataka bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_035",
+      "name": "Karur Vysya Bank",
+      "domain": "www.kvb.bank.in",
+      "canonical_url": "https://www.kvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karur Vysya Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "karur vysya bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_036",
+      "name": "Nainital Bank",
+      "domain": "www.nainitalbank.bank.in",
+      "canonical_url": "https://www.nainitalbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nainital Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "nainital bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_037",
+      "name": "RBL Bank",
+      "domain": "www.rbl.bank.in",
+      "canonical_url": "https://www.rbl.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "RBL Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "rbl bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_038",
+      "name": "South Indian Bank",
+      "domain": "www.southindianbank.bank.in",
+      "canonical_url": "https://www.southindianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "South Indian Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "south indian bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_039",
+      "name": "Tamilnad Mercantile Bank",
+      "domain": "www.tmb.bank.in",
+      "canonical_url": "https://www.tmb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamilnad Mercantile Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "tamilnad mercantile bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_040",
+      "name": "YES BANK",
+      "domain": "yes.bank.in",
+      "canonical_url": "https://yes.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "YES BANK ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "yes bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_041",
+      "name": "IDBI Bank",
+      "domain": "www.idbi.bank.in",
+      "canonical_url": "https://www.idbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IDBI Bank ભારતમાં કાર્યરત ખાનગી ક્ષેત્રની બેંક છે. તેની સત્તાવાર વેબસાઇટ પર વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ, ખાતાં, થાપણો, લોન, ડિજિટલ સેવાઓ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ખાનગી ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "idbi bank",
+        "ખાનગી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "વ્યક્તિગત લોન",
+        "હોમ લોન",
+        "વ્યવસાયિક બેંકિંગ",
+        "નેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકની વ્યક્તિગત અને વ્યવસાયિક બેંકિંગ સેવાઓની તુલના કરો અને જાણો",
+        "ખાતાં, થાપણો અને ઉપલબ્ધ લોન ઉત્પાદનો વિશે માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ, શાખા અને ગ્રાહક સહાય સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_042",
+      "name": "Indian Overseas Bank",
+      "domain": "www.iob.bank.in",
+      "canonical_url": "https://www.iob.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Overseas Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "indian overseas bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_043",
+      "name": "Punjab & Sind Bank",
+      "domain": "punjabandsind.bank.in",
+      "canonical_url": "https://punjabandsind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab & Sind Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "punjab & sind bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_044",
+      "name": "UCO Bank",
+      "domain": "www.uco.bank.in",
+      "canonical_url": "https://www.uco.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "UCO Bank ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "uco bank",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_045",
+      "name": "Bank of Maharashtra",
+      "domain": "bankofmaharashtra.bank.in",
+      "canonical_url": "https://bankofmaharashtra.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of Maharashtra ભારતની જાહેર ક્ષેત્રની બેંક છે, જે રિટેલ, વ્યવસાયિક અને સંસ્થાકીય ગ્રાહકોને બેંકિંગ સેવાઓ આપે છે. તેની સત્તાવાર વેબસાઇટ પર ખાતાં, થાપણો, ધિરાણ, ડિજિટલ બેંકિંગ અને ગ્રાહક સહાય વિશે માહિતી ઉપલબ્ધ છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર ક્ષેત્રની બેંક",
+        "બેંકિંગ",
+        "ખાતાં અને થાપણો",
+        "લોન",
+        "ડિજિટલ બેંકિંગ"
+      ],
+      "keywords": [
+        "bank of maharashtra",
+        "જાહેર ક્ષેત્રની બેંક",
+        "સરકારી બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "ચાલુ ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "બેંક લોન",
+        "ઇન્ટરનેટ બેંકિંગ",
+        "મોબાઇલ બેંકિંગ",
+        "બેંક ગ્રાહક સહાય",
+        "શાખા અને ATM"
+      ],
+      "use_cases": [
+        "બચત, ચાલુ અને થાપણ ખાતાં વિશેની સત્તાવાર માહિતી મેળવો",
+        "રિટેલ, વ્યવસાયિક તથા અન્ય બેંકિંગ અને ધિરાણ સેવાઓ વિશે જાણો",
+        "ઇન્ટરનેટ બેંકિંગની માહિતી, શાખાની વિગતો અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_046",
+      "name": "AU Small Finance Bank",
+      "domain": "www.au.bank.in",
+      "canonical_url": "https://www.au.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AU Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "au small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_047",
+      "name": "Capital Small Finance Bank",
+      "domain": "www.capital.bank.in",
+      "canonical_url": "https://www.capital.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Capital Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "capital small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_048",
+      "name": "Equitas Small Finance Bank",
+      "domain": "equitas.bank.in",
+      "canonical_url": "https://equitas.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Equitas Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "equitas small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_049",
+      "name": "ESAF Small Finance Bank",
+      "domain": "www.esaf.bank.in",
+      "canonical_url": "https://www.esaf.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ESAF Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "esaf small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_050",
+      "name": "Jana Small Finance Bank",
+      "domain": "www.jana.bank.in",
+      "canonical_url": "https://www.jana.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jana Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "jana small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_051",
+      "name": "Shivalik Small Finance Bank",
+      "domain": "shivalik.bank.in",
+      "canonical_url": "https://shivalik.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Shivalik Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "shivalik small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_052",
+      "name": "Suryoday Small Finance Bank",
+      "domain": "suryoday.bank.in",
+      "canonical_url": "https://suryoday.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Suryoday Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "suryoday small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_053",
+      "name": "Ujjivan Small Finance Bank",
+      "domain": "www.ujjivansfb.bank.in",
+      "canonical_url": "https://www.ujjivansfb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ujjivan Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "ujjivan small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_054",
+      "name": "Unity Small Finance Bank",
+      "domain": "unity.bank.in",
+      "canonical_url": "https://unity.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Unity Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "unity small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_055",
+      "name": "Utkarsh Small Finance Bank",
+      "domain": "www.utkarsh.bank.in",
+      "canonical_url": "https://www.utkarsh.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Utkarsh Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "utkarsh small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_056",
+      "name": "slice Small Finance Bank",
+      "domain": "slice.bank.in",
+      "canonical_url": "https://slice.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "slice Small Finance Bank ભારતમાં કાર્યરત સ્મોલ ફાઇનાન્સ બેંક છે. તે વ્યક્તિઓ અને નાના વ્યવસાયો સહિત ઓછી બેંકિંગ સુવિધા ધરાવતા ગ્રાહક વર્ગો માટે બેંકિંગ સુલભતા પર ધ્યાન આપે છે. તેની વેબસાઇટ પર થાપણ, ચુકવણી અને ધિરાણ સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "નાણાકીય સમાવેશ",
+        "બચત અને થાપણો",
+        "નાના વ્યવસાયો માટે બેંકિંગ",
+        "લોન"
+      ],
+      "keywords": [
+        "slice small finance bank",
+        "સ્મોલ ફાઇનાન્સ બેંક",
+        "સ્મોલ ફાઇનાન્સ બેંક ખાતું",
+        "બચત ખાતું",
+        "ફિક્સ્ડ ડિપોઝિટ",
+        "રિકરિંગ ડિપોઝિટ",
+        "નાના વ્યવસાય માટે લોન",
+        "સૂક્ષ્મ ઉદ્યોગ ધિરાણ",
+        "બેંકિંગ સેવાઓ",
+        "મોબાઇલ બેંકિંગ",
+        "ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બચત, થાપણ અને રોજિંદા બેંકિંગના વિકલ્પો વિશે જાણો",
+        "વ્યક્તિઓ અને નાના વ્યવસાયો માટે સંબંધિત બેંકિંગ અને ધિરાણ માહિતી મેળવો",
+        "ડિજિટલ બેંકિંગ માર્ગદર્શન અને ગ્રાહક સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_057",
+      "name": "Airtel Payments Bank",
+      "domain": "www.airtelpayments.bank.in",
+      "canonical_url": "https://www.airtelpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airtel Payments Bank ભારતમાં કાર્યરત પેમેન્ટ્સ બેંક છે. તેની સત્તાવાર વેબસાઇટ પર મંજૂર થાપણ ખાતાં, ડિજિટલ ચુકવણી, નાણાં મોકલવાની અને સંબંધિત ગ્રાહક સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "પેમેન્ટ્સ બેંક",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "ખાતા સેવાઓ",
+        "મોબાઇલ બેંકિંગ"
+      ],
+      "keywords": [
+        "airtel payments bank",
+        "પેમેન્ટ્સ બેંક",
+        "પેમેન્ટ્સ બેંક ખાતું",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "મોબાઇલ બેંકિંગ",
+        "નાણાં મોકલવાની સેવા",
+        "બિલ ચુકવણી",
+        "વેપારી ચુકવણી",
+        "ગ્રાહક સહાય",
+        "ખાતા સેવાઓ"
+      ],
+      "use_cases": [
+        "બેંકની ચુકવણી અને ખાતા સેવાઓ વિશે માહિતી મેળવો",
+        "ઉપલબ્ધ ડિજિટલ ચુકવણી, નાણાં ટ્રાન્સફર અને રેમિટન્સ વિકલ્પો વિશે જાણો",
+        "સત્તાવાર એપ, સેવા અને ગ્રાહક સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_058",
+      "name": "India Post Payments Bank",
+      "domain": "ippbonline.bank.in",
+      "canonical_url": "https://ippbonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India Post Payments Bank ભારતમાં કાર્યરત પેમેન્ટ્સ બેંક છે. તેની સત્તાવાર વેબસાઇટ પર મંજૂર થાપણ ખાતાં, ડિજિટલ ચુકવણી, નાણાં મોકલવાની અને સંબંધિત ગ્રાહક સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "પેમેન્ટ્સ બેંક",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "ખાતા સેવાઓ",
+        "મોબાઇલ બેંકિંગ"
+      ],
+      "keywords": [
+        "india post payments bank",
+        "પેમેન્ટ્સ બેંક",
+        "પેમેન્ટ્સ બેંક ખાતું",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "મોબાઇલ બેંકિંગ",
+        "નાણાં મોકલવાની સેવા",
+        "બિલ ચુકવણી",
+        "વેપારી ચુકવણી",
+        "ગ્રાહક સહાય",
+        "ખાતા સેવાઓ"
+      ],
+      "use_cases": [
+        "બેંકની ચુકવણી અને ખાતા સેવાઓ વિશે માહિતી મેળવો",
+        "ઉપલબ્ધ ડિજિટલ ચુકવણી, નાણાં ટ્રાન્સફર અને રેમિટન્સ વિકલ્પો વિશે જાણો",
+        "સત્તાવાર એપ, સેવા અને ગ્રાહક સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_059",
+      "name": "Fino Payments Bank",
+      "domain": "www.fino.bank.in",
+      "canonical_url": "https://www.fino.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fino Payments Bank ભારતમાં કાર્યરત પેમેન્ટ્સ બેંક છે. તેની સત્તાવાર વેબસાઇટ પર મંજૂર થાપણ ખાતાં, ડિજિટલ ચુકવણી, નાણાં મોકલવાની અને સંબંધિત ગ્રાહક સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "પેમેન્ટ્સ બેંક",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "ખાતા સેવાઓ",
+        "મોબાઇલ બેંકિંગ"
+      ],
+      "keywords": [
+        "fino payments bank",
+        "પેમેન્ટ્સ બેંક",
+        "પેમેન્ટ્સ બેંક ખાતું",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "મોબાઇલ બેંકિંગ",
+        "નાણાં મોકલવાની સેવા",
+        "બિલ ચુકવણી",
+        "વેપારી ચુકવણી",
+        "ગ્રાહક સહાય",
+        "ખાતા સેવાઓ"
+      ],
+      "use_cases": [
+        "બેંકની ચુકવણી અને ખાતા સેવાઓ વિશે માહિતી મેળવો",
+        "ઉપલબ્ધ ડિજિટલ ચુકવણી, નાણાં ટ્રાન્સફર અને રેમિટન્સ વિકલ્પો વિશે જાણો",
+        "સત્તાવાર એપ, સેવા અને ગ્રાહક સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_060",
+      "name": "Jio Payments Bank",
+      "domain": "www.jiopayments.bank.in",
+      "canonical_url": "https://www.jiopayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jio Payments Bank ભારતમાં કાર્યરત પેમેન્ટ્સ બેંક છે. તેની સત્તાવાર વેબસાઇટ પર મંજૂર થાપણ ખાતાં, ડિજિટલ ચુકવણી, નાણાં મોકલવાની અને સંબંધિત ગ્રાહક સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "પેમેન્ટ્સ બેંક",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "ખાતા સેવાઓ",
+        "મોબાઇલ બેંકિંગ"
+      ],
+      "keywords": [
+        "jio payments bank",
+        "પેમેન્ટ્સ બેંક",
+        "પેમેન્ટ્સ બેંક ખાતું",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "મોબાઇલ બેંકિંગ",
+        "નાણાં મોકલવાની સેવા",
+        "બિલ ચુકવણી",
+        "વેપારી ચુકવણી",
+        "ગ્રાહક સહાય",
+        "ખાતા સેવાઓ"
+      ],
+      "use_cases": [
+        "બેંકની ચુકવણી અને ખાતા સેવાઓ વિશે માહિતી મેળવો",
+        "ઉપલબ્ધ ડિજિટલ ચુકવણી, નાણાં ટ્રાન્સફર અને રેમિટન્સ વિકલ્પો વિશે જાણો",
+        "સત્તાવાર એપ, સેવા અને ગ્રાહક સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_061",
+      "name": "NSDL Payments Bank",
+      "domain": "nsdlpayments.bank.in",
+      "canonical_url": "https://nsdlpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NSDL Payments Bank ભારતમાં કાર્યરત પેમેન્ટ્સ બેંક છે. તેની સત્તાવાર વેબસાઇટ પર મંજૂર થાપણ ખાતાં, ડિજિટલ ચુકવણી, નાણાં મોકલવાની અને સંબંધિત ગ્રાહક સેવાઓ વિશે માહિતી મળે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "પેમેન્ટ્સ બેંક",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "ખાતા સેવાઓ",
+        "મોબાઇલ બેંકિંગ"
+      ],
+      "keywords": [
+        "nsdl payments bank",
+        "પેમેન્ટ્સ બેંક",
+        "પેમેન્ટ્સ બેંક ખાતું",
+        "ડિજિટલ ચુકવણીઓ",
+        "નાણાં ટ્રાન્સફર",
+        "મોબાઇલ બેંકિંગ",
+        "નાણાં મોકલવાની સેવા",
+        "બિલ ચુકવણી",
+        "વેપારી ચુકવણી",
+        "ગ્રાહક સહાય",
+        "ખાતા સેવાઓ"
+      ],
+      "use_cases": [
+        "બેંકની ચુકવણી અને ખાતા સેવાઓ વિશે માહિતી મેળવો",
+        "ઉપલબ્ધ ડિજિટલ ચુકવણી, નાણાં ટ્રાન્સફર અને રેમિટન્સ વિકલ્પો વિશે જાણો",
+        "સત્તાવાર એપ, સેવા અને ગ્રાહક સહાય માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_062",
+      "name": "Andhra Pradesh Grameena Bank",
+      "domain": "apgb.bank.in",
+      "canonical_url": "https://apgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Andhra Pradesh Grameena Bank Andhra Pradeshમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Andhra Pradesh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "andhra pradesh grameena bank",
+        "andhra pradesh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_063",
+      "name": "Arunachal Pradesh Rural Bank",
+      "domain": "www.aprb.bank.in",
+      "canonical_url": "https://www.aprb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Arunachal Pradesh Rural Bank Arunachal Pradeshમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Arunachal Pradesh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "arunachal pradesh rural bank",
+        "arunachal pradesh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_064",
+      "name": "Assam Gramin Bank",
+      "domain": "agvb.bank.in",
+      "canonical_url": "https://agvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Assam Gramin Bank Assamમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Assam, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "assam gramin bank",
+        "assam gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_065",
+      "name": "Bihar Gramin Bank",
+      "domain": "bgb.bank.in",
+      "canonical_url": "https://bgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bihar Gramin Bank Biharમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Bihar, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "bihar gramin bank",
+        "bihar gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_066",
+      "name": "Chhattisgarh Rajya Gramin Bank",
+      "domain": "cgb.bank.in",
+      "canonical_url": "https://cgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Chhattisgarh Rajya Gramin Bank Chhattisgarhમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Chhattisgarh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "chhattisgarh rajya gramin bank",
+        "chhattisgarh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_067",
+      "name": "Gujarat Gramin Bank",
+      "domain": "www.ggb.bank.in",
+      "canonical_url": "https://www.ggb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Gujarat Gramin Bank Gujaratમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Gujarat, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "gujarat gramin bank",
+        "gujarat gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_068",
+      "name": "Haryana Gramin Bank",
+      "domain": "hgb.bank.in",
+      "canonical_url": "https://hgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Haryana Gramin Bank Haryanaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Haryana, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "haryana gramin bank",
+        "haryana gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_069",
+      "name": "Himachal Pradesh Gramin Bank",
+      "domain": "www.hpgb.bank.in",
+      "canonical_url": "https://www.hpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Himachal Pradesh Gramin Bank Himachal Pradeshમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Himachal Pradesh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "himachal pradesh gramin bank",
+        "himachal pradesh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_070",
+      "name": "Jammu and Kashmir Grameen Bank",
+      "domain": "www.jkgrameen.bank.in",
+      "canonical_url": "https://www.jkgrameen.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jammu and Kashmir Grameen Bank Jammu and Kashmirમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Jammu and Kashmir, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "jammu and kashmir grameen bank",
+        "jammu and kashmir gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_071",
+      "name": "Jharkhand Rajya Gramin Bank",
+      "domain": "www.jrgbank.bank.in",
+      "canonical_url": "https://www.jrgbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jharkhand Rajya Gramin Bank Jharkhandમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Jharkhand, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "jharkhand rajya gramin bank",
+        "jharkhand gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_072",
+      "name": "Karnataka Grameena Bank",
+      "domain": "karnatakagb.bank.in",
+      "canonical_url": "https://karnatakagb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka Grameena Bank Karnatakaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Karnataka, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "karnataka grameena bank",
+        "karnataka gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_073",
+      "name": "Kerala Gramin Bank",
+      "domain": "kgb.bank.in",
+      "canonical_url": "https://kgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kerala Gramin Bank Keralaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Kerala, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "kerala gramin bank",
+        "kerala gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_074",
+      "name": "Madhya Pradesh Gramin Bank",
+      "domain": "mpgb.bank.in",
+      "canonical_url": "https://mpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Madhya Pradesh Gramin Bank Madhya Pradeshમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Madhya Pradesh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "madhya pradesh gramin bank",
+        "madhya pradesh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_075",
+      "name": "Maharashtra Gramin Bank",
+      "domain": "www.mahagramin.bank.in",
+      "canonical_url": "https://www.mahagramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maharashtra Gramin Bank Maharashtraમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Maharashtra, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "maharashtra gramin bank",
+        "maharashtra gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_076",
+      "name": "Manipur Rural Bank",
+      "domain": "manipurrural.bank.in",
+      "canonical_url": "https://manipurrural.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Manipur Rural Bank Manipurમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Manipur, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "manipur rural bank",
+        "manipur gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_077",
+      "name": "Meghalaya Rural Bank",
+      "domain": "megrb.bank.in",
+      "canonical_url": "https://megrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Meghalaya Rural Bank Meghalayaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Meghalaya, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "meghalaya rural bank",
+        "meghalaya gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_078",
+      "name": "Mizoram Rural Bank",
+      "domain": "www.mrb.bank.in",
+      "canonical_url": "https://www.mrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mizoram Rural Bank Mizoramમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Mizoram, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "mizoram rural bank",
+        "mizoram gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_079",
+      "name": "Nagaland Rural Bank",
+      "domain": "www.nrb.bank.in",
+      "canonical_url": "https://www.nrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nagaland Rural Bank Nagalandમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Nagaland, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "nagaland rural bank",
+        "nagaland gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_080",
+      "name": "Odisha Grameen Bank",
+      "domain": "ebank.ogb.bank.in",
+      "canonical_url": "https://ebank.ogb.bank.in/OGB/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Odisha Grameen Bank Odishaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Odisha, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "odisha grameen bank",
+        "odisha gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_081",
+      "name": "Punjab Gramin Bank",
+      "domain": "pgb.bank.in",
+      "canonical_url": "https://pgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab Gramin Bank Punjabમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Punjab, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "punjab gramin bank",
+        "punjab gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_082",
+      "name": "Rajasthan Gramin Bank",
+      "domain": "www.rgb.bank.in",
+      "canonical_url": "https://www.rgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Rajasthan Gramin Bank Rajasthanમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Rajasthan, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "rajasthan gramin bank",
+        "rajasthan gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_083",
+      "name": "Tamil Nadu Grama Bank",
+      "domain": "tngb.bank.in",
+      "canonical_url": "https://tngb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamil Nadu Grama Bank Tamil Naduમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Tamil Nadu, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "tamil nadu grama bank",
+        "tamil nadu gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_084",
+      "name": "Telangana Grameena Bank",
+      "domain": "tgb.bank.in",
+      "canonical_url": "https://tgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telangana Grameena Bank Telanganaમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Telangana, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "telangana grameena bank",
+        "telangana gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_085",
+      "name": "Tripura Gramin Bank",
+      "domain": "ibanking.tripuragramin.bank.in",
+      "canonical_url": "https://ibanking.tripuragramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tripura Gramin Bank Tripuraમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Tripura, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "tripura gramin bank",
+        "tripura gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_086",
+      "name": "Uttar Pradesh Gramin Bank",
+      "domain": "upgb.bank.in",
+      "canonical_url": "https://upgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Uttar Pradesh Gramin Bank Uttar Pradeshમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Uttar Pradesh, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "uttar pradesh gramin bank",
+        "uttar pradesh gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_087",
+      "name": "Uttarakhand Gramin Bank",
+      "domain": "ukgb.bank.in",
+      "canonical_url": "https://ukgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Uttarakhand Gramin Bank Uttarakhandમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Uttarakhand, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "uttarakhand gramin bank",
+        "uttarakhand gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_088",
+      "name": "Bangiya Gramin Vikash Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bangiya Gramin Vikash Bank West Bengalમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "West Bengal, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "bangiya gramin vikash bank",
+        "west bengal gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "banking_finance_india_089",
+      "name": "Paschim Banga Gramin Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Paschim Banga Gramin Bank West Bengalમાં ગ્રાહકોને સેવા આપતી પ્રાદેશિક ગ્રામીણ બેંક છે. તે પોતાના નિર્ધારિત કાર્યક્ષેત્રમાં ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે સ્થાનિક જરૂરિયાતને અનુરૂપ બેંકિંગ સુવિધાઓ પૂરી પાડે છે.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "West Bengal, India",
+      "labels": [
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંકિંગ",
+        "કૃષિ ધિરાણ",
+        "ગ્રાહક બેંકિંગ"
+      ],
+      "keywords": [
+        "paschim banga gramin bank",
+        "west bengal gramin bank",
+        "પ્રાદેશિક ગ્રામીણ બેંક",
+        "ગ્રામીણ બેંક",
+        "બેંક ખાતું",
+        "બચત ખાતું",
+        "કૃષિ લોન",
+        "ખેડૂત બેંકિંગ",
+        "ગ્રામીણ નાણાંકીય સેવા",
+        "બેંક ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "બેંકના કાર્યક્ષેત્રમાં ગ્રાહકો માટેની સત્તાવાર માહિતી અને સેવાઓ મેળવો",
+        "ગ્રામીણ પરિવારો, ખેડૂતો અને નાના વ્યવસાયો માટે બેંકિંગ સુવિધાઓ અને નાણાકીય વિકલ્પો વિશે જાણો",
+        "શાખા, ખાતા અને ગ્રાહક સહાય સંબંધિત માહિતી શોધો"
+      ]
+    }
+  ]
+}

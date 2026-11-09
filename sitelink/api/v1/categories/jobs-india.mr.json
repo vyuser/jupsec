@@ -1,0 +1,2734 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "jobs-india",
+  "language": "mr",
+  "category_name": "भारतातील नोकऱ्या",
+  "count": 64,
+  "urls": [
+    {
+      "id": "jobs_india_001",
+      "name": "नॅशनल करिअर सर्व्हिस",
+      "domain": "www.ncs.gov.in",
+      "canonical_url": "https://www.ncs.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नॅशनल करिअर सर्व्हिस नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सरकारी नोकऱ्यांचे पोर्टल",
+        "नोकरीचा शोध",
+        "करिअर मार्गदर्शन",
+        "रोजगार मेळावे",
+        "कौशल्य विकास"
+      ],
+      "keywords": [
+        "नॅशनल करिअर सर्व्हिस",
+        "एनसीएस इंडिया",
+        "bharatatil sarkari nokarya",
+        "bharatatil khajgi nokarya",
+        "online nokarya shodha",
+        "nokarichya rikt jaga",
+        "shaharnusar nokari shodha",
+        "career ani vyavsayik vikasachya sandhi",
+        "resume tayar kara",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "एनसीएस मोबाईल ॲप",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_002",
+      "name": "युनियन पब्लिक सर्व्हिस कमिशन (यूपीएससी)",
+      "domain": "upsc.gov.in",
+      "canonical_url": "https://upsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "युनियन पब्लिक सर्व्हिस कमिशन (यूपीएससी) राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "केंद्र सरकारची भरती",
+        "नागरी सेवा",
+        "स्पर्धा परीक्षा",
+        "परीक्षेच्या अधिसूचना",
+        "निकाल"
+      ],
+      "keywords": [
+        "यूपीएससी",
+        "लोकसेवा आयोगाची भरती आणि परीक्षा",
+        "यूपीएससी परीक्षा",
+        "नागरी सेवा परीक्षा",
+        "आयएएस परीक्षा",
+        "आयपीएस परीक्षा",
+        "आयएफएस परीक्षा",
+        "यूपीएससी अधिसूचना",
+        "seva, vikri ani operations madhil nokarya",
+        "यूपीएससी पात्रता",
+        "pariksha dinadarshika",
+        "praveshpatra",
+        "यूपीएससी निकाल",
+        "arjacha namuna"
+      ],
+      "use_cases": [
+        "परीक्षेच्या तारखा, वेळापत्रक आणि अधिकृत सूचना तपासा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_003",
+      "name": "स्टाफ सिलेक्शन कमिशन (एसएससी)",
+      "domain": "ssc.gov.in",
+      "canonical_url": "https://ssc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "स्टाफ सिलेक्शन कमिशन (एसएससी) राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "केंद्र सरकारी नोकऱ्या",
+        "भरती परीक्षा",
+        "एसएससी परीक्षा",
+        "प्रवेशपत्रे",
+        "निकाल"
+      ],
+      "keywords": [
+        "एसएससी",
+        "लोकसेवा आयोगाची भरती आणि परीक्षा",
+        "एसएससी नोकऱ्या",
+        "एसएससी सीजीएल",
+        "एसएससी सीएचएसएल",
+        "एसएससी एमटीएस",
+        "एसएससी जीडी",
+        "sarkari rikt jaga",
+        "एसएससी अधिसूचना",
+        "parikshechya tarakha",
+        "एसएससी प्रवेशपत्र",
+        "uttar suchi",
+        "एसएससी निकाल",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_004",
+      "name": "इन्स्टिट्यूट ऑफ बँकिंग पर्सोनेल सिलेक्शन (आयबीपीएस)",
+      "domain": "www.ibps.in",
+      "canonical_url": "https://www.ibps.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "इन्स्टिट्यूट ऑफ बँकिंग पर्सोनेल सिलेक्शन (आयबीपीएस) ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "बँक भरती",
+        "बँकिंग परीक्षा",
+        "आयबीपीएस सीआरपी",
+        "परीक्षेचे अर्ज",
+        "निकाल"
+      ],
+      "keywords": [
+        "आयबीपीएस",
+        "bharatatil banking nokarya",
+        "bank pariksha",
+        "आयबीपीएस पीओ",
+        "आयबीपीएस क्लर्क",
+        "आयबीपीएस एसओ",
+        "आयबीपीएस आरआरबी",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "online arj",
+        "sarav chachani",
+        "praveshpatra",
+        "pariksha, arj ani bharati vishayak mahiti"
+      ],
+      "use_cases": [
+        "बँकिंग आणि अधिकारी पदांच्या भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "अधिकृत अर्ज, सराव चाचण्या आणि निकालांसाठी उपलब्ध सुविधा वापरा"
+      ]
+    },
+    {
+      "id": "jobs_india_005",
+      "name": "रेल्वे रिक्रूटमेंट बोर्ड्स",
+      "domain": "www.rrbapply.gov.in",
+      "canonical_url": "https://www.rrbapply.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "भारतीय रेल्वेतील विविध पदांसाठी रेल्वे भरती मंडळे निवड प्रक्रिया राबवतात. अधिकृत अर्ज पोर्टल आणि प्रादेशिक आरआरबी संकेतस्थळांवर रिक्त पदांच्या जाहिराती, पात्रतेच्या अटी, अर्जविषयक अपडेट्स, परीक्षा माहिती आणि उमेदवारांसाठी सूचना प्रसिद्ध होतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "रेल्वेतील नोकऱ्या",
+        "सरकारी भरती",
+        "आरआरबी परीक्षा",
+        "केंद्र सरकारी नोकऱ्या",
+        "अर्जविषयक अपडेट्स"
+      ],
+      "keywords": [
+        "लोकसेवा आयोगाची भरती आणि परीक्षा",
+        "आरआरबी नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "आरआरबी अधिसूचना",
+        "आरआरबी एएलपी",
+        "आरआरबी तंत्रज्ञ",
+        "आरआरबी एनटीपीसी",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "आरआरबी प्रवेशपत्र",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti"
+      ],
+      "use_cases": [
+        "रेल्वे भरतीच्या जाहिराती आणि पात्र पदांची माहिती शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "परीक्षेच्या तारखा, वेळापत्रक आणि अधिकृत सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_006",
+      "name": "एम्प्लॉयमेंट न्यूज",
+      "domain": "employmentnews.gov.in",
+      "canonical_url": "https://employmentnews.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "एम्प्लॉयमेंट न्यूज हे भारत सरकारचे रोजगार आणि करिअरविषयक प्रकाशन आहे. यात सरकारी संस्था आणि इतर नियोक्त्यांच्या भरती जाहिराती, रिक्त पदांच्या सूचना आणि करिअरविषयक माहिती प्रसिद्ध केली जाते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सरकारी नोकऱ्यांच्या बातम्या",
+        "भरतीच्या जाहिराती",
+        "करिअरविषयक माहिती",
+        "रिक्त पदांविषयी अपडेट्स"
+      ],
+      "keywords": [
+        "एम्प्लॉयमेंट न्यूज",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari nokaryanchya batmya",
+        "navin sarkari rikt pade",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "rojgar vishayak vruttapatra",
+        "saptahik rojgar patrika",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "रोजगार आणि भरतीविषयक बातम्या",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "भरतीच्या नव्या सूचना आणि अर्जाची स्थिती तपासत राहा"
+      ]
+    },
+    {
+      "id": "jobs_india_007",
+      "name": "लिंक्डइन जॉब्स",
+      "domain": "www.linkedin.com/jobs",
+      "canonical_url": "https://www.linkedin.com/jobs/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "लिंक्डइन जॉब्स नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "व्यावसायिक नोकऱ्यांचा शोध",
+        "करिअरसाठी संपर्क",
+        "नियोक्त्यांची माहिती",
+        "विविध उद्योगांतील नोकऱ्या",
+        "भरती"
+      ],
+      "keywords": [
+        "लिंक्डइन जॉब्स",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "gharun kamachya nokarya",
+        "durun karta yenarya nokarya",
+        "career ani vyavsayik vikasachya sandhi",
+        "nokarivishayak suchana",
+        "nokarisathi arj kara",
+        "naukari profile, niyokta ani arjachi mahiti",
+        "career sathi sampark vadhva",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_008",
+      "name": "नोकरी डॉट कॉम",
+      "domain": "www.naukri.com",
+      "canonical_url": "https://www.naukri.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नोकरी डॉट कॉम च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "नोकरीचा शोध",
+        "भरतीचे व्यासपीठ",
+        "व्यावसायिक करिअर",
+        "बायोडेटा प्रोफाइल",
+        "भरतीकर्त्यांशी संपर्क"
+      ],
+      "keywords": [
+        "नोकरी डॉट कॉम",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "navin nokari rikt pade",
+        "shaharnusar nokarya shodha",
+        "navoditansathi nokarya",
+        "anubhavi umedvaransathi nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "gharun kamachya nokarya",
+        "resume upload kara",
+        "nokarivishayak suchana",
+        "naukari profile, niyokta ani arjachi mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_009",
+      "name": "इंडीड इंडिया",
+      "domain": "in.indeed.com",
+      "canonical_url": "https://in.indeed.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "इंडीड इंडिया नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "नोकरीचा शोध",
+        "नोकऱ्यांच्या जाहिराती",
+        "नियोक्त्यांचा शोध",
+        "करिअरच्या संधी",
+        "नोकरीसाठी अर्ज"
+      ],
+      "keywords": [
+        "इंडीड इंडिया",
+        "इंडीड नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "nokari shodha",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "majhya javal nokarya",
+        "ardhavel nokarya",
+        "purnavel nokarya",
+        "durun karta yenarya nokarya",
+        "gharun kam",
+        "navoditansathi nokarya",
+        "naukari profile, niyokta ani arjachi mahiti",
+        "naukari profile, niyokta ani arjachi mahiti",
+        "pariksha, arj ani bharati vishayak mahiti"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "उपलब्ध संधी आणि नियोक्त्यांविषयीची माहिती तपासा व तुलना करा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_010",
+      "name": "फाउंडइट",
+      "domain": "www.foundit.in",
+      "canonical_url": "https://www.foundit.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "फाउंडइट नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "व्यावसायिक नोकऱ्यांचा शोध",
+        "तज्ज्ञ पदांसाठी भरती",
+        "करिअरसाठी उपयुक्त साधने",
+        "नोकरीविषयक सूचना"
+      ],
+      "keywords": [
+        "फाउंडइट",
+        "फाउंडइट नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "naukari profile, niyokta ani arjachi mahiti",
+        "nokarivishayak suchana",
+        "career vishayak margadarshan"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_011",
+      "name": "अपना",
+      "domain": "apna.co",
+      "canonical_url": "https://apna.co/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "अपना ग्राहकांना सेवा किंवा डिलिव्हरीशी संबंधित सुविधा पुरवणारे व्यासपीठ आहे. कंपनीच्या अधिकृत करिअर माध्यमांवर डिलिव्हरी, लॉजिस्टिक्स, तंत्रज्ञान, व्यवसाय आणि कॉर्पोरेट विभागांतील संधींची माहिती मिळू शकते. संधी शहर, पदांची उपलब्धता आणि सध्याच्या भरतीवर अवलंबून असतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "स्थानिक नोकऱ्यांचा शोध",
+        "प्रवेश स्तरावरील नोकऱ्या",
+        "फ्रंटलाइन पदांसाठी भरती",
+        "विक्री आणि कामकाज",
+        "नोकरी शोधणाऱ्यांना मदत"
+      ],
+      "keywords": [
+        "अपना नोकऱ्या",
+        "majhya javal nokarya",
+        "bharatatil sthanik nokarya",
+        "dahavi pass sathi nokarya",
+        "baravi pass sathi nokarya",
+        "navoditansathi nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "seva, vikri ani operations madhil nokarya",
+        "gharun kamachya nokarya",
+        "ardhavel nokarya",
+        "shaharnusar nokari shodha",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "आपल्या परिसरातील उपलब्ध नोकऱ्या आणि संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_012",
+      "name": "इंटर्नशाला",
+      "domain": "internshala.com",
+      "canonical_url": "https://internshala.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "इंटर्नशाला पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "इंटर्नशिप",
+        "नवोदितांसाठी नोकऱ्या",
+        "विद्यार्थ्यांसाठी करिअर",
+        "करिअरच्या सुरुवातीच्या संधी",
+        "करिअरविषयक शिक्षण"
+      ],
+      "keywords": [
+        "इंटर्नशाला",
+        "bharatatil internship sandhi",
+        "vetansah internship",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "unhalyatil internship",
+        "vidyarthyansathi internship",
+        "navoditansathi nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "durun karta yenari internship",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "internshipsathi arj kara",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा"
+      ]
+    },
+    {
+      "id": "jobs_india_013",
+      "name": "फ्रेशर्सवर्ल्ड",
+      "domain": "www.freshersworld.com",
+      "canonical_url": "https://www.freshersworld.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "फ्रेशर्सवर्ल्ड च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "नवोदितांसाठी नोकऱ्या",
+        "प्रवेश स्तरावरील भरती",
+        "पदवीधरांसाठी करिअर",
+        "नोकरीविषयक अधिसूचना"
+      ],
+      "keywords": [
+        "फ्रेशर्सवर्ल्ड",
+        "navoditansathi nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "thेट मुलाखतीची संधी",
+        "campus baheril placement",
+        "campus madhil bharti",
+        "nokarivishayak suchana"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_014",
+      "name": "कटशॉर्ट",
+      "domain": "cutshort.io",
+      "canonical_url": "https://cutshort.io/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "कटशॉर्ट नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "तंत्रज्ञान क्षेत्रातील नोकऱ्या",
+        "स्टार्टअपमधील भरती",
+        "सॉफ्टवेअर क्षेत्रातील करिअर",
+        "उत्पादनविषयक पदे",
+        "व्यावसायिक भरती"
+      ],
+      "keywords": [
+        "कटशॉर्ट",
+        "technology kshetratil nokarya",
+        "software developer nokarya",
+        "startup madhil nokarya",
+        "product manager padanchya nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "career ani vyavsayik vikasachya sandhi",
+        "lachik ani durun karta yenarya nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "स्टार्टअपमधील करिअरच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा"
+      ]
+    },
+    {
+      "id": "jobs_india_015",
+      "name": "वेलफाउंड",
+      "domain": "wellfound.com",
+      "canonical_url": "https://wellfound.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "वेलफाउंड नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "स्टार्टअपमधील नोकऱ्या",
+        "तंत्रज्ञान क्षेत्रातील करिअर",
+        "उत्पादन आणि डिझाइन क्षेत्रातील पदे",
+        "जागतिक भरतीचे व्यासपीठ"
+      ],
+      "keywords": [
+        "वेलफाउंड",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "startup madhil nokarya",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी"
+      ],
+      "use_cases": [
+        "स्टार्टअपमधील करिअरच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "प्रत्येक पदासाठी ठिकाण, दूरस्थ काम आणि पात्रतेच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_016",
+      "name": "हिरिस्ट",
+      "domain": "www.hirist.com",
+      "canonical_url": "https://www.hirist.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "हिरिस्ट नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "आयटीमधील नोकऱ्या",
+        "तंत्रज्ञान क्षेत्रातील भरती",
+        "सॉफ्टवेअर क्षेत्रातील करिअर",
+        "तज्ज्ञ पदे"
+      ],
+      "keywords": [
+        "हिरिस्ट",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "IT kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "data science nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "नियोक्त्याची माहिती, नोकरीच्या अटी आणि अर्जाची प्रक्रिया तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_017",
+      "name": "इन्स्टाहायर",
+      "domain": "www.instahyre.com",
+      "canonical_url": "https://www.instahyre.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "इन्स्टाहायर नोकरी शोधणाऱ्यांना विविध क्षेत्रांतील आणि ठिकाणांतील रिक्त पदे शोधण्यासाठी मदत करणारे ऑनलाइन व्यासपीठ आहे. वापरकर्ते आपली प्रोफाइल तयार करू शकतात, योग्य नोकऱ्या पाहू शकतात आणि नियोक्त्यांची माहिती तपासू शकतात. निवड निकष आणि भरतीच्या अटी संबंधित नियोक्ता ठरवतो.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "तंत्रज्ञान क्षेत्रातील भरती",
+        "व्यावसायिक नोकऱ्या",
+        "उत्पादन आणि डेटा क्षेत्रातील पदे",
+        "भरतीकर्त्यांशी जुळवणी"
+      ],
+      "keywords": [
+        "इन्स्टाहायर",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology kshetratil nokarya",
+        "product manager padanchya nokarya",
+        "software engineer nokarya",
+        "data analyst nokarya",
+        "data science nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "startup madhil nokarya",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "तंत्रज्ञान, अभियांत्रिकी आणि सॉफ्टवेअर क्षेत्रातील नोकऱ्या शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा",
+        "नियोक्त्याची माहिती, नोकरीच्या अटी आणि अर्जाची प्रक्रिया तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_018",
+      "name": "एआयसीटीई इंटर्नशिप पोर्टल",
+      "domain": "internship.aicte-india.org",
+      "canonical_url": "https://internship.aicte-india.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "एआयसीटीई इंटर्नशिप पोर्टल पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "विद्यार्थ्यांसाठी इंटर्नशिप",
+        "तांत्रिक शिक्षण",
+        "करिअरच्या संधी",
+        "उद्योगक्षेत्राचा अनुभव"
+      ],
+      "keywords": [
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "एआयसीटीई इंटर्नशिप पोर्टल",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "career ani vyavsayik vikasachya sandhi",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "पद, ठिकाण आणि कामाच्या स्वरूपानुसार इंटर्नशिपच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_019",
+      "name": "पीएम इंटर्नशिप योजना",
+      "domain": "pminternship.mca.gov.in",
+      "canonical_url": "https://pminternship.mca.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "पीएम इंटर्नशिप योजना पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सरकारी इंटर्नशिप योजना",
+        "युवकांसाठी संधी",
+        "कंपन्यांमधील इंटर्नशिप",
+        "विद्यार्थी आणि पदवीधरांसाठी करिअर"
+      ],
+      "keywords": [
+        "पीएम इंटर्नशिप योजना",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "अधिकृत पोर्टलवरील योजना आणि अर्जाची माहिती",
+        "अधिकृत पोर्टलवरील योजना आणि अर्जाची माहिती",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "पीएमआयएस",
+        "अधिकृत पोर्टलवरील योजना आणि अर्जाची माहिती"
+      ],
+      "use_cases": [
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "पद, ठिकाण आणि कामाच्या स्वरूपानुसार इंटर्नशिपच्या संधी शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_020",
+      "name": "नॅशनल अप्रेंटिसशिप प्रमोशन स्कीम",
+      "domain": "www.apprenticeshipindia.gov.in",
+      "canonical_url": "https://www.apprenticeshipindia.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नॅशनल अप्रेंटिसशिप प्रमोशन स्कीम पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "शिकाऊ उमेदवारी",
+        "कामाच्या ठिकाणी प्रशिक्षण",
+        "कौशल्य विकास",
+        "नियोक्त्यांचा सहभाग"
+      ],
+      "keywords": [
+        "नॅशनल अप्रेंटिसशिप प्रमोशन स्कीम",
+        "एनएपीएस",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "kaushalya vikas",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "vidyavetanachi mahiti",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी"
+      ],
+      "use_cases": [
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_021",
+      "name": "नॅशनल अप्रेंटिसशिप ट्रेनिंग स्कीम (एनएटीएस)",
+      "domain": "nats.education.gov.in",
+      "canonical_url": "https://nats.education.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नॅशनल अप्रेंटिसशिप ट्रेनिंग स्कीम (एनएटीएस) पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "शिकाऊ उमेदवारी",
+        "पदवीधर प्रशिक्षण",
+        "डिप्लोमा प्रशिक्षण",
+        "कामातून शिक्षण"
+      ],
+      "keywords": [
+        "एनएटीएस",
+        "अधिकृत पोर्टलवरील योजना आणि अर्जाची माहिती",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "योजनेचे नियम, पात्रता आणि नोंदणीची प्रक्रिया तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_022",
+      "name": "पब्लिक एंटरप्रायझेस सिलेक्शन बोर्ड (पीईएसबी)",
+      "domain": "pesb.gov.in",
+      "canonical_url": "https://pesb.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "पब्लिक एंटरप्रायझेस सिलेक्शन बोर्ड (पीईएसबी) ही भारतातील सार्वजनिक क्षेत्राशी संबंधित संस्था आहे. तिच्या अधिकृत संकेतस्थळावर संबंधित पदांच्या भरती जाहिराती, पात्रतेच्या अटी, अर्ज प्रक्रिया, परीक्षा वेळापत्रक आणि निवडविषयक माहिती प्रसिद्ध केली जाते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सार्वजनिक क्षेत्रातील नेतृत्व",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "वरिष्ठ अधिकाऱ्यांची निवड",
+        "सरकारी नियुक्त्या"
+      ],
+      "keywords": [
+        "पीईएसबी",
+        "लोकसेवा आयोगाची भरती आणि परीक्षा",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "लोकसेवा आयोगाची भरती आणि परीक्षा"
+      ],
+      "use_cases": [
+        "सार्वजनिक क्षेत्रातील वरिष्ठ पदांच्या भरती जाहिराती शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_023",
+      "name": "ओएनजीसी",
+      "domain": "ongcindia.com",
+      "canonical_url": "https://ongcindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ओएनजीसी च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ऊर्जा क्षेत्रातील करिअर",
+        "सार्वजनिक क्षेत्रातील भरती",
+        "अभियांत्रिकीतील नोकऱ्या",
+        "तांत्रिक आणि कामकाजविषयक पदे"
+      ],
+      "keywords": [
+        "ओएनजीसी करिअर",
+        "ओएनजीसी भरती",
+        "ओएनजीसी नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "तंत्रज्ञान, अभियांत्रिकी आणि सॉफ्टवेअर क्षेत्रातील नोकऱ्या शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_024",
+      "name": "इंडियन ऑइल कॉर्पोरेशन",
+      "domain": "iocl.com",
+      "canonical_url": "https://iocl.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "इंडियन ऑइल कॉर्पोरेशन च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ऊर्जा क्षेत्रातील करिअर",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "अभियांत्रिकीतील नोकऱ्या",
+        "कार्यकारी पदांच्या संधी"
+      ],
+      "keywords": [
+        "career ani vyavsayik vikasachya sandhi",
+        "आयओसीएल भरती",
+        "आयओसीएल नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_025",
+      "name": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड (बीएचईएल)",
+      "domain": "bhel.com",
+      "canonical_url": "https://www.bhel.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड (बीएचईएल) च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "अभियांत्रिकी क्षेत्रातील करिअर",
+        "उत्पादन क्षेत्रातील नोकऱ्या",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "तांत्रिक भरती"
+      ],
+      "keywords": [
+        "बीएचईएल करिअर",
+        "बीएचईएल भरती",
+        "बीएचईएल नोकऱ्या",
+        "abhiyantriki kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "technology ani engineering kshetratil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "तंत्रज्ञान, अभियांत्रिकी आणि सॉफ्टवेअर क्षेत्रातील नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_026",
+      "name": "भारत इलेक्ट्रॉनिक्स लिमिटेड (बीईएल)",
+      "domain": "bel-india.in",
+      "canonical_url": "https://bel-india.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "भारत इलेक्ट्रॉनिक्स लिमिटेड (बीईएल) च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "संरक्षण इलेक्ट्रॉनिक्समधील करिअर",
+        "अभियांत्रिकीतील नोकऱ्या",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "तांत्रिक पदे"
+      ],
+      "keywords": [
+        "बीईएल करिअर",
+        "बीईएल भरती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "technology ani engineering kshetratil nokarya",
+        "freelance kam ani project sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_027",
+      "name": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड (सेल)",
+      "domain": "sail.co.in",
+      "canonical_url": "https://sail.co.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड (सेल) पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "पोलाद उद्योगातील करिअर",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "प्रकल्प आणि तांत्रिक नोकऱ्या",
+        "शिकाऊ उमेदवारी"
+      ],
+      "keywords": [
+        "सेल करिअर",
+        "सेल भरती",
+        "सेल नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "seva, vikri ani operations madhil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "abhiyantriki kshetratil nokarya"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_028",
+      "name": "कोल इंडिया लिमिटेड",
+      "domain": "coalindia.in",
+      "canonical_url": "https://www.coalindia.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "कोल इंडिया लिमिटेड पात्र विद्यार्थी, पदवीधर किंवा उमेदवारांना इंटर्नशिप अथवा शिकाऊ उमेदवारीच्या संधींबद्दल माहिती देते. संबंधित कार्यक्रम, नोंदणी आणि अर्जाच्या अटी अधिकृत पोर्टलवर पाहता येतात. अर्ज करण्यापूर्वी सध्याची पात्रता, नियम आणि अर्जाची मुदत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "खाणकाम क्षेत्रातील करिअर",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "तांत्रिक आणि कामकाजविषयक नोकऱ्या",
+        "शिकाऊ उमेदवारी"
+      ],
+      "keywords": [
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_029",
+      "name": "पॉवर ग्रिड कॉर्पोरेशन ऑफ इंडिया",
+      "domain": "powergrid.in",
+      "canonical_url": "https://www.powergrid.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "पॉवर ग्रिड कॉर्पोरेशन ऑफ इंडिया च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "वीज क्षेत्रातील करिअर",
+        "अभियांत्रिकी भरती",
+        "सार्वजनिक उपक्रमांतील नोकऱ्या",
+        "प्रशिक्षणार्थींसाठी संधी"
+      ],
+      "keywords": [
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "गेटमार्फत भरती",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "तंत्रज्ञान, अभियांत्रिकी आणि सॉफ्टवेअर क्षेत्रातील नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_030",
+      "name": "एनटीपीसी लिमिटेड",
+      "domain": "ntpc.co.in",
+      "canonical_url": "https://ntpc.co.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "एनटीपीसी लिमिटेड च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "वीज निर्मिती क्षेत्रातील करिअर",
+        "सार्वजनिक उपक्रमांतील भरती",
+        "अभियांत्रिकीतील नोकऱ्या",
+        "प्रशिक्षणार्थींसाठी संधी"
+      ],
+      "keywords": [
+        "एनटीपीसी करिअर",
+        "एनटीपीसी भरती",
+        "एनटीपीसी नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "गेटमार्फत भरती",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_031",
+      "name": "स्टेट बँक ऑफ इंडिया करिअर्स",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/web/careers",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "स्टेट बँक ऑफ इंडिया करिअर्स ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "बँकिंगमधील करिअर",
+        "सार्वजनिक क्षेत्रातील बँकांच्या नोकऱ्या",
+        "बँक परीक्षा",
+        "भरतीविषयक सूचना",
+        "निकाल"
+      ],
+      "keywords": [
+        "एसबीआय करिअर",
+        "एसबीआय भरती",
+        "एसबीआय नोकऱ्या",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "bharatatil banking nokarya",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "online arj",
+        "praveshpatra",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_032",
+      "name": "रिझर्व्ह बँक ऑफ इंडिया",
+      "domain": "rbi.org.in",
+      "canonical_url": "https://www.rbi.org.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "रिझर्व्ह बँक ऑफ इंडिया ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "केंद्रीय बँकेतील करिअर",
+        "वित्तीय क्षेत्रातील भरती",
+        "अधिकारी पदांच्या नोकऱ्या",
+        "भरतीविषयक सूचना"
+      ],
+      "keywords": [
+        "आरबीआय करिअर",
+        "आरबीआय भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "seva, vikri ani operations madhil nokarya",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "arjacha namuna",
+        "pariksha, arj ani bharati vishayak mahiti"
+      ],
+      "use_cases": [
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_033",
+      "name": "नाबार्ड",
+      "domain": "nabard.org",
+      "canonical_url": "https://www.nabard.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नाबार्ड ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "विकास वित्त क्षेत्रातील करिअर",
+        "बँकिंग भरती",
+        "ग्रामीण विकास",
+        "अधिकारी पदांच्या नोकऱ्या"
+      ],
+      "keywords": [
+        "नाबार्ड करिअर",
+        "नाबार्ड भरती",
+        "नाबार्ड नोकऱ्या",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "seva, vikri ani operations madhil nokarya",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती"
+      ],
+      "use_cases": [
+        "बँकिंग आणि अधिकारी पदांच्या भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "ग्रामीण वित्त आणि विकास क्षेत्रातील करिअरविषयी माहिती मिळवा"
+      ]
+    },
+    {
+      "id": "jobs_india_034",
+      "name": "एचडीएफसी बँक",
+      "domain": "www.hdfcbank.com",
+      "canonical_url": "https://www.hdfcbank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "एचडीएफसी बँक ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "खासगी बँकेतील करिअर",
+        "बँकिंगमधील नोकऱ्या",
+        "वित्त आणि कामकाज",
+        "तंत्रज्ञानविषयक पदे"
+      ],
+      "keywords": [
+        "एचडीएफसी बँक करिअर",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती"
+      ],
+      "use_cases": [
+        "बँकिंग आणि अधिकारी पदांच्या भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_035",
+      "name": "आयसीआयसीआय बँक",
+      "domain": "www.icicibank.com",
+      "canonical_url": "https://www.icicibank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "आयसीआयसीआय बँक ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "खासगी बँकेतील करिअर",
+        "बँकिंगमधील नोकऱ्या",
+        "ग्राहक सेवा आणि संबंध व्यवस्थापनातील पदे",
+        "तंत्रज्ञान क्षेत्रातील करिअर"
+      ],
+      "keywords": [
+        "आयसीआयसीआय बँक करिअर",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "बँकिंग आणि अधिकारी पदांच्या भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_036",
+      "name": "ॲक्सिस बँक",
+      "domain": "www.axisbank.com",
+      "canonical_url": "https://www.axisbank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ॲक्सिस बँक ही भारतातील बँकिंग किंवा वित्तीय क्षेत्रातील संस्था आहे. तिच्या करिअर विभागात बँकिंग, वित्त, तंत्रज्ञान, कामकाज, विक्री, ग्राहक सेवा आणि जोखीम व्यवस्थापन अशा विभागांतील पदांची माहिती मिळू शकते. पात्रता व अर्जाच्या अटी अधिकृत जाहिरातीत तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "खासगी बँकेतील करिअर",
+        "बँकिंगमधील नोकऱ्या",
+        "विक्री आणि कामकाज",
+        "तंत्रज्ञानविषयक पदे"
+      ],
+      "keywords": [
+        "ॲक्सिस बँक करिअर",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "bharatatil banking nokarya",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "seva, vikri ani operations madhil nokarya",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "बँकिंग क्षेत्रातील नोकऱ्या आणि भरती"
+      ],
+      "use_cases": [
+        "बँकिंग आणि अधिकारी पदांच्या भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_037",
+      "name": "नॅशनल स्टॉक एक्सचेंज ऑफ इंडिया",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "नॅशनल स्टॉक एक्सचेंज ऑफ इंडिया ही भारतातील वित्तीय बाजारपेठेशी संबंधित संस्था आहे. येथे बाजारपेठेचे कामकाज, तंत्रज्ञान, डेटा, नियमपालन, जोखीम व्यवस्थापन आणि कॉर्पोरेट विभागांमध्ये करिअरच्या संधी उपलब्ध होऊ शकतात. भरतीविषयक माहिती अधिकृत करिअर विभागात तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "वित्तीय बाजारपेठेतील करिअर",
+        "एक्सचेंजमधील नोकऱ्या",
+        "वित्त आणि तंत्रज्ञान",
+        "व्यावसायिक भरती"
+      ],
+      "keywords": [
+        "एनएसई इंडिया करिअर",
+        "वित्तीय बाजारपेठेतील करिअरच्या संधी",
+        "वित्तीय बाजारपेठेतील करिअरच्या संधी",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "वित्तीय बाजारपेठेतील करिअरच्या संधी"
+      ],
+      "use_cases": [
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_038",
+      "name": "बीएसई",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "बीएसई ही भारतातील वित्तीय बाजारपेठेशी संबंधित संस्था आहे. येथे बाजारपेठेचे कामकाज, तंत्रज्ञान, डेटा, नियमपालन, जोखीम व्यवस्थापन आणि कॉर्पोरेट विभागांमध्ये करिअरच्या संधी उपलब्ध होऊ शकतात. भरतीविषयक माहिती अधिकृत करिअर विभागात तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "वित्तीय बाजारपेठेतील करिअर",
+        "एक्सचेंजमधील नोकऱ्या",
+        "भांडवली बाजार",
+        "व्यावसायिक पदे"
+      ],
+      "keywords": [
+        "बीएसई करिअर",
+        "बीएसई नोकऱ्या",
+        "वित्तीय बाजारपेठेतील करिअरच्या संधी",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "technology ani engineering kshetratil nokarya"
+      ],
+      "use_cases": [
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "तंत्रज्ञान, अभियांत्रिकी आणि सॉफ्टवेअर क्षेत्रातील नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_039",
+      "name": "आयसीएआय",
+      "domain": "www.icai.org",
+      "canonical_url": "https://www.icai.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "आयसीएआय च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "व्यावसायिक संस्था",
+        "सनदी लेखापाल व्यवसाय",
+        "करिअरसाठी उपयुक्त साधने",
+        "व्यावसायिक विकास",
+        "परीक्षा"
+      ],
+      "keywords": [
+        "आयसीएआय",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "आयसीएआय प्लेसमेंट",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "career ani vyavsayik vikasachya sandhi",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "career ani vyavsayik vikasachya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा"
+      ]
+    },
+    {
+      "id": "jobs_india_040",
+      "name": "आयसीएआय कॅम्पस प्लेसमेंट पोर्टल",
+      "domain": "cmib.icai.org",
+      "canonical_url": "https://cmib.icai.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_review",
+        "method": "manual_review"
+      },
+      "description": "आयसीएआय कॅम्पस प्लेसमेंट पोर्टल च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सीए कॅम्पस प्लेसमेंट",
+        "सनदी लेखापाल",
+        "पदवीधर भरती",
+        "नियोक्त्यांसाठी प्लेसमेंट"
+      ],
+      "keywords": [
+        "आयसीएआय कॅम्पस प्लेसमेंट",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti"
+      ],
+      "use_cases": [
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "नियोक्त्याची माहिती, नोकरीच्या अटी आणि अर्जाची प्रक्रिया तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_041",
+      "name": "बार कौन्सिल ऑफ इंडिया",
+      "domain": "www.barcouncilofindia.org",
+      "canonical_url": "https://www.barcouncilofindia.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "बार कौन्सिल ऑफ इंडिया ही भारतातील वकिली व्यवसाय आणि कायदेविषयक शिक्षणाचे नियमन करणारी वैधानिक संस्था आहे. हे सर्वसाधारण नोकरी शोधण्याचे पोर्टल नाही. तिच्या संकेतस्थळावर व्यावसायिक नियम, कायदेविषयक शिक्षण, नियामक सूचना आणि विधीचे विद्यार्थी व वकील यांच्यासाठी उपयुक्त माहिती मिळते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "वकिलीचा व्यवसाय",
+        "व्यवसायाचे नियमन",
+        "कायदेविषयक शिक्षण",
+        "नियामक सूचना"
+      ],
+      "keywords": [
+        "बार कौन्सिल ऑफ इंडिया",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "career ani vyavsayik vikasachya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "career ani vyavsayik vikasachya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "लोकसेवा आयोगाची भरती आणि परीक्षा",
+        "career ani vyavsayik vikasachya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "अधिकृत अर्ज, सूचना आणि निकालांसाठी उपलब्ध ऑनलाइन सुविधा वापरा"
+      ]
+    },
+    {
+      "id": "jobs_india_042",
+      "name": "अर्बन कंपनी",
+      "domain": "www.urbancompany.com",
+      "canonical_url": "https://www.urbancompany.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "अर्बन कंपनी ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "सेवा क्षेत्रातील व्यावसायिकांसाठी संधी",
+        "घरगुती सेवा",
+        "व्यासपीठावरील काम",
+        "कॉर्पोरेट क्षेत्रातील करिअर"
+      ],
+      "keywords": [
+        "career ani vyavsayik vikasachya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "seva, vikri ani operations madhil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "lachik ani durun karta yenarya nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "freelance kam ani project sandhi",
+        "रोजगार आणि करिअरविषयक सेवा"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "ग्रामीण वित्त आणि विकास क्षेत्रातील करिअरविषयी माहिती मिळवा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_043",
+      "name": "स्विगी",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "स्विगी ग्राहकांना सेवा किंवा डिलिव्हरीशी संबंधित सुविधा पुरवणारे व्यासपीठ आहे. कंपनीच्या अधिकृत करिअर माध्यमांवर डिलिव्हरी, लॉजिस्टिक्स, तंत्रज्ञान, व्यवसाय आणि कॉर्पोरेट विभागांतील संधींची माहिती मिळू शकते. संधी शहर, पदांची उपलब्धता आणि सध्याच्या भरतीवर अवलंबून असतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "डिलिव्हरी पार्टनरचे काम",
+        "तात्पुरत्या कामाच्या संधी",
+        "लॉजिस्टिक्स",
+        "कॉर्पोरेट क्षेत्रातील करिअर"
+      ],
+      "keywords": [
+        "स्विगी करिअर",
+        "स्विगी डिलिव्हरी पार्टनर",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "freelance kam ani project sandhi",
+        "lachik ani durun karta yenarya nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "seva, vikri ani operations madhil nokarya",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_044",
+      "name": "झोमॅटो",
+      "domain": "www.zomato.com",
+      "canonical_url": "https://www.zomato.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "झोमॅटो ग्राहकांना सेवा किंवा डिलिव्हरीशी संबंधित सुविधा पुरवणारे व्यासपीठ आहे. कंपनीच्या अधिकृत करिअर माध्यमांवर डिलिव्हरी, लॉजिस्टिक्स, तंत्रज्ञान, व्यवसाय आणि कॉर्पोरेट विभागांतील संधींची माहिती मिळू शकते. संधी शहर, पदांची उपलब्धता आणि सध्याच्या भरतीवर अवलंबून असतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "डिलिव्हरी पार्टनरचे काम",
+        "तात्पुरत्या कामाच्या संधी",
+        "अन्नसेवा",
+        "कॉर्पोरेट क्षेत्रातील करिअर"
+      ],
+      "keywords": [
+        "झोमॅटो करिअर",
+        "झोमॅटो डिलिव्हरी पार्टनर",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "freelance kam ani project sandhi",
+        "lachik ani durun karta yenarya nokarya",
+        "career ani vyavsayik vikasachya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "करिअरविषयक माहिती आणि उपलब्ध व्यावसायिक संधी शोधा",
+        "प्रत्येक पदासाठी ठिकाण, दूरस्थ काम आणि पात्रतेच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_045",
+      "name": "वर्कइंडिया",
+      "domain": "www.workindia.in",
+      "canonical_url": "https://www.workindia.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "वर्कइंडिया ग्राहकांना सेवा किंवा डिलिव्हरीशी संबंधित सुविधा पुरवणारे व्यासपीठ आहे. कंपनीच्या अधिकृत करिअर माध्यमांवर डिलिव्हरी, लॉजिस्टिक्स, तंत्रज्ञान, व्यवसाय आणि कॉर्पोरेट विभागांतील संधींची माहिती मिळू शकते. संधी शहर, पदांची उपलब्धता आणि सध्याच्या भरतीवर अवलंबून असतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "स्थानिक नोकऱ्यांचा शोध",
+        "फ्रंटलाइन नोकऱ्या",
+        "प्रवेश स्तरावरील काम",
+        "विक्री आणि कामकाज"
+      ],
+      "keywords": [
+        "वर्कइंडिया",
+        "वर्कइंडिया नोकऱ्या",
+        "bharatatil sthanik nokarya",
+        "majhya javal nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "seva, vikri ani operations madhil nokarya",
+        "dahavi pass sathi nokarya",
+        "baravi pass sathi nokarya",
+        "ardhavel nokarya",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "नियोक्त्याची माहिती, नोकरीच्या अटी आणि अर्जाची प्रक्रिया तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_046",
+      "name": "क्विकर जॉब्स",
+      "domain": "www.quikr.com/jobs",
+      "canonical_url": "https://www.quikr.com/jobs/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "क्विकर जॉब्स च्या अधिकृत संकेतस्थळावर भरती, उपलब्ध पदे आणि अर्ज प्रक्रियेची माहिती पाहता येते. उमेदवारांनी प्रत्येक पदासाठी आवश्यक शैक्षणिक पात्रता, निवड प्रक्रिया, अर्जाची अंतिम तारीख आणि संबंधित सूचना तपासाव्यात. संधी आणि भरतीच्या अटी संबंधित संस्था ठरवते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "स्थानिक नोकऱ्यांच्या जाहिराती",
+        "प्रवेश स्तरावरील नोकऱ्या",
+        "वर्गीकृत जाहिराती",
+        "नोकरीचा शोध"
+      ],
+      "keywords": [
+        "क्विकर जॉब्स",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "majhya javal nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "seva, vikri ani operations madhil nokarya",
+        "ardhavel kam",
+        "navoditansathi nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "आपल्या परिसरातील उपलब्ध नोकऱ्या आणि संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा"
+      ]
+    },
+    {
+      "id": "jobs_india_047",
+      "name": "फ्रीलान्सर",
+      "domain": "www.freelancer.in",
+      "canonical_url": "https://www.freelancer.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "फ्रीलान्सर ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "फ्रीलान्स कामाचे व्यासपीठ",
+        "प्रकल्पाधारित काम",
+        "दूरस्थ काम",
+        "स्वतंत्र व्यावसायिक",
+        "जागतिक व्यासपीठ"
+      ],
+      "keywords": [
+        "फ्रीलान्सर",
+        "फ्रीलान्सर डॉट कॉम",
+        "freelance kamachya sandhi",
+        "online freelance kam",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "freelance kam ani project sandhi",
+        "grahakanchya projects",
+        "freelance kam ani project sandhi"
+      ],
+      "use_cases": [
+        "आपल्या कौशल्यानुसार फ्रीलान्स प्रकल्प आणि कामाच्या संधी शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा",
+        "आपल्या कौशल्यानुसार फ्रीलान्स प्रकल्प आणि कामाच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_048",
+      "name": "अपवर्क",
+      "domain": "www.upwork.com",
+      "canonical_url": "https://www.upwork.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "अपवर्क ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "फ्रीलान्स कामाचे व्यासपीठ",
+        "दूरस्थ कंत्राटी काम",
+        "व्यावसायिक सेवा",
+        "जागतिक व्यासपीठ",
+        "ग्राहकांचे प्रकल्प"
+      ],
+      "keywords": [
+        "अपवर्क",
+        "freelance kam ani project sandhi",
+        "freelance kamachya sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "grahakanchya projects",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_049",
+      "name": "फायव्हर",
+      "domain": "www.fiverr.com",
+      "canonical_url": "https://www.fiverr.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "फायव्हर ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "फ्रीलान्स सेवांचे व्यासपीठ",
+        "ऑनलाइन काम",
+        "डिजिटल सेवा",
+        "जागतिक व्यासपीठ"
+      ],
+      "keywords": [
+        "फायव्हर",
+        "freelance kam ani project sandhi",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "freelance kamache vyaspith",
+        "online freelance kam",
+        "freelance kam ani project sandhi",
+        "technology ani engineering kshetratil nokarya",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "durun freelance kam"
+      ],
+      "use_cases": [
+        "आपल्या कौशल्यानुसार फ्रीलान्स प्रकल्प आणि कामाच्या संधी शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_050",
+      "name": "ट्रूलान्सर",
+      "domain": "www.truelancer.com",
+      "canonical_url": "https://www.truelancer.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ट्रूलान्सर ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "फ्रीलान्स कामाचे व्यासपीठ",
+        "प्रकल्पाधारित काम",
+        "दूरस्थ सेवा",
+        "स्वतंत्र व्यावसायिक"
+      ],
+      "keywords": [
+        "ट्रूलान्सर",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "freelance kam ani project sandhi",
+        "online freelance kam",
+        "durun karta yenarya nokarya",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "freelance kam ani project sandhi"
+      ],
+      "use_cases": [
+        "आपल्या कौशल्यानुसार फ्रीलान्स प्रकल्प आणि कामाच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_051",
+      "name": "गुरू",
+      "domain": "www.guru.com",
+      "canonical_url": "https://www.guru.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "गुरू ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "फ्रीलान्स कामाचे व्यासपीठ",
+        "व्यावसायिक प्रकल्प",
+        "दूरस्थ काम",
+        "जागतिक व्यासपीठ"
+      ],
+      "keywords": [
+        "freelance kam ani project sandhi",
+        "गुरू डॉट कॉम नोकऱ्या",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "freelance kam ani project sandhi",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "career ani vyavsayik vikasachya sandhi",
+        "grahakanchya projects",
+        "gharun kam"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_052",
+      "name": "रिमोट ओके",
+      "domain": "remoteok.com",
+      "canonical_url": "https://remoteok.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "रिमोट ओके दूरस्थ, संमिश्र, लवचिक किंवा अर्धवेळ कामाच्या संधी शोधण्यासाठीचे व्यासपीठ आहे. प्रत्येक नियोक्ता पदाचे ठिकाण, वेळ क्षेत्र, अनुभव आणि काम करण्याची पात्रता यांसंबंधीच्या अटी ठरवतो. अर्ज करण्यापूर्वी प्रत्येक जाहिरातीतील अटी तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "दूरस्थ नोकऱ्यांचे व्यासपीठ",
+        "तंत्रज्ञान क्षेत्रातील करिअर",
+        "लवचिक काम",
+        "आंतरराष्ट्रीय नोकऱ्यांच्या नोंदी"
+      ],
+      "keywords": [
+        "रिमोट ओके",
+        "lachik ani durun karta yenarya nokarya",
+        "durun karta yenarya nokarya",
+        "gharun kamachya nokarya",
+        "kuthehi rahun kam kara",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "lachik ani durun karta yenarya nokarya",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "remote nokaryanche vyaspith"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "उपलब्ध संधी आणि नियोक्त्यांविषयीची माहिती तपासा व तुलना करा"
+      ]
+    },
+    {
+      "id": "jobs_india_053",
+      "name": "वी वर्क रिमोटली",
+      "domain": "weworkremotely.com",
+      "canonical_url": "https://weworkremotely.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "वी वर्क रिमोटली दूरस्थ, संमिश्र, लवचिक किंवा अर्धवेळ कामाच्या संधी शोधण्यासाठीचे व्यासपीठ आहे. प्रत्येक नियोक्ता पदाचे ठिकाण, वेळ क्षेत्र, अनुभव आणि काम करण्याची पात्रता यांसंबंधीच्या अटी ठरवतो. अर्ज करण्यापूर्वी प्रत्येक जाहिरातीतील अटी तपासा.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "दूरस्थ नोकऱ्यांचे व्यासपीठ",
+        "व्यावसायिक करिअर",
+        "विविध ठिकाणांहून काम",
+        "आंतरराष्ट्रीय नोकऱ्यांच्या नोंदी"
+      ],
+      "keywords": [
+        "वी वर्क रिमोटली",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "durun karta yenarya nokarya",
+        "gharun kam",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "kuthehi rahun kam kara",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत पात्रता निकष, निवड प्रक्रिया आणि अर्जाच्या अटी तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_054",
+      "name": "फ्लेक्सजॉब्स",
+      "domain": "www.flexjobs.com",
+      "canonical_url": "https://www.flexjobs.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "फ्लेक्सजॉब्स ग्राहक आणि स्वतंत्र व्यावसायिकांना प्रकल्पाधारित कामासाठी जोडणारे ऑनलाइन व्यासपीठ आहे. येथे सॉफ्टवेअर, डिझाइन, लेखन, विपणन आणि व्यावसायिक सहाय्य अशा क्षेत्रांतील प्रकल्प मिळू शकतात. कामाच्या अटी, शुल्क आणि देयकांचे नियम व्यासपीठ व संबंधित ग्राहक ठरवतात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "लवचिक नोकऱ्यांचा शोध",
+        "दूरस्थ नोकऱ्या",
+        "अर्धवेळ काम",
+        "फ्रीलान्स कामाच्या संधी",
+        "सशुल्क सदस्यता सेवा"
+      ],
+      "keywords": [
+        "फ्लेक्सजॉब्स",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "durun karta yenarya nokarya",
+        "hybrid paddhatichya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "ardhavel nokarya",
+        "freelance kamachya sandhi",
+        "gharun kam",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "lachik ani durun karta yenarya nokarya",
+        "career ani vyavsayik vikasachya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "अधिकृत भरती सूचना, अर्ज प्रक्रिया आणि उमेदवारांसाठीच्या अपडेट्स पाहा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_055",
+      "name": "महाराष्ट्र लोकसेवा आयोग",
+      "domain": "mpsc.gov.in",
+      "canonical_url": "https://mpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "महाराष्ट्र लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "महाराष्ट्रातील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "परीक्षांचे निकाल"
+      ],
+      "keywords": [
+        "एमपीएससी",
+        "महाराष्ट्र लोकसेवा आयोग",
+        "एमपीएससी भरती",
+        "एमपीएससी नोकऱ्या",
+        "एमपीएससी परीक्षा",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "एमपीएससी अधिसूचना",
+        "praveshpatra",
+        "pariksha dinadarshika",
+        "एमपीएससी निकाल",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "परीक्षेच्या तारखा, वेळापत्रक आणि अधिकृत सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_056",
+      "name": "महास्वयम्",
+      "domain": "www.mahaswayam.gov.in",
+      "canonical_url": "https://www.mahaswayam.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "महास्वयम् हा महाराष्ट्र शासनाचा रोजगार आणि कौशल्य विकासाशी संबंधित पोर्टल आहे. नोकरी शोधणाऱ्यांना राज्यातील रोजगाराच्या संधी, प्रशिक्षण आणि कौशल्य विकासाच्या सेवांची माहिती येथे पाहता येते.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "महाराष्ट्रातील रोजगार",
+        "राज्यस्तरीय नोकरी पोर्टल",
+        "कौशल्य विकास",
+        "नोकरी शोधणाऱ्यांसाठी सेवा"
+      ],
+      "keywords": [
+        "महास्वयम्",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "अधिकृत पोर्टलवरील योजना आणि अर्जाची माहिती",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "वित्तीय बाजारपेठेतील करिअरच्या संधी",
+        "इंटर्नशिप आणि शिकाऊ उमेदवारीच्या संधी",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "pariksha, arj ani bharati vishayak mahiti"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पद, कौशल्य, अनुभव आणि ठिकाणानुसार योग्य नोकऱ्या शोधा",
+        "अधिकृत अर्ज, सूचना आणि निकालांसाठी उपलब्ध ऑनलाइन सुविधा वापरा"
+      ]
+    },
+    {
+      "id": "jobs_india_057",
+      "name": "दिल्ली अधीनस्थ सेवा निवड मंडळ",
+      "domain": "dsssb.delhi.gov.in",
+      "canonical_url": "https://dsssb.delhi.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "दिल्ली अधीनस्थ सेवा निवड मंडळ राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "दिल्लीतील सरकारी नोकऱ्या",
+        "राज्य भरती मंडळ",
+        "भरती परीक्षा",
+        "परीक्षा सूचना"
+      ],
+      "keywords": [
+        "डीएसएसएसबी",
+        "दिल्ली अधीनस्थ सेवा निवड मंडळ",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "praveshpatra",
+        "uttar suchi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "प्रवेशपत्र, उत्तरतालिका आणि परीक्षांचे निकाल तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_058",
+      "name": "तामिळनाडू लोकसेवा आयोग",
+      "domain": "www.tnpsc.gov.in",
+      "canonical_url": "https://www.tnpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "तामिळनाडू लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "तामिळनाडूमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "परीक्षांचे निकाल"
+      ],
+      "keywords": [
+        "टीएनपीएससी",
+        "तामिळनाडू लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "pariksha dinadarshika",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "अधिकृत अर्ज, सूचना आणि निकालांसाठी उपलब्ध ऑनलाइन सुविधा वापरा"
+      ]
+    },
+    {
+      "id": "jobs_india_059",
+      "name": "कर्नाटक लोकसेवा आयोग",
+      "domain": "kpsc.kar.nic.in",
+      "canonical_url": "https://kpsc.kar.nic.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "कर्नाटक लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "कर्नाटकमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "उमेदवारांसाठी सूचना"
+      ],
+      "keywords": [
+        "केपीएससी",
+        "कर्नाटक लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "parikshechya tarakha",
+        "praveshpatra",
+        "uttar suchi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "परीक्षेच्या तारखा, वेळापत्रक आणि अधिकृत सूचना तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_060",
+      "name": "केरळ लोकसेवा आयोग",
+      "domain": "www.keralapsc.gov.in",
+      "canonical_url": "https://www.keralapsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "केरळ लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "केरळमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "उमेदवार नोंदणी"
+      ],
+      "keywords": [
+        "rojgar, nokarya ani career vishayak mahiti",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "केरळ लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "praveshpatra",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "परीक्षेच्या तारखा, वेळापत्रक आणि अधिकृत सूचना तपासा",
+        "प्रवेशपत्र, उत्तरतालिका आणि परीक्षांचे निकाल तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_061",
+      "name": "पश्चिम बंगाल लोकसेवा आयोग",
+      "domain": "psc.wb.gov.in",
+      "canonical_url": "https://psc.wb.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "पश्चिम बंगाल लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "पश्चिम बंगालमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "निकाल"
+      ],
+      "keywords": [
+        "डब्ल्यूबीपीएससी",
+        "पश्चिम बंगाल लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "praveshpatra",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "प्रवेशपत्र, उत्तरतालिका आणि परीक्षांचे निकाल तपासा"
+      ]
+    },
+    {
+      "id": "jobs_india_062",
+      "name": "गुजरात लोकसेवा आयोग",
+      "domain": "gpsc.gujarat.gov.in",
+      "canonical_url": "https://gpsc.gujarat.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "गुजरात लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "गुजरातमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "परीक्षा कार्यक्रम"
+      ],
+      "keywords": [
+        "जीपीएससी",
+        "गुजरात लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "praveshpatra",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "नोकरी शोधणाऱ्याची प्रोफाइल आणि बायोडेटा तयार करा किंवा अद्ययावत ठेवा"
+      ]
+    },
+    {
+      "id": "jobs_india_063",
+      "name": "राजस्थान लोकसेवा आयोग",
+      "domain": "rpsc.rajasthan.gov.in",
+      "canonical_url": "https://rpsc.rajasthan.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "राजस्थान लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "राजस्थानमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "परीक्षा दिनदर्शिका"
+      ],
+      "keywords": [
+        "आरपीएससी",
+        "राजस्थान लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "rojgar, nokarya ani career vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "रोजगार आणि करिअरविषयक सेवा",
+        "pariksha dinadarshika",
+        "praveshpatra",
+        "uttar suchi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा"
+      ]
+    },
+    {
+      "id": "jobs_india_064",
+      "name": "बिहार लोकसेवा आयोग",
+      "domain": "bpsc.bihar.gov.in",
+      "canonical_url": "https://bpsc.bihar.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "बिहार लोकसेवा आयोग राज्य किंवा केंद्र सरकारमधील पात्र पदांसाठी भरती परीक्षा आणि निवड प्रक्रिया आयोजित करते. अधिकृत संकेतस्थळावर रिक्त पदांच्या जाहिराती, परीक्षा वेळापत्रक, अर्ज करण्याच्या सूचना, प्रवेशपत्राची माहिती आणि निकाल प्रसिद्ध केले जातात.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "बिहारमधील सरकारी नोकऱ्या",
+        "राज्य लोकसेवा आयोग",
+        "भरती परीक्षा",
+        "उमेदवारांसाठी अपडेट्स"
+      ],
+      "keywords": [
+        "बीपीएससी",
+        "बिहार लोकसेवा आयोग",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "sarkari ani khajgi nokaryanchya sandhi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "parikshechya tarakha",
+        "praveshpatra",
+        "uttar suchi",
+        "pariksha, arj ani bharati vishayak mahiti",
+        "online arj"
+      ],
+      "use_cases": [
+        "उपलब्ध नोकऱ्या, रिक्त पदांच्या जाहिराती आणि भरतीच्या संधी शोधा",
+        "पात्रता, निवड प्रक्रिया आणि अर्ज करण्याच्या सूचना तपासा",
+        "प्रवेशपत्र, उत्तरतालिका आणि परीक्षांचे निकाल तपासा"
+      ]
+    }
+  ]
+}

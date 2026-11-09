@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "categories": [
+    {
+      "id": "banking-finance-india",
+      "name": "Banking Finance India",
+      "files": {
+        "en": "banking-finance-india.en.json",
+        "hi": "banking-finance-india.hi.json",
+        "mr": "banking-finance-india.mr.json",
+        "gu": "banking-finance-india.gu.json"
+      },
+      "file": "banking-finance-india.en.json",
+      "count": 27
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "files": {
+        "en": "business.en.json",
+        "hi": "business.hi.json",
+        "mr": "business.mr.json",
+        "gu": "business.gu.json"
+      },
+      "file": "business.en.json",
+      "count": 40
+    },
+    {
+      "id": "education-india",
+      "name": "Education India",
+      "files": {
+        "en": "education-india.en.json",
+        "hi": "education-india.hi.json",
+        "mr": "education-india.mr.json",
+        "gu": "education-india.gu.json"
+      },
+      "file": "education-india.en.json",
+      "count": 16
+    },
+    {
+      "id": "government-india",
+      "name": "Government India",
+      "files": {
+        "en": "government-india.en.json",
+        "hi": "government-india.hi.json",
+        "mr": "government-india.mr.json",
+        "gu": "government-india.gu.json"
+      },
+      "file": "government-india.en.json",
+      "count": 24
+    },
+    {
+      "id": "legal-india",
+      "name": "Legal",
+      "files": {
+        "en": "legal-india.en.json",
+        "hi": "legal-india.hi.json",
+        "mr": "legal-india.mr.json",
+        "gu": "legal-india.gu.json"
+      },
+      "file": "legal-india.en.json",
+      "count": 46
+    },
+    {
+      "id": "health-india",
+      "name": "Health India",
+      "files": {
+        "en": "health-india.en.json",
+        "hi": "health-india.hi.json",
+        "mr": "health-india.mr.json",
+        "gu": "health-india.gu.json"
+      },
+      "file": "health-india.en.json",
+      "count": 10
+    },
+    {
+      "id": "jobs-india",
+      "name": "Jobs India",
+      "files": {
+        "en": "jobs-india.en.json",
+        "hi": "jobs-india.hi.json",
+        "mr": "jobs-india.mr.json",
+        "gu": "jobs-india.gu.json"
+      },
+      "file": "jobs-india.en.json",
+      "count": 64
+    },
+    {
+      "id": "popular",
+      "name": "Popular",
+      "files": {
+        "en": "popular.en.json",
+        "hi": "popular.hi.json",
+        "mr": "popular.mr.json",
+        "gu": "popular.gu.json"
+      },
+      "file": "popular.en.json",
+      "count": 20
+    },
+    {
+      "id": "shopping-india",
+      "name": "Shopping India",
+      "files": {
+        "en": "shopping-india.en.json",
+        "hi": "shopping-india.hi.json",
+        "mr": "shopping-india.mr.json",
+        "gu": "shopping-india.gu.json"
+      },
+      "file": "shopping-india.en.json",
+      "count": 18
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media",
+      "files": {
+        "en": "social-media.en.json",
+        "hi": "social-media.hi.json",
+        "mr": "social-media.mr.json",
+        "gu": "social-media.gu.json"
+      },
+      "file": "social-media.en.json",
+      "count": 20
+    },
+    {
+      "id": "telecom-india",
+      "name": "Telecom India",
+      "files": {
+        "en": "telecom-india.en.json",
+        "hi": "telecom-india.hi.json",
+        "mr": "telecom-india.mr.json",
+        "gu": "telecom-india.gu.json"
+      },
+      "file": "telecom-india.en.json",
+      "count": 6
+    },
+    {
+      "id": "travel-india",
+      "name": "Travel India",
+      "files": {
+        "en": "travel-india.en.json",
+        "hi": "travel-india.hi.json",
+        "mr": "travel-india.mr.json",
+        "gu": "travel-india.gu.json"
+      },
+      "file": "travel-india.en.json",
+      "count": 17
+    },
+    {
+      "id": "utilities-india",
+      "name": "Utilities India",
+      "files": {
+        "en": "utilities-india.en.json",
+        "hi": "utilities-india.hi.json",
+        "mr": "utilities-india.mr.json",
+        "gu": "utilities-india.gu.json"
+      },
+      "file": "utilities-india.en.json",
+      "count": 144
+    },
+    {
+      "id": "ai",
+      "name": "AI & Artificial Intelligence",
+      "count": 10,
+      "files": {
+        "en": "ai.en.json",
+        "hi": "ai.hi.json",
+        "mr": "ai.mr.json",
+        "gu": "ai.gu.json",
+        "ta": "ai.ta.json",
+        "te": "ai.te.json",
+        "bn": "ai.bn.json"
+      },
+      "file": "ai.en.json"
+    },
+    {
+      "id": "creative",
+      "name": "Creative & Design",
+      "files": {
+        "en": "creative.en.json",
+        "hi": "creative.hi.json",
+        "mr": "creative.mr.json",
+        "gu": "creative.gu.json"
+      },
+      "file": "creative.en.json",
+      "count": 12
+    }
+  ]
+}

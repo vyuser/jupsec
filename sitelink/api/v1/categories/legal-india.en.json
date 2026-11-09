@@ -1,0 +1,1463 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "legal-india",
+  "language": "en",
+  "category_name": "Legal Services India",
+  "count": 41,
+  "urls": [
+    {
+      "id": "legal_india_001",
+      "name": "Supreme Court of India",
+      "domain": "www.sci.gov.in",
+      "canonical_url": "https://www.sci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official website of India’s highest court, providing information about its jurisdiction, judges, notices, judgments, cause lists and case-related services.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Supreme Court",
+        "Judiciary",
+        "Judgments",
+        "Case Information"
+      ],
+      "keywords": [
+        "Supreme Court of India",
+        "Supreme Court case status",
+        "Supreme Court judgments",
+        "India apex court",
+        "Supreme Court cause list",
+        "Supreme Court notices",
+        "Supreme Court website"
+      ],
+      "use_cases": [
+        "Read official Supreme Court notices and institutional information",
+        "Look for judgments, cause lists and case-related resources"
+      ]
+    },
+    {
+      "id": "legal_india_002",
+      "name": "eCourts India",
+      "domain": "ecourts.gov.in",
+      "canonical_url": "https://ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National eCourts gateway connecting users with online services of courts across India, including case information, court services and links to related judicial portals.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Court Services",
+        "eCourts",
+        "Case Search",
+        "Judicial Services"
+      ],
+      "keywords": [
+        "eCourts India",
+        "Indian court case status",
+        "district court online services",
+        "court case search India",
+        "court services portal",
+        "court hearing information"
+      ],
+      "use_cases": [
+        "Find online court services and links for courts across India",
+        "Navigate to case information and related eCourts services"
+      ]
+    },
+    {
+      "id": "legal_india_003",
+      "name": "eCourts District Court Services",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Online service portal for district and subordinate courts, supporting access to case status, orders, judgments and other court information.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "District Courts",
+        "Case Status",
+        "Court Orders",
+        "Online Court Services"
+      ],
+      "keywords": [
+        "district court case status",
+        "India district court case search",
+        "court order download",
+        "case number search",
+        "party name case search",
+        "subordinate court services"
+      ],
+      "use_cases": [
+        "Check the status of a district court case",
+        "Find available orders, judgments and court information"
+      ]
+    },
+    {
+      "id": "legal_india_004",
+      "name": "High Courts and District Courts Directory",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/directory/contact-directory",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government directory that helps users locate official websites and contact information for the Supreme Court, High Courts and district courts in India.",
+      "source_type": "official_government_directory",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Court Directory",
+        "High Courts",
+        "District Courts",
+        "Government Directory"
+      ],
+      "keywords": [
+        "Indian High Court websites",
+        "district court contact details",
+        "Supreme Court directory",
+        "court address India",
+        "High Court contact information",
+        "official judiciary directory"
+      ],
+      "use_cases": [
+        "Find the official website of a High Court or district court",
+        "Locate judiciary contact and directory information"
+      ]
+    },
+    {
+      "id": "legal_india_005",
+      "name": "Indian Courts e-Filing",
+      "domain": "filing.ecourts.gov.in",
+      "canonical_url": "https://filing.ecourts.gov.in/pdedev/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "Online e-filing portal for participating Indian courts, intended for electronic submission of case documents and related filing processes. Filing availability and eligibility depend on the court and applicable rules.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "e-Filing",
+        "Court Filing",
+        "Online Legal Documents",
+        "Judicial Services"
+      ],
+      "keywords": [
+        "Indian court e filing",
+        "file case online India",
+        "e filing court documents",
+        "online petition filing",
+        "court document submission",
+        "eCourts filing portal"
+      ],
+      "use_cases": [
+        "Check whether a court supports online filing",
+        "Access electronic filing services and filing guidance"
+      ]
+    },
+    {
+      "id": "legal_india_006",
+      "name": "National Judicial Data Grid",
+      "domain": "njdg.ecourts.gov.in",
+      "canonical_url": "https://njdg.ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Judicial Data Grid provides searchable and aggregated information about case institution, pendency and disposal across participating Indian courts, with national, state and court-level views.",
+      "source_type": "official_judicial_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Judicial Data",
+        "Case Pendency",
+        "Court Statistics",
+        "Public Data"
+      ],
+      "keywords": [
+        "National Judicial Data Grid",
+        "NJDG India",
+        "court case pendency data",
+        "judicial statistics India",
+        "case disposal statistics",
+        "state wise court data"
+      ],
+      "use_cases": [
+        "Review court pendency and disposal statistics",
+        "Explore judicial data by court level, state or other available filters"
+      ]
+    },
+    {
+      "id": "legal_india_007",
+      "name": "Cause Lists of Indian Courts",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/?p=cause_list/index",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official eCourts service for locating court cause lists and hearing schedules. Availability and publication details depend on the relevant court and bench.",
+      "source_type": "official_government_service",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Cause Lists",
+        "Hearing Schedule",
+        "Court Calendar",
+        "eCourts"
+      ],
+      "keywords": [
+        "Indian court cause list",
+        "daily cause list",
+        "court hearing list",
+        "case hearing date",
+        "district court cause list",
+        "High Court cause list"
+      ],
+      "use_cases": [
+        "Find a published cause list for a participating court",
+        "Check listed matters and hearing schedules"
+      ]
+    },
+    {
+      "id": "legal_india_008",
+      "name": "Judgments of Indian Courts and Tribunals",
+      "domain": "judgments.ecourts.gov.in",
+      "canonical_url": "https://judgments.ecourts.gov.in/pdfsearch/index.php",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official judicial search service for locating judgments and orders made available through the Indian eCourts system, with search access depending on the court and document record.",
+      "source_type": "official_government_service",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Judgment Search",
+        "Court Orders",
+        "Legal Research",
+        "eCourts"
+      ],
+      "keywords": [
+        "Indian court judgments",
+        "search court orders India",
+        "judgment database",
+        "eCourts judgment search",
+        "court decision search",
+        "legal case research"
+      ],
+      "use_cases": [
+        "Search for a court judgment or order",
+        "Locate judicial decisions for legal research and reference"
+      ]
+    },
+    {
+      "id": "legal_india_009",
+      "name": "National Legal Services Authority (NALSA)",
+      "domain": "nalsa.gov.in",
+      "canonical_url": "https://nalsa.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Legal Services Authority coordinates legal aid and access-to-justice initiatives in India, including information about legal services institutions, eligibility and assistance programmes.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Legal Aid",
+        "Free Legal Help",
+        "Access to Justice",
+        "Government Authority"
+      ],
+      "keywords": [
+        "NALSA",
+        "free legal aid India",
+        "free lawyer eligibility",
+        "legal services authority",
+        "legal aid application",
+        "Lok Adalat information",
+        "legal assistance India"
+      ],
+      "use_cases": [
+        "Learn how to seek free legal services",
+        "Find information about legal aid programmes and Lok Adalats"
+      ]
+    },
+    {
+      "id": "legal_india_010",
+      "name": "e-Jagriti Consumer Commission Portal",
+      "domain": "e-jagriti.gov.in",
+      "canonical_url": "https://e-jagriti.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Government of India’s unified consumer-justice platform for eligible consumer complaints, online filing, case tracking, hearing information and access to consumer commission services.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Consumer Complaints",
+        "Consumer Commission",
+        "e-Filing",
+        "Case Tracking"
+      ],
+      "keywords": [
+        "e-Jagriti",
+        "file consumer complaint online",
+        "consumer court case status",
+        "consumer commission India",
+        "consumer dispute filing",
+        "consumer case tracking",
+        "consumer grievance portal"
+      ],
+      "use_cases": [
+        "Submit or manage an eligible consumer dispute online",
+        "Track consumer commission case progress and access case information"
+      ]
+    },
+    {
+      "id": "legal_india_011",
+      "name": "National Consumer Disputes Redressal Commission",
+      "domain": "ncdrc.nic.in",
+      "canonical_url": "https://ncdrc.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "India’s national consumer dispute redressal commission, providing information about its jurisdiction, proceedings, orders and services for eligible consumer matters.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Consumer Commission",
+        "Consumer Disputes",
+        "National Commission",
+        "Legal Proceedings"
+      ],
+      "keywords": [
+        "NCDRC",
+        "National Consumer Commission India",
+        "consumer court national commission",
+        "consumer appeal",
+        "NCDRC case status",
+        "consumer dispute orders"
+      ],
+      "use_cases": [
+        "Find official information about national-level consumer proceedings",
+        "Locate commission notices, orders and case-related resources"
+      ]
+    },
+    {
+      "id": "legal_india_012",
+      "name": "National Consumer Helpline",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Consumer Helpline helps consumers raise grievances about goods and services and seek pre-litigation assistance through government-supported consumer grievance channels.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Consumer Help",
+        "Grievance Support",
+        "Consumer Rights",
+        "Helpline"
+      ],
+      "keywords": [
+        "National Consumer Helpline",
+        "consumer complaint helpline India",
+        "consumer grievance register",
+        "consumer complaint status",
+        "1915 consumer helpline",
+        "product service complaint"
+      ],
+      "use_cases": [
+        "Register or follow up on a consumer grievance",
+        "Find guidance for resolving a product or service complaint"
+      ]
+    },
+    {
+      "id": "legal_india_013",
+      "name": "Ministry of Housing and Urban Affairs",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Central government ministry responsible for housing and urban affairs policy and programmes, including official information and links relevant to urban development and housing regulation.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Government Ministry",
+        "Housing",
+        "Urban Development",
+        "Policy Information"
+      ],
+      "keywords": [
+        "Ministry of Housing and Urban Affairs",
+        "MoHUA India",
+        "housing ministry schemes",
+        "urban development India",
+        "government housing information",
+        "RERA authority information"
+      ],
+      "use_cases": [
+        "Find official housing and urban development policy information",
+        "Locate ministry programmes and related regulatory resources"
+      ]
+    },
+    {
+      "id": "legal_india_014",
+      "name": "MahaRERA",
+      "domain": "maharera.maharashtra.gov.in",
+      "canonical_url": "https://maharera.maharashtra.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra Real Estate Regulatory Authority provides project and agent registration information, regulatory updates and services for real estate matters governed by Maharashtra RERA.",
+      "source_type": "official_state_regulator",
+      "review_required": false,
+      "region": "Maharashtra",
+      "labels": [
+        "Real Estate Regulation",
+        "Maharashtra RERA",
+        "Project Search",
+        "Property Complaints"
+      ],
+      "keywords": [
+        "MahaRERA",
+        "Maharashtra RERA website",
+        "check registered real estate project",
+        "MahaRERA project search",
+        "builder complaint Maharashtra",
+        "RERA agent registration",
+        "real estate regulator Maharashtra"
+      ],
+      "use_cases": [
+        "Check registration and details of a Maharashtra real estate project",
+        "Find applicable MahaRERA complaint and regulatory services"
+      ]
+    },
+    {
+      "id": "legal_india_015",
+      "name": "RERA State and UT Authorities Directory",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "Government directory starting point for locating state and Union Territory Real Estate Regulatory Authorities. Users should confirm the current official portal and jurisdiction before making a filing.",
+      "source_type": "official_government_directory",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RERA Directory",
+        "State Authorities",
+        "Real Estate Regulation",
+        "Government Directory"
+      ],
+      "keywords": [
+        "state RERA websites India",
+        "RERA authority list",
+        "Union Territory RERA",
+        "find state RERA portal",
+        "real estate regulator directory",
+        "RERA complaint authority"
+      ],
+      "use_cases": [
+        "Identify the RERA authority for a property location",
+        "Find the relevant state or UT real estate regulator website"
+      ]
+    },
+    {
+      "id": "legal_india_016",
+      "name": "Real Estate Appellate Tribunal Directory",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "Government directory entry intended to help users locate real estate appellate tribunals and related official tribunal information. The relevant state or UT tribunal should be confirmed before relying on a listing.",
+      "source_type": "official_government_directory",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Tribunal Directory",
+        "RERA Appeals",
+        "Appellate Tribunal",
+        "Government Directory"
+      ],
+      "keywords": [
+        "Real Estate Appellate Tribunal India",
+        "RERA appellate tribunal",
+        "RERA appeal authority",
+        "state RERA tribunal",
+        "tribunal contact details",
+        "real estate appeal forum"
+      ],
+      "use_cases": [
+        "Identify the appellate tribunal for a RERA matter",
+        "Locate official tribunal information before preparing an appeal"
+      ]
+    },
+    {
+      "id": "legal_india_017",
+      "name": "National Company Law Tribunal (NCLT)",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Company Law Tribunal adjudicates company-law and insolvency matters assigned to it by statute and provides information about benches, filings, hearings, orders and cause lists.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Company Law",
+        "Insolvency",
+        "Tribunal",
+        "Case Information"
+      ],
+      "keywords": [
+        "NCLT",
+        "National Company Law Tribunal India",
+        "NCLT case status",
+        "company petition filing",
+        "IBC insolvency tribunal",
+        "NCLT orders",
+        "NCLT cause list"
+      ],
+      "use_cases": [
+        "Find NCLT bench and case information",
+        "Access official resources for company-law and insolvency proceedings"
+      ]
+    },
+    {
+      "id": "legal_india_018",
+      "name": "National Company Law Appellate Tribunal (NCLAT)",
+      "domain": "nclat.nic.in",
+      "canonical_url": "https://nclat.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "National Company Law Appellate Tribunal hears appeals and other matters assigned by law, including specified appeals arising from NCLT and competition-law proceedings.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Appellate Tribunal",
+        "Company Law Appeals",
+        "Insolvency Appeals",
+        "Case Information"
+      ],
+      "keywords": [
+        "NCLAT",
+        "National Company Law Appellate Tribunal",
+        "NCLAT case status",
+        "NCLAT appeal filing",
+        "NCLAT judgments",
+        "company law appeal India",
+        "insolvency appeal tribunal"
+      ],
+      "use_cases": [
+        "Find information about an appeal within NCLAT jurisdiction",
+        "Access tribunal notices, orders and case resources"
+      ]
+    },
+    {
+      "id": "legal_india_021",
+      "name": "Central Administrative Tribunal (CAT)",
+      "domain": "cgat.gov.in",
+      "canonical_url": "https://cgat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Central Administrative Tribunal adjudicates specified service-related disputes concerning covered public servants and central government employment matters under its statutory jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Administrative Tribunal",
+        "Government Service Matters",
+        "Service Disputes",
+        "Case Information"
+      ],
+      "keywords": [
+        "CAT tribunal India",
+        "Central Administrative Tribunal",
+        "government employee service case",
+        "CAT case status",
+        "service matter tribunal",
+        "CAT orders"
+      ],
+      "use_cases": [
+        "Find information about eligible central government service disputes",
+        "Access CAT bench, case and order information"
+      ]
+    },
+    {
+      "id": "legal_india_022",
+      "name": "Armed Forces Tribunal (AFT)",
+      "domain": "aftdelhi.nic.in",
+      "canonical_url": "https://aftdelhi.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Armed Forces Tribunal deals with service matters and appeals within its statutory jurisdiction concerning members of the armed forces and other eligible applicants.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Armed Forces Tribunal",
+        "Military Service Matters",
+        "Appeals",
+        "Case Information"
+      ],
+      "keywords": [
+        "AFT India",
+        "Armed Forces Tribunal",
+        "military service case",
+        "armed forces appeal tribunal",
+        "AFT case status",
+        "AFT judgment"
+      ],
+      "use_cases": [
+        "Find tribunal information for an eligible armed forces service matter",
+        "Access AFT notices, case information and orders"
+      ]
+    },
+    {
+      "id": "legal_india_023",
+      "name": "National Green Tribunal (NGT)",
+      "domain": "www.greentribunal.gov.in",
+      "canonical_url": "https://www.greentribunal.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Green Tribunal adjudicates specified environmental disputes and appeals under environmental laws and provides access to tribunal orders, notices and case information.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Environmental Law",
+        "Green Tribunal",
+        "Environmental Disputes",
+        "Case Orders"
+      ],
+      "keywords": [
+        "NGT India",
+        "National Green Tribunal",
+        "environment case filing",
+        "environmental tribunal orders",
+        "pollution complaint tribunal",
+        "NGT case status",
+        "environment law appeal"
+      ],
+      "use_cases": [
+        "Find information about environmental matters within NGT jurisdiction",
+        "Access tribunal orders and case-related notices"
+      ]
+    },
+    {
+      "id": "legal_india_024",
+      "name": "Securities Appellate Tribunal (SAT)",
+      "domain": "sat.gov.in",
+      "canonical_url": "https://sat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Securities Appellate Tribunal hears appeals and matters assigned by securities and other applicable financial-market laws, including specified decisions of financial regulators.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Securities Law",
+        "Financial Appeals",
+        "Appellate Tribunal",
+        "Market Regulation"
+      ],
+      "keywords": [
+        "SAT India",
+        "Securities Appellate Tribunal",
+        "SEBI order appeal",
+        "securities market appeal",
+        "SAT case status",
+        "financial regulator appeal"
+      ],
+      "use_cases": [
+        "Find information about an appeal within SAT jurisdiction",
+        "Access tribunal orders and hearing-related information"
+      ]
+    },
+    {
+      "id": "legal_india_025",
+      "name": "Appellate Tribunal for Electricity (APTEL)",
+      "domain": "aptel.gov.in",
+      "canonical_url": "https://aptel.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Appellate Tribunal for Electricity hears appeals and matters assigned under electricity-sector laws, including specified regulatory decisions and electricity disputes.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Electricity Regulation",
+        "Energy Appeals",
+        "Appellate Tribunal",
+        "Case Information"
+      ],
+      "keywords": [
+        "APTEL",
+        "Appellate Tribunal for Electricity",
+        "electricity appeal India",
+        "electricity regulator order appeal",
+        "power sector tribunal",
+        "APTEL case status",
+        "energy law tribunal"
+      ],
+      "use_cases": [
+        "Find information about an electricity-sector appeal",
+        "Access APTEL orders, notices and case resources"
+      ]
+    },
+    {
+      "id": "legal_india_026",
+      "name": "Telecom Disputes Settlement and Appellate Tribunal (TDSAT)",
+      "domain": "tdsat.gov.in",
+      "canonical_url": "https://tdsat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Telecom Disputes Settlement and Appellate Tribunal adjudicates disputes and appeals assigned to it under applicable telecommunications and other sector-specific laws.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Disputes",
+        "Sector Appeals",
+        "Appellate Tribunal",
+        "Case Information"
+      ],
+      "keywords": [
+        "TDSAT",
+        "Telecom Disputes Settlement Tribunal",
+        "telecom dispute India",
+        "telecom appeal tribunal",
+        "broadcasting dispute tribunal",
+        "TDSAT case status",
+        "TDSAT orders"
+      ],
+      "use_cases": [
+        "Find information about a dispute within TDSAT jurisdiction",
+        "Access tribunal case information, notices and orders"
+      ]
+    },
+    {
+      "id": "legal_india_027",
+      "name": "Customs, Excise and Service Tax Appellate Tribunal (CESTAT)",
+      "domain": "cestat.gov.in",
+      "canonical_url": "https://cestat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "pending_review",
+        "method": "official_directory_reference"
+      },
+      "description": "Customs, Excise and Service Tax Appellate Tribunal hears appeals relating to customs, central excise and service tax matters within its statutory jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Tax Appeals",
+        "Customs",
+        "Indirect Tax",
+        "Appellate Tribunal"
+      ],
+      "keywords": [
+        "CESTAT",
+        "Customs tribunal India",
+        "excise appeal",
+        "service tax appeal",
+        "customs duty case",
+        "CESTAT case status",
+        "indirect tax tribunal"
+      ],
+      "use_cases": [
+        "Find information about an eligible customs or indirect-tax appeal",
+        "Access CESTAT bench, cause list and order information"
+      ]
+    },
+    {
+      "id": "legal_india_028",
+      "name": "Income Tax Appellate Tribunal (ITAT)",
+      "domain": "itat.gov.in",
+      "canonical_url": "https://itat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income Tax Appellate Tribunal hears appeals under income-tax law and provides official information about benches, case listings, orders and tribunal procedures.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Income Tax Appeals",
+        "Tax Tribunal",
+        "Case Information",
+        "Orders"
+      ],
+      "keywords": [
+        "ITAT",
+        "Income Tax Appellate Tribunal",
+        "income tax appeal India",
+        "tax tribunal case status",
+        "ITAT cause list",
+        "ITAT orders",
+        "income tax litigation"
+      ],
+      "use_cases": [
+        "Find information about an income-tax appeal before ITAT",
+        "Access tribunal cause lists, orders and case resources"
+      ]
+    },
+    {
+      "id": "legal_india_029",
+      "name": "Railway Claims Tribunal (RCT)",
+      "domain": "rct.indianrail.gov.in",
+      "canonical_url": "https://rct.indianrail.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Railway Claims Tribunal adjudicates specified claims arising from railway accidents, untoward incidents and other matters within its statutory jurisdiction.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Railway Claims",
+        "Transport Law",
+        "Claims Tribunal",
+        "Case Information"
+      ],
+      "keywords": [
+        "Railway Claims Tribunal",
+        "RCT India",
+        "railway accident compensation claim",
+        "train incident claim tribunal",
+        "railway claim case status",
+        "railway compensation"
+      ],
+      "use_cases": [
+        "Find information about an eligible railway claim",
+        "Access tribunal procedures and case-related resources"
+      ]
+    },
+    {
+      "id": "legal_india_030",
+      "name": "Labour Courts and Industrial Tribunals Directory",
+      "domain": "labour.gov.in",
+      "canonical_url": "https://labour.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Central government labour ministry portal providing labour-related information and directory starting points. The competent labour court or industrial tribunal depends on the dispute, employer and applicable jurisdiction.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Labour Law",
+        "Industrial Disputes",
+        "Court Directory",
+        "Government Information"
+      ],
+      "keywords": [
+        "labour court India",
+        "industrial tribunal directory",
+        "labour dispute forum",
+        "employment dispute tribunal",
+        "labour ministry India",
+        "industrial dispute case"
+      ],
+      "use_cases": [
+        "Find central labour-law information and relevant government resources",
+        "Identify the appropriate labour court or industrial tribunal for further verification"
+      ]
+    },
+    {
+      "id": "legal_india_031",
+      "name": "Competition Commission of India (CCI)",
+      "domain": "cci.gov.in",
+      "canonical_url": "https://cci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Competition Commission of India enforces competition law in India and provides information about competition matters, orders, regulations, advocacy and procedures for submitting information or complaints.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Competition Law",
+        "Market Regulation",
+        "Competition Complaints",
+        "Orders"
+      ],
+      "keywords": [
+        "CCI India",
+        "Competition Commission of India",
+        "competition law complaint",
+        "anti competitive practice India",
+        "cartel complaint",
+        "CCI orders",
+        "merger regulation"
+      ],
+      "use_cases": [
+        "Learn about competition-law rules and CCI procedures",
+        "Find information about competition matters, orders and regulatory updates"
+      ]
+    },
+    {
+      "id": "legal_india_032",
+      "name": "Appellate Tribunal under SAFEMA",
+      "domain": "atfp.gov.in",
+      "canonical_url": "https://atfp.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "Appellate Tribunal under SAFEMA provides information about appeals and matters assigned under the applicable forfeiture and related statutes. Users should confirm current jurisdiction and filing requirements.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Statutory Appeals",
+        "SAFEMA",
+        "Appellate Tribunal",
+        "Legal Proceedings"
+      ],
+      "keywords": [
+        "SAFEMA appellate tribunal",
+        "Appellate Tribunal under SAFEMA",
+        "forfeiture appeal India",
+        "property forfeiture tribunal",
+        "ATFP case information",
+        "SAFEMA orders"
+      ],
+      "use_cases": [
+        "Find official information about matters assigned to the tribunal",
+        "Check applicable jurisdiction and appeal procedures"
+      ]
+    },
+    {
+      "id": "legal_india_033",
+      "name": "Central Electricity Regulatory Commission (CERC)",
+      "domain": "cercind.gov.in",
+      "canonical_url": "https://cercind.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Central Electricity Regulatory Commission regulates specified aspects of the electricity sector in India and publishes regulations, orders, notices and information about regulatory proceedings.",
+      "source_type": "official_regulator_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Electricity Regulation",
+        "Energy Policy",
+        "Regulatory Orders",
+        "Government Regulator"
+      ],
+      "keywords": [
+        "CERC India",
+        "Central Electricity Regulatory Commission",
+        "electricity regulations India",
+        "power market regulation",
+        "CERC orders",
+        "electricity tariff regulation",
+        "energy regulator"
+      ],
+      "use_cases": [
+        "Read electricity-sector regulations and regulatory orders",
+        "Find information about CERC proceedings and policy updates"
+      ]
+    },
+    {
+      "id": "legal_india_035",
+      "name": "Centralised Public Grievance Redress and Monitoring System",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "CPGRAMS is the Government of India’s public grievance platform for eligible service-delivery grievances sent to participating central and state public authorities, with status tracking and an appeal facility where available.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Public Grievances",
+        "Government Complaints",
+        "Grievance Tracking",
+        "Citizen Services"
+      ],
+      "keywords": [
+        "CPGRAMS",
+        "PG Portal India",
+        "file government complaint",
+        "public grievance online",
+        "government complaint status",
+        "central government grievance",
+        "public service complaint"
+      ],
+      "use_cases": [
+        "Submit an eligible grievance about government service delivery",
+        "Track a grievance and use the available appeal process when applicable"
+      ]
+    },
+    {
+      "id": "legal_india_036",
+      "name": "National Cyber Crime Reporting Portal",
+      "domain": "cybervolunteer.mha.gov.in",
+      "canonical_url": "https://cybervolunteer.mha.gov.in/webform/Volunteer_AuthoLogin.aspx",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The National Cyber Crime Reporting Portal provides a Government of India channel for reporting eligible cybercrime incidents and online fraud, with reports routed to the relevant law-enforcement authorities.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Cybercrime Reporting",
+        "Online Fraud",
+        "Government Portal",
+        "Public Safety"
+      ],
+      "keywords": [
+        "National Cyber Crime Reporting Portal",
+        "report cyber crime India",
+        "online fraud complaint",
+        "cyber fraud report",
+        "financial cybercrime reporting",
+        "cybercrime complaint status",
+        "1930 cyber fraud"
+      ],
+      "use_cases": [
+        "Report an eligible cybercrime or online fraud incident",
+        "Find official guidance for submitting a cybercrime report"
+      ]
+    },
+    {
+      "id": "legal_india_037",
+      "name": "Right to Information Online",
+      "domain": "rtionline.gov.in",
+      "canonical_url": "https://rtionline.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Central Government RTI Online portal allows Indian citizens to submit Right to Information requests and first appeals to participating central public authorities and track their applications.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Right to Information",
+        "RTI Applications",
+        "First Appeal",
+        "Citizen Services"
+      ],
+      "keywords": [
+        "RTI Online India",
+        "file RTI online central government",
+        "Right to Information application",
+        "RTI first appeal",
+        "check RTI status",
+        "DoPT RTI portal",
+        "government information request"
+      ],
+      "use_cases": [
+        "Submit an RTI request to an eligible central public authority",
+        "File a first appeal and check application status"
+      ]
+    },
+    {
+      "id": "legal_india_038",
+      "name": "India Code",
+      "domain": "indiacode.gov.in",
+      "canonical_url": "https://indiacode.gov.in/home",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "India Code is the official database for accessing central legislation, including Acts and legal texts published by the Government of India.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Indian Legislation",
+        "Central Acts",
+        "Legal Research",
+        "Government Database"
+      ],
+      "keywords": [
+        "India Code",
+        "Indian laws online",
+        "Central Acts India",
+        "bare acts download",
+        "Indian legislation search",
+        "official law database",
+        "Act and section search"
+      ],
+      "use_cases": [
+        "Search for the text of a Central Act or legal provision",
+        "Read official legislative material for legal research"
+      ]
+    },
+    {
+      "id": "legal_india_039",
+      "name": "Ministry of Law and Justice",
+      "domain": "lawmin.gov.in",
+      "canonical_url": "https://lawmin.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Ministry of Law and Justice provides official information about the Union Government’s legal affairs, legislative work, justice administration and related departments and initiatives.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Law Ministry",
+        "Government Policy",
+        "Legal Affairs",
+        "Justice Administration"
+      ],
+      "keywords": [
+        "Ministry of Law and Justice India",
+        "Law Ministry website",
+        "Department of Legal Affairs",
+        "Indian government legal policy",
+        "justice administration India",
+        "legal affairs ministry"
+      ],
+      "use_cases": [
+        "Find official information about central legal and justice administration",
+        "Locate ministry departments, announcements and related resources"
+      ]
+    },
+    {
+      "id": "legal_india_040",
+      "name": "Integrated Government Online Directory: Tribunals and Quasi-Judicial Bodies",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Integrated Government Online Directory provides official links and organizational information for government tribunals and quasi-judicial bodies in India.",
+      "source_type": "official_government_directory",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Government Directory",
+        "Tribunals",
+        "Quasi-Judicial Bodies",
+        "Official Links"
+      ],
+      "keywords": [
+        "IGOD tribunal directory",
+        "Indian tribunal websites",
+        "quasi judicial body directory",
+        "government tribunal contact",
+        "official tribunal links India",
+        "tribunal organization directory"
+      ],
+      "use_cases": [
+        "Locate an official website for a tribunal or quasi-judicial body",
+        "Find government organization and contact information"
+      ]
+    },
+    {
+      "id": "legal_india_041",
+      "name": "e-Committee, Supreme Court of India",
+      "domain": "ecommitteesci.gov.in",
+      "canonical_url": "https://ecommitteesci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The e-Committee of the Supreme Court of India leads information and communication technology initiatives for the Indian judiciary and provides information about eCourts services and digital court projects.",
+      "source_type": "official_judicial_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Judicial Technology",
+        "eCourts Project",
+        "Digital Judiciary",
+        "Supreme Court"
+      ],
+      "keywords": [
+        "eCommittee Supreme Court",
+        "Indian judiciary digital services",
+        "eCourts project India",
+        "court technology initiatives",
+        "eSewa Kendra",
+        "virtual courts India",
+        "eCourts mobile app"
+      ],
+      "use_cases": [
+        "Learn about digital services introduced across the Indian judiciary",
+        "Find links and information about eCourts initiatives"
+      ]
+    },
+    {
+      "id": "legal_india_042",
+      "name": "National Commission for Women",
+      "domain": "ncw.nic.in",
+      "canonical_url": "https://ncw.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Commission for Women is a statutory body that addresses matters concerning women’s rights and safeguards, and provides information about complaints and its functions within its legal mandate.",
+      "source_type": "official_statutory_commission",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Women's Rights",
+        "Statutory Commission",
+        "Complaint Information",
+        "Public Support"
+      ],
+      "keywords": [
+        "National Commission for Women",
+        "NCW complaint online",
+        "women rights complaint India",
+        "NCW grievance",
+        "women protection commission",
+        "NCW contact details"
+      ],
+      "use_cases": [
+        "Find information about submitting a complaint within NCW’s mandate",
+        "Learn about the Commission’s role and available support channels"
+      ]
+    },
+    {
+      "id": "legal_india_043",
+      "name": "National Human Rights Commission",
+      "domain": "nhrc.nic.in",
+      "canonical_url": "https://nhrc.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "National Human Rights Commission is India’s statutory human-rights body and provides information about human-rights protections, complaints, inquiries, notices and recommendations within its mandate.",
+      "source_type": "official_statutory_commission",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "Human Rights",
+        "Statutory Commission",
+        "Complaints",
+        "Public Information"
+      ],
+      "keywords": [
+        "National Human Rights Commission",
+        "NHRC India complaint",
+        "human rights complaint online",
+        "NHRC case status",
+        "human rights commission India",
+        "NHRC guidelines"
+      ],
+      "use_cases": [
+        "Find information about raising a human-rights complaint within NHRC’s jurisdiction",
+        "Read NHRC notices, recommendations and public information"
+      ]
+    },
+    {
+      "id": "legal_india_045",
+      "name": "National Company Law Tribunal Cause Lists",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/all-cause-list",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Official NCLT page for bench-wise cause lists and hearing listings, helping users check matters scheduled before the National Company Law Tribunal.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "NCLT Cause Lists",
+        "Hearing Schedule",
+        "Company Law Tribunal",
+        "Court Listings"
+      ],
+      "keywords": [
+        "NCLT cause list",
+        "NCLT daily hearing list",
+        "National Company Law Tribunal hearing date",
+        "NCLT bench cause list",
+        "company petition hearing",
+        "NCLT case listing"
+      ],
+      "use_cases": [
+        "Check scheduled NCLT matters and hearing listings",
+        "Find the relevant bench cause list for a company-law or insolvency matter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "telecom-india",
+  "language": "en",
+  "category_name": "Telecom India",
+  "count": 6,
+  "urls": [
+    {
+      "id": "telecom_india_001",
+      "name": "Airtel",
+      "domain": "www.airtel.in",
+      "canonical_url": "https://www.airtel.in/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airtel is an Indian telecommunications provider offering mobile voice and data plans, 4G and 5G connectivity, broadband and fixed-line services, and business connectivity solutions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Operator",
+        "Mobile Network",
+        "Prepaid & Postpaid",
+        "Broadband",
+        "Business Connectivity"
+      ],
+      "keywords": [
+        "Airtel India",
+        "Airtel recharge",
+        "Airtel prepaid plans",
+        "Airtel postpaid plans",
+        "Airtel 5G coverage",
+        "Airtel mobile data",
+        "Airtel broadband",
+        "Airtel Xstream Fiber",
+        "Airtel bill payment",
+        "Airtel customer care",
+        "Airtel SIM",
+        "Airtel network coverage",
+        "Airtel business services"
+      ],
+      "use_cases": [
+        "Recharge an Airtel prepaid number or pay a postpaid bill.",
+        "Compare mobile plans and check data, calling and roaming benefits.",
+        "Check Airtel mobile network coverage or explore home broadband.",
+        "Find customer support and business connectivity information."
+      ]
+    },
+    {
+      "id": "telecom_india_002",
+      "name": "Jio",
+      "domain": "www.jio.com",
+      "canonical_url": "https://www.jio.com/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jio provides mobile and fixed broadband connectivity in India, including 4G and 5G mobile services, JioFiber and JioAirFiber home internet, and digital and enterprise connectivity services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Operator",
+        "Mobile Network",
+        "4G & 5G",
+        "Home Broadband",
+        "Digital Services"
+      ],
+      "keywords": [
+        "Jio India",
+        "Jio recharge",
+        "Jio prepaid plans",
+        "Jio postpaid plans",
+        "Jio 5G coverage",
+        "Jio SIM",
+        "JioFiber plans",
+        "JioAirFiber",
+        "Jio broadband",
+        "Jio bill payment",
+        "Jio network coverage",
+        "Jio customer care",
+        "Jio business connectivity"
+      ],
+      "use_cases": [
+        "Recharge a Jio number or manage a mobile connection.",
+        "Check 4G or 5G coverage and compare mobile plans.",
+        "Explore JioFiber or JioAirFiber home internet options.",
+        "Access account support and business connectivity services."
+      ]
+    },
+    {
+      "id": "telecom_india_003",
+      "name": "Vi",
+      "domain": "www.myvi.in",
+      "canonical_url": "https://www.myvi.in/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Vi (Vodafone Idea) is an Indian mobile network operator providing prepaid and postpaid voice and data services, 4G and expanding 5G connectivity, and mobile solutions for consumers and businesses.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Operator",
+        "Mobile Network",
+        "Prepaid & Postpaid",
+        "4G & 5G",
+        "Enterprise Services"
+      ],
+      "keywords": [
+        "Vi India",
+        "Vodafone Idea",
+        "Vi recharge",
+        "Vi prepaid plans",
+        "Vi postpaid plans",
+        "Vi 5G coverage",
+        "Vi data packs",
+        "Vi SIM",
+        "Vi bill payment",
+        "Vi network coverage",
+        "Vi customer care",
+        "Vi international roaming",
+        "Vi business solutions"
+      ],
+      "use_cases": [
+        "Recharge a Vi prepaid number or pay a postpaid bill.",
+        "Compare voice, data and roaming plans.",
+        "Check Vi 4G or 5G availability in an area.",
+        "Get help with a SIM, account or business mobile service."
+      ]
+    },
+    {
+      "id": "telecom_india_004",
+      "name": "BSNL",
+      "domain": "www.bsnl.co.in",
+      "canonical_url": "https://www.bsnl.co.in/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bharat Sanchar Nigam Limited (BSNL) is a Government of India-owned telecommunications company providing mobile, landline, broadband and other communication services across India.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Telecom Operator",
+        "Mobile Network",
+        "Landline",
+        "Broadband",
+        "Public Sector"
+      ],
+      "keywords": [
+        "BSNL India",
+        "BSNL recharge",
+        "BSNL prepaid plans",
+        "BSNL postpaid",
+        "BSNL mobile network",
+        "BSNL SIM",
+        "BSNL Bharat Fiber",
+        "BSNL broadband plans",
+        "BSNL landline",
+        "BSNL bill payment",
+        "BSNL customer care",
+        "BSNL network coverage",
+        "BSNL service centre"
+      ],
+      "use_cases": [
+        "Recharge a BSNL mobile connection or manage its account.",
+        "Explore BSNL Bharat Fiber broadband and landline services.",
+        "Find plans, service information and customer support.",
+        "Check available BSNL telecom services for a home or business."
+      ]
+    },
+    {
+      "id": "telecom_india_005",
+      "name": "TRAI",
+      "domain": "www.trai.gov.in",
+      "canonical_url": "https://www.trai.gov.in/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Telecom Regulatory Authority of India (TRAI) is the statutory regulator for telecommunications in India. Its website provides regulatory information, consumer resources, service-quality information, consultation papers, recommendations and complaint-redressal guidance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Regulator",
+        "Government Authority",
+        "Consumer Information",
+        "Service Quality",
+        "Telecom Regulations"
+      ],
+      "keywords": [
+        "TRAI India",
+        "Telecom Regulatory Authority of India",
+        "TRAI consumer complaint",
+        "telecom complaint India",
+        "mobile network coverage map",
+        "telecom tariff information",
+        "quality of service",
+        "DND complaint",
+        "telecom regulations",
+        "TRAI recommendations",
+        "service provider information"
+      ],
+      "use_cases": [
+        "Understand consumer rights and complaint-redressal routes for telecom services.",
+        "Find telecom service-provider and network coverage information.",
+        "Read regulations, consultation papers and recommendations.",
+        "Review service-quality and tariff-related regulatory information."
+      ]
+    },
+    {
+      "id": "telecom_india_006",
+      "name": "DoT",
+      "domain": "dot.gov.in",
+      "canonical_url": "https://dot.gov.in/",
+      "category": "telecom-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Department of Telecommunications (DoT), under the Government of India’s Ministry of Communications, handles central government policy, licensing and administration matters relating to telecommunications, spectrum and communication networks.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Department",
+        "Telecom Policy",
+        "Licensing & Administration",
+        "Spectrum",
+        "Public Services"
+      ],
+      "keywords": [
+        "Department of Telecommunications India",
+        "DoT India",
+        "DoT telecom policy",
+        "telecom licence India",
+        "spectrum allocation India",
+        "telecom regulations government",
+        "Sanchar Saathi",
+        "DoT citizen services",
+        "telecom security",
+        "Ministry of Communications"
+      ],
+      "use_cases": [
+        "Find official telecom policies, rules, notifications and government updates.",
+        "Access DoT citizen-facing services and telecom-related guidance.",
+        "Review information about telecom licensing and spectrum administration.",
+        "Locate departmental contacts, public notices and grievance information."
+      ]
+    }
+  ]
+}

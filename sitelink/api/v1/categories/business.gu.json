@@ -1,0 +1,1792 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "business",
+  "language": "gu",
+  "category_name": "વ્યવસાય",
+  "count": 42,
+  "urls": [
+    {
+      "id": "business_001",
+      "name": "ગૂગલ વર્કસ્પેસ",
+      "domain": "workspace.google.com",
+      "canonical_url": "https://workspace.google.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Google Workspace વ્યવસાયો માટે ઈમેલ તેમજ ક્લાઉડ આધારિત ઉત્પાદકતા અને સહકારનાં સાધનો આપે છે. તેમાં સંચાર, દસ્તાવેજો પર કામ અને ટીમના સંકલન માટેની સેવાઓનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "વ્યવસાયિક ઉત્પાદકતા",
+        "ઈમેલ અને સંચાર",
+        "ટીમ સહકાર",
+        "ક્લાઉડ સોફ્ટવેર"
+      ],
+      "keywords": [
+        "Google Workspace",
+        "G Suite",
+        "વ્યવસાય ઈમેલ",
+        "Gmail for વ્યવસાય",
+        "કંપની ઈમેલ",
+        "custom domain ઈમેલ",
+        "વ્યવસાય માટે Google Drive",
+        "Google Docs",
+        "Google Sheets",
+        "Google Meet",
+        "વ્યવસાય કૅલેન્ડર",
+        "ટીમ સહકાર સાધનો",
+        "ક્લાઉડ ઓફિસ સોફ્ટવેર",
+        "ઑનલાઇન દસ્તાવેજ શેરિંગ",
+        "વ્યવસાય ઉત્પાદકતા એપ્સ"
+      ],
+      "use_cases": [
+        "વ્યવસાય માટે વ્યાવસાયિક ઈમેલ સેટ કરો",
+        "કામના દસ્તાવેજો ઑનલાઇન બનાવો, સંગ્રહો અને શેર કરો",
+        "વ્યવસાયિક ઉત્પાદકતા સાધનો વડે સહકર્મીઓ સાથે સહકારથી કામ કરો"
+      ]
+    },
+    {
+      "id": "business_002",
+      "name": "માઇક્રોસોફ્ટ 365 ફોર બિઝનેસ",
+      "domain": "www.microsoft.com/microsoft-365/business",
+      "canonical_url": "https://www.microsoft.com/microsoft-365/business",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Microsoft 365 for Business સંસ્થાઓને કાર્યસ્થળની ઉત્પાદકતા માટેનું સોફ્ટવેર અને ક્લાઉડ સેવાઓ આપે છે. તેમાં જાણીતી Office એપ્લિકેશન્સ તેમજ સંચાર અને સહકારનાં સાધનોનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "વ્યવસાયિક ઉત્પાદકતા",
+        "ઓફિસ સોફ્ટવેર",
+        "ઈમેલ અને સહકાર",
+        "ક્લાઉડ સેવાઓ"
+      ],
+      "keywords": [
+        "Microsoft 365 Business",
+        "વ્યવસાય માટે Microsoft Office",
+        "Office 365",
+        "વ્યવસાય માટે Word",
+        "વ્યવસાય માટે Excel",
+        "PowerPoint",
+        "Outlook વ્યવસાય ઈમેલ",
+        "Teams મીટિંગ્સ",
+        "વ્યવસાય માટે OneDrive",
+        "SharePoint",
+        "વ્યવસાય સોફ્ટવેર subscription",
+        "ઓફિસ એપ્સ for કંપનીઓ",
+        "કાર્યસ્થળ સહકાર"
+      ],
+      "use_cases": [
+        "વ્યવસાય માટે ઉત્પાદકતા સોફ્ટવેર પસંદ કરો",
+        "દસ્તાવેજો, સ્પ્રેડશીટ્સ અને પ્રેઝન્ટેશન બનાવો",
+        "કામના ઈમેલ, મીટિંગ્સ અને શેર કરેલી ફાઇલોનું સંચાલન કરો"
+      ]
+    },
+    {
+      "id": "business_003",
+      "name": "એમેઝોન બિઝનેસ",
+      "domain": "business.amazon.in",
+      "canonical_url": "https://business.amazon.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Amazon Business ભારતમાં વ્યવસાયિક ખરીદી માટેનું પ્લેટફોર્મ છે, જે સંસ્થાઓને કાર્યસ્થળ અને કામગીરીની જરૂરિયાતો માટે ઉત્પાદનો શોધવામાં અને ખરીદીનું સંચાલન કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B માર્કેટપ્લેસ",
+        "વ્યવસાયિક ખરીદી",
+        "ખરીદી વ્યવસ્થાપન",
+        "જથ્થાબંધ પુરવઠો"
+      ],
+      "keywords": [
+        "Amazon Business India",
+        "વ્યવસાય shopping",
+        "ખરીદો ઓફિસ પુરવઠો ઑનલાઇન",
+        "જથ્થાબંધ ખરીદી",
+        "જથ્થાબંધ orders",
+        "વ્યવસાય ખરીદી પ્રક્રિયા",
+        "કંપની purchases",
+        "GST ઇન્વૉઇસ shopping",
+        "ઓફિસ ઉત્પાદનો",
+        "ઔદ્યોગિક પુરવઠો",
+        "વ્યવસાય વેચાણકર્તા માર્કેટપ્લેસ",
+        "જથ્થાબંધ ઉત્પાદનો"
+      ],
+      "use_cases": [
+        "વ્યવસાયિક ઉપયોગ માટેનાં ઉત્પાદનો શોધો અને ખરીદો",
+        "સંસ્થા માટે ઉત્પાદનો અને ખરીદીના વિકલ્પોની સરખામણી કરો",
+        "ઓફિસ અને કામગીરી માટે જરૂરી સામગ્રી મેળવો"
+      ]
+    },
+    {
+      "id": "business_004",
+      "name": "ઇન્ડિયામાર્ટ",
+      "domain": "www.indiamart.com",
+      "canonical_url": "https://www.indiamart.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IndiaMART ભારતનું B2B માર્કેટપ્લેસ છે, જ્યાં ખરીદદારો વિવિધ ઉદ્યોગોના સપ્લાયર્સ, ઉત્પાદકો, જથ્થાબંધ વેપારીઓ અને ઉત્પાદનો શોધી શકે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B માર્કેટપ્લેસ",
+        "સપ્લાયર ડિરેક્ટરી",
+        "જથ્થાબંધ વેપાર",
+        "વ્યવસાયિક પૂછપરછ"
+      ],
+      "keywords": [
+        "IndiaMART",
+        "India Mart",
+        "B2B પોર્ટલ India",
+        "શોધો સપ્લાયર્સ",
+        "ઉત્પાદક ડિરેક્ટરી",
+        "જથ્થાબંધ સપ્લાયર્સ",
+        "જથ્થાબંધ ઉત્પાદનો",
+        "ઔદ્યોગિક ઉત્પાદનો",
+        "વ્યવસાય ખરીદદાર",
+        "વ્યવસાય વેચાણકર્તા",
+        "સપ્લાયર contact",
+        "ઉત્પાદન પૂછપરછ",
+        "ખરીદો જથ્થાબંધ ઑનલાઇન"
+      ],
+      "use_cases": [
+        "ઉત્પાદકો, જથ્થાબંધ વેપારીઓ અને સપ્લાયર્સ શોધો",
+        "વ્યવસાયિક ખરીદી માટેનાં ઉત્પાદનો શોધો",
+        "ઉત્પાદનોની જરૂરિયાતો અંગે વ્યવસાયિક સંસ્થાઓનો સંપર્ક કરો"
+      ]
+    },
+    {
+      "id": "business_005",
+      "name": "ટ્રેડઇન્ડિયા",
+      "domain": "www.tradeindia.com",
+      "canonical_url": "https://www.tradeindia.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "TradeIndia ભારતીય B2B માર્કેટપ્લેસ અને બિઝનેસ ડિરેક્ટરી છે, જ્યાં સપ્લાયર્સ, ઉત્પાદકો, નિકાસકારો, જથ્થાબંધ વેપારીઓ અને વેપાર સંબંધિત ઉત્પાદનો શોધી શકાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B માર્કેટપ્લેસ",
+        "સપ્લાયર ડિરેક્ટરી",
+        "જથ્થાબંધ વેપાર",
+        "વેપાર સંબંધિત પૂછપરછ"
+      ],
+      "keywords": [
+        "TradeIndia",
+        "Trade India",
+        "ભારતીય સપ્લાયર્સ",
+        "ઉત્પાદક શોધ",
+        "નિકાસકારો ડિરેક્ટરી",
+        "જથ્થાબંધ બજાર",
+        "B2B વ્યવસાય પોર્ટલ",
+        "ઔદ્યોગિક માલસામાન",
+        "વ્યવસાય ઉત્પાદનો",
+        "સપ્લાયર પૂછપરછ",
+        "જથ્થાબંધ ખરીદી",
+        "શોધો વિતરકો",
+        "વેપાર લીડ્સ"
+      ],
+      "use_cases": [
+        "ભારતમાં સપ્લાયર્સ અને ઉત્પાદકો શોધો",
+        "ઉત્પાદનો અને જથ્થાબંધ વેપારની સૂચિઓ જુઓ",
+        "વેપાર સંબંધિત પૂછપરછ માટે વ્યવસાયિક સંસ્થાઓ સાથે જોડાઓ"
+      ]
+    },
+    {
+      "id": "business_006",
+      "name": "ઉદ્યમ રજિસ્ટ્રેશન",
+      "domain": "udyamregistration.gov.in",
+      "canonical_url": "https://udyamregistration.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Udyam Registration ભારત સરકારનું ઑનલાઇન પોર્ટલ છે, જેના દ્વારા પાત્ર સૂક્ષ્મ, લઘુ અને મધ્યમ ઉદ્યોગો (MSMEs) નોંધણી કરાવી શકે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી પોર્ટલ",
+        "MSME નોંધણી",
+        "વ્યવસાય નોંધણી",
+        "નાના વ્યવસાયોને સહાય"
+      ],
+      "keywords": [
+        "Udyam નોંધણી",
+        "Udyam પ્રમાણપત્ર",
+        "MSME નોંધણી ઑનલાઇન",
+        "નોંધણી કરો નાના વ્યવસાય",
+        "સૂક્ષ્મ enterprise નોંધણી",
+        "નાના enterprise પ્રમાણપત્ર",
+        "મધ્યમ enterprise નોંધણી",
+        "MSME નંબર",
+        "Udyam લૉગિન",
+        "અપડેટ Udyam details",
+        "સરકારી MSME પોર્ટલ",
+        "વ્યવસાય નોંધણી India"
+      ],
+      "use_cases": [
+        "પાત્ર વ્યવસાયની MSME તરીકે નોંધણી કરો",
+        "Udyam નોંધણીની માહિતી મેળવો અથવા અપડેટ કરો",
+        "MSME નોંધણી અંગે સત્તાવાર માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "business_007",
+      "name": "સ્ટાર્ટઅપ ઇન્ડિયા",
+      "domain": "www.startupindia.gov.in",
+      "canonical_url": "https://www.startupindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Startup India ભારત સરકારની પહેલ છે, જે સ્ટાર્ટઅપ્સ, ઉદ્યોગસાહસિકો અને સમગ્ર સ્ટાર્ટઅપ ઇકોસિસ્ટમ માટે માહિતી અને સંસાધનો પૂરા પાડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી પહેલ",
+        "સ્ટાર્ટઅપ સહાય",
+        "ઉદ્યોગસાહસિકતા",
+        "વ્યવસાયિક સંસાધનો"
+      ],
+      "keywords": [
+        "સ્ટાર્ટઅપ India",
+        "સ્ટાર્ટઅપ નોંધણી",
+        "DPIIT માન્યતા",
+        "સ્ટાર્ટઅપ માન્યતા",
+        "start a વ્યવસાય India",
+        "ઉદ્યોગસાહસિક સહાય",
+        "સ્ટાર્ટઅપ યોજનાઓ",
+        "સ્ટાર્ટઅપ લાભો",
+        "સ્ટાર્ટઅપ ફંડિંગ માહિતી",
+        "સ્ટાર્ટઅપ શિક્ષણ",
+        "ઇન્ક્યુબેટર્સ",
+        "ભારતીય સ્ટાર્ટઅપ ઇકોસિસ્ટમ",
+        "સરકારી સ્ટાર્ટઅપ પોર્ટલ"
+      ],
+      "use_cases": [
+        "સ્ટાર્ટઅપ્સ માટે સરકારી સહાય અને સંસાધનોની માહિતી મેળવો",
+        "સ્ટાર્ટઅપ માન્યતા અને સંબંધિત લાભો વિશે માહિતી મેળવો",
+        "ઉદ્યોગસાહસિકતા કાર્યક્રમો અને ઇકોસિસ્ટમનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "business_008",
+      "name": "MCA21",
+      "domain": "www.mca.gov.in",
+      "canonical_url": "https://www.mca.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MCA21 કંપનીઓ અને લિમિટેડ લાયબિલિટી પાર્ટનરશિપ (LLP)ની ફાઇલિંગ, કોર્પોરેટ રેકોર્ડ્સ અને સંબંધિત નિયમનકારી સેવાઓ માટે કોર્પોરેટ અફેર્સ મંત્રાલયની ઑનલાઇન સિસ્ટમ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી પોર્ટલ",
+        "કંપની સંબંધિત નિયમપાલન",
+        "કોર્પોરેટ ફાઇલિંગ",
+        "LLP સેવાઓ"
+      ],
+      "keywords": [
+        "MCA21",
+        "MCA પોર્ટલ",
+        "Ministry of કોર્પોરેટ Affairs",
+        "કંપની નોંધણી",
+        "કંપની master ડેટા",
+        "MCA ફાઇલિંગ",
+        "ROC ફાઇલિંગ",
+        "વાર્ષિક રિટર્ન ફાઇલિંગ",
+        "ડિરેક્ટર સેવાઓ",
+        "DIN",
+        "LLP નોંધણી",
+        "LLP ફાઇલિંગ",
+        "કોર્પોરેટ નિયમપાલન India",
+        "કંપની ફોર્મ્સ"
+      ],
+      "use_cases": [
+        "કંપની અને LLP ફાઇલિંગ સેવાઓનો ઉપયોગ કરો",
+        "કંપની અને ડિરેક્ટર સંબંધિત જાહેર માહિતી મેળવો",
+        "કોર્પોરેટ નિયમપાલનનાં કાર્યો અને કાયદેસર ફાઇલિંગ પૂર્ણ કરો"
+      ]
+    },
+    {
+      "id": "business_009",
+      "name": "GeM",
+      "domain": "gem.gov.in",
+      "canonical_url": "https://gem.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "GeM (Government e-Marketplace) સરકારી ખરીદદારો અને નોંધાયેલા વેચાણકર્તાઓ દ્વારા માલસામાન અને સેવાઓની યાદી બનાવવા, શોધવા અને ખરીદવા માટે વપરાતું ઑનલાઇન જાહેર ખરીદી પ્લેટફોર્મ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી માર્કેટપ્લેસ",
+        "જાહેર ખરીદી",
+        "વેચાણકર્તા નોંધણી",
+        "વ્યવસાયિક પુરવઠો"
+      ],
+      "keywords": [
+        "GeM પોર્ટલ",
+        "સરકારી e માર્કેટપ્લેસ",
+        "GeM નોંધણી",
+        "સરકારી વેચાણકર્તા નોંધણી",
+        "sell ઉત્પાદનો to સરકારી",
+        "સરકારી ટેન્ડર્સ and orders",
+        "જાહેર ખરીદી પ્રક્રિયા India",
+        "GeM ખરીદદાર લૉગિન",
+        "GeM વેચાણકર્તા લૉગિન",
+        "વિક્રેતા નોંધણી",
+        "સરકારી ખરીદી",
+        "સેવા પ્રદાતા નોંધણી",
+        "સરકારી માર્કેટપ્લેસ India"
+      ],
+      "use_cases": [
+        "GeM પર વેચાણકર્તા અથવા સેવા પ્રદાતા તરીકે નોંધણી કરો",
+        "સરકારી ખરીદીની તકો શોધો",
+        "જાહેર ખરીદદારો માટે સૂચિબદ્ધ ઉત્પાદનો અને સેવાઓ જુઓ"
+      ]
+    },
+    {
+      "id": "business_010",
+      "name": "સરકારી ઈ-પ્રોક્યોરમેન્ટ સિસ્ટમ",
+      "domain": "eprocure.gov.in",
+      "canonical_url": "https://eprocure.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government eProcurement System દ્વારા ભાગ લેતા સરકારી વિભાગો અને સંસ્થાઓ દ્વારા પ્રકાશિત ઑનલાઇન ટેન્ડર અને ખરીદીની તકોની માહિતી મળે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી પોર્ટલ",
+        "ઈ-ટેન્ડરિંગ",
+        "જાહેર ખરીદી",
+        "ટેન્ડર શોધ"
+      ],
+      "keywords": [
+        "સરકારી eProcurement System",
+        "eProcure",
+        "સરકારી e ટેન્ડર",
+        "ઑનલાઇન ટેન્ડર શોધ",
+        "India સરકારી ટેન્ડર્સ",
+        "ટેન્ડર નોટિસ",
+        "બિડ સબમિશન",
+        "e ટેન્ડર નોંધણી",
+        "ખરીદી પ્રક્રિયા નોટિસો",
+        "ટેન્ડર દસ્તાવેજો",
+        "કોન્ટ્રાક્ટ તકો",
+        "સરકારી બિડ્સ",
+        "વિક્રેતા ટેન્ડર પોર્ટલ"
+      ],
+      "use_cases": [
+        "સરકારી ટેન્ડરની સૂચનાઓ શોધો",
+        "ટેન્ડર દસ્તાવેજો અને ખરીદી સંબંધિત માહિતી મેળવો",
+        "પાત્રતા હોય ત્યાં ઑનલાઇન ટેન્ડર પ્રક્રિયામાં ભાગ લો"
+      ]
+    },
+    {
+      "id": "business_011",
+      "name": "GST પોર્ટલ",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "GST Portal ભારતમાં Goods and Services Tax સંબંધિત સેવાઓ માટેનું સત્તાવાર ઑનલાઇન પ્લેટફોર્મ છે. તેમાં કરદાતાની નોંધણી, રિટર્ન ફાઇલિંગ, ચુકવણી અને ખાતા સંબંધિત પાલન સેવાઓનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી કર પોર્ટલ",
+        "GST સેવાઓ",
+        "કર ફાઇલિંગ",
+        "વ્યવસાયિક નિયમપાલન"
+      ],
+      "keywords": [
+        "GST પોર્ટલ",
+        "માલસામાન and સેવાઓ કર",
+        "GST લૉગિન",
+        "GST નોંધણી",
+        "GST રિટર્ન ફાઇલિંગ",
+        "GSTR-1",
+        "GSTR-3B",
+        "GST ચુકવણી",
+        "GST ચાલાન",
+        "GST ઇન્વૉઇસ",
+        "GST નંબર શોધ",
+        "GST રિફંડ",
+        "કરદાતા સેવાઓ",
+        "વ્યવસાય કર India"
+      ],
+      "use_cases": [
+        "GST માટે નોંધણી કરો અને કરદાતાની વિગતો સંચાલિત કરો",
+        "GST રિટર્ન ફાઇલ કરો અને કરની ચુકવણી કરો",
+        "GST નોટિસ, રેકોર્ડ્સ અને નિયમપાલન સેવાઓનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "business_012",
+      "name": "ઇન્કમ ટેક્સ ઈ-ફાઇલિંગ",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Income Tax e-Filing પોર્ટલ વ્યક્તિઓ અને વ્યવસાયો માટે આવકવેરા રિટર્ન ફાઇલ કરવા તેમજ આવકવેરા ખાતા અને પાલન સંબંધિત સેવાઓ મેળવવાનું સત્તાવાર ઑનલાઇન પ્લેટફોર્મ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી કર પોર્ટલ",
+        "આવકવેરા ફાઇલિંગ",
+        "કરની ચુકવણીઓ",
+        "કરદાતા સેવાઓ"
+      ],
+      "keywords": [
+        "આવક કર e ફાઇલિંગ",
+        "incometax.gov.in",
+        "આવક કર રિટર્ન",
+        "ઑનલાઇન ITR ફાઇલિંગ",
+        "આવક કર લૉગિન",
+        "PAN સેવાઓ",
+        "ITR ઈ-વેરિફિકેશન",
+        "આવક કર રિફંડ સ્થિતિ",
+        "AIS સ્ટેટમેન્ટ",
+        "Form 26AS",
+        "કર ચુકવણી",
+        "TDS વિગતો",
+        "વ્યવસાય આવક કર",
+        "વ્યક્તિ કર ફાઇલિંગ"
+      ],
+      "use_cases": [
+        "આવકવેરા રિટર્ન ફાઇલ કરો અથવા ઈ-વેરિફાઇ કરો",
+        "કર રેકોર્ડ્સ, રિફંડ અને ફાઇલિંગની સ્થિતિ તપાસો",
+        "વ્યક્તિઓ અથવા વ્યવસાયો માટેની ઑનલાઇન આવકવેરા સેવાઓનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "business_013",
+      "name": "EPFO એમ્પ્લોયર પોર્ટલ",
+      "domain": "unifiedportal-emp.epfindia.gov.in",
+      "canonical_url": "https://unifiedportal-emp.epfindia.gov.in/epfo/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "EPFO Employer Portal નોકરીદાતાઓને પ્રોવિડન્ટ ફંડના વહીવટ માટે ઑનલાઇન સેવાઓ આપે છે. તેમાં નોકરીદાતાના ખાતામાં પ્રવેશ અને સંબંધિત પાલન કામગીરીનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "નોકરીદાતા પોર્ટલ",
+        "પ્રોવિડન્ટ ફંડ",
+        "પેરોલ નિયમપાલન",
+        "કર્મચારી લાભો"
+      ],
+      "keywords": [
+        "EPFO એમ્પ્લોયર પોર્ટલ",
+        "EPFO એમ્પ્લોયર લૉગિન",
+        "Employees Provident Fund",
+        "PF નોકરીદાતા સેવાઓ",
+        "નોકરીદાતા PF નોંધણી",
+        "EPF યોગદાન",
+        "ECR અપલોડ",
+        "PF ચાલાન ચુકવણી",
+        "કર્મચારી પ્રોવિડન્ટ ફંડ",
+        "UAN નોકરીદાતા સેવાઓ",
+        "પેરોલ PF નિયમપાલન",
+        "સંસ્થા લૉગિન"
+      ],
+      "use_cases": [
+        "નોકરીદાતાઓ માટેની પ્રોવિડન્ટ ફંડ સેવાઓનો ઉપયોગ કરો",
+        "કર્મચારી અને સંસ્થા સંબંધિત PF કાર્યો સંચાલિત કરો",
+        "ઑનલાઇન EPF યોગદાન અને નિયમપાલનની કામગીરી પૂર્ણ કરો"
+      ]
+    },
+    {
+      "id": "business_014",
+      "name": "ESIC એમ્પ્લોયર પોર્ટલ",
+      "domain": "www.esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ESIC Employer Portal Employees' State Insurance સંબંધિત નોકરીદાતાની ઑનલાઇન સેવાઓ આપે છે. તેમાં સંસ્થા અને કર્મચારીના વીમાનું સંચાલન સામેલ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "નોકરીદાતા પોર્ટલ",
+        "કર્મચારી વીમો",
+        "સામાજિક સુરક્ષા",
+        "પેરોલ નિયમપાલન"
+      ],
+      "keywords": [
+        "ESIC એમ્પ્લોયર પોર્ટલ",
+        "ESIC લૉગિન",
+        "Employees State Insurance",
+        "ESI નોંધણી",
+        "નોકરીદાતા ESIC સેવાઓ",
+        "કર્મચારી વીમો",
+        "ESI યોગદાન",
+        "ESI ચાલાન",
+        "ESIC ચુકવણી",
+        "કર્મચારી નોંધણી",
+        "ESI નિયમપાલન",
+        "સંસ્થા નોંધણી"
+      ],
+      "use_cases": [
+        "Employees' State Insurance માટે નોકરીદાતાની સેવાઓનો ઉપયોગ કરો",
+        "સંસ્થા અને કર્મચારીના વીમાની માહિતી સંચાલિત કરો",
+        "ESIC યોગદાન અને નિયમપાલનનાં સંબંધિત કાર્યો પૂર્ણ કરો"
+      ]
+    },
+    {
+      "id": "business_015",
+      "name": "DGFT",
+      "domain": "www.dgft.gov.in",
+      "canonical_url": "https://www.dgft.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Directorate General of Foreign Trade (DGFT) પોર્ટલ ભારતની વિદેશ વેપાર નીતિ, આયાતકારો, નિકાસકારો અને વેપાર મંજૂરીઓ સંબંધિત ઑનલાઇન સેવાઓ અને માહિતી આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી વેપાર પોર્ટલ",
+        "આયાત અને નિકાસ",
+        "વેપાર લાઇસન્સ",
+        "વિદેશી વેપાર નિયમપાલન"
+      ],
+      "keywords": [
+        "DGFT",
+        "Directorate General of વિદેશી વેપાર",
+        "DGFT લૉગિન",
+        "IEC કોડ",
+        "Import Export Code",
+        "IEC નોંધણી",
+        "નિકાસ લાઇસન્સ",
+        "આયાત મંજૂરી",
+        "વિદેશી વેપાર નીતિ",
+        "DGFT પ્રમાણપત્ર",
+        "નિકાસકાર નોંધણી",
+        "આયાતકાર નોંધણી",
+        "India નિકાસ આયાત સેવાઓ"
+      ],
+      "use_cases": [
+        "Importer Exporter Code માટે અરજી કરો અથવા તેનું સંચાલન કરો",
+        "આયાત અને નિકાસની મંજૂરી સંબંધિત સેવાઓનો ઉપયોગ કરો",
+        "વિદેશ વેપાર નીતિ અને નિયમપાલન અંગે સત્તાવાર માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "business_016",
+      "name": "ઉમંગ",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "UMANG ભારત સરકારનું ડિજિટલ સેવાઓનું પ્લેટફોર્મ છે, જે એક જ ઑનલાઇન ઇન્ટરફેસ દ્વારા ભાગ લેતી કેન્દ્ર અને રાજ્ય સરકારની સેવાઓનો ઉપયોગ કરવાની સુવિધા આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી સેવાઓ",
+        "ડિજિટલ જાહેર સેવાઓ",
+        "ઑનલાઇન સેવાઓનો ઉપયોગ",
+        "મોબાઇલ સેવાઓ"
+      ],
+      "keywords": [
+        "UMANG",
+        "UMANG એપ",
+        "એકત્રિત મોબાઇલ અરજી for New-age વહીવટ",
+        "સરકારી સેવાઓ ઑનલાઇન",
+        "India સરકારી એપ",
+        "કેન્દ્ર સરકારી સેવાઓ",
+        "રાજ્ય સરકારી સેવાઓ",
+        "ઑનલાઇન certificates",
+        "જાહેર સેવા પોર્ટલ",
+        "સરકારી સેવા લૉગિન",
+        "UMANG web પોર્ટલ",
+        "નાગરિક સેવાઓ"
+      ],
+      "use_cases": [
+        "ભાગ લેતી સરકારી સેવાઓ ઑનલાઇન શોધો અને તેનો ઉપયોગ કરો",
+        "એક જ ડિજિટલ પ્લેટફોર્મ દ્વારા સરકારી સેવાઓ શોધો",
+        "ઉપલબ્ધ જાહેર સેવાઓની માહિતી અને અરજીની લિંક્સ મેળવો"
+      ]
+    },
+    {
+      "id": "business_017",
+      "name": "ઇન્વેસ્ટ ઇન્ડિયા",
+      "domain": "www.investindia.gov.in",
+      "canonical_url": "https://www.investindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Invest India ભારતની રાષ્ટ્રીય રોકાણ પ્રોત્સાહન અને સુવિધા આપતી એજન્સી છે. તે ભારતમાં વ્યવસાય અને રોકાણની તકો શોધતા રોકાણકારોને માહિતી અને સહાય આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "રોકાણ પ્રોત્સાહન",
+        "વ્યવસાય સુવિધા",
+        "રોકાણકારો માટે માહિતી",
+        "ભારતીય બજારમાં પ્રવેશ"
+      ],
+      "keywords": [
+        "Invest India",
+        "રોકાણ in India",
+        "રોકાણકાર સહાય India",
+        "start વ્યવસાય in India",
+        "વિદેશી રોકાણ India",
+        "FDI માહિતી",
+        "વ્યવસાય તકો India",
+        "રોકાણ સુવિધા",
+        "India બજાર પ્રવેશ",
+        "set up કંપની India",
+        "ક્ષેત્ર માહિતી",
+        "રોકાણકાર સહાય"
+      ],
+      "use_cases": [
+        "ભારતમાં રોકાણની તકો અને ક્ષેત્રવાર માહિતી જાણો",
+        "વ્યવસાય શરૂ કરવા અથવા વિસ્તૃત કરવા માટે માર્ગદર્શન મેળવો",
+        "રોકાણકારો માટેની સુવિધા સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "business_018",
+      "name": "SIDBI",
+      "domain": "www.sidbi.in",
+      "canonical_url": "https://www.sidbi.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "SIDBI (Small Industries Development Bank of India) એક નાણાકીય સંસ્થા છે, જે સૂક્ષ્મ, લઘુ અને મધ્યમ ઉદ્યોગોના વિકાસ અને વૃદ્ધિને સહાય આપવા પર ધ્યાન કેન્દ્રિત કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "MSME નાણાંકીય સહાય",
+        "વિકાસલક્ષી નાણાંકીય સહાય",
+        "નાના વ્યવસાયોને સહાય",
+        "વ્યવસાયિક લોન"
+      ],
+      "keywords": [
+        "SIDBI",
+        "નાના ઉદ્યોગો વિકાસ બેંક of India",
+        "MSME લોન",
+        "નાના વ્યવસાય નાણાંકીય સહાય",
+        "વ્યવસાય લોન India",
+        "MSME ફંડિંગ",
+        "કાર્યકારી મૂડી નાણાંકીય સહાય",
+        "સ્ટાર્ટઅપ નાણાંકીય સહાય",
+        "સૂક્ષ્મ નાના મધ્યમ enterprise",
+        "SIDBI યોજનાઓ",
+        "વ્યવસાય ધિરાણ",
+        "MSME વિકાસ"
+      ],
+      "use_cases": [
+        "MSMEs માટે નાણાંકીય સહાય અને અન્ય સહાયના વિકલ્પો જાણો",
+        "વ્યવસાયિક ફંડિંગ અને ધિરાણ કાર્યક્રમોની માહિતી મેળવો",
+        "નાના વ્યવસાયના વિકાસ માટે SIDBIનાં સંસાધનોનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "business_019",
+      "name": "NSIC",
+      "domain": "www.nsic.co.in",
+      "canonical_url": "https://www.nsic.co.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National Small Industries Corporation (NSIC) વ્યવસાય વિકાસ, માર્કેટિંગ, ટેક્નોલોજી અને અન્ય ઉદ્યોગ સહાય કાર્યક્રમો દ્વારા સૂક્ષ્મ અને લઘુ ઉદ્યોગોને સહાય કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "MSME સહાય",
+        "સરકારી ઉદ્યોગ સેવાઓ",
+        "વ્યવસાય વિકાસ",
+        "લઘુ ઉદ્યોગ"
+      ],
+      "keywords": [
+        "NSIC",
+        "રાષ્ટ્રીય નાના ઉદ્યોગો નિગમ",
+        "MSME સહાય",
+        "નાના વ્યવસાય સહાય India",
+        "સૂક્ષ્મ enterprise સેવાઓ",
+        "નાના ઉદ્યોગ સહાય",
+        "સરકારી યોજનાઓ for MSME",
+        "માર્કેટિંગ સહાય",
+        "raw સામગ્રી સહાય",
+        "ટેક્નોલોજી સહાય",
+        "NSIC નોંધણી",
+        "MSME વિકાસ"
+      ],
+      "use_cases": [
+        "સૂક્ષ્મ અને નાના વ્યવસાયો માટેના સહાય કાર્યક્રમો જાણો",
+        "માર્કેટિંગ અને ઉદ્યોગ વિકાસ માટેની સહાયની માહિતી મેળવો",
+        "NSIC સેવાઓ અને વ્યવસાયિક સંસાધનોનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "business_020",
+      "name": "સ્ટાર્ટઅપ ઇન્ડિયા સીડ ફંડ સ્કીમ",
+      "domain": "seedfund.startupindia.gov.in",
+      "canonical_url": "https://seedfund.startupindia.gov.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Startup India Seed Fund Scheme પોર્ટલ સરકાર સમર્થિત સીડ ફંડ કાર્યક્રમ વિશે માહિતી આપે છે. આ કાર્યક્રમ પસંદ કરાયેલા ઇન્ક્યુબેટર્સ મારફતે પાત્ર સ્ટાર્ટઅપ્સને સહાય આપવા માટે બનાવાયો છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સ્ટાર્ટઅપ ફંડિંગ",
+        "સરકારી યોજના",
+        "સીડ ફંડિંગ",
+        "ઉદ્યોગસાહસિકતા"
+      ],
+      "keywords": [
+        "સ્ટાર્ટઅપ India સીડ ફંડ યોજના",
+        "SISFS",
+        "સ્ટાર્ટઅપ સીડ ફંડ",
+        "સીડ ફંડિંગ India",
+        "સ્ટાર્ટઅપ અનુદાન માહિતી",
+        "early stage સ્ટાર્ટઅપ ફંડિંગ",
+        "સ્ટાર્ટઅપ ઇન્ક્યુબેટર",
+        "સ્ટાર્ટઅપ નાણાંકીય સહાય યોજના",
+        "DPIIT માન્યતા પ્રાપ્ત સ્ટાર્ટઅપ",
+        "સ્ટાર્ટઅપ ફંડિંગ અરજી",
+        "સરકારી સ્ટાર્ટઅપ યોજના"
+      ],
+      "use_cases": [
+        "Startup India Seed Fund Scheme વિશે માહિતી મેળવો",
+        "પાત્રતા અને અરજી સંબંધિત માર્ગદર્શન મેળવો",
+        "ભાગ લેતા ઇન્ક્યુબેટર્સ અને સ્ટાર્ટઅપ ફંડિંગ સહાય વિશે જાણો"
+      ]
+    },
+    {
+      "id": "business_021",
+      "name": "ઝોહો",
+      "domain": "www.zoho.com",
+      "canonical_url": "https://www.zoho.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoho ક્લાઉડ આધારિત વ્યવસાયિક એપ્લિકેશન્સનો સમૂહ આપે છે, જેમાં ઓફિસ ઉત્પાદકતા, ગ્રાહક વ્યવસ્થાપન, નાણાં, માનવ સંસાધન અને વ્યવસાયિક કામગીરી જેવા ક્ષેત્રો આવરી લેવાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "વ્યવસાયિક સોફ્ટવેર",
+        "ક્લાઉડ એપ્લિકેશન્સ",
+        "વ્યવસાય વ્યવસ્થાપન",
+        "ઉત્પાદકતા સાધનો"
+      ],
+      "keywords": [
+        "Zoho",
+        "Zoho એપ્સ",
+        "વ્યવસાય સોફ્ટવેર",
+        "CRM સોફ્ટવેર",
+        "ઑનલાઇન ઓફિસ suite",
+        "વ્યવસાય ઈમેલ",
+        "એકાઉન્ટિંગ સોફ્ટવેર",
+        "પ્રોજેક્ટ વ્યવસ્થાપન",
+        "HR સોફ્ટવેર",
+        "ઇન્વેન્ટરી વ્યવસ્થાપન",
+        "સહાય ડેસ્ક સોફ્ટવેર",
+        "ક્લાઉડ વ્યવસાય સાધનો",
+        "નાના વ્યવસાય એપ્લિકેશન્સ"
+      ],
+      "use_cases": [
+        "રોજિંદી વ્યવસાયિક કામગીરી સંચાલિત કરવા માટે સોફ્ટવેર શોધો",
+        "ગ્રાહક, નાણાં અને ટીમની કામગીરી માટેનાં સાધનો જાણો",
+        "નાના અથવા વિકસતા વ્યવસાય માટે ક્લાઉડ એપ્લિકેશન્સ પસંદ કરો"
+      ]
+    },
+    {
+      "id": "business_022",
+      "name": "ટેલી સોલ્યુશન્સ",
+      "domain": "tallysolutions.com",
+      "canonical_url": "https://tallysolutions.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tally Solutions વ્યવસાય વ્યવસ્થાપન અને એકાઉન્ટિંગ સોફ્ટવેર આપે છે, જેનો ઉપયોગ સંસ્થાઓ હિસાબી નોંધો, ઇન્વૉઇસ, ઇન્વેન્ટરી અને નાણાકીય કામગીરી માટે કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "એકાઉન્ટિંગ સોફ્ટવેર",
+        "વ્યવસાય વ્યવસ્થાપન",
+        "GST અને ઇન્વૉઇસિંગ",
+        "ઇન્વેન્ટરી"
+      ],
+      "keywords": [
+        "Tally Solutions",
+        "TallyPrime",
+        "Tally સોફ્ટવેર",
+        "એકાઉન્ટિંગ સોફ્ટવેર India",
+        "વ્યવસાય એકાઉન્ટિંગ",
+        "GST બિલિંગ સોફ્ટવેર",
+        "ઇન્વૉઇસ maker",
+        "GST એકાઉન્ટિંગ",
+        "ઇન્વેન્ટરી વ્યવસ્થાપન",
+        "હિસાબી નોંધણી",
+        "વ્યવસાય અહેવાલો",
+        "ખરીદી વેચાણ પ્રવેશ",
+        "નાના વ્યવસાય હિસાબો"
+      ],
+      "use_cases": [
+        "વ્યવસાયના હિસાબો અને નાણાકીય રેકોર્ડ જાળવો",
+        "ઇન્વૉઇસ બનાવો અને GST સંબંધિત હિસાબી કાર્યો સંચાલિત કરો",
+        "ઇન્વેન્ટરી, ખરીદી અને વેચાણ ટ્રૅક કરો"
+      ]
+    },
+    {
+      "id": "business_023",
+      "name": "ફ્રેશવર્ક્સ",
+      "domain": "www.freshworks.com",
+      "canonical_url": "https://www.freshworks.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freshworks ગ્રાહક અને કર્મચારી અનુભવ માટેનું બિઝનેસ સોફ્ટવેર આપે છે. તેમાં ગ્રાહક સહાય, સેવા વ્યવસ્થાપન અને વેચાણ સંબંધિત સાધનોનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "વ્યવસાયિક સોફ્ટવેર",
+        "ગ્રાહક સહાય",
+        "વેચાણનાં સાધનો",
+        "સેવા વ્યવસ્થાપન"
+      ],
+      "keywords": [
+        "Freshworks",
+        "Freshdesk",
+        "Freshsales",
+        "ગ્રાહક સહાય સોફ્ટવેર",
+        "helpdesk system",
+        "ગ્રાહક સેવા પ્લેટફોર્મ",
+        "ટિકિટ વ્યવસ્થાપન",
+        "CRM સોફ્ટવેર",
+        "વેચાણ વ્યવસ્થાપન",
+        "IT સેવા વ્યવસ્થાપન",
+        "ગ્રાહક અનુભવ સાધનો",
+        "વ્યવસાય સહાય સોફ્ટવેર"
+      ],
+      "use_cases": [
+        "ગ્રાહકોના પ્રશ્નો અને સહાયની વિનંતીઓ સંચાલિત કરો",
+        "વેચાણ અને ગ્રાહકોની માહિતી ગોઠવો",
+        "ગ્રાહક અને કર્મચારી સેવા ટીમો માટેનું સોફ્ટવેર જાણો"
+      ]
+    },
+    {
+      "id": "business_024",
+      "name": "સેલ્સફોર્સ",
+      "domain": "www.salesforce.com",
+      "canonical_url": "https://www.salesforce.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Salesforce ગ્રાહક સંબંધ વ્યવસ્થાપન (CRM) સોફ્ટવેર અને સંબંધિત ક્લાઉડ એપ્લિકેશન્સ આપે છે, જે સંસ્થાઓને ગ્રાહક માહિતી, વેચાણ, સેવા અને વ્યવસાયિક પ્રક્રિયાઓ સંચાલિત કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "CRM સોફ્ટવેર",
+        "વેચાણ વ્યવસ્થાપન",
+        "ગ્રાહક સેવા",
+        "વ્યવસાયિક ક્લાઉડ"
+      ],
+      "keywords": [
+        "Salesforce",
+        "Salesforce CRM",
+        "ગ્રાહક relationship વ્યવસ્થાપન",
+        "CRM સોફ્ટવેર",
+        "વેચાણ ટ્રૅકિંગ",
+        "લીડ વ્યવસ્થાપન",
+        "ગ્રાહક ડેટાબેઝ",
+        "વેચાણ પાઇપલાઇન",
+        "ગ્રાહક સેવા પ્લેટફોર્મ",
+        "માર્કેટિંગ ઓટોમેશન",
+        "વ્યવસાય ક્લાઉડ સોફ્ટવેર",
+        "વેચાણ ટીમ સાધનો"
+      ],
+      "use_cases": [
+        "ગ્રાહક રેકોર્ડ્સ અને વ્યવસાયિક સંબંધો સંચાલિત કરો",
+        "વેચાણની લીડ્સ, તકો અને પાઇપલાઇન ટ્રૅક કરો",
+        "ગ્રાહક સેવા અને વ્યવસાયિક પ્રક્રિયાઓને સપોર્ટ કરો"
+      ]
+    },
+    {
+      "id": "business_025",
+      "name": "હબસ્પોટ",
+      "domain": "www.hubspot.com",
+      "canonical_url": "https://www.hubspot.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HubSpot ગ્રાહકો સાથેનો સંપર્ક અને વ્યવસાયની વૃદ્ધિ સંચાલિત કરવા માટે CRM તેમજ માર્કેટિંગ, વેચાણ, સેવા અને કન્ટેન્ટનાં સાધનો આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "CRM સોફ્ટવેર",
+        "માર્કેટિંગ સાધનો",
+        "વેચાણ વ્યવસ્થાપન",
+        "ગ્રાહક સેવા"
+      ],
+      "keywords": [
+        "HubSpot",
+        "HubSpot CRM",
+        "CRM પ્લેટફોર્મ",
+        "માર્કેટિંગ સોફ્ટવેર",
+        "ઈમેલ માર્કેટિંગ",
+        "વેચાણ પાઇપલાઇન",
+        "લીડ generation",
+        "ગ્રાહક ડેટાબેઝ",
+        "માર્કેટિંગ ઓટોમેશન",
+        "ગ્રાહક સેવા સાધનો",
+        "કન્ટેન્ટ વ્યવસ્થાપન",
+        "વ્યવસાય વૃદ્ધિ સોફ્ટવેર",
+        "નાના વ્યવસાય CRM"
+      ],
+      "use_cases": [
+        "સંપર્કો, લીડ્સ અને ગ્રાહકો સાથેની વાતચીત ગોઠવો",
+        "માર્કેટિંગ અને વેચાણની પ્રવૃત્તિઓનું આયોજન અને સંચાલન કરો",
+        "ગ્રાહક સહાય અને વ્યવસાય વૃદ્ધિ માટેનાં સાધનો જાણો"
+      ]
+    },
+    {
+      "id": "business_026",
+      "name": "સ્લેક",
+      "domain": "slack.com",
+      "canonical_url": "https://slack.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Slack કાર્યસ્થળ પર સંદેશાવ્યવહાર અને સહકાર માટેનું પ્લેટફોર્મ છે, જે ટીમોને ચેનલ્સ, સીધા સંદેશાઓ અને અન્ય કાર્યસાધનો સાથેના ઇન્ટિગ્રેશન દ્વારા વાતચીત કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "ટીમ સંચાર",
+        "કાર્યસ્થળ સંદેશાવ્યવહાર",
+        "સહકાર",
+        "ઉત્પાદકતા"
+      ],
+      "keywords": [
+        "Slack",
+        "Slack એપ",
+        "ટીમ ચેટ",
+        "વ્યવસાય સંદેશાવ્યવહાર",
+        "કાર્યસ્થળ સંચાર",
+        "ટીમ ચેનલ્સ",
+        "સીધા સંદેશાઓ",
+        "રિમોટ ટીમ સહકાર",
+        "કામ ચેટ સોફ્ટવેર",
+        "ફાઇલ શેરિંગ",
+        "કાર્યસ્થળ ઇન્ટિગ્રેશન્સ",
+        "પ્રોજેક્ટ સંચાર"
+      ],
+      "use_cases": [
+        "ટીમ ચેનલ્સ અને સંદેશાઓ દ્વારા સહકર્મીઓ સાથે વાતચીત કરો",
+        "પ્રોજેક્ટ અથવા વિષય પ્રમાણે કામ સંબંધિત વાતચીત ગોઠવો",
+        "ટીમ સંચારને અન્ય કાર્ય એપ્લિકેશન્સ સાથે જોડો"
+      ]
+    },
+    {
+      "id": "business_027",
+      "name": "એટલાસિયન",
+      "domain": "www.atlassian.com",
+      "canonical_url": "https://www.atlassian.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Atlassian ટીમોને પ્રોજેક્ટનું આયોજન કરવા, કામનું સંચાલન કરવા, સમસ્યાઓ ટ્રૅક કરવા અને સોફ્ટવેર વિકાસ તથા વ્યવસાયિક પ્રક્રિયાઓમાં સહકાર આપવા માટે સોફ્ટવેર આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "પ્રોજેક્ટ વ્યવસ્થાપન",
+        "ડેવલપર સાધનો",
+        "ટીમ સહકાર",
+        "કામનું વ્યવસ્થાપન"
+      ],
+      "keywords": [
+        "Atlassian",
+        "Jira",
+        "Confluence",
+        "Trello",
+        "Bitbucket",
+        "પ્રોજેક્ટ વ્યવસ્થાપન સોફ્ટવેર",
+        "સમસ્યા ટ્રૅકિંગ",
+        "agile પ્રોજેક્ટ વ્યવસ્થાપન",
+        "ટીમ wiki",
+        "સોફ્ટવેર વિકાસ સાધનો",
+        "કાર્ય ટ્રૅકિંગ",
+        "પ્રોજેક્ટ આયોજન",
+        "ડેવલપર સહકાર"
+      ],
+      "use_cases": [
+        "પ્રોજેક્ટ્સ અને ટીમનાં કાર્યોનું આયોજન કરો અને ટ્રૅક કરો",
+        "ટીમનું જ્ઞાન દસ્તાવેજીકૃત કરો અને શેર કરો",
+        "સોફ્ટવેર વિકાસનું કામ અને સમસ્યાઓ સંચાલિત કરો"
+      ]
+    },
+    {
+      "id": "business_028",
+      "name": "ટીમ્સ માટે કેનવા",
+      "domain": "www.canva.com/teams",
+      "canonical_url": "https://www.canva.com/teams/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Canva for Teams સહયોગી ડિઝાઇન સાધનો આપે છે, જે ટીમોને વિઝ્યુઅલ કન્ટેન્ટ બનાવવામાં અને સંચાલિત કરવામાં તેમજ બ્રાન્ડ અને ડિઝાઇન સંબંધિત કામ વહેંચવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "ડિઝાઇન સોફ્ટવેર",
+        "ટીમ સહકાર",
+        "વિઝ્યુઅલ કન્ટેન્ટ",
+        "બ્રાન્ડ વ્યવસ્થાપન"
+      ],
+      "keywords": [
+        "Canva for Teams",
+        "Canva Teams",
+        "ટીમ ડિઝાઇન સાધન",
+        "ઑનલાઇન ગ્રાફિક ડિઝાઇન",
+        "વ્યવસાય પ્રેઝન્ટેશન્સ",
+        "સોશિયલ મીડિયા designs",
+        "માર્કેટિંગ સામગ્રી",
+        "બ્રાન્ડ kit",
+        "ટીમ ટેમ્પ્લેટ્સ",
+        "collaborative ડિઝાઇન",
+        "પોસ્ટર maker",
+        "પ્રેઝન્ટેશન maker",
+        "વિઝ્યુઅલ કન્ટેન્ટ નિર્માણ"
+      ],
+      "use_cases": [
+        "કામ માટે પ્રેઝન્ટેશન અને વિઝ્યુઅલ સામગ્રી બનાવો",
+        "માર્કેટિંગ અને સોશિયલ મીડિયા ડિઝાઇન પર સહકારથી કામ કરો",
+        "શેર કરેલી બ્રાન્ડ સામગ્રી અને ટીમ ટેમ્પ્લેટ્સ સંચાલિત કરો"
+      ]
+    },
+    {
+      "id": "business_029",
+      "name": "રેઝરપે",
+      "domain": "razorpay.com",
+      "canonical_url": "https://razorpay.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Razorpay વ્યવસાયો માટે ડિજિટલ ચુકવણી અને નાણાકીય ટેક્નોલોજી સેવાઓ આપે છે. તેમાં ઑનલાઇન ચુકવણીઓ સ્વીકારવા અને સંચાલિત કરવા માટેનાં સાધનો સામેલ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વ્યવસાયિક ચુકવણીઓ",
+        "પેમેન્ટ ગેટવે",
+        "નાણાકીય ટેક્નોલોજી",
+        "ઑનલાઇન વ્યવહારો"
+      ],
+      "keywords": [
+        "Razorpay",
+        "Razorpay ચુકવણી ગેટવે",
+        "સ્વીકારો ઑનલાઇન ચુકવણીઓ",
+        "ચુકવણી ગેટવે India",
+        "વ્યવસાય ચુકવણી એકત્રિત કરવું",
+        "UPI ચુકવણીઓ for વ્યવસાય",
+        "ચુકવણી લિંક્સ",
+        "ઑનલાઇન ચેકઆઉટ",
+        "વેપારી હિસાબ",
+        "ચુકવણી સેટલમેન્ટ",
+        "વ્યવસાય વ્યવહારો",
+        "ecommerce ચુકવણીઓ"
+      ],
+      "use_cases": [
+        "ગ્રાહકો પાસેથી ઑનલાઇન ચુકવણી સ્વીકારવાની રીતો જાણો",
+        "ચુકવણી એકત્રિત કરવાની અને વ્યવહારોની પ્રક્રિયાનું સંચાલન કરો",
+        "ઑનલાઇન વ્યવસાયો માટે ચુકવણીનાં સાધનો શોધો"
+      ]
+    },
+    {
+      "id": "business_030",
+      "name": "કેશફ્રી પેમેન્ટ્સ",
+      "domain": "www.cashfree.com",
+      "canonical_url": "https://www.cashfree.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cashfree Payments વ્યવસાયો માટે ચુકવણી અને પેઆઉટનું ઇન્ફ્રાસ્ટ્રક્ચર આપે છે, જે ઑનલાઇન ચુકવણી એકત્રિત કરવા અને નાણાં ટ્રાન્સફર કરવાની સેવાઓને સપોર્ટ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વ્યવસાયિક ચુકવણીઓ",
+        "પેમેન્ટ ગેટવે",
+        "પેઆઉટ્સ",
+        "નાણાકીય ટેક્નોલોજી"
+      ],
+      "keywords": [
+        "Cashfree Payments",
+        "Cashfree",
+        "ચુકવણી ગેટવે India",
+        "ઑનલાઇન ચુકવણી એકત્રિત કરવું",
+        "વ્યવસાય પેઆઉટ્સ",
+        "જથ્થાબંધ પેઆઉટ્સ",
+        "વિક્રેતા ચુકવણીઓ",
+        "UPI એકત્રિત કરવું",
+        "ચુકવણી લિંક્સ",
+        "વેપારી ચુકવણીઓ",
+        "ecommerce ચુકવણીઓ",
+        "ચુકવણી processing",
+        "વ્યવસાય નાણાં ટ્રાન્સફર"
+      ],
+      "use_cases": [
+        "વ્યવસાય માટે ઑનલાઇન ચુકવણી એકત્રિત કરવાના વિકલ્પો જાણો",
+        "પેઆઉટ્સ અને વ્યવસાયિક ચુકવણી પ્રક્રિયાઓ સંચાલિત કરો",
+        "ડિજિટલ કોમર્સ માટે પેમેન્ટ ઇન્ફ્રાસ્ટ્રક્ચર શોધો"
+      ]
+    },
+    {
+      "id": "business_031",
+      "name": "PayU ઇન્ડિયા",
+      "domain": "payu.in",
+      "canonical_url": "https://payu.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PayU India ઑનલાઇન માધ્યમો દ્વારા ચુકવણી સ્વીકારતા વ્યવસાયો માટે ડિજિટલ પેમેન્ટ ટેક્નોલોજી અને પેમેન્ટ પ્રોસેસિંગ સેવાઓ આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વ્યવસાયિક ચુકવણીઓ",
+        "પેમેન્ટ ગેટવે",
+        "પેમેન્ટ પ્રોસેસિંગ",
+        "નાણાકીય ટેક્નોલોજી"
+      ],
+      "keywords": [
+        "PayU India",
+        "PayU ચુકવણી ગેટવે",
+        "ઑનલાઇન ચુકવણી ગેટવે",
+        "સ્વીકારો ચુકવણીઓ ઑનલાઇન",
+        "વેપારી ચુકવણી processing",
+        "UPI ચુકવણી",
+        "card ચુકવણીઓ",
+        "net banking ચુકવણીઓ",
+        "ecommerce ચેકઆઉટ",
+        "વ્યવસાય ચુકવણી solutions",
+        "ચુકવણી એકત્રિત કરવું India"
+      ],
+      "use_cases": [
+        "વ્યવસાયો માટે ચુકવણી સ્વીકારવાના ઉકેલો જાણો",
+        "ઑનલાઇન ચેકઆઉટ અને ગ્રાહક વ્યવહારોને સપોર્ટ કરો",
+        "ડિજિટલ પેમેન્ટ પ્રોસેસિંગ વિશે માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "business_032",
+      "name": "ખાતાબુક",
+      "domain": "khatabook.com",
+      "canonical_url": "https://khatabook.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Khatabook ડિજિટલ ખાતાવહી અને વ્યવસાય વ્યવસ્થાપનનાં સાધનો આપે છે, જે વેપારીઓ અને નાના વ્યવસાયોને ગ્રાહકોનાં ખાતાં નોંધવામાં અને વ્યવહારો ટ્રૅક કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "નાના વ્યવસાયનાં સાધનો",
+        "ડિજિટલ ખાતાવહી",
+        "હિસાબી નોંધણી",
+        "વેપારી સેવાઓ"
+      ],
+      "keywords": [
+        "Khatabook",
+        "ખાતાબુક એપ",
+        "ડિજિટલ ખાતાવહી",
+        "ઑનલાઇન ખાતાવહી",
+        "વ્યવસાયિક હિસાબ",
+        "ગ્રાહકના ઉધારનો રેકોર્ડ",
+        "જમા-ઉધારની નોંધ",
+        "દુકાનની ખાતાવહી",
+        "વેપારી હિસાબી નોંધણી",
+        "નાના દુકાન એકાઉન્ટિંગ",
+        "ચુકવણી રિમાઇન્ડર્સ",
+        "વ્યવસાય વ્યવહાર રેકોર્ડ્સ"
+      ],
+      "use_cases": [
+        "ગ્રાહકોના ઉધાર અને ચુકવણીના રેકોર્ડ જાળવો",
+        "દુકાનના રોજિંદા વ્યવહારો ટ્રૅક કરો",
+        "નાના વ્યવસાયની ડિજિટલ ખાતાવહી સંચાલિત કરો"
+      ]
+    },
+    {
+      "id": "business_033",
+      "name": "વ્યાપાર",
+      "domain": "vyaparapp.in",
+      "canonical_url": "https://vyaparapp.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Vyapar નાના વ્યવસાયો માટે એકાઉન્ટિંગ અને બિઝનેસ મેનેજમેન્ટ સોફ્ટવેર આપે છે. તેમાં બિલિંગ, ઇન્વૉઇસ, ઇન્વેન્ટરી અને નાણાકીય રેકોર્ડ રાખવાનાં સાધનો છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "એકાઉન્ટિંગ સોફ્ટવેર",
+        "નાના વ્યવસાયનાં સાધનો",
+        "બિલિંગ અને ઇન્વૉઇસિંગ",
+        "ઇન્વેન્ટરી"
+      ],
+      "keywords": [
+        "Vyapar એપ",
+        "Vyapar એકાઉન્ટિંગ",
+        "બિલિંગ સોફ્ટવેર",
+        "GST બિલિંગ એપ",
+        "ઇન્વૉઇસ maker",
+        "નાના વ્યવસાય એકાઉન્ટિંગ",
+        "દુકાન બિલિંગ",
+        "ઇન્વેન્ટરી ટ્રૅકિંગ",
+        "સ્ટોક વ્યવસ્થાપન",
+        "વેચાણ ખરીદી રેકોર્ડ્સ",
+        "વ્યવસાય ખર્ચ ટ્રૅકિંગ",
+        "GST ઇન્વૉઇસ",
+        "ઑફલાઇન બિલિંગ સોફ્ટવેર"
+      ],
+      "use_cases": [
+        "ગ્રાહકો માટે બિલ અને ઇન્વૉઇસ બનાવો",
+        "સ્ટોક, વેચાણ, ખરીદી અને વ્યવસાયિક ખર્ચ ટ્રૅક કરો",
+        "દુકાન અથવા નાના વ્યવસાયના હિસાબ જાળવો"
+      ]
+    },
+    {
+      "id": "business_034",
+      "name": "ક્લિયરટેક્સ",
+      "domain": "cleartax.in",
+      "canonical_url": "https://cleartax.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ClearTax વ્યક્તિઓ અને વ્યવસાયો માટે ઑનલાઇન કર અને નાણાકીય પાલનનાં ઉત્પાદનો આપે છે, જેમાં આવકવેરા અને GST સંબંધિત સાધનો તથા માહિતીનો સમાવેશ થાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કર સંબંધિત સોફ્ટવેર",
+        "કર ફાઇલિંગ",
+        "GST નિયમપાલન",
+        "વ્યવસાયિક નાણાંકીય વ્યવસ્થા"
+      ],
+      "keywords": [
+        "ClearTax",
+        "ClearTax India",
+        "આવક કર ફાઇલિંગ",
+        "ITR ફાઇલિંગ સહાય",
+        "GST સોફ્ટવેર",
+        "GST રિટર્ન ફાઇલિંગ",
+        "કર નિયમપાલન સોફ્ટવેર",
+        "વ્યવસાય કર ફાઇલિંગ",
+        "કર ગણતરી",
+        "કર તૈયારી",
+        "e ઇન્વૉઇસિંગ",
+        "કર સાધનો India"
+      ],
+      "use_cases": [
+        "આવકવેરા ફાઇલિંગ માટેનાં ઑનલાઇન સાધનો જાણો",
+        "GST અને સંબંધિત વ્યવસાયિક કર નિયમપાલનનાં કાર્યો સંચાલિત કરો",
+        "કર સંબંધિત માહિતી અને ડિજિટલ ફાઇલિંગ સહાય મેળવો"
+      ]
+    },
+    {
+      "id": "business_035",
+      "name": "KredX",
+      "domain": "www.kredx.com",
+      "canonical_url": "https://www.kredx.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KredX ટ્રેડ ફાઇનાન્સ પ્લેટફોર્મ છે, જે વ્યવસાયોને કાર્યકારી મૂડીના વિકલ્પો મેળવવામાં અને વ્યવસાયિક વ્યવહારો સાથે જોડાયેલી રોકડ પ્રવાહની જરૂરિયાતો સંચાલિત કરવામાં મદદ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વેપાર નાણાંકીય સેવા",
+        "વ્યવસાયિક ધિરાણ",
+        "કાર્યકારી મૂડી",
+        "ફિનટેક"
+      ],
+      "keywords": [
+        "KredX",
+        "વેપાર નાણાંકીય સહાય India",
+        "ઇન્વૉઇસ ડિસ્કાઉન્ટિંગ",
+        "ઇન્વૉઇસ financing",
+        "કાર્યકારી મૂડી for વ્યવસાય",
+        "MSME નાણાંકીય સહાય",
+        "પુરવઠો chain નાણાંકીય સહાય",
+        "વ્યવસાય રોકડ પ્રવાહ",
+        "મળવાપાત્ર રકમ નાણાંકીય સહાય",
+        "early ચુકવણી",
+        "વ્યવસાય ફંડિંગ પ્લેટફોર્મ"
+      ],
+      "use_cases": [
+        "વેપાર નાણાંકીય સેવા અને કાર્યકારી મૂડીના વિકલ્પો જાણો",
+        "ઇન્વૉઇસ આધારિત ધિરાણ વિશે માહિતી મેળવો",
+        "વ્યવસાયના રોકડ પ્રવાહની જરૂરિયાતો માટે ધિરાણનાં સંસાધનો જુઓ"
+      ]
+    },
+    {
+      "id": "business_036",
+      "name": "મોગલિક્સ",
+      "domain": "www.moglix.com",
+      "canonical_url": "https://www.moglix.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Moglix B2B કોમર્સ પ્લેટફોર્મ છે, જે ઔદ્યોગિક અને વ્યવસાયિક પુરવઠા પર ધ્યાન કેન્દ્રિત કરે છે. તે સંસ્થાઓને ઉત્પાદન, જાળવણી અને કામગીરીમાં વપરાતાં ઉત્પાદનો સાથે જોડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Asia-Pacific, Middle East, North America",
+      "labels": [
+        "B2B માર્કેટપ્લેસ",
+        "ઔદ્યોગિક પુરવઠો",
+        "ખરીદી વ્યવસ્થાપન",
+        "વ્યવસાયિક વાણિજ્ય"
+      ],
+      "keywords": [
+        "Moglix",
+        "ઔદ્યોગિક પુરવઠો ઑનલાઇન",
+        "B2B ઔદ્યોગિક માર્કેટપ્લેસ",
+        "ખરીદો કારખાનું પુરવઠો",
+        "MRO ઉત્પાદનો",
+        "manufacturing પુરવઠો",
+        "સલામતી સાધનો",
+        "ઇલેક્ટ્રિકલ ઉત્પાદનો",
+        "સાધનો and હાર્ડવેર",
+        "જથ્થાબંધ ઔદ્યોગિક ખરીદી",
+        "વ્યવસાય ખરીદી પ્રક્રિયા India"
+      ],
+      "use_cases": [
+        "વ્યવસાય માટે ઔદ્યોગિક અને જાળવણીનો પુરવઠો શોધો",
+        "કારખાનાં અને કામગીરીની ટીમો માટેનાં ઉત્પાદનો જાણો",
+        "વ્યવસાય અને ઉત્પાદન માટેનો પુરવઠો ઑનલાઇન મેળવો"
+      ]
+    },
+    {
+      "id": "business_037",
+      "name": "ઉડાન",
+      "domain": "udaan.com",
+      "canonical_url": "https://udaan.com/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Udaan ભારતીય B2B કોમર્સ પ્લેટફોર્મ છે, જે જથ્થાબંધ વેપારની વિવિધ શ્રેણીઓમાં વ્યવસાયો અને રિટેલર્સને સપ્લાયર્સ તથા ઉત્પાદનો સાથે જોડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B માર્કેટપ્લેસ",
+        "જથ્થાબંધ વેપાર",
+        "રિટેલર માટેનો પુરવઠો",
+        "વ્યવસાયિક વાણિજ્ય"
+      ],
+      "keywords": [
+        "Udaan",
+        "Udaan B2B",
+        "જથ્થાબંધ ખરીદી એપ",
+        "B2B માર્કેટપ્લેસ India",
+        "રિટેલર સ્ટોક ખરીદી",
+        "જથ્થાબંધ સપ્લાયર્સ",
+        "વ્યવસાય to વ્યવસાય shopping",
+        "કિરાણા દુકાન પુરવઠો",
+        "જથ્થાબંધ ઉત્પાદનો",
+        "વિતરક માર્કેટપ્લેસ",
+        "રિટેલ વ્યવસાય ખરીદી પ્રક્રિયા"
+      ],
+      "use_cases": [
+        "રિટેલ વ્યવસાય માટેનાં જથ્થાબંધ ઉત્પાદનો શોધો",
+        "દુકાન માટે સપ્લાયર્સ શોધો અને માલ ખરીદો",
+        "B2B વેપાર અને વ્યવસાયિક પુરવઠાના વિકલ્પો જાણો"
+      ]
+    },
+    {
+      "id": "business_038",
+      "name": "ONDC",
+      "domain": "ondc.org",
+      "canonical_url": "https://ondc.org/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ONDC (Open Network for Digital Commerce) ડિજિટલ કોમર્સ માટે ખુલ્લું અને પરસ્પર કાર્યક્ષમ નેટવર્ક બનાવવાની પહેલ છે, જે કોમર્સ ઇકોસિસ્ટમના વિવિધ ભાગીદારોને જોડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ડિજિટલ કોમર્સ નેટવર્ક",
+        "ઓપન કોમર્સ",
+        "વ્યવસાયિક ઇકોસિસ્ટમ",
+        "ઈ-કોમર્સ"
+      ],
+      "keywords": [
+        "ONDC",
+        "ઓપન નેટવર્ક for ડિજિટલ કોમર્સ",
+        "ઓપન કોમર્સ નેટવર્ક India",
+        "ડિજિટલ કોમર્સ India",
+        "ONDC વેચાણકર્તા",
+        "ONDC ખરીદદાર એપ્સ",
+        "ઑનલાઇન વ્યવસાય નેટવર્ક",
+        "ecommerce interoperability",
+        "વેચાણકર્તા નેટવર્ક",
+        "ડિજિટલ માર્કેટપ્લેસ ઇકોસિસ્ટમ",
+        "ONDC માહિતી"
+      ],
+      "use_cases": [
+        "ઓપન ડિજિટલ કોમર્સ નેટવર્ક કેવી રીતે કાર્ય કરે છે તે જાણો",
+        "ભાગ લેવા ઇચ્છતા વ્યવસાયો માટે માહિતી મેળવો",
+        "ડિજિટલ કોમર્સ અને નેટવર્કના ભાગીદારો વિશેનાં સંસાધનો જાણો"
+      ]
+    },
+    {
+      "id": "business_039",
+      "name": "FIEO",
+      "domain": "fieo.org",
+      "canonical_url": "https://fieo.org/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "FIEO (Federation of Indian Export Organisations) ભારતીય નિકાસકારોનું પ્રતિનિધિત્વ કરે છે અને તેમને સહાય આપે છે. તે આંતરરાષ્ટ્રીય વેપાર અને નિકાસ પ્રોત્સાહન સંબંધિત માહિતી તથા સંસાધનો પણ આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "નિકાસ પ્રોત્સાહન",
+        "વેપાર સંસ્થા",
+        "નિકાસકારોને સહાય",
+        "આંતરરાષ્ટ્રીય વેપાર"
+      ],
+      "keywords": [
+        "FIEO",
+        "મહાસંઘ of ભારતીય નિકાસ Organisations",
+        "ભારતીય નિકાસકારો",
+        "નિકાસ પ્રોત્સાહન India",
+        "નિકાસકાર સભ્યપદ",
+        "નિકાસ વ્યવસાય સહાય",
+        "international વેપાર India",
+        "નિકાસ દસ્તાવેજીકરણ માર્ગદર્શન",
+        "નિકાસ બજાર માહિતી",
+        "નિકાસ તકો",
+        "વેપાર કાર્યક્રમો",
+        "નિકાસકાર સંસાધનો"
+      ],
+      "use_cases": [
+        "ભારતીય નિકાસકારો માટેનાં સંસાધનો અને સહાય મેળવો",
+        "નિકાસ પ્રોત્સાહન અને આંતરરાષ્ટ્રીય વેપારની માહિતી જાણો",
+        "નિકાસકારો માટેની સભ્યપદ અને વ્યવસાયિક માહિતીનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "business_040",
+      "name": "NASSCOM",
+      "domain": "nasscom.in",
+      "canonical_url": "https://nasscom.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NASSCOM ભારતના ટેક્નોલોજી અને બિઝનેસ સર્વિસિસ ક્ષેત્રનું પ્રતિનિધિત્વ કરતી ઉદ્યોગ સંસ્થા છે. તે ઉદ્યોગ સંબંધિત માહિતી, નીતિ સમર્થન અને ઇકોસિસ્ટમ પહેલો પૂરી પાડે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ઉદ્યોગ સંસ્થા",
+        "ટેક્નોલોજી ક્ષેત્ર",
+        "IT સેવાઓ",
+        "વ્યવસાયિક સંસાધનો"
+      ],
+      "keywords": [
+        "NASSCOM",
+        "રાષ્ટ્રીય સંસ્થા of સોફ્ટવેર and સેવા કંપનીઓ",
+        "ભારતીય IT ઉદ્યોગ",
+        "ટેક્નોલોજી ઉદ્યોગ India",
+        "IT સેવાઓ કંપનીઓ",
+        "સોફ્ટવેર ઉદ્યોગ સંસ્થા",
+        "વ્યવસાય ટેક્નોલોજી ક્ષેત્ર",
+        "ઉદ્યોગ અહેવાલો",
+        "ટેક્નોલોજી નીતિ",
+        "IT ઇકોસિસ્ટમ",
+        "ઉદ્યોગ કાર્યક્રમો",
+        "NASSCOM સભ્યપદ"
+      ],
+      "use_cases": [
+        "ભારતના ટેક્નોલોજી ઉદ્યોગ વિશે માહિતી મેળવો",
+        "ઉદ્યોગ અહેવાલો, કાર્યક્રમો અને ઇકોસિસ્ટમનાં સંસાધનો શોધો",
+        "ટેક્નોલોજી વ્યવસાયો માટેની પહેલોની માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "business_041",
+      "name": "DSCI-ડેટા સિક્યુરિટી કાઉન્સિલ ઓફ ઇન્ડિયા",
+      "domain": "www.dsci.in",
+      "canonical_url": "https://www.dsci.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Data Security Council of India (DSCI) સાયબર સુરક્ષા, ડેટા સંરક્ષણ અને ગોપનીયતા પર ધ્યાન કેન્દ્રિત કરતી ઉદ્યોગ સંસ્થા છે. તે જાગૃતિ, ક્ષમતા નિર્માણ અને નીતિ સંબંધિત પહેલો પર કામ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સાયબર સુરક્ષા",
+        "ડેટા સંરક્ષણ",
+        "ઉદ્યોગ સંસ્થા",
+        "ગોપનીયતા અને સુરક્ષા"
+      ],
+      "keywords": [
+        "DSCI",
+        "ડેટા સુરક્ષા Council of India",
+        "સાયબર સુરક્ષા India",
+        "ડેટા સંરક્ષણ",
+        "ડેટા ગોપનીયતા",
+        "માહિતી સુરક્ષા",
+        "સાયબર સુરક્ષા જાગૃતિ",
+        "ગોપનીયતા માર્ગદર્શન",
+        "સુરક્ષા best પ્રથાઓ",
+        "સાયબર સુરક્ષા તાલીમ",
+        "ડેટા સંરક્ષણ નીતિ",
+        "સુરક્ષા ઉદ્યોગ સંસ્થા"
+      ],
+      "use_cases": [
+        "સાયબર સુરક્ષા અને ડેટા સંરક્ષણનાં સંસાધનો શોધો",
+        "ગોપનીયતા અને માહિતી સુરક્ષા સંબંધિત પહેલો જાણો",
+        "ઉદ્યોગમાં જાગૃતિ અને ક્ષમતા નિર્માણ સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "business_042",
+      "name": "CERT-In",
+      "domain": "www.cert-in.org.in",
+      "canonical_url": "https://www.cert-in.org.in/",
+      "category": "business",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CERT-In સાયબર સુરક્ષા ઘટનાઓનો પ્રતિસાદ આપવા માટેની ભારતની રાષ્ટ્રીય એજન્સી છે. તે સાયબર સુરક્ષા સલાહ, ચેતવણીઓ અને ઘટના નોંધાવવાની માહિતી આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સાયબર સુરક્ષા",
+        "સરકારી એજન્સી",
+        "ઘટનાનો પ્રતિસાદ",
+        "સુરક્ષા સલાહો"
+      ],
+      "keywords": [
+        "CERT-In",
+        "CERT-In",
+        "Indian Computer Emergency Response Team",
+        "સાયબર સુરક્ષા India",
+        "સાયબર સુરક્ષા ચેતવણીઓ",
+        "સુરક્ષા સલાહો",
+        "નબળાઈ ચેતવણીઓ",
+        "ઘટના અહેવાલ આપવો",
+        "સાયબર ઘટના પ્રતિસાદ",
+        "માલવેર સલાહ",
+        "સુરક્ષા માર્ગદર્શિકા",
+        "CERT India",
+        "સાયબર સુરક્ષા સૂચનાઓ"
+      ],
+      "use_cases": [
+        "સાયબર સુરક્ષા સંબંધિત સત્તાવાર ચેતવણીઓ અને સલાહો વાંચો",
+        "સાયબર સુરક્ષા ઘટનાઓની જાણ કેવી રીતે કરવી તેની માહિતી મેળવો",
+        "સુરક્ષા માર્ગદર્શન અને ઘટના પ્રતિસાદનાં સંસાધનો મેળવો"
+      ]
+    }
+  ]
+}

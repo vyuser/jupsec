@@ -1,0 +1,4619 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "utilities-india",
+  "language": "en",
+  "category_name": "Utilities India",
+  "count": 111,
+  "urls": [
+    {
+      "id": "utilities_india_001",
+      "name": "Bharat Bill Payment System / NPCI",
+      "domain": "www.npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Bharat Bill Payment System is an interoperable bill-payment framework operated under NPCI's payment infrastructure. This entry provides official information; customers generally complete payments through participating banks, billers or authorised operating units.",
+      "source_type": "official_payment_infrastructure",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bill Payments",
+        "Digital Payments",
+        "NPCI",
+        "Payment Infrastructure"
+      ],
+      "keywords": [
+        "Bharat Bill Payment System",
+        "BBPS",
+        "NPCI Bharat BillPay",
+        "pay utility bills online",
+        "electricity bill payment",
+        "water bill payment",
+        "DTH recharge payment",
+        "gas bill payment",
+        "participating biller",
+        "bill payment service"
+      ],
+      "use_cases": [
+        "Understand the official interoperable bill-payment system and participating channels.",
+        "Find the appropriate bank, biller or authorised channel to pay an eligible bill.",
+        "Learn about supported bill-payment categories and payment options."
+      ]
+    },
+    {
+      "id": "utilities_india_002",
+      "name": "ACT Fibernet",
+      "domain": "www.actcorp.in",
+      "canonical_url": "https://www.actcorp.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ACT Fibernet is an Indian broadband and, where applicable, cable television provider serving selected cities and regions. Its official website provides service availability, plan, account, payment and customer-support information.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Broadband Internet",
+        "Internet Service Provider",
+        "Plans & Pricing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "ACT Fibernet",
+        "broadband connection",
+        "fiber internet plans",
+        "home internet",
+        "internet service provider",
+        "check service availability",
+        "new connection",
+        "pay broadband bill",
+        "internet plan",
+        "customer care",
+        "technical support"
+      ],
+      "use_cases": [
+        "Check whether broadband or cable service is available at an address.",
+        "Compare plans and request a new connection.",
+        "Pay a bill, manage an account or find technical support."
+      ]
+    },
+    {
+      "id": "utilities_india_003",
+      "name": "Hathway",
+      "domain": "www.hathway.com",
+      "canonical_url": "https://www.hathway.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Hathway is an Indian broadband and, where applicable, cable television provider serving selected cities and regions. Its official website provides service availability, plan, account, payment and customer-support information.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Broadband Internet",
+        "Cable Television",
+        "Plans & Pricing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "Hathway",
+        "broadband connection",
+        "fiber internet plans",
+        "home internet",
+        "cable television",
+        "check service availability",
+        "new connection",
+        "pay broadband bill",
+        "internet plan",
+        "customer care",
+        "technical support"
+      ],
+      "use_cases": [
+        "Check whether broadband or cable service is available at an address.",
+        "Compare plans and request a new connection.",
+        "Pay a bill, manage an account or find technical support."
+      ]
+    },
+    {
+      "id": "utilities_india_004",
+      "name": "UMANG",
+      "domain": "web.umang.gov.in",
+      "canonical_url": "https://web.umang.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "UMANG is the Government of India's unified mobile and web platform for accessing participating central, state and other public-service applications from one place.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Services",
+        "Citizen Portal",
+        "Public Service Access",
+        "Digital Government"
+      ],
+      "keywords": [
+        "UMANG app",
+        "government services online",
+        "central government services",
+        "state government services",
+        "citizen service portal",
+        "download UMANG",
+        "EPFO services",
+        "utility services",
+        "government certificates",
+        "UMANG customer help"
+      ],
+      "use_cases": [
+        "Find and access participating government services through one portal.",
+        "Open an eligible department service without searching multiple government websites.",
+        "Use the web or mobile platform to reach supported citizen services."
+      ]
+    },
+    {
+      "id": "utilities_india_005",
+      "name": "National Consumer Helpline",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The National Consumer Helpline is a Government of India consumer-support service for seeking assistance and registering grievances about goods, services, billing and business practices.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Consumer Help",
+        "Grievance Registration",
+        "Government Helpline",
+        "Customer Rights"
+      ],
+      "keywords": [
+        "National Consumer Helpline",
+        "consumer complaint India",
+        "consumer grievance online",
+        "complaint against company",
+        "billing complaint",
+        "product complaint",
+        "service provider complaint",
+        "consumer helpline number",
+        "track consumer grievance",
+        "consumer rights India"
+      ],
+      "use_cases": [
+        "Seek guidance about a consumer dispute involving a product or service.",
+        "Register or follow up on an eligible consumer grievance.",
+        "Find official consumer-protection assistance and contact channels."
+      ]
+    },
+    {
+      "id": "utilities_india_006",
+      "name": "DHL India",
+      "domain": "www.dhl.com",
+      "canonical_url": "https://www.dhl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "DHL India is the India-facing service entry for an international express and logistics network, offering cross-border shipping as well as domestic shipment services. The official service pages provide shipment booking, tracking and customs information.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care",
+        "international courier from India",
+        "export shipment",
+        "import parcel",
+        "customs clearance",
+        "cross-border express delivery"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_007",
+      "name": "FedEx India",
+      "domain": "www.fedex.com",
+      "canonical_url": "https://www.fedex.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "FedEx India is the India-facing service entry for an international express and logistics network, offering cross-border shipping as well as domestic shipment services. The official service pages provide shipment booking, tracking and customs information.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care",
+        "international courier from India",
+        "export shipment",
+        "import parcel",
+        "customs clearance",
+        "cross-border express delivery"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_008",
+      "name": "Delhivery",
+      "domain": "www.delhivery.com",
+      "canonical_url": "https://www.delhivery.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Delhivery provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_009",
+      "name": "Ecom Express",
+      "domain": "ecomexpress.in",
+      "canonical_url": "https://ecomexpress.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Ecom Express provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_010",
+      "name": "Professional Couriers",
+      "domain": "www.tpcindia.com",
+      "canonical_url": "https://www.tpcindia.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Professional Couriers provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_011",
+      "name": "Safexpress",
+      "domain": "www.safexpress.com",
+      "canonical_url": "https://www.safexpress.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Safexpress provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_012",
+      "name": "XpressBees",
+      "domain": "www.xpressbees.com",
+      "canonical_url": "https://www.xpressbees.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "XpressBees provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_013",
+      "name": "Blue Dart",
+      "domain": "www.bluedart.com",
+      "canonical_url": "https://www.bluedart.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Blue Dart provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_014",
+      "name": "DTDC",
+      "domain": "www.dtdc.com",
+      "canonical_url": "https://www.dtdc.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "DTDC provides parcel, courier, shipment or logistics services. Its official website offers service information and, depending on the shipment and account type, booking, tracking, delivery or business-logistics support.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Courier & Logistics",
+        "Parcel Delivery",
+        "Shipment Tracking",
+        "Shipping Services"
+      ],
+      "keywords": [
+        "courier service India",
+        "send parcel",
+        "track shipment",
+        "track courier",
+        "shipment tracking number",
+        "parcel delivery",
+        "book courier pickup",
+        "international shipping",
+        "domestic courier",
+        "logistics services",
+        "delivery status",
+        "courier customer care"
+      ],
+      "use_cases": [
+        "Track a parcel or shipment using its consignment or tracking number.",
+        "Find service information for sending domestic or international shipments.",
+        "Access delivery, pickup or business-shipping support where available."
+      ]
+    },
+    {
+      "id": "utilities_india_015",
+      "name": "SARATHI Driving Licence Services",
+      "domain": "sarathi.parivahan.gov.in",
+      "canonical_url": "https://sarathi.parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "SARATHI is the Ministry of Road Transport and Highways' online driving-licence service platform. Available transactions depend on the state transport department and the relevant Regional Transport Office.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Driving Licence",
+        "RTO Services",
+        "Government Transport Portal",
+        "Online Applications"
+      ],
+      "keywords": [
+        "Sarathi Parivahan",
+        "apply driving licence online",
+        "learner licence application",
+        "driving licence renewal",
+        "duplicate driving licence",
+        "driving test slot",
+        "driving licence status",
+        "RTO licence services",
+        "licence appointment",
+        "driving licence India"
+      ],
+      "use_cases": [
+        "Apply for a learner's or driving licence where the state enables the service.",
+        "Book or manage an available driving test appointment.",
+        "Check application status and access licence-related services."
+      ]
+    },
+    {
+      "id": "utilities_india_016",
+      "name": "Dish TV",
+      "domain": "www.dishtv.in",
+      "canonical_url": "https://www.dishtv.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Dish TV provides direct-to-home television services in India, with subscriber account information, channel or pack options, recharge and customer assistance.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "DTH Television",
+        "TV Recharge",
+        "Subscriber Account",
+        "Entertainment Services"
+      ],
+      "keywords": [
+        "DTH recharge online",
+        "TV recharge",
+        "set top box account",
+        "DTH customer care",
+        "channel pack",
+        "subscriber ID",
+        "television bill payment",
+        "recharge status",
+        "DTH plan",
+        "TV service support"
+      ],
+      "use_cases": [
+        "Recharge a DTH account and check available payment options.",
+        "Review channel packs, subscription details or account information.",
+        "Find help for set-top box and television service issues."
+      ]
+    },
+    {
+      "id": "utilities_india_017",
+      "name": "Tata Play",
+      "domain": "www.tataplay.com",
+      "canonical_url": "https://www.tataplay.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Tata Play provides direct-to-home television services in India, with subscriber account information, channel or pack options, recharge and customer assistance.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "DTH Television",
+        "TV Recharge",
+        "Subscriber Account",
+        "Entertainment Services"
+      ],
+      "keywords": [
+        "DTH recharge online",
+        "TV recharge",
+        "set top box account",
+        "DTH customer care",
+        "channel pack",
+        "subscriber ID",
+        "television bill payment",
+        "recharge status",
+        "DTH plan",
+        "TV service support"
+      ],
+      "use_cases": [
+        "Recharge a DTH account and check available payment options.",
+        "Review channel packs, subscription details or account information.",
+        "Find help for set-top box and television service issues."
+      ]
+    },
+    {
+      "id": "utilities_india_018",
+      "name": "AP Eastern Power Distribution (APEPDCL)",
+      "domain": "www.apeasternpower.com",
+      "canonical_url": "https://www.apeasternpower.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "AP Eastern Power Distribution (APEPDCL) is an electricity distribution utility serving Andhra Pradesh. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Andhra Pradesh",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Andhra Pradesh electricity",
+        "Andhra Pradesh online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_019",
+      "name": "AP Southern Power Distribution (APSPDCL)",
+      "domain": "www.apsdcl.in",
+      "canonical_url": "https://www.apsdcl.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "AP Southern Power Distribution (APSPDCL) is an electricity distribution utility serving Andhra Pradesh. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Andhra Pradesh",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Andhra Pradesh electricity",
+        "Andhra Pradesh online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_020",
+      "name": "Assam Power Distribution Company (APDCL)",
+      "domain": "www.apdcl.org",
+      "canonical_url": "https://www.apdcl.org/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Assam Power Distribution Company (APDCL) is an electricity distribution utility serving Assam. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Assam",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Assam electricity",
+        "Assam online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_021",
+      "name": "North Bihar Power Distribution (NBPDCL)",
+      "domain": "www.nbpdcl.co.in",
+      "canonical_url": "https://www.nbpdcl.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "North Bihar Power Distribution (NBPDCL) is an electricity distribution utility serving Bihar. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Bihar electricity",
+        "Bihar online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_022",
+      "name": "South Bihar Power Distribution (SBPDCL)",
+      "domain": "www.sbpdcl.co.in",
+      "canonical_url": "https://www.sbpdcl.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "South Bihar Power Distribution (SBPDCL) is an electricity distribution utility serving Bihar. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Bihar electricity",
+        "Bihar online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_023",
+      "name": "Chhattisgarh State Power Distribution (CSPDCL)",
+      "domain": "www.cspdcl.co.in",
+      "canonical_url": "https://www.cspdcl.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Chhattisgarh State Power Distribution (CSPDCL) is an electricity distribution utility serving Chhattisgarh. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Chhattisgarh",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Chhattisgarh electricity",
+        "Chhattisgarh online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_024",
+      "name": "BSES Rajdhani Power / BSES Yamuna Power",
+      "domain": "www.bsesdelhi.com",
+      "canonical_url": "https://www.bsesdelhi.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "BSES Rajdhani Power / BSES Yamuna Power is an electricity distribution utility serving Delhi. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Delhi electricity",
+        "Delhi online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_025",
+      "name": "Tata Power Delhi Distribution",
+      "domain": "www.tatapower-ddl.com",
+      "canonical_url": "https://www.tatapower-ddl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Tata Power Delhi Distribution is an electricity distribution utility serving Delhi. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Delhi electricity",
+        "Delhi online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_026",
+      "name": "Dakshin Gujarat Vij Company (DGVCL)",
+      "domain": "www.dgvcl.com",
+      "canonical_url": "https://www.dgvcl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Dakshin Gujarat Vij Company (DGVCL) is an electricity distribution utility serving Gujarat. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Gujarat electricity",
+        "Gujarat online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_027",
+      "name": "Madhya Gujarat Vij Company (MGVCL)",
+      "domain": "www.mgvcl.com",
+      "canonical_url": "https://www.mgvcl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Madhya Gujarat Vij Company (MGVCL) is an electricity distribution utility serving Gujarat. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Gujarat electricity",
+        "Gujarat online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_028",
+      "name": "Paschim Gujarat Vij Company (PGVCL)",
+      "domain": "www.pgvcl.com",
+      "canonical_url": "https://www.pgvcl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Paschim Gujarat Vij Company (PGVCL) is an electricity distribution utility serving Gujarat. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Gujarat electricity",
+        "Gujarat online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_029",
+      "name": "Uttar Gujarat Vij Company (UGVCL)",
+      "domain": "www.ugvcl.com",
+      "canonical_url": "https://www.ugvcl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Uttar Gujarat Vij Company (UGVCL) is an electricity distribution utility serving Gujarat. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Gujarat electricity",
+        "Gujarat online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_030",
+      "name": "Dakshin Haryana Bijli Vitran Nigam (DHBVN)",
+      "domain": "www.dhbvn.org.in",
+      "canonical_url": "https://www.dhbvn.org.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Dakshin Haryana Bijli Vitran Nigam (DHBVN) is an electricity distribution utility serving Haryana. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Haryana electricity",
+        "Haryana online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_031",
+      "name": "Uttar Haryana Bijli Vitran Nigam (UHBVN)",
+      "domain": "www.uhbvn.org.in",
+      "canonical_url": "https://www.uhbvn.org.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Uttar Haryana Bijli Vitran Nigam (UHBVN) is an electricity distribution utility serving Haryana. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Haryana electricity",
+        "Haryana online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_032",
+      "name": "Jharkhand Bijli Vitran Nigam (JBVNL)",
+      "domain": "www.jbvnl.co.in",
+      "canonical_url": "https://www.jbvnl.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Jharkhand Bijli Vitran Nigam (JBVNL) is an electricity distribution utility serving Jharkhand. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Jharkhand",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Jharkhand electricity",
+        "Jharkhand online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_033",
+      "name": "BESCOM",
+      "domain": "bescom.karnataka.gov.in",
+      "canonical_url": "https://bescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "BESCOM is an electricity distribution utility serving Karnataka. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Karnataka electricity",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_034",
+      "name": "GESCOM",
+      "domain": "gescom.karnataka.gov.in",
+      "canonical_url": "https://gescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GESCOM is an electricity distribution utility serving Karnataka. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Karnataka electricity",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_035",
+      "name": "HESCOM",
+      "domain": "hescom.karnataka.gov.in",
+      "canonical_url": "https://hescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "HESCOM is an electricity distribution utility serving Karnataka. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Karnataka electricity",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_036",
+      "name": "Karnataka Power Corporation / CESC Mysuru services",
+      "domain": "cescmysore.karnataka.gov.in",
+      "canonical_url": "https://cescmysore.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Karnataka Power Corporation / CESC Mysuru services is an electricity distribution utility serving Karnataka. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Karnataka electricity",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_037",
+      "name": "MESCOM",
+      "domain": "mescom.karnataka.gov.in",
+      "canonical_url": "https://mescom.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "MESCOM is an electricity distribution utility serving Karnataka. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Karnataka electricity",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_038",
+      "name": "Kerala State Electricity Board (KSEB)",
+      "domain": "wss.kseb.in",
+      "canonical_url": "https://wss.kseb.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Kerala State Electricity Board (KSEB) is an electricity distribution utility serving Kerala. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Kerala electricity",
+        "Kerala online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_039",
+      "name": "Adani Electricity Mumbai",
+      "domain": "www.adanielectricity.com",
+      "canonical_url": "https://www.adanielectricity.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Adani Electricity Mumbai is an electricity distribution utility serving Maharashtra. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Maharashtra electricity",
+        "Maharashtra online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_040",
+      "name": "MSEDCL / Mahavitaran",
+      "domain": "www.mahadiscom.in",
+      "canonical_url": "https://www.mahadiscom.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "MSEDCL / Mahavitaran is an electricity distribution utility serving Maharashtra. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Maharashtra electricity",
+        "Maharashtra online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_041",
+      "name": "Tata Power",
+      "domain": "www.tatapower.com",
+      "canonical_url": "https://www.tatapower.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Tata Power is an electricity distribution utility serving India. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_042",
+      "name": "Torrent Power",
+      "domain": "www.torrentpower.com",
+      "canonical_url": "https://www.torrentpower.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Torrent Power is an electricity distribution utility serving India. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_043",
+      "name": "TP Central Odisha Distribution (TPCODL)",
+      "domain": "www.tpcentralodisha.com",
+      "canonical_url": "https://www.tpcentralodisha.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "TP Central Odisha Distribution (TPCODL) is an electricity distribution utility serving Odisha. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Odisha",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Odisha electricity",
+        "Odisha online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_044",
+      "name": "Tamil Nadu Electricity utility",
+      "domain": "www.tangedco.gov.in",
+      "canonical_url": "https://www.tangedco.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Tamil Nadu Electricity utility is an electricity distribution utility serving Tamil Nadu. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Tamil Nadu electricity",
+        "Tamil Nadu online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_045",
+      "name": "Telangana Northern Power Distribution (TGNPDCL)",
+      "domain": "www.tgnpdcl.com",
+      "canonical_url": "https://www.tgnpdcl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Telangana Northern Power Distribution (TGNPDCL) is an electricity distribution utility serving Telangana. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Telangana electricity",
+        "Telangana online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_046",
+      "name": "Telangana Southern Power Distribution (TGSPDCL)",
+      "domain": "www.tgsouthernpower.com",
+      "canonical_url": "https://www.tgsouthernpower.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Telangana Southern Power Distribution (TGSPDCL) is an electricity distribution utility serving Telangana. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Telangana electricity",
+        "Telangana online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_047",
+      "name": "Uttar Pradesh Power Corporation (UPPCL)",
+      "domain": "www.upenergy.in",
+      "canonical_url": "https://www.upenergy.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Uttar Pradesh Power Corporation (UPPCL) is an electricity distribution utility serving Uttar Pradesh. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "Uttar Pradesh electricity",
+        "Uttar Pradesh online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_048",
+      "name": "West Bengal State Electricity Distribution (WBSEDCL)",
+      "domain": "www.wbsedcl.in",
+      "canonical_url": "https://www.wbsedcl.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "West Bengal State Electricity Distribution (WBSEDCL) is an electricity distribution utility serving West Bengal. Its official portal provides consumer services such as bill viewing and payment, service requests, supply information and connection-related guidance, subject to the utility's service area.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "Electricity Utility",
+        "Electricity Bill Payment",
+        "Consumer Services",
+        "Power Distribution"
+      ],
+      "keywords": [
+        "electricity bill payment",
+        "check electricity bill",
+        "power bill online",
+        "electricity consumer number",
+        "new electricity connection",
+        "electricity complaint",
+        "power outage information",
+        "meter reading",
+        "bill download",
+        "electricity customer care",
+        "online payment",
+        "West Bengal electricity",
+        "West Bengal online services"
+      ],
+      "use_cases": [
+        "View or pay an electricity bill for a consumer account in the utility's area.",
+        "Submit or follow up on an eligible connection, meter or supply request.",
+        "Find official outage, complaint and electricity-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_049",
+      "name": "BEST Undertaking",
+      "domain": "www.bestundertaking.com",
+      "canonical_url": "https://www.bestundertaking.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "BEST Undertaking operates public transport and electricity distribution services in parts of Mumbai. Its official website provides information and links for relevant consumer and passenger services.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Mumbai Public Utility",
+        "Electricity Services",
+        "City Bus Transport",
+        "Consumer Information"
+      ],
+      "keywords": [
+        "BEST Mumbai",
+        "BEST electricity bill",
+        "Mumbai electricity services",
+        "BEST bus routes",
+        "BEST bus pass",
+        "BEST undertaking online services",
+        "electricity complaint Mumbai",
+        "BEST customer care",
+        "Maharashtra electricity transport",
+        "Maharashtra online services"
+      ],
+      "use_cases": [
+        "Find electricity consumer information and service links for BEST's distribution area.",
+        "Access BEST bus and public transport information in Mumbai.",
+        "Locate official passenger or electricity customer-support channels."
+      ]
+    },
+    {
+      "id": "utilities_india_050",
+      "name": "RBI Sachet",
+      "domain": "sachet.rbi.org.in",
+      "canonical_url": "https://sachet.rbi.org.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RBI Sachet is an official Reserve Bank of India portal for consumer-protection information and/or grievance handling relating to regulated financial entities. Eligibility and complaint routes depend on the issue and applicable RBI process.",
+      "source_type": "official_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RBI Consumer Services",
+        "Financial Grievance",
+        "Regulatory Portal",
+        "Consumer Protection"
+      ],
+      "keywords": [
+        "RBI complaint online",
+        "RBI grievance portal",
+        "bank complaint",
+        "NBFC complaint",
+        "financial consumer complaint",
+        "RBI Sachet",
+        "report illegal deposit scheme",
+        "complaint against regulated entity",
+        "RBI CMS",
+        "complaint status"
+      ],
+      "use_cases": [
+        "Find the appropriate RBI consumer-protection or grievance route.",
+        "Submit or track an eligible complaint against a regulated entity.",
+        "Report information about suspected unauthorised deposit-taking where applicable."
+      ]
+    },
+    {
+      "id": "utilities_india_051",
+      "name": "RBI Complaint Management System",
+      "domain": "cms.rbi.org.in",
+      "canonical_url": "https://cms.rbi.org.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "RBI Complaint Management System is an official Reserve Bank of India portal for consumer-protection information and/or grievance handling relating to regulated financial entities. Eligibility and complaint routes depend on the issue and applicable RBI process.",
+      "source_type": "official_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RBI Consumer Services",
+        "Financial Grievance",
+        "Regulatory Portal",
+        "Consumer Protection"
+      ],
+      "keywords": [
+        "RBI complaint online",
+        "RBI grievance portal",
+        "bank complaint",
+        "NBFC complaint",
+        "financial consumer complaint",
+        "RBI Sachet",
+        "report illegal deposit scheme",
+        "complaint against regulated entity",
+        "RBI CMS",
+        "complaint status"
+      ],
+      "use_cases": [
+        "Find the appropriate RBI consumer-protection or grievance route.",
+        "Submit or track an eligible complaint against a regulated entity.",
+        "Report information about suspected unauthorised deposit-taking where applicable."
+      ]
+    },
+    {
+      "id": "utilities_india_052",
+      "name": "Indian Oil Corporation",
+      "domain": "iocl.com",
+      "canonical_url": "https://iocl.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Indian Oil Corporation is an Indian energy and fuel organisation providing information about its fuel, LPG, gas or related consumer services. The official portal links to product, distributor, customer and service information.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Fuel & Energy",
+        "LPG Services",
+        "Gas Consumer Information",
+        "Energy Provider"
+      ],
+      "keywords": [
+        "LPG gas booking",
+        "fuel services India",
+        "gas consumer portal",
+        "LPG distributor",
+        "gas cylinder booking",
+        "LPG subsidy status",
+        "Indane Bharatgas HP Gas",
+        "fuel station information",
+        "gas customer care",
+        "energy services"
+      ],
+      "use_cases": [
+        "Find official fuel, LPG or energy-product information.",
+        "Access the relevant consumer or distributor service portal.",
+        "Locate customer assistance and service information."
+      ]
+    },
+    {
+      "id": "utilities_india_053",
+      "name": "CPGRAMS Public Grievances",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "CPGRAMS is the Government of India's centralised public grievance platform, connected to Union ministries, departments and participating state governments. Citizens can lodge eligible service-delivery grievances and track their status.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Grievances",
+        "Government Portal",
+        "Complaint Tracking",
+        "Citizen Services"
+      ],
+      "keywords": [
+        "CPGRAMS",
+        "pgportal complaint",
+        "government complaint online",
+        "public grievance India",
+        "complaint to ministry",
+        "state government grievance",
+        "track grievance status",
+        "grievance registration number",
+        "government service complaint",
+        "appeal grievance"
+      ],
+      "use_cases": [
+        "Register an eligible grievance about public-service delivery.",
+        "Track a grievance using its registration reference.",
+        "Use the available appeal or feedback process after a grievance response."
+      ]
+    },
+    {
+      "id": "utilities_india_055",
+      "name": "National Portal of India",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The National Portal of India is the Government of India's official information gateway, providing access to government information, departments, public services and official resources.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "National Government Portal",
+        "Government Information",
+        "Citizen Services",
+        "Official Directory"
+      ],
+      "keywords": [
+        "India government portal",
+        "National Portal of India",
+        "government services India",
+        "central government websites",
+        "state government websites",
+        "government department directory",
+        "official public information",
+        "citizen resources"
+      ],
+      "use_cases": [
+        "Find official government departments, portals and public information.",
+        "Locate government services and relevant official resources.",
+        "Navigate to the appropriate central or state government website."
+      ]
+    },
+    {
+      "id": "utilities_india_056",
+      "name": "Goods and Services Tax Portal",
+      "domain": "www.gst.gov.in",
+      "canonical_url": "https://www.gst.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Goods and Services Tax Portal is an official Goods and Services Tax portal for taxpayer-related GST compliance and digital processes, including registration, returns, payments or e-invoicing as applicable to the portal.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "GST Services",
+        "Taxpayer Portal",
+        "Business Compliance",
+        "Government Tax Services"
+      ],
+      "keywords": [
+        "GST portal India",
+        "GST registration",
+        "GST return filing",
+        "pay GST online",
+        "GST challan",
+        "GST invoice",
+        "e invoice portal",
+        "IRN generation",
+        "GST taxpayer login",
+        "GST helpdesk",
+        "GST compliance"
+      ],
+      "use_cases": [
+        "Access GST registration, return and payment services where applicable.",
+        "Complete or manage GST compliance tasks for a registered taxpayer.",
+        "Use the e-invoice portal for eligible invoice registration and related tasks."
+      ]
+    },
+    {
+      "id": "utilities_india_057",
+      "name": "GST e-Invoice System",
+      "domain": "einvoice.gst.gov.in",
+      "canonical_url": "https://einvoice.gst.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GST e-Invoice System is an official Goods and Services Tax portal for taxpayer-related GST compliance and digital processes, including registration, returns, payments or e-invoicing as applicable to the portal.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "GST Services",
+        "Taxpayer Portal",
+        "Business Compliance",
+        "Government Tax Services"
+      ],
+      "keywords": [
+        "GST portal India",
+        "GST registration",
+        "GST return filing",
+        "pay GST online",
+        "GST challan",
+        "GST invoice",
+        "e invoice portal",
+        "IRN generation",
+        "GST taxpayer login",
+        "GST helpdesk",
+        "GST compliance"
+      ],
+      "use_cases": [
+        "Access GST registration, return and payment services where applicable.",
+        "Complete or manage GST compliance tasks for a registered taxpayer.",
+        "Use the e-invoice portal for eligible invoice registration and related tasks."
+      ]
+    },
+    {
+      "id": "utilities_india_058",
+      "name": "Income Tax e-Filing",
+      "domain": "www.incometax.gov.in",
+      "canonical_url": "https://www.incometax.gov.in/iec/foportal/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income Tax e-Filing is an official Income Tax Department website providing taxpayer information and online income-tax services, including return filing, payments, notices, forms and tax guidance as applicable.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Income Tax Services",
+        "Taxpayer Portal",
+        "Government Tax Information",
+        "Online Filing"
+      ],
+      "keywords": [
+        "income tax India",
+        "income tax e filing",
+        "file ITR online",
+        "income tax return status",
+        "pay income tax",
+        "tax refund status",
+        "PAN services",
+        "income tax notice",
+        "tax forms",
+        "income tax customer help"
+      ],
+      "use_cases": [
+        "File an income-tax return or access taxpayer services.",
+        "Check refund, notice or filing-related information.",
+        "Find official tax laws, circulars, forms and guidance."
+      ]
+    },
+    {
+      "id": "utilities_india_059",
+      "name": "Income Tax Department",
+      "domain": "www.incometaxindia.gov.in",
+      "canonical_url": "https://www.incometaxindia.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Income Tax Department is an official Income Tax Department website providing taxpayer information and online income-tax services, including return filing, payments, notices, forms and tax guidance as applicable.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Income Tax Services",
+        "Taxpayer Portal",
+        "Government Tax Information",
+        "Online Filing"
+      ],
+      "keywords": [
+        "income tax India",
+        "income tax e filing",
+        "file ITR online",
+        "income tax return status",
+        "pay income tax",
+        "tax refund status",
+        "PAN services",
+        "income tax notice",
+        "tax forms",
+        "income tax customer help"
+      ],
+      "use_cases": [
+        "File an income-tax return or access taxpayer services.",
+        "Check refund, notice or filing-related information.",
+        "Find official tax laws, circulars, forms and guidance."
+      ]
+    },
+    {
+      "id": "utilities_india_060",
+      "name": "LIC India",
+      "domain": "licindia.in",
+      "canonical_url": "https://licindia.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "LIC India is an Indian insurance provider offering policy and customer information through its official website, including premium-related services, policy details, claims or product information as applicable.",
+      "source_type": "public_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Services",
+        "Policyholder Portal",
+        "Premium Payment",
+        "Insurance Information"
+      ],
+      "keywords": [
+        "insurance premium payment",
+        "LIC policy status",
+        "insurance policy details",
+        "pay insurance premium online",
+        "policy renewal",
+        "insurance claim status",
+        "policyholder services",
+        "insurance customer care",
+        "insurance products India"
+      ],
+      "use_cases": [
+        "Find policy and product information from the insurer.",
+        "Access premium payment or renewal facilities where available.",
+        "Locate policy servicing, claims and customer-support resources."
+      ]
+    },
+    {
+      "id": "utilities_india_061",
+      "name": "New India Assurance",
+      "domain": "www.newindia.co.in",
+      "canonical_url": "https://www.newindia.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "New India Assurance is an Indian insurance provider offering policy and customer information through its official website, including premium-related services, policy details, claims or product information as applicable.",
+      "source_type": "public_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Services",
+        "Policyholder Portal",
+        "Premium Payment",
+        "Insurance Information"
+      ],
+      "keywords": [
+        "insurance premium payment",
+        "LIC policy status",
+        "insurance policy details",
+        "pay insurance premium online",
+        "policy renewal",
+        "insurance claim status",
+        "policyholder services",
+        "insurance customer care",
+        "insurance products India"
+      ],
+      "use_cases": [
+        "Find policy and product information from the insurer.",
+        "Access premium payment or renewal facilities where available.",
+        "Locate policy servicing, claims and customer-support resources."
+      ]
+    },
+    {
+      "id": "utilities_india_062",
+      "name": "Bharatgas Consumer Portal",
+      "domain": "my.ebharatgas.com",
+      "canonical_url": "https://my.ebharatgas.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bharatgas Consumer Portal is an official LPG consumer service portal for the named Indian cooking-gas brand, providing booking, refill, distributor, subsidy or account-related information and services.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "LPG Consumer Services",
+        "Gas Cylinder Booking",
+        "Refill Management",
+        "Consumer Portal"
+      ],
+      "keywords": [
+        "LPG cylinder booking",
+        "book gas refill online",
+        "gas booking status",
+        "LPG consumer number",
+        "gas subsidy status",
+        "LPG distributor",
+        "gas connection",
+        "refill delivery status",
+        "LPG customer care",
+        "Bharatgas HP Gas Indane"
+      ],
+      "use_cases": [
+        "Book or check the status of an LPG cylinder refill.",
+        "Find distributor, connection or consumer-account information.",
+        "Access subsidy and other LPG consumer services where available."
+      ]
+    },
+    {
+      "id": "utilities_india_063",
+      "name": "HP Gas Consumer Portal",
+      "domain": "myhpgas.in",
+      "canonical_url": "https://myhpgas.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "HP Gas Consumer Portal is an official LPG consumer service portal for the named Indian cooking-gas brand, providing booking, refill, distributor, subsidy or account-related information and services.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "LPG Consumer Services",
+        "Gas Cylinder Booking",
+        "Refill Management",
+        "Consumer Portal"
+      ],
+      "keywords": [
+        "LPG cylinder booking",
+        "book gas refill online",
+        "gas booking status",
+        "LPG consumer number",
+        "gas subsidy status",
+        "LPG distributor",
+        "gas connection",
+        "refill delivery status",
+        "LPG customer care",
+        "Bharatgas HP Gas Indane"
+      ],
+      "use_cases": [
+        "Book or check the status of an LPG cylinder refill.",
+        "Find distributor, connection or consumer-account information.",
+        "Access subsidy and other LPG consumer services where available."
+      ]
+    },
+    {
+      "id": "utilities_india_064",
+      "name": "Indane LPG Consumer Portal",
+      "domain": "cx.indianoil.in",
+      "canonical_url": "https://cx.indianoil.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Indane LPG Consumer Portal is an official LPG consumer service portal for the named Indian cooking-gas brand, providing booking, refill, distributor, subsidy or account-related information and services.",
+      "source_type": "official_utility_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "LPG Consumer Services",
+        "Gas Cylinder Booking",
+        "Refill Management",
+        "Consumer Portal"
+      ],
+      "keywords": [
+        "LPG cylinder booking",
+        "book gas refill online",
+        "gas booking status",
+        "LPG consumer number",
+        "gas subsidy status",
+        "LPG distributor",
+        "gas connection",
+        "refill delivery status",
+        "LPG customer care",
+        "Bharatgas HP Gas Indane"
+      ],
+      "use_cases": [
+        "Book or check the status of an LPG cylinder refill.",
+        "Find distributor, connection or consumer-account information.",
+        "Access subsidy and other LPG consumer services where available."
+      ]
+    },
+    {
+      "id": "utilities_india_065",
+      "name": "Maharashtra Municipal Corporation Portal",
+      "domain": "www.maharashtra.gov.in",
+      "canonical_url": "https://www.maharashtra.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra Municipal Corporation Portal is a directory-style entry for municipal corporations and local civic authorities in Maharashtra. It helps residents identify the relevant local body and reach its official civic-service portal.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Municipal Directory",
+        "Local Government",
+        "Civic Services",
+        "Maharashtra"
+      ],
+      "keywords": [
+        "Maharashtra municipal corporation",
+        "municipal corporation list",
+        "municipal services Maharashtra",
+        "local body website",
+        "property tax municipal corporation",
+        "water bill municipal corporation",
+        "civic complaint",
+        "city municipal portal",
+        "urban local body"
+      ],
+      "use_cases": [
+        "Identify the municipal corporation responsible for a city or locality in Maharashtra.",
+        "Find the official local-body portal for property, water or civic services.",
+        "Navigate to the appropriate municipal authority for a civic request."
+      ]
+    },
+    {
+      "id": "utilities_india_066",
+      "name": "Brihanmumbai Municipal Corporation (BMC/MCGM)",
+      "domain": "portal.mcgm.gov.in",
+      "canonical_url": "https://portal.mcgm.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Brihanmumbai Municipal Corporation (BMC/MCGM) is the municipal authority portal for Mumbai, Maharashtra, providing civic administration information and relevant local services, which may include property tax, water charges, municipal records and citizen complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Mumbai, Maharashtra",
+      "labels": [
+        "Municipal Services",
+        "Property Tax",
+        "Water Services",
+        "Local Government"
+      ],
+      "keywords": [
+        "municipal corporation services",
+        "property tax payment",
+        "water bill payment",
+        "civic complaint",
+        "municipal tax receipt",
+        "property assessment",
+        "water connection",
+        "local government portal",
+        "citizen services",
+        "Mumbai, Maharashtra municipal services"
+      ],
+      "use_cases": [
+        "Find municipal information and services for the relevant city or jurisdiction.",
+        "Access property-tax or water-related services where offered online.",
+        "Locate civic complaint and local-government contact channels."
+      ]
+    },
+    {
+      "id": "utilities_india_067",
+      "name": "Indraprastha Gas (IGL)",
+      "domain": "www.iglonline.net",
+      "canonical_url": "https://www.iglonline.net/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Indraprastha Gas (IGL) is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Delhi NCR",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "Indraprastha Gas (IGL)",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_068",
+      "name": "Gujarat Gas",
+      "domain": "www.gujaratgas.com",
+      "canonical_url": "https://www.gujaratgas.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Gujarat Gas is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "Gujarat Gas",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_069",
+      "name": "Mahanagar Gas",
+      "domain": "www.mahanagargas.com",
+      "canonical_url": "https://www.mahanagargas.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Mahanagar Gas is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "Mahanagar Gas",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_070",
+      "name": "Maharashtra Natural Gas (MNGL)",
+      "domain": "www.mngl.in",
+      "canonical_url": "https://www.mngl.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra Natural Gas (MNGL) is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "Maharashtra Natural Gas (MNGL)",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_071",
+      "name": "Adani Total Gas",
+      "domain": "www.adanigas.com",
+      "canonical_url": "https://www.adanigas.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Adani Total Gas is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "Adani Total Gas",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_072",
+      "name": "GAIL Gas",
+      "domain": "gailgas.com",
+      "canonical_url": "https://gailgas.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "GAIL Gas is a city-gas or natural-gas provider serving selected authorised geographical areas in India. Its official website provides information about piped natural gas (PNG), compressed natural gas (CNG), new connections, billing and customer services where offered.",
+      "source_type": "official_utility",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Piped Natural Gas",
+        "City Gas Distribution",
+        "Gas Connection",
+        "Consumer Services"
+      ],
+      "keywords": [
+        "GAIL Gas",
+        "piped natural gas",
+        "PNG connection",
+        "CNG station",
+        "city gas provider",
+        "new gas connection",
+        "PNG bill payment",
+        "gas bill",
+        "gas pipeline service",
+        "CNG price",
+        "gas customer care",
+        "check gas availability"
+      ],
+      "use_cases": [
+        "Check whether piped natural gas is available in a locality.",
+        "Request or manage a domestic or commercial PNG connection where supported.",
+        "Find gas billing, CNG and customer-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_073",
+      "name": "India Post / India Post Tracking / India Post Business / Speed Post",
+      "domain": "www.indiapost.gov.in",
+      "canonical_url": "https://www.indiapost.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "India Post is India's national postal operator, providing mail and parcel delivery, Speed Post, tracking, postal financial services and business mailing solutions through its official service portals.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Postal Services",
+        "Speed Post",
+        "Parcel Tracking",
+        "Government Service"
+      ],
+      "keywords": [
+        "India Post",
+        "Speed Post tracking",
+        "track post parcel",
+        "postal tracking",
+        "send parcel India",
+        "post office services",
+        "postal rates",
+        "India Post customer care",
+        "registered post",
+        "business post"
+      ],
+      "use_cases": [
+        "Track a Speed Post, registered article or parcel.",
+        "Find postal rates, post-office and mail-delivery information.",
+        "Access official postal and business mailing services."
+      ]
+    },
+    {
+      "id": "utilities_india_074",
+      "name": "Delhi Municipal Corporation (MCD)",
+      "domain": "mcdonline.nic.in",
+      "canonical_url": "https://mcdonline.nic.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Delhi Municipal Corporation (MCD) is the municipal corporation portal for Delhi, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Delhi property tax",
+        "Delhi online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_075",
+      "name": "Bruhat Bengaluru Mahanagara Palike",
+      "domain": "bbmp.gov.in",
+      "canonical_url": "https://bbmp.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Bruhat Bengaluru Mahanagara Palike is the municipal corporation portal for Bengaluru, Karnataka, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Bengaluru, Karnataka",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Bengaluru, Karnataka property tax",
+        "Bengaluru, Karnataka online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_076",
+      "name": "Thane Municipal Corporation",
+      "domain": "thanecity.gov.in",
+      "canonical_url": "https://thanecity.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Thane Municipal Corporation is the municipal corporation portal for Thane, Maharashtra, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Thane, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Thane, Maharashtra property tax",
+        "Thane, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_077",
+      "name": "Jaipur Municipal Corporation",
+      "domain": "jaipurmc.org",
+      "canonical_url": "https://jaipurmc.org/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Jaipur Municipal Corporation is the municipal corporation portal for Jaipur, Rajasthan, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Jaipur, Rajasthan",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Jaipur, Rajasthan property tax",
+        "Jaipur, Rajasthan online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_078",
+      "name": "Greater Hyderabad Municipal Corporation",
+      "domain": "www.ghmc.gov.in",
+      "canonical_url": "https://www.ghmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Greater Hyderabad Municipal Corporation is the municipal corporation portal for Hyderabad, Telangana, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Hyderabad, Telangana",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Hyderabad, Telangana property tax",
+        "Hyderabad, Telangana online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_079",
+      "name": "Lucknow Municipal Corporation",
+      "domain": "lmc.up.nic.in",
+      "canonical_url": "https://lmc.up.nic.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Lucknow Municipal Corporation is the municipal corporation portal for Lucknow, Uttar Pradesh, providing civic information and property-tax-related services for properties within its jurisdiction.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Lucknow, Uttar Pradesh",
+      "labels": [
+        "Property Tax",
+        "Municipal Corporation",
+        "Civic Payments",
+        "Local Government"
+      ],
+      "keywords": [
+        "property tax payment",
+        "municipal property tax",
+        "pay house tax online",
+        "property tax bill",
+        "property tax receipt",
+        "property assessment",
+        "property tax due date",
+        "municipal tax account",
+        "civic services",
+        "Lucknow, Uttar Pradesh property tax",
+        "Lucknow, Uttar Pradesh online services"
+      ],
+      "use_cases": [
+        "Check or pay property tax for a property within the municipal area.",
+        "Download or review property-tax bills and receipts where supported.",
+        "Find municipal property assessment and tax-service information."
+      ]
+    },
+    {
+      "id": "utilities_india_080",
+      "name": "New Delhi Municipal Council (NDMC)",
+      "domain": "www.ndmc.gov.in",
+      "canonical_url": "https://www.ndmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "New Delhi Municipal Council (NDMC) is the municipal corporation portal for Delhi, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Delhi property tax water",
+        "Delhi online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_081",
+      "name": "Ahmedabad Municipal Corporation",
+      "domain": "ahmedabadcity.gov.in",
+      "canonical_url": "https://ahmedabadcity.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Ahmedabad Municipal Corporation is the municipal corporation portal for Ahmedabad, Gujarat, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Ahmedabad, Gujarat",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Ahmedabad, Gujarat property tax water",
+        "Ahmedabad, Gujarat online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_082",
+      "name": "Rajkot Municipal Corporation",
+      "domain": "www.rmc.gov.in",
+      "canonical_url": "https://www.rmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Rajkot Municipal Corporation is the municipal corporation portal for Rajkot, Gujarat, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Rajkot, Gujarat",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Rajkot, Gujarat property tax water",
+        "Rajkot, Gujarat online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_083",
+      "name": "Surat Municipal Corporation",
+      "domain": "www.suratmunicipal.gov.in",
+      "canonical_url": "https://www.suratmunicipal.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Surat Municipal Corporation is the municipal corporation portal for Surat, Gujarat, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Surat, Gujarat",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Surat, Gujarat property tax water",
+        "Surat, Gujarat online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_084",
+      "name": "Vadodara Municipal Corporation",
+      "domain": "vmc.gov.in",
+      "canonical_url": "https://vmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Vadodara Municipal Corporation is the municipal corporation portal for Vadodara, Gujarat, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Vadodara, Gujarat",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Vadodara, Gujarat property tax water",
+        "Vadodara, Gujarat online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_085",
+      "name": "Mira-Bhayandar Municipal Corporation",
+      "domain": "mbmc.gov.in",
+      "canonical_url": "https://www.mbmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Mira-Bhayandar Municipal Corporation is the municipal corporation portal for Mira-Bhayandar, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Mira-Bhayandar, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Mira-Bhayandar, Maharashtra property tax water",
+        "Mira-Bhayandar, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_086",
+      "name": "Nagpur Municipal Corporation",
+      "domain": "www.nmcnagpur.gov.in",
+      "canonical_url": "https://www.nmcnagpur.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Nagpur Municipal Corporation is the municipal corporation portal for Nagpur, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Nagpur, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Nagpur, Maharashtra property tax water",
+        "Nagpur, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_087",
+      "name": "Navi Mumbai Municipal Corporation",
+      "domain": "www.nmmc.gov.in",
+      "canonical_url": "https://www.nmmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Navi Mumbai Municipal Corporation is the municipal corporation portal for Navi Mumbai, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Navi Mumbai, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Navi Mumbai, Maharashtra property tax water",
+        "Navi Mumbai, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_088",
+      "name": "Pimpri Chinchwad Municipal Corporation",
+      "domain": "www.pcmcindia.gov.in",
+      "canonical_url": "https://www.pcmcindia.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Pimpri Chinchwad Municipal Corporation is the municipal corporation portal for Pimpri-Chinchwad, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Pimpri-Chinchwad, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Pimpri-Chinchwad, Maharashtra property tax water",
+        "Pimpri-Chinchwad, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_089",
+      "name": "Pune Municipal Corporation",
+      "domain": "www.pmc.gov.in",
+      "canonical_url": "https://www.pmc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Pune Municipal Corporation is the municipal corporation portal for Pune, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Pune, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Pune, Maharashtra property tax water",
+        "Pune, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_090",
+      "name": "Vasai Virar City Municipal Corporation",
+      "domain": "vvcmc.in",
+      "canonical_url": "https://vvcmc.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Vasai Virar City Municipal Corporation is the municipal corporation portal for Vasai-Virar, Maharashtra, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government_candidate",
+      "review_required": true,
+      "region": "Vasai-Virar, Maharashtra",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Vasai-Virar, Maharashtra property tax water",
+        "Vasai-Virar, Maharashtra online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_091",
+      "name": "Greater Chennai Corporation",
+      "domain": "chennaicorporation.gov.in",
+      "canonical_url": "https://chennaicorporation.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Greater Chennai Corporation is the municipal corporation portal for Chennai, Tamil Nadu, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Chennai, Tamil Nadu",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Chennai, Tamil Nadu property tax water",
+        "Chennai, Tamil Nadu online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_092",
+      "name": "Kolkata Municipal Corporation",
+      "domain": "www.kmcgov.in",
+      "canonical_url": "https://www.kmcgov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Kolkata Municipal Corporation is the municipal corporation portal for Kolkata, West Bengal, providing civic services and information that may include property tax, water charges, assessments and local complaints.",
+      "source_type": "official_local_government",
+      "review_required": true,
+      "region": "Kolkata, West Bengal",
+      "labels": [
+        "Property Tax",
+        "Water Charges",
+        "Municipal Services",
+        "Civic Payments"
+      ],
+      "keywords": [
+        "property tax payment",
+        "water bill payment",
+        "municipal tax receipt",
+        "house tax online",
+        "water charges",
+        "property assessment",
+        "municipal complaint",
+        "civic services",
+        "local government portal",
+        "Kolkata, West Bengal property tax water",
+        "Kolkata, West Bengal online services"
+      ],
+      "use_cases": [
+        "Access property-tax services for a property in the municipal jurisdiction.",
+        "Find water-charge information or payment facilities where available.",
+        "Locate local civic services and complaint channels."
+      ]
+    },
+    {
+      "id": "utilities_india_093",
+      "name": "Indian Railways Passenger Services",
+      "domain": "www.indianrail.gov.in",
+      "canonical_url": "https://www.indianrail.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Indian Railways is India's national rail transport system. This passenger information entry helps users reach official train, station, timetable, safety, policy and railway-service resources.",
+      "source_type": "public_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Indian Railways",
+        "Passenger Information",
+        "Train Services",
+        "National Transport"
+      ],
+      "keywords": [
+        "Indian Railways",
+        "train enquiry",
+        "train schedule",
+        "railway station information",
+        "train running status",
+        "railway passenger services",
+        "train timetable India",
+        "railway helpline",
+        "railway rules",
+        "railway updates"
+      ],
+      "use_cases": [
+        "Find official passenger and railway-service information.",
+        "Look up railway policies, notices and station or train resources.",
+        "Navigate to the appropriate official train enquiry or booking service."
+      ]
+    },
+    {
+      "id": "utilities_india_094",
+      "name": "IRCTC",
+      "domain": "www.irctc.co.in",
+      "canonical_url": "https://www.irctc.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "IRCTC is the Indian Railways online ticketing and tourism services platform, supporting reserved train ticket bookings, passenger account services and related travel information.",
+      "source_type": "public_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Train Ticket Booking",
+        "IRCTC",
+        "Railway Reservations",
+        "Travel Services"
+      ],
+      "keywords": [
+        "IRCTC",
+        "train ticket booking",
+        "book railway ticket online",
+        "PNR status",
+        "train seat availability",
+        "Tatkal ticket",
+        "train fare",
+        "ticket cancellation",
+        "IRCTC login",
+        "railway reservation"
+      ],
+      "use_cases": [
+        "Book reserved train tickets and check seat availability.",
+        "Check PNR status and manage an existing reservation.",
+        "Access eligible railway tourism and passenger booking services."
+      ]
+    },
+    {
+      "id": "utilities_india_095",
+      "name": "Delhi Transport Department",
+      "domain": "transport.delhi.gov.in",
+      "canonical_url": "https://transport.delhi.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Delhi Transport Department is the official transport department portal for Delhi, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Delhi road tax rto",
+        "Delhi online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_096",
+      "name": "Gujarat Transport Department",
+      "domain": "cot.gujarat.gov.in",
+      "canonical_url": "https://cot.gujarat.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Gujarat Transport Department is the official transport department portal for Gujarat, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Gujarat road tax rto",
+        "Gujarat online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_097",
+      "name": "Karnataka Transport Department",
+      "domain": "transport.karnataka.gov.in",
+      "canonical_url": "https://transport.karnataka.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Karnataka Transport Department is the official transport department portal for Karnataka, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Karnataka road tax rto",
+        "Karnataka online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_098",
+      "name": "Kerala Motor Vehicles Department",
+      "domain": "mvd.kerala.gov.in",
+      "canonical_url": "https://mvd.kerala.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Kerala Motor Vehicles Department is the official transport department portal for Kerala, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Kerala road tax rto",
+        "Kerala online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_099",
+      "name": "Maharashtra Motor Vehicle Department",
+      "domain": "transport.maharashtra.gov.in",
+      "canonical_url": "https://transport.maharashtra.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Maharashtra Motor Vehicle Department is the official transport department portal for Maharashtra, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Maharashtra road tax rto",
+        "Maharashtra online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_100",
+      "name": "Rajasthan Transport Department",
+      "domain": "transport.rajasthan.gov.in",
+      "canonical_url": "https://transport.rajasthan.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Rajasthan Transport Department is the official transport department portal for Rajasthan, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Rajasthan road tax rto",
+        "Rajasthan online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_101",
+      "name": "Tamil Nadu Transport Department",
+      "domain": "tnsta.gov.in",
+      "canonical_url": "https://tnsta.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Tamil Nadu Transport Department is the official transport department portal for Tamil Nadu, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government_candidate",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Tamil Nadu road tax rto",
+        "Tamil Nadu online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_102",
+      "name": "Uttar Pradesh Transport Department",
+      "domain": "uptransport.upsdc.gov.in",
+      "canonical_url": "https://uptransport.upsdc.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_domain_candidate"
+      },
+      "description": "Uttar Pradesh Transport Department is the official transport department portal for Uttar Pradesh, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government_candidate",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "Uttar Pradesh road tax rto",
+        "Uttar Pradesh online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_103",
+      "name": "West Bengal Transport Department",
+      "domain": "transport.wb.gov.in",
+      "canonical_url": "https://transport.wb.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "West Bengal Transport Department is the official transport department portal for West Bengal, providing state-level motor-vehicle and road-transport information and online services.",
+      "source_type": "official_state_government",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "Transport Department",
+        "RTO Services",
+        "Vehicle & Licence Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "transport department",
+        "RTO online services",
+        "vehicle registration",
+        "driving licence",
+        "road tax payment",
+        "vehicle tax",
+        "permit services",
+        "traffic challan",
+        "RTO appointment",
+        "state transport portal",
+        "West Bengal road tax rto",
+        "West Bengal online services"
+      ],
+      "use_cases": [
+        "Find state transport department and RTO service information.",
+        "Access eligible vehicle, licence, permit or road-tax services.",
+        "Locate official forms, notices and transport-related assistance."
+      ]
+    },
+    {
+      "id": "utilities_india_104",
+      "name": "FASTag / National Highways Authority of India",
+      "domain": "nhai.gov.in",
+      "canonical_url": "https://nhai.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "FASTag is India's electronic toll collection programme, implemented through the national highway tolling framework. The relevant issuer bank or authorised channel handles FASTag account recharge and customer account services.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "FASTag",
+        "Electronic Toll Collection",
+        "National Highways",
+        "Road Travel"
+      ],
+      "keywords": [
+        "FASTag recharge",
+        "FASTag balance check",
+        "FASTag statement",
+        "FASTag complaints",
+        "toll payment",
+        "NHAI FASTag",
+        "FASTag blacklisted",
+        "FASTag customer care",
+        "toll plaza",
+        "highway travel"
+      ],
+      "use_cases": [
+        "Find official information about electronic toll collection on national highways.",
+        "Identify the appropriate issuer or authorised channel for FASTag account services.",
+        "Find guidance about toll payments, disputes and FASTag support."
+      ]
+    },
+    {
+      "id": "utilities_india_105",
+      "name": "Parivahan Sewa",
+      "domain": "parivahan.gov.in",
+      "canonical_url": "https://parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Parivahan Sewa is the Ministry of Road Transport and Highways' national online gateway for vehicle and driving-licence services, linking users to state transport systems and related applications.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "National Transport Portal",
+        "RTO Services",
+        "Vehicle Registration",
+        "Driving Licence"
+      ],
+      "keywords": [
+        "Parivahan Sewa",
+        "RTO services online",
+        "driving licence India",
+        "vehicle registration online",
+        "VAHAN services",
+        "SARATHI services",
+        "vehicle tax",
+        "permit application",
+        "licence renewal",
+        "traffic challan"
+      ],
+      "use_cases": [
+        "Navigate to vehicle-registration and driving-licence services.",
+        "Access the appropriate state transport service through the national gateway.",
+        "Find official vehicle and RTO application information."
+      ]
+    },
+    {
+      "id": "utilities_india_106",
+      "name": "EPFO",
+      "domain": "www.epfindia.gov.in",
+      "canonical_url": "https://www.epfindia.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Employees' Provident Fund Organisation administers provident-fund, pension and insurance-related social-security schemes for eligible employees and employers in India.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Social Security",
+        "Employee Benefits",
+        "Employer Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "EPFO",
+        "EPF balance check",
+        "PF passbook",
+        "UAN login",
+        "PF withdrawal",
+        "EPF claim status",
+        "provident fund transfer",
+        "pension services",
+        "employer EPF registration",
+        "EPFO grievance"
+      ],
+      "use_cases": [
+        "Check provident-fund account and passbook information.",
+        "Submit or track eligible PF withdrawal, transfer or pension-related claims.",
+        "Access employer registration and contribution services."
+      ]
+    },
+    {
+      "id": "utilities_india_107",
+      "name": "ESIC",
+      "domain": "www.esic.gov.in",
+      "canonical_url": "https://www.esic.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "The Employees' State Insurance Corporation administers the Employees' State Insurance scheme, providing eligible insured employees and employers access to health and social-security benefits.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Social Security",
+        "Employee Benefits",
+        "Employer Services",
+        "Government Portal"
+      ],
+      "keywords": [
+        "ESIC",
+        "ESI registration",
+        "ESI contribution",
+        "insured person login",
+        "ESIC Pehchan card",
+        "ESI benefits",
+        "ESIC hospital",
+        "employer ESIC registration",
+        "ESIC claim",
+        "ESIC services"
+      ],
+      "use_cases": [
+        "Access insured-person or employer services under the ESI scheme.",
+        "Find information about eligibility, contributions and medical benefits.",
+        "Locate ESIC dispensary, hospital and scheme resources."
+      ]
+    },
+    {
+      "id": "utilities_india_109",
+      "name": "Airtel",
+      "domain": "www.airtel.in",
+      "canonical_url": "https://www.airtel.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Airtel is an Indian telecommunications provider offering mobile, fixed-line, broadband or related connectivity services. Availability and plan details depend on the service area and technology.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Services",
+        "Mobile & Internet",
+        "Recharge & Billing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "mobile network",
+        "SIM card",
+        "mobile recharge",
+        "prepaid recharge",
+        "postpaid bill payment",
+        "broadband plans",
+        "fiber internet",
+        "network coverage",
+        "data plans",
+        "telecom customer care",
+        "new connection"
+      ],
+      "use_cases": [
+        "Compare mobile or broadband plans available in a service area.",
+        "Recharge a prepaid connection or pay a postpaid bill.",
+        "Check coverage, manage an account or find customer support."
+      ]
+    },
+    {
+      "id": "utilities_india_110",
+      "name": "BSNL",
+      "domain": "www.bsnl.co.in",
+      "canonical_url": "https://www.bsnl.co.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "BSNL is an Indian telecommunications provider offering mobile, fixed-line, broadband or related connectivity services. Availability and plan details depend on the service area and technology.",
+      "source_type": "public_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Services",
+        "Mobile & Internet",
+        "Recharge & Billing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "mobile network",
+        "SIM card",
+        "mobile recharge",
+        "prepaid recharge",
+        "postpaid bill payment",
+        "broadband plans",
+        "fiber internet",
+        "network coverage",
+        "data plans",
+        "telecom customer care",
+        "new connection"
+      ],
+      "use_cases": [
+        "Compare mobile or broadband plans available in a service area.",
+        "Recharge a prepaid connection or pay a postpaid bill.",
+        "Check coverage, manage an account or find customer support."
+      ]
+    },
+    {
+      "id": "utilities_india_111",
+      "name": "Jio",
+      "domain": "www.jio.com",
+      "canonical_url": "https://www.jio.com/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Jio is an Indian telecommunications provider offering mobile, fixed-line, broadband or related connectivity services. Availability and plan details depend on the service area and technology.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Services",
+        "Mobile & Internet",
+        "Recharge & Billing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "mobile network",
+        "SIM card",
+        "mobile recharge",
+        "prepaid recharge",
+        "postpaid bill payment",
+        "broadband plans",
+        "fiber internet",
+        "network coverage",
+        "data plans",
+        "telecom customer care",
+        "new connection"
+      ],
+      "use_cases": [
+        "Compare mobile or broadband plans available in a service area.",
+        "Recharge a prepaid connection or pay a postpaid bill.",
+        "Check coverage, manage an account or find customer support."
+      ]
+    },
+    {
+      "id": "utilities_india_112",
+      "name": "Vi",
+      "domain": "www.myvi.in",
+      "canonical_url": "https://www.myvi.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "Vi is an Indian telecommunications provider offering mobile, fixed-line, broadband or related connectivity services. Availability and plan details depend on the service area and technology.",
+      "source_type": "private_service_provider",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Telecom Services",
+        "Mobile & Internet",
+        "Recharge & Billing",
+        "Customer Account"
+      ],
+      "keywords": [
+        "mobile network",
+        "SIM card",
+        "mobile recharge",
+        "prepaid recharge",
+        "postpaid bill payment",
+        "broadband plans",
+        "fiber internet",
+        "network coverage",
+        "data plans",
+        "telecom customer care",
+        "new connection"
+      ],
+      "use_cases": [
+        "Compare mobile or broadband plans available in a service area.",
+        "Recharge a prepaid connection or pay a postpaid bill.",
+        "Check coverage, manage an account or find customer support."
+      ]
+    },
+    {
+      "id": "utilities_india_113",
+      "name": "VAHAN Citizen Services",
+      "domain": "vahan.parivahan.gov.in",
+      "canonical_url": "https://vahan.parivahan.gov.in/",
+      "category": "utilities-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "VAHAN Citizen Services is the Government of India's vehicle-registration service platform, providing access to selected vehicle-related transactions through the national transport system and state RTOs.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Vehicle Registration",
+        "VAHAN Portal",
+        "RTO Services",
+        "Government Transport"
+      ],
+      "keywords": [
+        "VAHAN citizen services",
+        "vehicle registration online",
+        "RC status",
+        "vehicle details",
+        "RC transfer",
+        "vehicle ownership transfer",
+        "duplicate RC",
+        "vehicle tax payment",
+        "RTO vehicle services",
+        "registration certificate"
+      ],
+      "use_cases": [
+        "Access vehicle-registration and registration-certificate services.",
+        "Check vehicle-related application or transaction information.",
+        "Find the appropriate RTO service for an eligible vehicle request."
+      ]
+    }
+  ]
+}

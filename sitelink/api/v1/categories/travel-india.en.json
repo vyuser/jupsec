@@ -1,0 +1,2486 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "travel-india",
+  "language": "en",
+  "category_name": "Travel India",
+  "count": 62,
+  "urls": [
+    {
+      "id": "travel_india_001",
+      "name": "IRCTC",
+      "domain": "www.irctc.co.in",
+      "canonical_url": "https://www.irctc.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IRCTC is the Indian Railways public-sector platform for online train ticket reservations and related passenger services, including train enquiries, ticket management and railway tourism services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Rail Booking",
+        "Indian Railways",
+        "Passenger Services",
+        "Tourism"
+      ],
+      "keywords": [
+        "IRCTC",
+        "IRCTC train ticket booking",
+        "Indian Railways online reservation",
+        "book train tickets India",
+        "check PNR status",
+        "train seat availability",
+        "train timetable",
+        "train fare enquiry",
+        "IRCTC ticket cancellation",
+        "Tatkal booking",
+        "IRCTC customer support"
+      ],
+      "use_cases": [
+        "Book reserved train tickets and check seat availability.",
+        "Check PNR status, train schedules and fare information.",
+        "Manage bookings, cancellations and passenger travel details."
+      ]
+    },
+    {
+      "id": "travel_india_002",
+      "name": "Indian Railways",
+      "domain": "indianrailways.gov.in",
+      "canonical_url": "https://indianrailways.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Railways is the national railway system of India. Its official portal provides railway organisation information, passenger resources, policies, notices and links to railway services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "National Railways",
+        "Government Transport",
+        "Railway Information",
+        "Passenger Resources"
+      ],
+      "keywords": [
+        "Indian Railways",
+        "Indian railway information",
+        "train services India",
+        "railway zones",
+        "railway divisions",
+        "train rules",
+        "railway passenger information",
+        "railway notifications",
+        "Indian Railways official website"
+      ],
+      "use_cases": [
+        "Find official information about Indian Railways and its zones.",
+        "Access railway policies, notices and organisational information.",
+        "Locate official passenger service resources."
+      ]
+    },
+    {
+      "id": "travel_india_003",
+      "name": "MakeMyTrip",
+      "domain": "www.makemytrip.com",
+      "canonical_url": "https://www.makemytrip.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online travel agency for comparing and booking flights, hotels and other travel services, with trip-management and customer assistance features.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Travel Booking",
+        "Flight Reservations",
+        "Hotel Booking",
+        "Holiday Planning",
+        "Online Travel Agency"
+      ],
+      "keywords": [
+        "flight booking India",
+        "cheap flight tickets",
+        "domestic flights",
+        "international flight booking",
+        "hotel reservations",
+        "holiday packages",
+        "travel deals",
+        "manage travel booking",
+        "flight status",
+        "travel customer support"
+      ],
+      "use_cases": [
+        "Compare flight options and book domestic or international journeys.",
+        "Search for accommodation and holiday packages.",
+        "Review, manage or get support for an existing travel reservation."
+      ]
+    },
+    {
+      "id": "travel_india_004",
+      "name": "Cleartrip",
+      "domain": "www.cleartrip.com",
+      "canonical_url": "https://www.cleartrip.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online travel agency for comparing and booking flights, hotels and other travel services, with trip-management and customer assistance features.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Travel Booking",
+        "Flight Reservations",
+        "Hotel Booking",
+        "Holiday Planning",
+        "Online Travel Agency"
+      ],
+      "keywords": [
+        "flight booking India",
+        "cheap flight tickets",
+        "domestic flights",
+        "international flight booking",
+        "hotel reservations",
+        "holiday packages",
+        "travel deals",
+        "manage travel booking",
+        "flight status",
+        "travel customer support"
+      ],
+      "use_cases": [
+        "Compare flight options and book domestic or international journeys.",
+        "Search for accommodation and holiday packages.",
+        "Review, manage or get support for an existing travel reservation."
+      ]
+    },
+    {
+      "id": "travel_india_005",
+      "name": "Yatra",
+      "domain": "www.yatra.com",
+      "canonical_url": "https://www.yatra.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online travel agency for comparing and booking flights, hotels and other travel services, with trip-management and customer assistance features.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Travel Booking",
+        "Flight Reservations",
+        "Hotel Booking",
+        "Holiday Planning",
+        "Online Travel Agency"
+      ],
+      "keywords": [
+        "flight booking India",
+        "cheap flight tickets",
+        "domestic flights",
+        "international flight booking",
+        "hotel reservations",
+        "holiday packages",
+        "travel deals",
+        "manage travel booking",
+        "flight status",
+        "travel customer support"
+      ],
+      "use_cases": [
+        "Compare flight options and book domestic or international journeys.",
+        "Search for accommodation and holiday packages.",
+        "Review, manage or get support for an existing travel reservation."
+      ]
+    },
+    {
+      "id": "travel_india_006",
+      "name": "Air India",
+      "domain": "www.airindia.com",
+      "canonical_url": "https://www.airindia.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Air India is India's full-service airline, offering domestic and international passenger flights, online reservations, check-in, flight information, baggage guidance and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Indian Airline",
+        "International Flights",
+        "Domestic Flights",
+        "Online Check-in",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "Air India",
+        "Air India flight booking",
+        "international flights from India",
+        "domestic flight tickets",
+        "Air India web check-in",
+        "flight status",
+        "manage booking",
+        "baggage allowance",
+        "seat selection",
+        "Air India customer care"
+      ],
+      "use_cases": [
+        "Search and book Air India domestic or international flights.",
+        "Complete online check-in and review boarding information.",
+        "Check flight status, baggage rules and booking details."
+      ]
+    },
+    {
+      "id": "travel_india_007",
+      "name": "IndiGo",
+      "domain": "www.goindigo.in",
+      "canonical_url": "https://www.goindigo.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian airline website for checking routes and schedules, booking domestic and international flights, managing reservations and accessing passenger travel information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Indian Airline",
+        "Flight Booking",
+        "Domestic Flights",
+        "International Flights",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "flight booking India",
+        "airline ticket booking",
+        "domestic flight deals",
+        "international flight tickets",
+        "web check-in",
+        "flight status",
+        "manage booking",
+        "baggage policy",
+        "seat selection",
+        "airline customer support"
+      ],
+      "use_cases": [
+        "Compare available routes and book airline tickets.",
+        "Check flight status and complete online check-in where offered.",
+        "Manage reservations and review baggage or passenger policies."
+      ]
+    },
+    {
+      "id": "travel_india_008",
+      "name": "Akasa Air",
+      "domain": "www.akasaair.com",
+      "canonical_url": "https://www.akasaair.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian airline website for checking routes and schedules, booking domestic and international flights, managing reservations and accessing passenger travel information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Indian Airline",
+        "Flight Booking",
+        "Domestic Flights",
+        "International Flights",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "flight booking India",
+        "airline ticket booking",
+        "domestic flight deals",
+        "international flight tickets",
+        "web check-in",
+        "flight status",
+        "manage booking",
+        "baggage policy",
+        "seat selection",
+        "airline customer support"
+      ],
+      "use_cases": [
+        "Compare available routes and book airline tickets.",
+        "Check flight status and complete online check-in where offered.",
+        "Manage reservations and review baggage or passenger policies."
+      ]
+    },
+    {
+      "id": "travel_india_009",
+      "name": "SpiceJet",
+      "domain": "www.spicejet.com",
+      "canonical_url": "https://www.spicejet.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian airline website for checking routes and schedules, booking domestic and international flights, managing reservations and accessing passenger travel information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Indian Airline",
+        "Flight Booking",
+        "Domestic Flights",
+        "International Flights",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "flight booking India",
+        "airline ticket booking",
+        "domestic flight deals",
+        "international flight tickets",
+        "web check-in",
+        "flight status",
+        "manage booking",
+        "baggage policy",
+        "seat selection",
+        "airline customer support"
+      ],
+      "use_cases": [
+        "Compare available routes and book airline tickets.",
+        "Check flight status and complete online check-in where offered.",
+        "Manage reservations and review baggage or passenger policies."
+      ]
+    },
+    {
+      "id": "travel_india_010",
+      "name": "Delhi Metro Rail Corporation",
+      "domain": "www.delhimetrorail.com",
+      "canonical_url": "https://www.delhimetrorail.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_011",
+      "name": "Maha Mumbai Metro Operation Corporation",
+      "domain": "www.mmmocl.co.in",
+      "canonical_url": "https://www.mmmocl.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_012",
+      "name": "Bangalore Metro Rail Corporation",
+      "domain": "english.bmrc.co.in",
+      "canonical_url": "https://english.bmrc.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_013",
+      "name": "Chennai Metro Rail",
+      "domain": "chennaimetrorail.org",
+      "canonical_url": "https://chennaimetrorail.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_014",
+      "name": "Kochi Metro Rail",
+      "domain": "corporate.kochimetro.org",
+      "canonical_url": "https://corporate.kochimetro.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_015",
+      "name": "Hyderabad Metro Rail",
+      "domain": "ltmetro.com",
+      "canonical_url": "https://ltmetro.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_016",
+      "name": "Kolkata Metro Railway",
+      "domain": "mtp.indianrailways.gov.in",
+      "canonical_url": "https://mtp.indianrailways.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_017",
+      "name": "Pune Metro",
+      "domain": "punemetrorail.org",
+      "canonical_url": "https://www.punemetrorail.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_018",
+      "name": "Nagpur Metro",
+      "domain": "mahametro.org",
+      "canonical_url": "https://mahametro.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_019",
+      "name": "Gujarat Metro Rail Corporation",
+      "domain": "gujaratmetrorail.com",
+      "canonical_url": "https://www.gujaratmetrorail.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Official metro rail operator information for its named Indian city or network, helping passengers find routes, stations, fares, service updates, travel rules and customer information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Metro Rail",
+        "Urban Public Transport",
+        "Route Information",
+        "Fare & Ticket Information",
+        "Passenger Updates"
+      ],
+      "keywords": [
+        "metro rail India",
+        "metro route map",
+        "metro station list",
+        "metro fare",
+        "metro timings",
+        "first and last metro train",
+        "metro smart card",
+        "metro service updates",
+        "urban rail passenger information"
+      ],
+      "use_cases": [
+        "Plan a city metro journey using route and station information.",
+        "Check fares, service timings and ticket or smart-card guidance.",
+        "Find official passenger notices and service updates."
+      ]
+    },
+    {
+      "id": "travel_india_020",
+      "name": "Maharashtra State Road Transport Corporation",
+      "domain": "msrtc.maharashtra.gov.in",
+      "canonical_url": "https://msrtc.maharashtra.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_021",
+      "name": "Karnataka State Road Transport Corporation",
+      "domain": "ksrtc.karnataka.gov.in",
+      "canonical_url": "https://ksrtc.karnataka.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_022",
+      "name": "Kerala State Road Transport Corporation",
+      "domain": "online.keralartc.com",
+      "canonical_url": "https://online.keralartc.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_023",
+      "name": "Tamil Nadu State Transport Corporation",
+      "domain": "tnstc.in",
+      "canonical_url": "https://www.tnstc.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_024",
+      "name": "Andhra Pradesh State Road Transport Corporation",
+      "domain": "apsrtconline.in",
+      "canonical_url": "https://www.apsrtconline.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_025",
+      "name": "Telangana State Road Transport Corporation",
+      "domain": "tgsrtc.telangana.gov.in",
+      "canonical_url": "https://tgsrtc.telangana.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_026",
+      "name": "Gujarat State Road Transport Corporation",
+      "domain": "gsrtc.in",
+      "canonical_url": "https://gsrtc.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_027",
+      "name": "Rajasthan State Road Transport Corporation",
+      "domain": "rsrtconline.rajasthan.gov.in",
+      "canonical_url": "https://rsrtconline.rajasthan.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_028",
+      "name": "Uttar Pradesh State Road Transport Corporation",
+      "domain": "upsrtc.up.gov.in",
+      "canonical_url": "https://upsrtc.up.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_029",
+      "name": "Haryana Roadways",
+      "domain": "hartrans.gov.in",
+      "canonical_url": "https://hartrans.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_030",
+      "name": "Punjab Roadways / PUNBUS",
+      "domain": "punbusonline.com",
+      "canonical_url": "https://punbusonline.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_031",
+      "name": "West Bengal Transport Corporation",
+      "domain": "wbtconline.in",
+      "canonical_url": "https://wbtconline.in/home",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_032",
+      "name": "Odisha State Road Transport Corporation",
+      "domain": "osrtc.org",
+      "canonical_url": "https://osrtc.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_033",
+      "name": "Bihar State Road Transport Corporation",
+      "domain": "bsrtc.co.in",
+      "canonical_url": "https://bsrtc.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_034",
+      "name": "Assam State Transport Corporation",
+      "domain": "astc.assam.gov.in",
+      "canonical_url": "https://astc.assam.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian state road transport operator portal providing information about public bus services, routes, schedules, fares, passenger facilities and, where available, online ticket booking.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "State Bus Transport",
+        "Public Bus Services",
+        "Intercity Travel",
+        "Route & Schedule Information",
+        "Passenger Services"
+      ],
+      "keywords": [
+        "state bus booking India",
+        "government bus tickets",
+        "intercity bus routes",
+        "state transport bus timetable",
+        "bus fare enquiry",
+        "bus reservation",
+        "bus stand information",
+        "state road transport corporation",
+        "bus passenger services"
+      ],
+      "use_cases": [
+        "Find state-operated bus routes and timetable information.",
+        "Check fares and passenger service notices.",
+        "Book bus tickets online where the operator provides booking facilities."
+      ]
+    },
+    {
+      "id": "travel_india_035",
+      "name": "Delhi Transport Corporation",
+      "domain": "dtc.delhi.gov.in",
+      "canonical_url": "https://dtc.delhi.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_036",
+      "name": "BEST Undertaking",
+      "domain": "bestundertaking.com",
+      "canonical_url": "https://www.bestundertaking.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_037",
+      "name": "PMPML",
+      "domain": "pmpml.org",
+      "canonical_url": "https://pmpml.org/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_038",
+      "name": "Bengaluru Metropolitan Transport Corporation",
+      "domain": "mybmtc.karnataka.gov.in",
+      "canonical_url": "https://mybmtc.karnataka.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_039",
+      "name": "Chennai Metropolitan Transport Corporation",
+      "domain": "mtcbus.tn.gov.in",
+      "canonical_url": "https://mtcbus.tn.gov.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_040",
+      "name": "Kolkata city transport / WBTC",
+      "domain": "wbtconline.in",
+      "canonical_url": "https://wbtconline.in/home",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An Indian city or metropolitan public transport operator website providing bus network information, routes, passenger guidance, service updates and related urban transport resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "City Bus Transport",
+        "Urban Mobility",
+        "Bus Routes",
+        "Passenger Information",
+        "Public Transport"
+      ],
+      "keywords": [
+        "city bus India",
+        "local bus routes",
+        "city bus timetable",
+        "bus route map",
+        "bus pass information",
+        "bus fare",
+        "public transport updates",
+        "city bus services"
+      ],
+      "use_cases": [
+        "Find local bus routes and service information.",
+        "Check passenger facilities, fares or pass guidance where published.",
+        "Review official notices and public transport updates."
+      ]
+    },
+    {
+      "id": "travel_india_041",
+      "name": "Uber India",
+      "domain": "www.uber.com",
+      "canonical_url": "https://www.uber.com/in/en/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An app-based mobility or taxi service operating in India, allowing customers to explore available rides, request transport and access trip, fare and support information, subject to city-level availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Ride Booking",
+        "Taxi & Cab Services",
+        "Urban Mobility",
+        "Airport Transfers",
+        "On-demand Transport"
+      ],
+      "keywords": [
+        "cab booking India",
+        "book taxi online",
+        "ride hailing app",
+        "airport cab",
+        "local taxi service",
+        "bike taxi India",
+        "auto booking",
+        "ride fare estimate",
+        "driver support",
+        "ride customer care"
+      ],
+      "use_cases": [
+        "Request a cab, auto or other available ride in a supported city.",
+        "Check service availability and estimated fares for a journey.",
+        "Arrange local or airport transport and access trip support."
+      ]
+    },
+    {
+      "id": "travel_india_042",
+      "name": "Ola Cabs",
+      "domain": "www.olacabs.com",
+      "canonical_url": "https://www.olacabs.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An app-based mobility or taxi service operating in India, allowing customers to explore available rides, request transport and access trip, fare and support information, subject to city-level availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Ride Booking",
+        "Taxi & Cab Services",
+        "Urban Mobility",
+        "Airport Transfers",
+        "On-demand Transport"
+      ],
+      "keywords": [
+        "cab booking India",
+        "book taxi online",
+        "ride hailing app",
+        "airport cab",
+        "local taxi service",
+        "bike taxi India",
+        "auto booking",
+        "ride fare estimate",
+        "driver support",
+        "ride customer care"
+      ],
+      "use_cases": [
+        "Request a cab, auto or other available ride in a supported city.",
+        "Check service availability and estimated fares for a journey.",
+        "Arrange local or airport transport and access trip support."
+      ]
+    },
+    {
+      "id": "travel_india_043",
+      "name": "Rapido",
+      "domain": "www.rapido.bike",
+      "canonical_url": "https://www.rapido.bike/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An app-based mobility or taxi service operating in India, allowing customers to explore available rides, request transport and access trip, fare and support information, subject to city-level availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Ride Booking",
+        "Taxi & Cab Services",
+        "Urban Mobility",
+        "Airport Transfers",
+        "On-demand Transport"
+      ],
+      "keywords": [
+        "cab booking India",
+        "book taxi online",
+        "ride hailing app",
+        "airport cab",
+        "local taxi service",
+        "bike taxi India",
+        "auto booking",
+        "ride fare estimate",
+        "driver support",
+        "ride customer care"
+      ],
+      "use_cases": [
+        "Request a cab, auto or other available ride in a supported city.",
+        "Check service availability and estimated fares for a journey.",
+        "Arrange local or airport transport and access trip support."
+      ]
+    },
+    {
+      "id": "travel_india_044",
+      "name": "inDrive",
+      "domain": "indrive.com",
+      "canonical_url": "https://indrive.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An app-based mobility or taxi service operating in India, allowing customers to explore available rides, request transport and access trip, fare and support information, subject to city-level availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Ride Booking",
+        "Taxi & Cab Services",
+        "Urban Mobility",
+        "Airport Transfers",
+        "On-demand Transport"
+      ],
+      "keywords": [
+        "cab booking India",
+        "book taxi online",
+        "ride hailing app",
+        "airport cab",
+        "local taxi service",
+        "bike taxi India",
+        "auto booking",
+        "ride fare estimate",
+        "driver support",
+        "ride customer care"
+      ],
+      "use_cases": [
+        "Request a cab, auto or other available ride in a supported city.",
+        "Check service availability and estimated fares for a journey.",
+        "Arrange local or airport transport and access trip support."
+      ]
+    },
+    {
+      "id": "travel_india_045",
+      "name": "Meru Cabs",
+      "domain": "www.meru.in",
+      "canonical_url": "https://www.meru.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An app-based mobility or taxi service operating in India, allowing customers to explore available rides, request transport and access trip, fare and support information, subject to city-level availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Ride Booking",
+        "Taxi & Cab Services",
+        "Urban Mobility",
+        "Airport Transfers",
+        "On-demand Transport"
+      ],
+      "keywords": [
+        "cab booking India",
+        "book taxi online",
+        "ride hailing app",
+        "airport cab",
+        "local taxi service",
+        "bike taxi India",
+        "auto booking",
+        "ride fare estimate",
+        "driver support",
+        "ride customer care"
+      ],
+      "use_cases": [
+        "Request a cab, auto or other available ride in a supported city.",
+        "Check service availability and estimated fares for a journey.",
+        "Arrange local or airport transport and access trip support."
+      ]
+    },
+    {
+      "id": "travel_india_046",
+      "name": "Savaari Car Rentals",
+      "domain": "www.savaari.com",
+      "canonical_url": "https://www.savaari.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Savaari provides chauffeur-driven car rentals in India for outstation journeys, local travel, airport transfers and planned trips, with vehicle and booking information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Car Rental",
+        "Chauffeur-driven Travel",
+        "Outstation Trips",
+        "Airport Transfers",
+        "Local Travel"
+      ],
+      "keywords": [
+        "Savaari car rental",
+        "outstation cab booking",
+        "one way taxi India",
+        "round trip car rental",
+        "airport taxi",
+        "local car rental with driver",
+        "chauffeur driven car",
+        "intercity cab"
+      ],
+      "use_cases": [
+        "Book a car with driver for an outstation journey.",
+        "Arrange airport transfers or local travel.",
+        "Compare trip options and manage a car rental booking."
+      ]
+    },
+    {
+      "id": "travel_india_047",
+      "name": "Zoomcar",
+      "domain": "www.zoomcar.com",
+      "canonical_url": "https://www.zoomcar.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoomcar is a self-drive vehicle rental platform in India, allowing eligible customers to discover available cars, make bookings and review rental and trip requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Self-drive Car Rental",
+        "Vehicle Booking",
+        "Road Trips",
+        "Car Sharing"
+      ],
+      "keywords": [
+        "Zoomcar India",
+        "self drive car rental",
+        "rent a car without driver",
+        "hourly car rental",
+        "weekend car hire",
+        "road trip car rental",
+        "car availability",
+        "Zoomcar booking support"
+      ],
+      "use_cases": [
+        "Find and book a self-drive car for a planned trip.",
+        "Compare available vehicles and rental durations.",
+        "Review booking requirements and manage a reservation."
+      ]
+    },
+    {
+      "id": "travel_india_048",
+      "name": "redBus",
+      "domain": "www.redbus.in",
+      "canonical_url": "https://www.redbus.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An online bus travel platform focused on India, helping passengers search intercity routes, compare operators and schedules, book tickets and access journey or booking support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bus Ticket Booking",
+        "Intercity Travel",
+        "Route Search",
+        "Online Reservations",
+        "Passenger Support"
+      ],
+      "keywords": [
+        "online bus booking India",
+        "intercity bus tickets",
+        "private bus booking",
+        "bus seat availability",
+        "bus timings",
+        "AC sleeper bus",
+        "bus ticket cancellation",
+        "bus booking customer care",
+        "bus operator comparison"
+      ],
+      "use_cases": [
+        "Search bus services between Indian cities and compare available trips.",
+        "Choose seats and book bus tickets online.",
+        "View booking details and access cancellation or journey support."
+      ]
+    },
+    {
+      "id": "travel_india_049",
+      "name": "AbhiBus",
+      "domain": "www.abhibus.com",
+      "canonical_url": "https://www.abhibus.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An online bus travel platform focused on India, helping passengers search intercity routes, compare operators and schedules, book tickets and access journey or booking support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bus Ticket Booking",
+        "Intercity Travel",
+        "Route Search",
+        "Online Reservations",
+        "Passenger Support"
+      ],
+      "keywords": [
+        "online bus booking India",
+        "intercity bus tickets",
+        "private bus booking",
+        "bus seat availability",
+        "bus timings",
+        "AC sleeper bus",
+        "bus ticket cancellation",
+        "bus booking customer care",
+        "bus operator comparison"
+      ],
+      "use_cases": [
+        "Search bus services between Indian cities and compare available trips.",
+        "Choose seats and book bus tickets online.",
+        "View booking details and access cancellation or journey support."
+      ]
+    },
+    {
+      "id": "travel_india_050",
+      "name": "IntrCity SmartBus",
+      "domain": "www.intrcity.com",
+      "canonical_url": "https://www.intrcity.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An online bus travel platform focused on India, helping passengers search intercity routes, compare operators and schedules, book tickets and access journey or booking support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bus Ticket Booking",
+        "Intercity Travel",
+        "Route Search",
+        "Online Reservations",
+        "Passenger Support"
+      ],
+      "keywords": [
+        "online bus booking India",
+        "intercity bus tickets",
+        "private bus booking",
+        "bus seat availability",
+        "bus timings",
+        "AC sleeper bus",
+        "bus ticket cancellation",
+        "bus booking customer care",
+        "bus operator comparison"
+      ],
+      "use_cases": [
+        "Search bus services between Indian cities and compare available trips.",
+        "Choose seats and book bus tickets online.",
+        "View booking details and access cancellation or journey support."
+      ]
+    },
+    {
+      "id": "travel_india_051",
+      "name": "OYO",
+      "domain": "www.oyorooms.com",
+      "canonical_url": "https://www.oyorooms.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "OYO is a hospitality platform offering accommodation discovery and reservations, including hotels and other stays in India and selected international markets.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Hotel Booking",
+        "Accommodation",
+        "Travel Stays",
+        "Online Reservations",
+        "Hospitality"
+      ],
+      "keywords": [
+        "OYO rooms",
+        "hotel booking India",
+        "budget hotels",
+        "book hotel room",
+        "accommodation search",
+        "hotel check-in",
+        "manage hotel reservation",
+        "OYO customer support"
+      ],
+      "use_cases": [
+        "Find and reserve accommodation for a trip.",
+        "Compare available stays and review property details.",
+        "Manage a hotel booking and access reservation support."
+      ]
+    },
+    {
+      "id": "travel_india_052",
+      "name": "Booking.com",
+      "domain": "www.booking.com",
+      "canonical_url": "https://www.booking.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Booking.com is an international travel reservation platform for finding and booking hotels, apartments and other stays, as well as selected flights, car rentals and travel experiences.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Global Travel Booking",
+        "Hotel Reservations",
+        "Accommodation",
+        "Flight & Car Rental Search",
+        "Travel Planning"
+      ],
+      "keywords": [
+        "Booking.com",
+        "hotel booking",
+        "book accommodation worldwide",
+        "apartments and vacation rentals",
+        "flight reservations",
+        "car rental booking",
+        "travel deals",
+        "manage reservation",
+        "hotel cancellation policy"
+      ],
+      "use_cases": [
+        "Search and reserve accommodation in destinations worldwide.",
+        "Compare property options, prices and guest information.",
+        "Manage reservations and review travel booking details."
+      ]
+    },
+    {
+      "id": "travel_india_053",
+      "name": "Airbnb India",
+      "domain": "www.airbnb.co.in",
+      "canonical_url": "https://www.airbnb.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airbnb is an international platform for booking homes and other unique places to stay, along with experiences and related travel services in supported destinations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Global Accommodation",
+        "Holiday Homes",
+        "Short-term Stays",
+        "Travel Experiences",
+        "Online Booking"
+      ],
+      "keywords": [
+        "Airbnb India",
+        "Airbnb homes",
+        "holiday rental",
+        "vacation home booking",
+        "short stay accommodation",
+        "homestay booking",
+        "book a place to stay",
+        "Airbnb experiences",
+        "manage Airbnb reservation"
+      ],
+      "use_cases": [
+        "Find homes and short-stay accommodation for a trip.",
+        "Compare listings, amenities and house rules.",
+        "Manage a reservation or explore available experiences."
+      ]
+    },
+    {
+      "id": "travel_india_054",
+      "name": "Google Maps",
+      "domain": "maps.google.com",
+      "canonical_url": "https://maps.google.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Google Maps is a global mapping and navigation service that helps people find places, view maps, plan routes and explore driving, walking, cycling and public transport directions where available.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Maps & Navigation",
+        "Route Planning",
+        "Location Search",
+        "Public Transport Directions",
+        "Global Mapping"
+      ],
+      "keywords": [
+        "Google Maps",
+        "maps",
+        "directions",
+        "route planner",
+        "navigation app",
+        "find nearby places",
+        "driving directions",
+        "walking directions",
+        "public transport route",
+        "live traffic",
+        "location search"
+      ],
+      "use_cases": [
+        "Find places, addresses and nearby services.",
+        "Plan a route and compare available travel modes.",
+        "Use navigation and review traffic or public transport information."
+      ]
+    },
+    {
+      "id": "travel_india_055",
+      "name": "Swiggy",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online food ordering platform for discovering restaurants or food brands, placing delivery orders and tracking or managing orders in supported locations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Food Ordering",
+        "Restaurant Discovery",
+        "Food Delivery",
+        "Online Orders",
+        "Local Services"
+      ],
+      "keywords": [
+        "food delivery India",
+        "order food online",
+        "restaurant delivery",
+        "food app",
+        "nearby restaurants",
+        "online menu",
+        "track food order",
+        "food order support"
+      ],
+      "use_cases": [
+        "Discover food options and place an order for delivery in a supported area.",
+        "Browse menus and available restaurants or food brands.",
+        "Track an order and access order-related support."
+      ]
+    },
+    {
+      "id": "travel_india_056",
+      "name": "Zomato",
+      "domain": "www.zomato.com",
+      "canonical_url": "https://www.zomato.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online food ordering platform for discovering restaurants or food brands, placing delivery orders and tracking or managing orders in supported locations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Food Ordering",
+        "Restaurant Discovery",
+        "Food Delivery",
+        "Online Orders",
+        "Local Services"
+      ],
+      "keywords": [
+        "food delivery India",
+        "order food online",
+        "restaurant delivery",
+        "food app",
+        "nearby restaurants",
+        "online menu",
+        "track food order",
+        "food order support"
+      ],
+      "use_cases": [
+        "Discover food options and place an order for delivery in a supported area.",
+        "Browse menus and available restaurants or food brands.",
+        "Track an order and access order-related support."
+      ]
+    },
+    {
+      "id": "travel_india_057",
+      "name": "EatSure",
+      "domain": "www.eatsure.com",
+      "canonical_url": "https://www.eatsure.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online food ordering platform for discovering restaurants or food brands, placing delivery orders and tracking or managing orders in supported locations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Food Ordering",
+        "Restaurant Discovery",
+        "Food Delivery",
+        "Online Orders",
+        "Local Services"
+      ],
+      "keywords": [
+        "EatSure",
+        "EatSure food delivery",
+        "order food online India",
+        "restaurant food delivery",
+        "food brands online",
+        "food menu",
+        "track food order",
+        "online food app"
+      ],
+      "use_cases": [
+        "Discover food options and place an order for delivery in a supported area.",
+        "Browse menus and available restaurants or food brands.",
+        "Track an order and access order-related support."
+      ]
+    },
+    {
+      "id": "travel_india_058",
+      "name": "Domino's India",
+      "domain": "www.dominos.co.in",
+      "canonical_url": "https://www.dominos.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-specific restaurant ordering website for browsing the brand's menu, locating participating outlets and placing food orders for delivery or takeaway where available.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Restaurant Ordering",
+        "Food Delivery",
+        "Takeaway",
+        "Online Menu",
+        "Restaurant Locations"
+      ],
+      "keywords": [
+        "Domino's India",
+        "Domino's pizza",
+        "order pizza online",
+        "pizza delivery India",
+        "pizza menu",
+        "nearest Domino's outlet",
+        "track pizza order",
+        "takeaway pizza"
+      ],
+      "use_cases": [
+        "Browse the menu and place a delivery or takeaway order.",
+        "Find participating outlets and check service availability.",
+        "Review order details and track an active order where supported."
+      ]
+    },
+    {
+      "id": "travel_india_059",
+      "name": "Pizza Hut India",
+      "domain": "www.pizzahut.co.in",
+      "canonical_url": "https://www.pizzahut.co.in/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-specific restaurant ordering website for browsing the brand's menu, locating participating outlets and placing food orders for delivery or takeaway where available.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Restaurant Ordering",
+        "Food Delivery",
+        "Takeaway",
+        "Online Menu",
+        "Restaurant Locations"
+      ],
+      "keywords": [
+        "Pizza Hut India",
+        "Pizza Hut menu",
+        "order pizza online",
+        "pizza delivery India",
+        "pizza deals",
+        "nearest Pizza Hut",
+        "track food order",
+        "takeaway pizza"
+      ],
+      "use_cases": [
+        "Browse the menu and place a delivery or takeaway order.",
+        "Find participating outlets and check service availability.",
+        "Review order details and track an active order where supported."
+      ]
+    },
+    {
+      "id": "travel_india_060",
+      "name": "BigBasket",
+      "domain": "www.bigbasket.com",
+      "canonical_url": "https://www.bigbasket.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online grocery and quick-commerce service for browsing everyday essentials and household products and arranging delivery in supported service areas.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Grocery",
+        "Quick Commerce",
+        "Daily Essentials",
+        "Home Delivery",
+        "Local Availability"
+      ],
+      "keywords": [
+        "online grocery India",
+        "grocery delivery",
+        "daily essentials online",
+        "fruits and vegetables delivery",
+        "household products",
+        "quick delivery app",
+        "check delivery availability",
+        "grocery order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and household essentials for home delivery.",
+        "Browse product categories and check local delivery availability.",
+        "Track an order and review delivery or support information."
+      ]
+    },
+    {
+      "id": "travel_india_061",
+      "name": "Blinkit",
+      "domain": "blinkit.com",
+      "canonical_url": "https://blinkit.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online grocery and quick-commerce service for browsing everyday essentials and household products and arranging delivery in supported service areas.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Grocery",
+        "Quick Commerce",
+        "Daily Essentials",
+        "Home Delivery",
+        "Local Availability"
+      ],
+      "keywords": [
+        "online grocery India",
+        "grocery delivery",
+        "daily essentials online",
+        "fruits and vegetables delivery",
+        "household products",
+        "quick delivery app",
+        "check delivery availability",
+        "grocery order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and household essentials for home delivery.",
+        "Browse product categories and check local delivery availability.",
+        "Track an order and review delivery or support information."
+      ]
+    },
+    {
+      "id": "travel_india_062",
+      "name": "Zepto",
+      "domain": "www.zepto.com",
+      "canonical_url": "https://www.zepto.com/",
+      "category": "travel-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "An India-focused online grocery and quick-commerce service for browsing everyday essentials and household products and arranging delivery in supported service areas.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Grocery",
+        "Quick Commerce",
+        "Daily Essentials",
+        "Home Delivery",
+        "Local Availability"
+      ],
+      "keywords": [
+        "online grocery India",
+        "grocery delivery",
+        "daily essentials online",
+        "fruits and vegetables delivery",
+        "household products",
+        "quick delivery app",
+        "check delivery availability",
+        "grocery order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and household essentials for home delivery.",
+        "Browse product categories and check local delivery availability.",
+        "Track an order and review delivery or support information."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4102 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "health-india",
+  "language": "gu",
+  "category_name": "ભારતમાં આરોગ્યસંભાળ",
+  "count": 101,
+  "urls": [
+    {
+      "id": "health_india_001",
+      "name": "આયુષ્માન ભારત ડિજિટલ મિશન",
+      "domain": "abdm.gov.in",
+      "canonical_url": "https://abdm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતનું રાષ્ટ્રીય ડિજિટલ હેલ્થ મિશન, જે વિવિધ સિસ્ટમો વચ્ચે સુસંગત ડિજિટલ આરોગ્ય સેવાઓ તેમજ ડિજિટલ આરોગ્ય રેકોર્ડ બનાવવા અને તેનો ઉપયોગ કરવાની સુવિધાને પ્રોત્સાહન આપે છે.",
+      "source_type": "government_health_scheme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "રાષ્ટ્રીય આરોગ્ય કાર્યક્રમ",
+        "ડિજિટલ હેલ્થ",
+        "આરોગ્ય રેકોર્ડ",
+        "જાહેર આરોગ્ય"
+      ],
+      "keywords": [
+        "Ayushman Bharat Digital Mission",
+        "ABDM ભારત",
+        "ભારતમાં ડિજિટલ હેલ્થ",
+        "ABHA હેલ્થ ID",
+        "ડિજિટલ આરોગ્ય રેકોર્ડ",
+        "આરોગ્ય રેકોર્ડ જોડો",
+        "આરોગ્ય સુવિધાઓની રજિસ્ટ્રી",
+        "આરોગ્યસંભાળ વ્યાવસાયિકોની રજિસ્ટ્રી"
+      ],
+      "use_cases": [
+        "ભારતના ડિજિટલ હેલ્થ ઇકોસિસ્ટમ અને તેમાં ભાગ લેતી સેવાઓ વિશે જાણો",
+        "ડિજિટલ આરોગ્ય રેકોર્ડ અને રજિસ્ટ્રીઓ વિશે સત્તાવાર માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_002",
+      "name": "નેશનલ હેલ્થ ઓથોરિટી",
+      "domain": "nha.gov.in",
+      "canonical_url": "https://nha.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આયુષ્માન ભારતની આરોગ્ય સુરક્ષા પહેલો અને રાષ્ટ્રીય ડિજિટલ હેલ્થ મિશનનો અમલ કરવાની જવાબદારી ધરાવતી ભારત સરકારની સત્તાધિકારી સંસ્થા.",
+      "source_type": "government_health_authority",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી આરોગ્ય સત્તાધિકારી સંસ્થા",
+        "આરોગ્ય યોજનાઓ",
+        "ડિજિટલ હેલ્થ",
+        "જાહેર આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "National Health Authority India",
+        "NHA India",
+        "Ayushman Bharat authority",
+        "PM-JAY માહિતી",
+        "ABDM અમલીકરણ",
+        "સરકારી આરોગ્ય યોજનાઓ",
+        "આરોગ્ય સુરક્ષા કાર્યક્રમ"
+      ],
+      "use_cases": [
+        "રાષ્ટ્રીય આરોગ્ય સુરક્ષા કાર્યક્રમો વિશેની સત્તાવાર માહિતી વાંચો",
+        "કાર્યક્રમની માર્ગદર્શિકા, જાહેરાતો અને જાહેર સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_003",
+      "name": "ABHA",
+      "domain": "abha.abdm.gov.in",
+      "canonical_url": "https://abha.abdm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતના ડિજિટલ હેલ્થ ઇકોસિસ્ટમમાં ઉપયોગ માટે ડિજિટલ આરોગ્ય ખાતું બનાવવા અને તેનું સંચાલન કરવાની સત્તાવાર આયુષ્માન ભારત હેલ્થ એકાઉન્ટ સેવા.",
+      "source_type": "government_digital_health",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ડિજિટલ આરોગ્ય ખાતું",
+        "આરોગ્ય રેકોર્ડ",
+        "ABHA ID",
+        "સરકારી આરોગ્ય સેવા"
+      ],
+      "keywords": [
+        "ABHA નંબર",
+        "ABHA આરોગ્ય ખાતું",
+        "ABHA ID બનાવો",
+        "આયુષ્માન ભારત હેલ્થ એકાઉન્ટ",
+        "ભારતનું ડિજિટલ હેલ્થ ID",
+        "આરોગ્ય ખાતાનું સંચાલન કરો",
+        "આરોગ્ય રેકોર્ડ જોડો"
+      ],
+      "use_cases": [
+        "ABHA આરોગ્ય ખાતું કેવી રીતે બનાવવું અથવા તેમાં પ્રવેશ કેવી રીતે મેળવવો તે જાણો",
+        "ડિજિટલ આરોગ્ય રેકોર્ડ જોડવા અને સંચાલિત કરવા માટેનું સત્તાવાર માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_004",
+      "name": "ઈ-સંજીવની",
+      "domain": "esanjeevani.mohfw.gov.in",
+      "canonical_url": "https://esanjeevani.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારત સરકારની ટેલિમેડિસિન સેવા, જે દર્દીઓને ઉપલબ્ધ જાહેર આરોગ્ય માધ્યમો દ્વારા દૂરથી તબીબી સલાહ મેળવવાની સુવિધા આપે છે.",
+      "source_type": "government_telemedicine",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સરકારી ટેલિમેડિસિન",
+        "ઓનલાઇન ડૉક્ટરની સલાહ",
+        "જાહેર આરોગ્યસંભાળ",
+        "દૂરથી તબીબી સલાહ"
+      ],
+      "keywords": [
+        "eSanjeevani",
+        "સરકારી ઓનલાઇન ડૉક્ટર સલાહ",
+        "ભારતમાં ટેલિમેડિસિન",
+        "વિડિયો દ્વારા ડૉક્ટરની સલાહ",
+        "દૂરથી તબીબી સલાહ",
+        "સરકારી ઓનલાઇન OPD",
+        "દર્દીઓ માટે ટેલિકન્સલ્ટેશન"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ ઓનલાઇન તબીબી સલાહ મેળવવા માટેની સત્તાવાર રીત શોધો",
+        "સરકારી ટેલિમેડિસિન સેવાઓનો ઉપયોગ કરવા માટે દર્દીઓનું માર્ગદર્શન વાંચો"
+      ]
+    },
+    {
+      "id": "health_india_005",
+      "name": "આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલય",
+      "domain": "mohfw.gov.in",
+      "canonical_url": "https://mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારત સરકારનું કેન્દ્રીય આરોગ્ય મંત્રાલય, જે જાહેર આરોગ્ય નીતિ, રાષ્ટ્રીય કાર્યક્રમો, આરોગ્ય સલાહો અને વિભાગીય સેવાઓ અંગે સત્તાવાર માહિતી આપે છે.",
+      "source_type": "government_ministry",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કેન્દ્ર સરકારનું મંત્રાલય",
+        "જાહેર આરોગ્ય",
+        "આરોગ્ય નીતિ",
+        "રાષ્ટ્રીય કાર્યક્રમો"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "સરકારી આરોગ્ય યોજનાઓ",
+        "રાષ્ટ્રીય આરોગ્ય નીતિ",
+        "જાહેર આરોગ્ય સલાહો",
+        "આરોગ્ય કાર્યક્રમોના અપડેટ્સ"
+      ],
+      "use_cases": [
+        "રાષ્ટ્રીય આરોગ્ય નીતિઓ, સૂચનાઓ અને કાર્યક્રમોના અપડેટ્સ વાંચો",
+        "મંત્રાલયનાં પ્રકાશનો અને જાહેર આરોગ્ય અંગેનું માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_006",
+      "name": "CoWIN",
+      "domain": "www.cowin.gov.in",
+      "canonical_url": "https://www.cowin.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારત સરકારનું રસીકરણ પ્લેટફોર્મ, જેનો શરૂઆતમાં COVID-19 રસીકરણ નોંધણી, એપોઇન્ટમેન્ટ અને પ્રમાણપત્ર સેવાઓ માટે ઉપયોગ થતો હતો; હાલમાં ઉપલબ્ધ સુવિધાઓમાં ફેરફાર હોઈ શકે છે.",
+      "source_type": "government_health_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "રસીકરણ પોર્ટલ",
+        "સરકારી આરોગ્ય સેવા",
+        "રસીકરણ",
+        "પ્રમાણપત્રો"
+      ],
+      "keywords": [
+        "CoWIN India",
+        "COVID રસીકરણ પ્રમાણપત્ર",
+        "રસીકરણ રેકોર્ડ",
+        "ભારતમાં રસીકરણ એપોઇન્ટમેન્ટ",
+        "CoWIN પ્રમાણપત્ર ડાઉનલોડ",
+        "સરકારી રસીકરણ પોર્ટલ"
+      ],
+      "use_cases": [
+        "રસીકરણ રેકોર્ડ અને પ્રમાણપત્રો વિશેની સત્તાવાર માહિતી મેળવો",
+        "સંબંધિત રસીકરણ સેવાઓ હાલમાં ઉપલબ્ધ છે કે નહીં તે તપાસો"
+      ]
+    },
+    {
+      "id": "health_india_007",
+      "name": "એપોલો હોસ્પિટાલ્સ",
+      "domain": "www.apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Apollo Hospitals",
+        "Apollo Hospitalsની સત્તાવાર વેબસાઇટ",
+        "Apollo Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Apollo Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_008",
+      "name": "ફોર્ટિસ હેલ્થકેર",
+      "domain": "www.fortishealthcare.com",
+      "canonical_url": "https://www.fortishealthcare.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Fortis Healthcare",
+        "Fortis Healthcareની સત્તાવાર વેબસાઇટ",
+        "Fortis Healthcareહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Fortis Healthcareના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_009",
+      "name": "ટાટા 1mg",
+      "domain": "www.1mg.com",
+      "canonical_url": "https://www.1mg.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tata 1mg ભારતનું ડિજિટલ આરોગ્યસંભાળ પ્લેટફોર્મ છે, જે સ્થાન અને સેવા ઉપલબ્ધતાને આધારે ફાર્મસી સંબંધિત સેવાઓ, ડાયગ્નોસ્ટિક પરીક્ષણો અને આરોગ્ય માહિતી ઓનલાઇન મેળવવાની સુવિધા આપે છે.",
+      "source_type": "healthcare_platform",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ડિજિટલ આરોગ્યસંભાળ",
+        "ઓનલાઇન ફાર્મસી",
+        "લેબોરેટરી પરીક્ષણો",
+        "આરોગ્ય માહિતી"
+      ],
+      "keywords": [
+        "Tata 1mg",
+        "1mg online pharmacy",
+        "ઓનલાઇન દવાઓ મંગાવો",
+        "દવાઓની હોમ ડિલિવરી",
+        "લેબ ટેસ્ટ બુક કરો",
+        "ડાયગ્નોસ્ટિક ટેસ્ટનું બુકિંગ",
+        "આરોગ્ય માહિતી",
+        "દવાઓની વિગતો"
+      ],
+      "use_cases": [
+        "ફાર્મસી સેવાઓ અને દવાઓ વિશેની માહિતી મેળવો",
+        "ડાયગ્નોસ્ટિક પરીક્ષણોની ઉપલબ્ધતા અને બુકિંગના વિકલ્પો તપાસો",
+        "આરોગ્ય માહિતી અને સેવાઓ અંગેનું માર્ગદર્શન વાંચો"
+      ]
+    },
+    {
+      "id": "health_india_010",
+      "name": "પ્રેક્ટો",
+      "domain": "www.practo.com",
+      "canonical_url": "https://www.practo.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Practo ભારતનું આરોગ્યસંભાળ શોધવા અને ડિજિટલ આરોગ્ય સેવાઓ મેળવવાનું પ્લેટફોર્મ છે. તેના દ્વારા લોકો ડૉક્ટરો અને ક્લિનિકો શોધી શકે છે, આરોગ્ય સંબંધિત માહિતી મેળવી શકે છે અને સુવિધા ઉપલબ્ધ હોય ત્યાં એપોઇન્ટમેન્ટ માટે વિનંતી કરી શકે છે.",
+      "source_type": "healthcare_platform",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "આરોગ્યસંભાળ પ્લેટફોર્મ",
+        "ડૉક્ટર શોધો",
+        "એપોઇન્ટમેન્ટ",
+        "આરોગ્ય માહિતી"
+      ],
+      "keywords": [
+        "Practo",
+        "ઓનલાઇન ડૉક્ટર શોધો",
+        "ડૉક્ટરની એપોઇન્ટમેન્ટ",
+        "નજીકની ક્લિનિક",
+        "ડૉક્ટરની એપોઇન્ટમેન્ટ બુક કરો",
+        "નિષ્ણાત ડૉક્ટર શોધો",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "ઓનલાઇન આરોગ્યસંભાળ પ્લેટફોર્મ"
+      ],
+      "use_cases": [
+        "ડૉક્ટરો, ક્લિનિકો અને આરોગ્યસંભાળ પ્રદાતાઓ શોધો",
+        "સેવા પ્રદાતાની માહિતી તપાસો અને સુવિધા ઉપલબ્ધ હોય ત્યાં એપોઇન્ટમેન્ટ માટે વિનંતી કરો",
+        "સામાન્ય આરોગ્યસંભાળ સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_011",
+      "name": "AIIMS New Delhi",
+      "domain": "www.aiims.edu",
+      "canonical_url": "https://www.aiims.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS New Delhi",
+        "AIIMS New Delhiની સત્તાવાર વેબસાઇટ",
+        "AIIMS New Delhiહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS New Delhiના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_012",
+      "name": "PGIMER Chandigarh",
+      "domain": "pgimer.edu.in",
+      "canonical_url": "https://pgimer.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "PGIMER Chandigarh",
+        "PGIMER Chandigarhની સત્તાવાર વેબસાઇટ",
+        "PGIMER Chandigarhહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "PGIMER Chandigarhના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_013",
+      "name": "JIPMER",
+      "domain": "jipmer.edu.in",
+      "canonical_url": "https://jipmer.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "JIPMER",
+        "JIPMERની સત્તાવાર વેબસાઇટ",
+        "JIPMERહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "JIPMERના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_014",
+      "name": "Tata Memorial Centre",
+      "domain": "tmc.gov.in",
+      "canonical_url": "https://tmc.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કેન્સરની સારવાર",
+        "વિશેષજ્ઞ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી સંશોધન"
+      ],
+      "keywords": [
+        "Tata Memorial Centre",
+        "Tata Memorial Centreની સત્તાવાર વેબસાઇટ",
+        "Tata Memorial Centreહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Tata Memorial Centreના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "કેન્સરની સારવાર માટેની હોસ્પિટલ",
+        "કેન્સર નિષ્ણાતની સલાહ",
+        "કેન્સર સારવાર સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_015",
+      "name": "Narayana Health",
+      "domain": "www.narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Narayana Health",
+        "Narayana Healthની સત્તાવાર વેબસાઇટ",
+        "Narayana Healthહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Narayana Healthના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_016",
+      "name": "Manipal Hospitals",
+      "domain": "www.manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Manipal Hospitals",
+        "Manipal Hospitalsની સત્તાવાર વેબસાઇટ",
+        "Manipal Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Manipal Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_017",
+      "name": "Max Healthcare",
+      "domain": "www.maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Max Healthcare",
+        "Max Healthcareની સત્તાવાર વેબસાઇટ",
+        "Max Healthcareહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Max Healthcareના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_018",
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "domain": "www.kokilabenhospital.com",
+      "canonical_url": "https://www.kokilabenhospital.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Kokilaben Dhirubhai Ambani Hospital",
+        "Kokilaben Dhirubhai Ambani Hospitalની સત્તાવાર વેબસાઇટ",
+        "Kokilaben Dhirubhai Ambani Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Kokilaben Dhirubhai Ambani Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_019",
+      "name": "HCG Cancer Centre",
+      "domain": "www.hcgoncology.com",
+      "canonical_url": "https://www.hcgoncology.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કેન્સરની સારવાર",
+        "વિશેષજ્ઞ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી સંશોધન"
+      ],
+      "keywords": [
+        "HCG Cancer Centre",
+        "HCG Cancer Centreની સત્તાવાર વેબસાઇટ",
+        "HCG Cancer Centreહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "HCG Cancer Centreના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "કેન્સરની સારવાર માટેની હોસ્પિટલ",
+        "કેન્સર નિષ્ણાતની સલાહ",
+        "કેન્સર સારવાર સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_020",
+      "name": "KIMS Hospitals",
+      "domain": "www.kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "KIMS Hospitals",
+        "KIMS Hospitalsની સત્તાવાર વેબસાઇટ",
+        "KIMS Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "KIMS Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_021",
+      "name": "સ્ટાર હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.starhealth.in",
+      "canonical_url": "https://www.starhealth.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "Star Health Insurance",
+        "Star Health Insurance India",
+        "Star Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_022",
+      "name": "નિવા બૂપા હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.nivabupa.com",
+      "canonical_url": "https://www.nivabupa.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "Niva Bupa Health Insurance",
+        "Niva Bupa Health Insurance India",
+        "Niva Bupa Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_023",
+      "name": "કેર હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.careinsurance.com",
+      "canonical_url": "https://www.careinsurance.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "Care Health Insurance",
+        "Care Health Insurance India",
+        "Care Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_024",
+      "name": "આદિત્ય બિરલા હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.adityabirlacapital.com/healthinsurance",
+      "canonical_url": "https://www.adityabirlacapital.com/healthinsurance",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "Aditya Birla Health Insurance",
+        "Aditya Birla Health Insurance India",
+        "Aditya Birla Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_025",
+      "name": "HDFC ERGO હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.hdfcergo.com",
+      "canonical_url": "https://www.hdfcergo.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "HDFC ERGO Health Insurance",
+        "HDFC ERGO Health Insurance India",
+        "HDFC ERGO Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_026",
+      "name": "ICICI Lombard હેલ્થ ઇન્શ્યોરન્સ",
+      "domain": "www.icicilombard.com",
+      "canonical_url": "https://www.icicilombard.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "ICICI Lombard Health Insurance",
+        "ICICI Lombard Health Insurance India",
+        "ICICI Lombard Health Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_027",
+      "name": "ન્યૂ ઇન્ડિયા એશ્યોરન્સ",
+      "domain": "www.newindia.co.in",
+      "canonical_url": "https://www.newindia.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "New India Assurance",
+        "New India Assurance India",
+        "New India Assurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_028",
+      "name": "યુનાઇટેડ ઇન્ડિયા ઇન્શ્યોરન્સ",
+      "domain": "uiic.co.in",
+      "canonical_url": "https://uiic.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "United India Insurance",
+        "United India Insurance India",
+        "United India Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_029",
+      "name": "નેશનલ ઇન્શ્યોરન્સ કંપની",
+      "domain": "nationalinsurance.nic.co.in",
+      "canonical_url": "https://nationalinsurance.nic.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "National Insurance Company",
+        "National Insurance Company India",
+        "National Insurance Company health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_030",
+      "name": "ઓરિએન્ટલ ઇન્શ્યોરન્સ",
+      "domain": "orientalinsurance.org.in",
+      "canonical_url": "https://orientalinsurance.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં આરોગ્ય વીમા અથવા સામાન્ય વીમા સહિતની વીમા યોજનાઓ અને સંબંધિત માહિતી આપે છે. હાલની પોલિસીની શરતો, પાત્રતા, અપવાદો, ક્લેમ કરવાની પ્રક્રિયા અને સહાય માટે સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા પ્રદાતા",
+        "આરોગ્ય વીમો",
+        "પોલિસી માહિતી",
+        "ક્લેમ માટે સહાય"
+      ],
+      "keywords": [
+        "Oriental Insurance",
+        "Oriental Insurance India",
+        "Oriental Insurance health insurance",
+        "તબીબી વીમા પોલિસી",
+        "કુટુંબ માટે આરોગ્ય વીમો",
+        "આરોગ્ય વીમાનું પ્રીમિયમ",
+        "કેશલેસ સારવાર આપતી હોસ્પિટલોનું નેટવર્ક",
+        "આરોગ્ય વીમાનો ક્લેમ",
+        "પોલિસીનું નવીકરણ",
+        "વીમા ગ્રાહક સહાય"
+      ],
+      "use_cases": [
+        "ઉપલબ્ધ આરોગ્ય વીમા યોજનાઓ, કવરેજની મર્યાદાઓ અને અપવાદોની સરખામણી કરો",
+        "પોલિસીના દસ્તાવેજો, નવીકરણની માહિતી અને ક્લેમ કરવાની સૂચનાઓ મેળવો",
+        "સત્તાવાર ગ્રાહક સહાય અને પોલિસીધારકો માટેનાં સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "health_india_031",
+      "name": "Insurance Regulatory and Development Authority of India",
+      "domain": "irdai.gov.in",
+      "canonical_url": "https://irdai.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતની વીમા નિયામક સંસ્થા, જે નિયમનકારી અપડેટ્સ, પોલિસીધારકો માટેની માહિતી, ગ્રાહક માર્ગદર્શન અને નિયંત્રિત વીમા કંપનીઓ સામે ફરિયાદ કરવા માટેનાં સંસાધનો પૂરા પાડે છે.",
+      "source_type": "insurance_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વીમા નિયામક સંસ્થા",
+        "પોલિસીધારકો માટે સહાય",
+        "ગ્રાહક સુરક્ષા",
+        "આરોગ્ય વીમો"
+      ],
+      "keywords": [
+        "IRDAI",
+        "ભારતની વીમા નિયામક સંસ્થા",
+        "આરોગ્ય વીમાના નિયમો",
+        "પોલિસીધારકોના અધિકારો",
+        "વીમા સંબંધિત ફરિયાદ",
+        "વીમા ફરિયાદ કરવાની પ્રક્રિયા",
+        "વીમા કંપનીઓ માટેના નિયમો"
+      ],
+      "use_cases": [
+        "આરોગ્ય વીમાના પોલિસીધારકોને લાગુ પડતા સત્તાવાર નિયમો અને પરિપત્રો વાંચો",
+        "ગ્રાહકો માટેનું માર્ગદર્શન અને ફરિયાદ નિવારણની માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_032",
+      "name": "Emergency Response Support System 112",
+      "domain": "112.gov.in",
+      "canonical_url": "https://112.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં કટોકટીના પ્રતિસાદ અને જાહેર સહાય વિશે સત્તાવાર માહિતી આપે છે. કટોકટી સંપર્કની ઉપલબ્ધતા અને સ્થાનિક પ્રતિસાદની વ્યવસ્થા સંબંધિત સત્તાવાર માધ્યમથી તપાસો.",
+      "source_type": "emergency_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કટોકટી સેવાઓ",
+        "જાહેર સુરક્ષા",
+        "સરકારી હેલ્પલાઇન",
+        "આરોગ્ય સહાય"
+      ],
+      "keywords": [
+        "ભારતમાં 112 કટોકટી સેવા",
+        "ભારતની કટોકટી હેલ્પલાઇન",
+        "એમ્બ્યુલન્સનો કટોકટી સંપર્ક નંબર",
+        "પોલીસ, ફાયર બ્રિગેડ અને એમ્બ્યુલન્સની મદદ",
+        "કટોકટી પ્રતિસાદ સેવા",
+        "રાષ્ટ્રીય કટોકટી નંબર",
+        "રાજ્યની કટોકટી સેવાઓ"
+      ],
+      "use_cases": [
+        "કટોકટીના સત્તાવાર સંપર્ક અને પ્રતિસાદ વિશેની માહિતી મેળવો",
+        "રાષ્ટ્રીય અથવા સ્થાનિક પ્રતિસાદ વ્યવસ્થા દ્વારા તાત્કાલિક સહાય કેવી રીતે મેળવવી તે સમજો"
+      ]
+    },
+    {
+      "id": "health_india_033",
+      "name": "National Health Mission",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારત સરકારનું કેન્દ્રીય આરોગ્ય મંત્રાલય, જે જાહેર આરોગ્ય નીતિ, રાષ્ટ્રીય કાર્યક્રમો, આરોગ્ય સલાહો અને વિભાગીય સેવાઓ અંગે સત્તાવાર માહિતી આપે છે.",
+      "source_type": "government_health_programme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કેન્દ્ર સરકારનું મંત્રાલય",
+        "જાહેર આરોગ્ય",
+        "આરોગ્ય નીતિ",
+        "રાષ્ટ્રીય કાર્યક્રમો"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "સરકારી આરોગ્ય યોજનાઓ",
+        "રાષ્ટ્રીય આરોગ્ય નીતિ",
+        "જાહેર આરોગ્ય સલાહો",
+        "આરોગ્ય કાર્યક્રમોના અપડેટ્સ"
+      ],
+      "use_cases": [
+        "રાષ્ટ્રીય આરોગ્ય નીતિઓ, સૂચનાઓ અને કાર્યક્રમોના અપડેટ્સ વાંચો",
+        "મંત્રાલયનાં પ્રકાશનો અને જાહેર આરોગ્ય અંગેનું માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_034",
+      "name": "Indian Red Cross Society",
+      "domain": "indianredcross.org",
+      "canonical_url": "https://indianredcross.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં કટોકટીના પ્રતિસાદ અને જાહેર સહાય વિશે સત્તાવાર માહિતી આપે છે. કટોકટી સંપર્કની ઉપલબ્ધતા અને સ્થાનિક પ્રતિસાદની વ્યવસ્થા સંબંધિત સત્તાવાર માધ્યમથી તપાસો.",
+      "source_type": "emergency_health_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કટોકટી સેવાઓ",
+        "જાહેર સુરક્ષા",
+        "સરકારી હેલ્પલાઇન",
+        "આરોગ્ય સહાય"
+      ],
+      "keywords": [
+        "ભારતમાં 112 કટોકટી સેવા",
+        "ભારતની કટોકટી હેલ્પલાઇન",
+        "એમ્બ્યુલન્સનો કટોકટી સંપર્ક નંબર",
+        "પોલીસ, ફાયર બ્રિગેડ અને એમ્બ્યુલન્સની મદદ",
+        "કટોકટી પ્રતિસાદ સેવા",
+        "રાષ્ટ્રીય કટોકટી નંબર",
+        "રાજ્યની કટોકટી સેવાઓ"
+      ],
+      "use_cases": [
+        "કટોકટીના સત્તાવાર સંપર્ક અને પ્રતિસાદ વિશેની માહિતી મેળવો",
+        "રાષ્ટ્રીય અથવા સ્થાનિક પ્રતિસાદ વ્યવસ્થા દ્વારા તાત્કાલિક સહાય કેવી રીતે મેળવવી તે સમજો"
+      ]
+    },
+    {
+      "id": "health_india_035",
+      "name": "National Organ and Tissue Transplant Organization",
+      "domain": "notto.mohfw.gov.in",
+      "canonical_url": "https://notto.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ ભારતની આરોગ્ય ક્ષેત્રની સંસ્થા છે, જે જાહેર માહિતી, વિશેષજ્ઞો માટેના સંસાધનો અથવા આરોગ્યસંભાળ સંબંધિત સેવાઓ પૂરી પાડે છે. હાલના કાર્યક્રમો, માર્ગદર્શન અને સેવાઓની વિગતો માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "આરોગ્ય સંસ્થા",
+        "જાહેર આરોગ્ય માહિતી",
+        "આરોગ્યસંભાળ સંસાધનો"
+      ],
+      "keywords": [
+        "National Organ and Tissue Transplant Organization",
+        "National Organ and Tissue Transplant Organization India",
+        "ભારતમાં આરોગ્ય સેવાઓ",
+        "આરોગ્ય માહિતી",
+        "સત્તાવાર આરોગ્ય સંસાધનો",
+        "આરોગ્ય કાર્યક્રમ"
+      ],
+      "use_cases": [
+        "આરોગ્ય ક્ષેત્રની સત્તાવાર માહિતી અને સંસાધનો મેળવો",
+        "હાલના કાર્યક્રમો, સૂચનાઓ અથવા સેવા માર્ગદર્શનની સમીક્ષા કરો"
+      ]
+    },
+    {
+      "id": "health_india_036",
+      "name": "National AIDS Control Organisation",
+      "domain": "naco.gov.in",
+      "canonical_url": "https://naco.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "ભારત સરકારનું કેન્દ્રીય આરોગ્ય મંત્રાલય, જે જાહેર આરોગ્ય નીતિ, રાષ્ટ્રીય કાર્યક્રમો, આરોગ્ય સલાહો અને વિભાગીય સેવાઓ અંગે સત્તાવાર માહિતી આપે છે.",
+      "source_type": "government_health_programme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કેન્દ્ર સરકારનું મંત્રાલય",
+        "જાહેર આરોગ્ય",
+        "આરોગ્ય નીતિ",
+        "રાષ્ટ્રીય કાર્યક્રમો"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "સરકારી આરોગ્ય યોજનાઓ",
+        "રાષ્ટ્રીય આરોગ્ય નીતિ",
+        "જાહેર આરોગ્ય સલાહો",
+        "આરોગ્ય કાર્યક્રમોના અપડેટ્સ"
+      ],
+      "use_cases": [
+        "રાષ્ટ્રીય આરોગ્ય નીતિઓ, સૂચનાઓ અને કાર્યક્રમોના અપડેટ્સ વાંચો",
+        "મંત્રાલયનાં પ્રકાશનો અને જાહેર આરોગ્ય અંગેનું માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "health_india_037",
+      "name": "Central Drugs Standard Control Organisation",
+      "domain": "cdsco.gov.in",
+      "canonical_url": "https://cdsco.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ ભારતની આરોગ્ય ક્ષેત્રની સંસ્થા છે, જે જાહેર માહિતી, વિશેષજ્ઞો માટેના સંસાધનો અથવા આરોગ્યસંભાળ સંબંધિત સેવાઓ પૂરી પાડે છે. હાલના કાર્યક્રમો, માર્ગદર્શન અને સેવાઓની વિગતો માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "health_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "આરોગ્ય સંસ્થા",
+        "જાહેર આરોગ્ય માહિતી",
+        "આરોગ્યસંભાળ સંસાધનો"
+      ],
+      "keywords": [
+        "Central Drugs Standard Control Organisation",
+        "Central Drugs Standard Control Organisation India",
+        "ભારતમાં આરોગ્ય સેવાઓ",
+        "આરોગ્ય માહિતી",
+        "સત્તાવાર આરોગ્ય સંસાધનો",
+        "આરોગ્ય કાર્યક્રમ"
+      ],
+      "use_cases": [
+        "આરોગ્ય ક્ષેત્રની સત્તાવાર માહિતી અને સંસાધનો મેળવો",
+        "હાલના કાર્યક્રમો, સૂચનાઓ અથવા સેવા માર્ગદર્શનની સમીક્ષા કરો"
+      ]
+    },
+    {
+      "id": "health_india_038",
+      "name": "Indian Council of Medical Research",
+      "domain": "icmr.gov.in",
+      "canonical_url": "https://icmr.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ ભારતની આરોગ્ય ક્ષેત્રની સંસ્થા છે, જે જાહેર માહિતી, વિશેષજ્ઞો માટેના સંસાધનો અથવા આરોગ્યસંભાળ સંબંધિત સેવાઓ પૂરી પાડે છે. હાલના કાર્યક્રમો, માર્ગદર્શન અને સેવાઓની વિગતો માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "medical_research",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "આરોગ્ય સંસ્થા",
+        "જાહેર આરોગ્ય માહિતી",
+        "આરોગ્યસંભાળ સંસાધનો"
+      ],
+      "keywords": [
+        "Indian Council of Medical Research",
+        "Indian Council of Medical Research India",
+        "ભારતમાં આરોગ્ય સેવાઓ",
+        "આરોગ્ય માહિતી",
+        "સત્તાવાર આરોગ્ય સંસાધનો",
+        "આરોગ્ય કાર્યક્રમ"
+      ],
+      "use_cases": [
+        "આરોગ્ય ક્ષેત્રની સત્તાવાર માહિતી અને સંસાધનો મેળવો",
+        "હાલના કાર્યક્રમો, સૂચનાઓ અથવા સેવા માર્ગદર્શનની સમીક્ષા કરો"
+      ]
+    },
+    {
+      "id": "health_india_039",
+      "name": "National Medical Commission",
+      "domain": "nmc.org.in",
+      "canonical_url": "https://www.nmc.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ ભારતની આરોગ્ય ક્ષેત્રની સંસ્થા છે, જે જાહેર માહિતી, વિશેષજ્ઞો માટેના સંસાધનો અથવા આરોગ્યસંભાળ સંબંધિત સેવાઓ પૂરી પાડે છે. હાલના કાર્યક્રમો, માર્ગદર્શન અને સેવાઓની વિગતો માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "medical_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "આરોગ્ય સંસ્થા",
+        "જાહેર આરોગ્ય માહિતી",
+        "આરોગ્યસંભાળ સંસાધનો"
+      ],
+      "keywords": [
+        "National Medical Commission",
+        "National Medical Commission India",
+        "ભારતમાં આરોગ્ય સેવાઓ",
+        "આરોગ્ય માહિતી",
+        "સત્તાવાર આરોગ્ય સંસાધનો",
+        "આરોગ્ય કાર્યક્રમ"
+      ],
+      "use_cases": [
+        "આરોગ્ય ક્ષેત્રની સત્તાવાર માહિતી અને સંસાધનો મેળવો",
+        "હાલના કાર્યક્રમો, સૂચનાઓ અથવા સેવા માર્ગદર્શનની સમીક્ષા કરો"
+      ]
+    },
+    {
+      "id": "health_india_040",
+      "name": "National Ambulance Service (NHM information)",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "આ સંસ્થા ભારતમાં કટોકટીના પ્રતિસાદ અને જાહેર સહાય વિશે સત્તાવાર માહિતી આપે છે. કટોકટી સંપર્કની ઉપલબ્ધતા અને સ્થાનિક પ્રતિસાદની વ્યવસ્થા સંબંધિત સત્તાવાર માધ્યમથી તપાસો.",
+      "source_type": "emergency_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કટોકટી સેવાઓ",
+        "જાહેર સુરક્ષા",
+        "સરકારી હેલ્પલાઇન",
+        "આરોગ્ય સહાય"
+      ],
+      "keywords": [
+        "ભારતમાં 112 કટોકટી સેવા",
+        "ભારતની કટોકટી હેલ્પલાઇન",
+        "એમ્બ્યુલન્સનો કટોકટી સંપર્ક નંબર",
+        "પોલીસ, ફાયર બ્રિગેડ અને એમ્બ્યુલન્સની મદદ",
+        "કટોકટી પ્રતિસાદ સેવા",
+        "રાષ્ટ્રીય કટોકટી નંબર",
+        "રાજ્યની કટોકટી સેવાઓ"
+      ],
+      "use_cases": [
+        "કટોકટીના સત્તાવાર સંપર્ક અને પ્રતિસાદ વિશેની માહિતી મેળવો",
+        "રાષ્ટ્રીય અથવા સ્થાનિક પ્રતિસાદ વ્યવસ્થા દ્વારા તાત્કાલિક સહાય કેવી રીતે મેળવવી તે સમજો"
+      ]
+    },
+    {
+      "id": "health_india_041",
+      "name": "AIIMS Bhopal",
+      "domain": "aiimsbhopal.edu.in",
+      "canonical_url": "https://aiimsbhopal.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Madhya Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Bhopal",
+        "AIIMS Bhopalની સત્તાવાર વેબસાઇટ",
+        "AIIMS Bhopalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Bhopalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Bhopal Madhya Pradesh",
+        "મધ્ય પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_042",
+      "name": "AIIMS Bhubaneswar",
+      "domain": "aiimsbhubaneswar.nic.in",
+      "canonical_url": "https://aiimsbhubaneswar.nic.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Odisha",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Bhubaneswar",
+        "AIIMS Bhubaneswarની સત્તાવાર વેબસાઇટ",
+        "AIIMS Bhubaneswarહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Bhubaneswarના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Bhubaneswar Odisha",
+        "ઓડિશામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_043",
+      "name": "AIIMS Jodhpur",
+      "domain": "aiimsjodhpur.edu.in",
+      "canonical_url": "https://www.aiimsjodhpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Jodhpur",
+        "AIIMS Jodhpurની સત્તાવાર વેબસાઇટ",
+        "AIIMS Jodhpurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Jodhpurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Jodhpur Rajasthan",
+        "રાજસ્થાનમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_044",
+      "name": "AIIMS Patna",
+      "domain": "aiimspatna.edu.in",
+      "canonical_url": "https://aiimspatna.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Patna",
+        "AIIMS Patnaની સત્તાવાર વેબસાઇટ",
+        "AIIMS Patnaહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Patnaના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Patna Bihar",
+        "બિહારમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_045",
+      "name": "AIIMS Raipur",
+      "domain": "aiimsraipur.edu.in",
+      "canonical_url": "https://www.aiimsraipur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Chhattisgarh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Raipur",
+        "AIIMS Raipurની સત્તાવાર વેબસાઇટ",
+        "AIIMS Raipurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Raipurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Raipur Chhattisgarh",
+        "છત્તીસગઢમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_046",
+      "name": "AIIMS Rishikesh",
+      "domain": "aiimsrishikesh.edu.in",
+      "canonical_url": "https://aiimsrishikesh.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttarakhand",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Rishikesh",
+        "AIIMS Rishikeshની સત્તાવાર વેબસાઇટ",
+        "AIIMS Rishikeshહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Rishikeshના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Rishikesh Uttarakhand",
+        "ઉત્તરાખંડમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_047",
+      "name": "AIIMS Raebareli",
+      "domain": "aiimsrbl.edu.in",
+      "canonical_url": "https://aiimsrbl.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Raebareli",
+        "AIIMS Raebareliની સત્તાવાર વેબસાઇટ",
+        "AIIMS Raebareliહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Raebareliના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Raebareli Uttar Pradesh",
+        "ઉત્તર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_048",
+      "name": "AIIMS Gorakhpur",
+      "domain": "aiimsgorakhpur.edu.in",
+      "canonical_url": "https://aiimsgorakhpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Gorakhpur",
+        "AIIMS Gorakhpurની સત્તાવાર વેબસાઇટ",
+        "AIIMS Gorakhpurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Gorakhpurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Gorakhpur Uttar Pradesh",
+        "ઉત્તર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_049",
+      "name": "AIIMS Mangalagiri",
+      "domain": "aiimsmangalagiri.edu.in",
+      "canonical_url": "https://www.aiimsmangalagiri.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Andhra Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Mangalagiri",
+        "AIIMS Mangalagiriની સત્તાવાર વેબસાઇટ",
+        "AIIMS Mangalagiriહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Mangalagiriના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Mangalagiri Andhra Pradesh",
+        "આંધ્ર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_050",
+      "name": "AIIMS Nagpur",
+      "domain": "aiimsnagpur.edu.in",
+      "canonical_url": "https://aiimsnagpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Nagpur",
+        "AIIMS Nagpurની સત્તાવાર વેબસાઇટ",
+        "AIIMS Nagpurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Nagpurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Nagpur Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_051",
+      "name": "AIIMS Bathinda",
+      "domain": "aiimsbathinda.edu.in",
+      "canonical_url": "https://aiimsbathinda.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Punjab",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Bathinda",
+        "AIIMS Bathindaની સત્તાવાર વેબસાઇટ",
+        "AIIMS Bathindaહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Bathindaના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Bathinda Punjab",
+        "પંજાબમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_052",
+      "name": "AIIMS Bibinagar",
+      "domain": "aiimsbibinagar.edu.in",
+      "canonical_url": "https://aiimsbibinagar.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Bibinagar",
+        "AIIMS Bibinagarની સત્તાવાર વેબસાઇટ",
+        "AIIMS Bibinagarહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Bibinagarના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Bibinagar Telangana",
+        "તેલંગાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_053",
+      "name": "AIIMS Kalyani",
+      "domain": "aiimskalyani.edu.in",
+      "canonical_url": "https://aiimskalyani.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Kalyani",
+        "AIIMS Kalyaniની સત્તાવાર વેબસાઇટ",
+        "AIIMS Kalyaniહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Kalyaniના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Kalyani West Bengal",
+        "પશ્ચિમ બંગાળમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_054",
+      "name": "AIIMS Deoghar",
+      "domain": "aiimsdeoghar.edu.in",
+      "canonical_url": "https://aiimsdeoghar.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jharkhand",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Deoghar",
+        "AIIMS Deogharની સત્તાવાર વેબસાઇટ",
+        "AIIMS Deogharહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Deogharના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Deoghar Jharkhand",
+        "ઝારખંડમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_055",
+      "name": "AIIMS Bilaspur",
+      "domain": "aiimsbilaspur.edu.in",
+      "canonical_url": "https://aiimsbilaspur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Himachal Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Bilaspur",
+        "AIIMS Bilaspurની સત્તાવાર વેબસાઇટ",
+        "AIIMS Bilaspurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Bilaspurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Bilaspur Himachal Pradesh",
+        "હિમાચલ પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_056",
+      "name": "AIIMS Rajkot",
+      "domain": "aiimsrajkot.edu.in",
+      "canonical_url": "https://aiimsrajkot.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Rajkot",
+        "AIIMS Rajkotની સત્તાવાર વેબસાઇટ",
+        "AIIMS Rajkotહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Rajkotના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Rajkot Gujarat",
+        "ગુજરાતમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_057",
+      "name": "AIIMS Guwahati",
+      "domain": "aiimsguwahati.ac.in",
+      "canonical_url": "https://aiimsguwahati.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Assam",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Guwahati",
+        "AIIMS Guwahatiની સત્તાવાર વેબસાઇટ",
+        "AIIMS Guwahatiહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Guwahatiના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Guwahati Assam",
+        "આસામમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_058",
+      "name": "AIIMS Jammu (Vijaypur)",
+      "domain": "aiimsjammu.edu.in",
+      "canonical_url": "https://www.aiimsjammu.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Jammu (Vijaypur)",
+        "AIIMS Jammu (Vijaypur)ની સત્તાવાર વેબસાઇટ",
+        "AIIMS Jammu (Vijaypur)હોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Jammu (Vijaypur)ના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Jammu (Vijaypur) Jammu and Kashmir",
+        "જમ્મુ અને કાશ્મીરમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_059",
+      "name": "AIIMS Madurai",
+      "domain": "aiimsmadurai.edu.in",
+      "canonical_url": "https://aiimsmadurai.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Madurai",
+        "AIIMS Maduraiની સત્તાવાર વેબસાઇટ",
+        "AIIMS Maduraiહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Maduraiના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Madurai Tamil Nadu",
+        "તમિલનાડુમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_060",
+      "name": "AIIMS Awantipora",
+      "domain": "aiimsawantipora.edu.in",
+      "canonical_url": "https://aiimsawantipora.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Awantipora",
+        "AIIMS Awantiporaની સત્તાવાર વેબસાઇટ",
+        "AIIMS Awantiporaહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Awantiporaના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Awantipora Jammu and Kashmir",
+        "જમ્મુ અને કાશ્મીરમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_061",
+      "name": "AIIMS Darbhanga",
+      "domain": "aiimsdarbhanga.edu.in",
+      "canonical_url": "https://aiimsdarbhanga.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Darbhanga",
+        "AIIMS Darbhangaની સત્તાવાર વેબસાઇટ",
+        "AIIMS Darbhangaહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Darbhangaના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Darbhanga Bihar",
+        "બિહારમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_062",
+      "name": "AIIMS Majra (Rewari)",
+      "domain": "aiimsrewari.edu.in",
+      "canonical_url": "https://aiimsrewari.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "AIIMS Majra (Rewari)",
+        "AIIMS Majra (Rewari)ની સત્તાવાર વેબસાઇટ",
+        "AIIMS Majra (Rewari)હોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIIMS Majra (Rewari)ના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIIMS Majra (Rewari) Haryana",
+        "હરિયાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_063",
+      "name": "Sir Ganga Ram Hospital",
+      "domain": "sgrh.com",
+      "canonical_url": "https://www.sgrh.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Sir Ganga Ram Hospital",
+        "Sir Ganga Ram Hospitalની સત્તાવાર વેબસાઇટ",
+        "Sir Ganga Ram Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Sir Ganga Ram Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Sir Ganga Ram Hospital Delhi",
+        "દિલ્હીમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_064",
+      "name": "Indraprastha Apollo Hospitals",
+      "domain": "apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Indraprastha Apollo Hospitals",
+        "Indraprastha Apollo Hospitalsની સત્તાવાર વેબસાઇટ",
+        "Indraprastha Apollo Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Indraprastha Apollo Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Indraprastha Apollo Hospitals Delhi",
+        "દિલ્હીમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_065",
+      "name": "Max Super Speciality Hospital, Saket",
+      "domain": "maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Max Super Speciality Hospital, Saket",
+        "Max Super Speciality Hospital, Saketની સત્તાવાર વેબસાઇટ",
+        "Max Super Speciality Hospital, Saketહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Max Super Speciality Hospital, Saketના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Max Super Speciality Hospital, Saket Delhi",
+        "દિલ્હીમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_066",
+      "name": "Medanta - The Medicity",
+      "domain": "medanta.org",
+      "canonical_url": "https://www.medanta.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Medanta - The Medicity",
+        "Medanta - The Medicityની સત્તાવાર વેબસાઇટ",
+        "Medanta - The Medicityહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Medanta - The Medicityના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Medanta - The Medicity Haryana",
+        "હરિયાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_067",
+      "name": "Safdarjung Hospital",
+      "domain": "vmmc-sjh.mohfw.gov.in",
+      "canonical_url": "https://vmmc-sjh.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Safdarjung Hospital",
+        "Safdarjung Hospitalની સત્તાવાર વેબસાઇટ",
+        "Safdarjung Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Safdarjung Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Safdarjung Hospital Delhi",
+        "દિલ્હીમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_068",
+      "name": "Dr. Ram Manohar Lohia Hospital",
+      "domain": "rmlh.nic.in",
+      "canonical_url": "https://rmlh.nic.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Dr. Ram Manohar Lohia Hospital",
+        "Dr. Ram Manohar Lohia Hospitalની સત્તાવાર વેબસાઇટ",
+        "Dr. Ram Manohar Lohia Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Dr. Ram Manohar Lohia Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Dr. Ram Manohar Lohia Hospital Delhi",
+        "દિલ્હીમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_069",
+      "name": "Sir H. N. Reliance Foundation Hospital",
+      "domain": "rfhospital.org",
+      "canonical_url": "https://www.rfhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Sir H. N. Reliance Foundation Hospital",
+        "Sir H. N. Reliance Foundation Hospitalની સત્તાવાર વેબસાઇટ",
+        "Sir H. N. Reliance Foundation Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Sir H. N. Reliance Foundation Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Sir H. N. Reliance Foundation Hospital Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_070",
+      "name": "Lilavati Hospital",
+      "domain": "lilavatihospital.com",
+      "canonical_url": "https://www.lilavatihospital.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Lilavati Hospital",
+        "Lilavati Hospitalની સત્તાવાર વેબસાઇટ",
+        "Lilavati Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Lilavati Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Lilavati Hospital Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_071",
+      "name": "Nanavati Max Super Speciality Hospital",
+      "domain": "nanavatimaxhospital.org",
+      "canonical_url": "https://www.nanavatimaxhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Nanavati Max Super Speciality Hospital",
+        "Nanavati Max Super Speciality Hospitalની સત્તાવાર વેબસાઇટ",
+        "Nanavati Max Super Speciality Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Nanavati Max Super Speciality Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Nanavati Max Super Speciality Hospital Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_072",
+      "name": "KEM Hospital Mumbai",
+      "domain": "kem.edu",
+      "canonical_url": "https://www.kem.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "KEM Hospital Mumbai",
+        "KEM Hospital Mumbaiની સત્તાવાર વેબસાઇટ",
+        "KEM Hospital Mumbaiહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "KEM Hospital Mumbaiના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "KEM Hospital Mumbai Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_073",
+      "name": "B. J. Government Medical College and Sassoon General Hospital",
+      "domain": "bjgmcpune.com",
+      "canonical_url": "https://bjgmcpune.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "B. J. Government Medical College and Sassoon General Hospital",
+        "B. J. Government Medical College and Sassoon General Hospitalની સત્તાવાર વેબસાઇટ",
+        "B. J. Government Medical College and Sassoon General Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "B. J. Government Medical College and Sassoon General Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "B. J. Government Medical College and Sassoon General Hospital Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_074",
+      "name": "Deenanath Mangeshkar Hospital",
+      "domain": "dmhospital.org",
+      "canonical_url": "https://www.dmhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Deenanath Mangeshkar Hospital",
+        "Deenanath Mangeshkar Hospitalની સત્તાવાર વેબસાઇટ",
+        "Deenanath Mangeshkar Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Deenanath Mangeshkar Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Deenanath Mangeshkar Hospital Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_075",
+      "name": "Narayana Health City",
+      "domain": "narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Narayana Health City",
+        "Narayana Health Cityની સત્તાવાર વેબસાઇટ",
+        "Narayana Health Cityહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Narayana Health Cityના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Narayana Health City Karnataka",
+        "કર્ણાટકમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_076",
+      "name": "Manipal Hospital Old Airport Road",
+      "domain": "manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Manipal Hospital Old Airport Road",
+        "Manipal Hospital Old Airport Roadની સત્તાવાર વેબસાઇટ",
+        "Manipal Hospital Old Airport Roadહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Manipal Hospital Old Airport Roadના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Manipal Hospital Old Airport Road Karnataka",
+        "કર્ણાટકમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_077",
+      "name": "Victoria Hospital Bengaluru",
+      "domain": "bmc.gov.in",
+      "canonical_url": "https://bmc.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Victoria Hospital Bengaluru",
+        "Victoria Hospital Bengaluruની સત્તાવાર વેબસાઇટ",
+        "Victoria Hospital Bengaluruહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Victoria Hospital Bengaluruના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Victoria Hospital Bengaluru Karnataka",
+        "કર્ણાટકમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_078",
+      "name": "NIMHANS",
+      "domain": "nimhans.ac.in",
+      "canonical_url": "https://nimhans.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "NIMHANS",
+        "NIMHANSની સત્તાવાર વેબસાઇટ",
+        "NIMHANSહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "NIMHANSના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "NIMHANS Karnataka",
+        "કર્ણાટકમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_079",
+      "name": "Christian Medical College Vellore",
+      "domain": "cmch-vellore.edu",
+      "canonical_url": "https://www.cmch-vellore.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Christian Medical College Vellore",
+        "Christian Medical College Velloreની સત્તાવાર વેબસાઇટ",
+        "Christian Medical College Velloreહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Christian Medical College Velloreના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Christian Medical College Vellore Tamil Nadu",
+        "તમિલનાડુમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_080",
+      "name": "MGM Healthcare Chennai",
+      "domain": "mgmhealthcare.in",
+      "canonical_url": "https://mgmhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "MGM Healthcare Chennai",
+        "MGM Healthcare Chennaiની સત્તાવાર વેબસાઇટ",
+        "MGM Healthcare Chennaiહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "MGM Healthcare Chennaiના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "MGM Healthcare Chennai Tamil Nadu",
+        "તમિલનાડુમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_081",
+      "name": "Rajiv Gandhi Government General Hospital",
+      "domain": "cmchistn.com",
+      "canonical_url": "https://www.cmchistn.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Rajiv Gandhi Government General Hospital",
+        "Rajiv Gandhi Government General Hospitalની સત્તાવાર વેબસાઇટ",
+        "Rajiv Gandhi Government General Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Rajiv Gandhi Government General Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Rajiv Gandhi Government General Hospital Tamil Nadu",
+        "તમિલનાડુમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_082",
+      "name": "Amrita Hospital Faridabad",
+      "domain": "amritahospitals.org",
+      "canonical_url": "https://www.amritahospitals.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Amrita Hospital Faridabad",
+        "Amrita Hospital Faridabadની સત્તાવાર વેબસાઇટ",
+        "Amrita Hospital Faridabadહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Amrita Hospital Faridabadના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Amrita Hospital Faridabad Haryana",
+        "હરિયાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_083",
+      "name": "Government Medical College and Hospital Chandigarh",
+      "domain": "gmch.gov.in",
+      "canonical_url": "https://gmch.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Chandigarh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Government Medical College and Hospital Chandigarh",
+        "Government Medical College and Hospital Chandigarhની સત્તાવાર વેબસાઇટ",
+        "Government Medical College and Hospital Chandigarhહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Government Medical College and Hospital Chandigarhના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Government Medical College and Hospital Chandigarh Chandigarh",
+        "ચંડીગઢમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_084",
+      "name": "SMS Hospital Jaipur",
+      "domain": "medicaleducation.rajasthan.gov.in",
+      "canonical_url": "https://medicaleducation.rajasthan.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "SMS Hospital Jaipur",
+        "SMS Hospital Jaipurની સત્તાવાર વેબસાઇટ",
+        "SMS Hospital Jaipurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "SMS Hospital Jaipurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "SMS Hospital Jaipur Rajasthan",
+        "રાજસ્થાનમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_085",
+      "name": "Yashoda Hospitals",
+      "domain": "yashodahospitals.com",
+      "canonical_url": "https://www.yashodahospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Yashoda Hospitals",
+        "Yashoda Hospitalsની સત્તાવાર વેબસાઇટ",
+        "Yashoda Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Yashoda Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Yashoda Hospitals Telangana",
+        "તેલંગાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_086",
+      "name": "NIMS Hyderabad",
+      "domain": "nims.edu.in",
+      "canonical_url": "https://nims.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "NIMS Hyderabad",
+        "NIMS Hyderabadની સત્તાવાર વેબસાઇટ",
+        "NIMS Hyderabadહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "NIMS Hyderabadના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "NIMS Hyderabad Telangana",
+        "તેલંગાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_087",
+      "name": "KIMS Hospitals Hyderabad",
+      "domain": "kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "KIMS Hospitals Hyderabad",
+        "KIMS Hospitals Hyderabadની સત્તાવાર વેબસાઇટ",
+        "KIMS Hospitals Hyderabadહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "KIMS Hospitals Hyderabadના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "KIMS Hospitals Hyderabad Telangana",
+        "તેલંગાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_088",
+      "name": "AIG Hospitals",
+      "domain": "aighospitals.com",
+      "canonical_url": "https://www.aighospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "AIG Hospitals",
+        "AIG Hospitalsની સત્તાવાર વેબસાઇટ",
+        "AIG Hospitalsહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "AIG Hospitalsના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "AIG Hospitals Telangana",
+        "તેલંગાણામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_089",
+      "name": "SCB Medical College and Hospital",
+      "domain": "scbmch.in",
+      "canonical_url": "https://scbmch.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Odisha",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "SCB Medical College and Hospital",
+        "SCB Medical College and Hospitalની સત્તાવાર વેબસાઇટ",
+        "SCB Medical College and Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "SCB Medical College and Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "SCB Medical College and Hospital Odisha",
+        "ઓડિશામાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_090",
+      "name": "IGIMS Patna",
+      "domain": "www.igims.org",
+      "canonical_url": "https://www.igims.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "IGIMS Patna",
+        "IGIMS Patnaની સત્તાવાર વેબસાઇટ",
+        "IGIMS Patnaહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "IGIMS Patnaના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "IGIMS Patna Bihar",
+        "બિહારમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_091",
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+      "domain": "sctimst.ac.in",
+      "canonical_url": "https://www.sctimst.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technologyની સત્તાવાર વેબસાઇટ",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technologyહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technologyના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology Kerala",
+        "કેરળમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_092",
+      "name": "KIMSHEALTH",
+      "domain": "kimshealth.org",
+      "canonical_url": "https://www.kimshealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "KIMSHEALTH",
+        "KIMSHEALTHની સત્તાવાર વેબસાઇટ",
+        "KIMSHEALTHહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "KIMSHEALTHના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "KIMSHEALTH Kerala",
+        "કેરળમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_093",
+      "name": "King George's Medical University",
+      "domain": "kgmu.org",
+      "canonical_url": "https://www.kgmu.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "King George's Medical University",
+        "King George's Medical Universityની સત્તાવાર વેબસાઇટ",
+        "King George's Medical Universityહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "King George's Medical Universityના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "King George's Medical University Uttar Pradesh",
+        "ઉત્તર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_094",
+      "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+      "domain": "sgpgims.org.in",
+      "canonical_url": "https://sgpgims.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciencesની સત્તાવાર વેબસાઇટ",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciencesહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciencesના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences Uttar Pradesh",
+        "ઉત્તર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_095",
+      "name": "Institute of Medical Sciences, Banaras Hindu University",
+      "domain": "bhu.ac.in",
+      "canonical_url": "https://www.bhu.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Institute of Medical Sciences, Banaras Hindu University",
+        "Institute of Medical Sciences, Banaras Hindu Universityની સત્તાવાર વેબસાઇટ",
+        "Institute of Medical Sciences, Banaras Hindu Universityહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Institute of Medical Sciences, Banaras Hindu Universityના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Institute of Medical Sciences, Banaras Hindu University Uttar Pradesh",
+        "ઉત્તર પ્રદેશમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_096",
+      "name": "Government Medical College Nagpur",
+      "domain": "gmcnagpur.org",
+      "canonical_url": "https://gmcnagpur.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Government Medical College Nagpur",
+        "Government Medical College Nagpurની સત્તાવાર વેબસાઇટ",
+        "Government Medical College Nagpurહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Government Medical College Nagpurના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Government Medical College Nagpur Maharashtra",
+        "મહારાષ્ટ્રમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_097",
+      "name": "IPGMER and SSKM Hospital",
+      "domain": "ipgmer.gov.in",
+      "canonical_url": "https://ipgmer.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "IPGMER and SSKM Hospital",
+        "IPGMER and SSKM Hospitalની સત્તાવાર વેબસાઇટ",
+        "IPGMER and SSKM Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "IPGMER and SSKM Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "IPGMER and SSKM Hospital West Bengal",
+        "પશ્ચિમ બંગાળમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_098",
+      "name": "Gauhati Medical College and Hospital",
+      "domain": "gmch.assam.gov.in",
+      "canonical_url": "https://gmch.assam.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Assam",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Gauhati Medical College and Hospital",
+        "Gauhati Medical College and Hospitalની સત્તાવાર વેબસાઇટ",
+        "Gauhati Medical College and Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Gauhati Medical College and Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Gauhati Medical College and Hospital Assam",
+        "આસામમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_099",
+      "name": "Civil Hospital Ahmedabad",
+      "domain": "civilhospitalahd.gujarat.gov.in",
+      "canonical_url": "https://civilhospitalahd.gujarat.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી નિષ્ણાતો",
+        "આરોગ્યસંભાળ"
+      ],
+      "keywords": [
+        "Civil Hospital Ahmedabad",
+        "Civil Hospital Ahmedabadની સત્તાવાર વેબસાઇટ",
+        "Civil Hospital Ahmedabadહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Civil Hospital Ahmedabadના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Civil Hospital Ahmedabad Gujarat",
+        "ગુજરાતમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_100",
+      "name": "Dayanand Medical College and Hospital",
+      "domain": "dmch.edu",
+      "canonical_url": "https://www.dmch.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Punjab",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Dayanand Medical College and Hospital",
+        "Dayanand Medical College and Hospitalની સત્તાવાર વેબસાઇટ",
+        "Dayanand Medical College and Hospitalહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Dayanand Medical College and Hospitalના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Dayanand Medical College and Hospital Punjab",
+        "પંજાબમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "health_india_101",
+      "name": "Sher-i-Kashmir Institute of Medical Sciences",
+      "domain": "skims.ac.in",
+      "canonical_url": "https://skims.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ભારતમાં આવેલી આ હોસ્પિટલ અથવા તબીબી સંસ્થા ક્લિનિકલ સારવાર આપે છે અને જ્યાં લાગુ પડે ત્યાં વિશેષજ્ઞ સેવાઓ, તબીબી શિક્ષણ અથવા સંશોધન પણ કરે છે. વિભાગો, એપોઇન્ટમેન્ટ, દર્દી સેવાઓ અને હાલની સુવિધાઓ વિશેની માહિતી માટે તેની સત્તાવાર વેબસાઇટ જુઓ.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "જાહેર તબીબી સંસ્થા",
+        "શિક્ષણ હોસ્પિટલ",
+        "દર્દી સેવાઓ",
+        "તબીબી શિક્ષણ"
+      ],
+      "keywords": [
+        "Sher-i-Kashmir Institute of Medical Sciences",
+        "Sher-i-Kashmir Institute of Medical Sciencesની સત્તાવાર વેબસાઇટ",
+        "Sher-i-Kashmir Institute of Medical Sciencesહોસ્પિટલ",
+        "હોસ્પિટલ એપોઇન્ટમેન્ટ",
+        "Sher-i-Kashmir Institute of Medical Sciencesના ડૉક્ટરો",
+        "હોસ્પિટલના વિભાગો",
+        "દર્દીની નોંધણી",
+        "OPD સમયપત્રક",
+        "હોસ્પિટલનો સંપર્ક નંબર",
+        "તબીબી સેવાઓ",
+        "Sher-i-Kashmir Institute of Medical Sciences Jammu and Kashmir",
+        "જમ્મુ અને કાશ્મીરમાં હોસ્પિટલ"
+      ],
+      "use_cases": [
+        "હોસ્પિટલના વિભાગો, વિશેષતાઓ અને દર્દીઓ માટેની માહિતી મેળવો",
+        "એપોઇન્ટમેન્ટ, OPD અથવા નોંધણી માટેની સત્તાવાર સૂચનાઓ તપાસો",
+        "હોસ્પિટલના સંપર્કની વિગતો અને ઉપલબ્ધ દર્દી સહાય સેવાઓ શોધો"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4102 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "health-india",
+  "language": "en",
+  "category_name": "Healthcare India",
+  "count": 101,
+  "urls": [
+    {
+      "id": "health_india_001",
+      "name": "Ayushman Bharat Digital Mission",
+      "domain": "abdm.gov.in",
+      "canonical_url": "https://abdm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India’s national digital health mission, supporting interoperable digital health services and the creation and use of digital health records through participating systems.",
+      "source_type": "government_health_scheme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "National Health Programme",
+        "Digital Health",
+        "Health Records",
+        "Public Health"
+      ],
+      "keywords": [
+        "Ayushman Bharat Digital Mission",
+        "ABDM India",
+        "digital health India",
+        "ABHA health ID",
+        "digital health records",
+        "link health records",
+        "health facility registry",
+        "healthcare professional registry"
+      ],
+      "use_cases": [
+        "Learn about India’s digital health ecosystem and participating services",
+        "Find official information about digital health records and registries"
+      ]
+    },
+    {
+      "id": "health_india_002",
+      "name": "National Health Authority",
+      "domain": "nha.gov.in",
+      "canonical_url": "https://nha.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Government of India authority responsible for implementing Ayushman Bharat health assurance initiatives and the national digital health mission.",
+      "source_type": "government_health_authority",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Health Authority",
+        "Health Schemes",
+        "Digital Health",
+        "Public Healthcare"
+      ],
+      "keywords": [
+        "National Health Authority India",
+        "NHA India",
+        "Ayushman Bharat authority",
+        "PM-JAY information",
+        "ABDM implementation",
+        "government health schemes",
+        "health assurance programme"
+      ],
+      "use_cases": [
+        "Read official information about national health assurance programmes",
+        "Find programme guidelines, announcements and public resources"
+      ]
+    },
+    {
+      "id": "health_india_003",
+      "name": "ABHA",
+      "domain": "abha.abdm.gov.in",
+      "canonical_url": "https://abha.abdm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The official Ayushman Bharat Health Account service for creating and managing a digital health account used in India’s digital health ecosystem.",
+      "source_type": "government_digital_health",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Digital Health Account",
+        "Health Records",
+        "ABHA ID",
+        "Government Health Service"
+      ],
+      "keywords": [
+        "ABHA number",
+        "ABHA health account",
+        "create ABHA ID",
+        "Ayushman Bharat Health Account",
+        "digital health ID India",
+        "manage health account",
+        "link health records"
+      ],
+      "use_cases": [
+        "Learn how to create or access an ABHA health account",
+        "Find official guidance on linking and managing digital health records"
+      ]
+    },
+    {
+      "id": "health_india_004",
+      "name": "eSanjeevani",
+      "domain": "esanjeevani.mohfw.gov.in",
+      "canonical_url": "https://esanjeevani.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India’s government telemedicine service that enables patients to access remote medical consultations through supported public health channels.",
+      "source_type": "government_telemedicine",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Telemedicine",
+        "Online Doctor Consultation",
+        "Public Healthcare",
+        "Remote Consultation"
+      ],
+      "keywords": [
+        "eSanjeevani",
+        "online doctor consultation government",
+        "telemedicine India",
+        "video doctor consultation",
+        "remote medical consultation",
+        "government online OPD",
+        "patient teleconsultation"
+      ],
+      "use_cases": [
+        "Find the official route for a supported online medical consultation",
+        "Read patient guidance for using government telemedicine services"
+      ]
+    },
+    {
+      "id": "health_india_005",
+      "name": "Ministry of Health and Family Welfare",
+      "domain": "mohfw.gov.in",
+      "canonical_url": "https://mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Government of India’s central health ministry, providing official information on public health policy, national programmes, health advisories and departmental services.",
+      "source_type": "government_ministry",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Government Ministry",
+        "Public Health",
+        "Health Policy",
+        "National Programmes"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "government health schemes",
+        "national health policy",
+        "public health advisories",
+        "health programme updates"
+      ],
+      "use_cases": [
+        "Read official national health policies, notices and programme updates",
+        "Find ministry publications and public health guidance"
+      ]
+    },
+    {
+      "id": "health_india_006",
+      "name": "CoWIN",
+      "domain": "www.cowin.gov.in",
+      "canonical_url": "https://www.cowin.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India’s government vaccination platform, originally used for COVID-19 vaccination registration, appointment and certificate services; current functions may vary.",
+      "source_type": "government_health_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Vaccination Portal",
+        "Government Health Service",
+        "Immunisation",
+        "Certificates"
+      ],
+      "keywords": [
+        "CoWIN India",
+        "COVID vaccination certificate",
+        "vaccination record",
+        "vaccine appointment India",
+        "CoWIN certificate download",
+        "government vaccination portal"
+      ],
+      "use_cases": [
+        "Find official information about vaccination records and certificates",
+        "Check whether relevant vaccination services remain available"
+      ]
+    },
+    {
+      "id": "health_india_007",
+      "name": "Apollo Hospitals",
+      "domain": "www.apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Apollo Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Apollo Hospitals",
+        "Apollo Hospitals official website",
+        "Apollo Hospitals hospital",
+        "hospital appointments",
+        "Apollo Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_008",
+      "name": "Fortis Healthcare",
+      "domain": "www.fortishealthcare.com",
+      "canonical_url": "https://www.fortishealthcare.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fortis Healthcare is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Fortis Healthcare",
+        "Fortis Healthcare official website",
+        "Fortis Healthcare hospital",
+        "hospital appointments",
+        "Fortis Healthcare doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_009",
+      "name": "Tata 1mg",
+      "domain": "www.1mg.com",
+      "canonical_url": "https://www.1mg.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tata 1mg is an Indian digital healthcare platform offering online access to pharmacy-related services, diagnostic testing and health information, subject to location and service availability.",
+      "source_type": "healthcare_platform",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Digital Healthcare",
+        "Online Pharmacy",
+        "Lab Tests",
+        "Health Information"
+      ],
+      "keywords": [
+        "Tata 1mg",
+        "1mg online pharmacy",
+        "order medicines online",
+        "medicine delivery",
+        "book lab test",
+        "diagnostic test booking",
+        "health information",
+        "medicine details"
+      ],
+      "use_cases": [
+        "Explore pharmacy services and medicine information",
+        "Check availability of diagnostic tests and booking options",
+        "Read health information and service guidance"
+      ]
+    },
+    {
+      "id": "health_india_010",
+      "name": "Practo",
+      "domain": "www.practo.com",
+      "canonical_url": "https://www.practo.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Practo is a healthcare discovery and digital care platform in India, helping people find doctors and clinics, explore healthcare information and request appointments where available.",
+      "source_type": "healthcare_platform",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Healthcare Platform",
+        "Find a Doctor",
+        "Appointments",
+        "Health Information"
+      ],
+      "keywords": [
+        "Practo",
+        "find doctor online",
+        "doctor appointment",
+        "clinic near me",
+        "book doctor appointment",
+        "specialist doctor search",
+        "hospital appointment",
+        "online healthcare platform"
+      ],
+      "use_cases": [
+        "Search for doctors, clinics and healthcare providers",
+        "Review provider information and request an appointment where supported",
+        "Explore general healthcare information"
+      ]
+    },
+    {
+      "id": "health_india_011",
+      "name": "AIIMS New Delhi",
+      "domain": "www.aiims.edu",
+      "canonical_url": "https://www.aiims.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS New Delhi is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS New Delhi",
+        "AIIMS New Delhi official website",
+        "AIIMS New Delhi hospital",
+        "hospital appointments",
+        "AIIMS New Delhi doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_012",
+      "name": "PGIMER Chandigarh",
+      "domain": "pgimer.edu.in",
+      "canonical_url": "https://pgimer.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PGIMER Chandigarh is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "PGIMER Chandigarh",
+        "PGIMER Chandigarh official website",
+        "PGIMER Chandigarh hospital",
+        "hospital appointments",
+        "PGIMER Chandigarh doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_013",
+      "name": "JIPMER",
+      "domain": "jipmer.edu.in",
+      "canonical_url": "https://jipmer.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "JIPMER is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "JIPMER",
+        "JIPMER official website",
+        "JIPMER hospital",
+        "hospital appointments",
+        "JIPMER doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_014",
+      "name": "Tata Memorial Centre",
+      "domain": "tmc.gov.in",
+      "canonical_url": "https://tmc.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tata Memorial Centre is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Cancer Care",
+        "Specialist Hospital",
+        "Patient Services",
+        "Medical Research"
+      ],
+      "keywords": [
+        "Tata Memorial Centre",
+        "Tata Memorial Centre official website",
+        "Tata Memorial Centre hospital",
+        "hospital appointments",
+        "Tata Memorial Centre doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "cancer treatment hospital",
+        "oncology consultation",
+        "cancer care services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_015",
+      "name": "Narayana Health",
+      "domain": "www.narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Narayana Health is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Narayana Health",
+        "Narayana Health official website",
+        "Narayana Health hospital",
+        "hospital appointments",
+        "Narayana Health doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_016",
+      "name": "Manipal Hospitals",
+      "domain": "www.manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Manipal Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Manipal Hospitals",
+        "Manipal Hospitals official website",
+        "Manipal Hospitals hospital",
+        "hospital appointments",
+        "Manipal Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_017",
+      "name": "Max Healthcare",
+      "domain": "www.maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Max Healthcare is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Max Healthcare",
+        "Max Healthcare official website",
+        "Max Healthcare hospital",
+        "hospital appointments",
+        "Max Healthcare doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_018",
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "domain": "www.kokilabenhospital.com",
+      "canonical_url": "https://www.kokilabenhospital.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kokilaben Dhirubhai Ambani Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Kokilaben Dhirubhai Ambani Hospital",
+        "Kokilaben Dhirubhai Ambani Hospital official website",
+        "Kokilaben Dhirubhai Ambani Hospital hospital",
+        "hospital appointments",
+        "Kokilaben Dhirubhai Ambani Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_019",
+      "name": "HCG Cancer Centre",
+      "domain": "www.hcgoncology.com",
+      "canonical_url": "https://www.hcgoncology.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HCG Cancer Centre is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Cancer Care",
+        "Specialist Hospital",
+        "Patient Services",
+        "Medical Research"
+      ],
+      "keywords": [
+        "HCG Cancer Centre",
+        "HCG Cancer Centre official website",
+        "HCG Cancer Centre hospital",
+        "hospital appointments",
+        "HCG Cancer Centre doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "cancer treatment hospital",
+        "oncology consultation",
+        "cancer care services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_020",
+      "name": "KIMS Hospitals",
+      "domain": "www.kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KIMS Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "KIMS Hospitals",
+        "KIMS Hospitals official website",
+        "KIMS Hospitals hospital",
+        "hospital appointments",
+        "KIMS Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_021",
+      "name": "Star Health Insurance",
+      "domain": "www.starhealth.in",
+      "canonical_url": "https://www.starhealth.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Star Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "Star Health Insurance",
+        "Star Health Insurance India",
+        "Star Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_022",
+      "name": "Niva Bupa Health Insurance",
+      "domain": "www.nivabupa.com",
+      "canonical_url": "https://www.nivabupa.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Niva Bupa Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "Niva Bupa Health Insurance",
+        "Niva Bupa Health Insurance India",
+        "Niva Bupa Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_023",
+      "name": "Care Health Insurance",
+      "domain": "www.careinsurance.com",
+      "canonical_url": "https://www.careinsurance.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Care Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "Care Health Insurance",
+        "Care Health Insurance India",
+        "Care Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_024",
+      "name": "Aditya Birla Health Insurance",
+      "domain": "www.adityabirlacapital.com/healthinsurance",
+      "canonical_url": "https://www.adityabirlacapital.com/healthinsurance",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Aditya Birla Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "Aditya Birla Health Insurance",
+        "Aditya Birla Health Insurance India",
+        "Aditya Birla Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_025",
+      "name": "HDFC ERGO Health Insurance",
+      "domain": "www.hdfcergo.com",
+      "canonical_url": "https://www.hdfcergo.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HDFC ERGO Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "HDFC ERGO Health Insurance",
+        "HDFC ERGO Health Insurance India",
+        "HDFC ERGO Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_026",
+      "name": "ICICI Lombard Health Insurance",
+      "domain": "www.icicilombard.com",
+      "canonical_url": "https://www.icicilombard.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ICICI Lombard Health Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "health_insurance",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "ICICI Lombard Health Insurance",
+        "ICICI Lombard Health Insurance India",
+        "ICICI Lombard Health Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_027",
+      "name": "New India Assurance",
+      "domain": "www.newindia.co.in",
+      "canonical_url": "https://www.newindia.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "New India Assurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "New India Assurance",
+        "New India Assurance India",
+        "New India Assurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_028",
+      "name": "United India Insurance",
+      "domain": "uiic.co.in",
+      "canonical_url": "https://uiic.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "United India Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "United India Insurance",
+        "United India Insurance India",
+        "United India Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_029",
+      "name": "National Insurance Company",
+      "domain": "nationalinsurance.nic.co.in",
+      "canonical_url": "https://nationalinsurance.nic.co.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "National Insurance Company provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "National Insurance Company",
+        "National Insurance Company India",
+        "National Insurance Company health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_030",
+      "name": "Oriental Insurance",
+      "domain": "orientalinsurance.org.in",
+      "canonical_url": "https://orientalinsurance.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Oriental Insurance provides insurance information and products in India, including health insurance or general insurance cover. Use the official site to review current policy terms, eligibility, exclusions, claims procedures and support channels.",
+      "source_type": "insurance_company",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Provider",
+        "Health Insurance",
+        "Policy Information",
+        "Claims Support"
+      ],
+      "keywords": [
+        "Oriental Insurance",
+        "Oriental Insurance India",
+        "Oriental Insurance health insurance",
+        "medical insurance policy",
+        "family health insurance",
+        "health insurance premium",
+        "cashless hospital network",
+        "health insurance claim",
+        "policy renewal",
+        "insurance customer care"
+      ],
+      "use_cases": [
+        "Compare available health insurance plans, coverage limits and exclusions",
+        "Find policy documents, renewal information and claim instructions",
+        "Locate official customer support and policyholder resources"
+      ]
+    },
+    {
+      "id": "health_india_031",
+      "name": "Insurance Regulatory and Development Authority of India",
+      "domain": "irdai.gov.in",
+      "canonical_url": "https://irdai.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India’s insurance regulator, providing regulatory updates, policyholder information, consumer guidance and resources for complaints concerning regulated insurers.",
+      "source_type": "insurance_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Insurance Regulator",
+        "Policyholder Support",
+        "Consumer Protection",
+        "Health Insurance"
+      ],
+      "keywords": [
+        "IRDAI",
+        "insurance regulator India",
+        "health insurance rules",
+        "policyholder rights",
+        "insurance grievance",
+        "insurance complaint process",
+        "insurer regulations"
+      ],
+      "use_cases": [
+        "Read official rules and circulars affecting health insurance policyholders",
+        "Find consumer guidance and grievance redressal information"
+      ]
+    },
+    {
+      "id": "health_india_032",
+      "name": "Emergency Response Support System 112",
+      "domain": "112.gov.in",
+      "canonical_url": "https://112.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Emergency Response Support System 112 provides official information about emergency response and public assistance in India. Emergency contact availability and local response arrangements should be checked through the relevant official channel.",
+      "source_type": "emergency_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Emergency Services",
+        "Public Safety",
+        "Government Helpline",
+        "Health Assistance"
+      ],
+      "keywords": [
+        "112 emergency India",
+        "emergency helpline India",
+        "ambulance emergency number",
+        "police fire ambulance help",
+        "emergency response service",
+        "national emergency number",
+        "state emergency services"
+      ],
+      "use_cases": [
+        "Find official emergency contact and response information",
+        "Understand how to seek urgent assistance through the national or local response system"
+      ]
+    },
+    {
+      "id": "health_india_033",
+      "name": "National Health Mission",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Government of India’s central health ministry, providing official information on public health policy, national programmes, health advisories and departmental services.",
+      "source_type": "government_health_programme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Government Ministry",
+        "Public Health",
+        "Health Policy",
+        "National Programmes"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "government health schemes",
+        "national health policy",
+        "public health advisories",
+        "health programme updates"
+      ],
+      "use_cases": [
+        "Read official national health policies, notices and programme updates",
+        "Find ministry publications and public health guidance"
+      ]
+    },
+    {
+      "id": "health_india_034",
+      "name": "Indian Red Cross Society",
+      "domain": "indianredcross.org",
+      "canonical_url": "https://indianredcross.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Red Cross Society provides official information about emergency response and public assistance in India. Emergency contact availability and local response arrangements should be checked through the relevant official channel.",
+      "source_type": "emergency_health_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Emergency Services",
+        "Public Safety",
+        "Government Helpline",
+        "Health Assistance"
+      ],
+      "keywords": [
+        "112 emergency India",
+        "emergency helpline India",
+        "ambulance emergency number",
+        "police fire ambulance help",
+        "emergency response service",
+        "national emergency number",
+        "state emergency services"
+      ],
+      "use_cases": [
+        "Find official emergency contact and response information",
+        "Understand how to seek urgent assistance through the national or local response system"
+      ]
+    },
+    {
+      "id": "health_india_035",
+      "name": "National Organ and Tissue Transplant Organization",
+      "domain": "notto.mohfw.gov.in",
+      "canonical_url": "https://notto.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National Organ and Tissue Transplant Organization is an Indian health-sector organisation providing public information, specialist resources or healthcare-related services. Refer to its official website for current programmes, guidance and service details.",
+      "source_type": "health_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Health Organisation",
+        "Public Health Information",
+        "Healthcare Resources"
+      ],
+      "keywords": [
+        "National Organ and Tissue Transplant Organization",
+        "National Organ and Tissue Transplant Organization India",
+        "health services India",
+        "health information",
+        "official health resources",
+        "health programme"
+      ],
+      "use_cases": [
+        "Find official health-sector information and resources",
+        "Review current programmes, notices or service guidance"
+      ]
+    },
+    {
+      "id": "health_india_036",
+      "name": "National AIDS Control Organisation",
+      "domain": "naco.gov.in",
+      "canonical_url": "https://naco.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "The Government of India’s central health ministry, providing official information on public health policy, national programmes, health advisories and departmental services.",
+      "source_type": "government_health_programme",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Government Ministry",
+        "Public Health",
+        "Health Policy",
+        "National Programmes"
+      ],
+      "keywords": [
+        "Ministry of Health and Family Welfare",
+        "MoHFW India",
+        "India health ministry",
+        "government health schemes",
+        "national health policy",
+        "public health advisories",
+        "health programme updates"
+      ],
+      "use_cases": [
+        "Read official national health policies, notices and programme updates",
+        "Find ministry publications and public health guidance"
+      ]
+    },
+    {
+      "id": "health_india_037",
+      "name": "Central Drugs Standard Control Organisation",
+      "domain": "cdsco.gov.in",
+      "canonical_url": "https://cdsco.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central Drugs Standard Control Organisation is an Indian health-sector organisation providing public information, specialist resources or healthcare-related services. Refer to its official website for current programmes, guidance and service details.",
+      "source_type": "health_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Health Organisation",
+        "Public Health Information",
+        "Healthcare Resources"
+      ],
+      "keywords": [
+        "Central Drugs Standard Control Organisation",
+        "Central Drugs Standard Control Organisation India",
+        "health services India",
+        "health information",
+        "official health resources",
+        "health programme"
+      ],
+      "use_cases": [
+        "Find official health-sector information and resources",
+        "Review current programmes, notices or service guidance"
+      ]
+    },
+    {
+      "id": "health_india_038",
+      "name": "Indian Council of Medical Research",
+      "domain": "icmr.gov.in",
+      "canonical_url": "https://icmr.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Council of Medical Research is an Indian health-sector organisation providing public information, specialist resources or healthcare-related services. Refer to its official website for current programmes, guidance and service details.",
+      "source_type": "medical_research",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Health Organisation",
+        "Public Health Information",
+        "Healthcare Resources"
+      ],
+      "keywords": [
+        "Indian Council of Medical Research",
+        "Indian Council of Medical Research India",
+        "health services India",
+        "health information",
+        "official health resources",
+        "health programme"
+      ],
+      "use_cases": [
+        "Find official health-sector information and resources",
+        "Review current programmes, notices or service guidance"
+      ]
+    },
+    {
+      "id": "health_india_039",
+      "name": "National Medical Commission",
+      "domain": "nmc.org.in",
+      "canonical_url": "https://www.nmc.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National Medical Commission is an Indian health-sector organisation providing public information, specialist resources or healthcare-related services. Refer to its official website for current programmes, guidance and service details.",
+      "source_type": "medical_regulator",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Health Organisation",
+        "Public Health Information",
+        "Healthcare Resources"
+      ],
+      "keywords": [
+        "National Medical Commission",
+        "National Medical Commission India",
+        "health services India",
+        "health information",
+        "official health resources",
+        "health programme"
+      ],
+      "use_cases": [
+        "Find official health-sector information and resources",
+        "Review current programmes, notices or service guidance"
+      ]
+    },
+    {
+      "id": "health_india_040",
+      "name": "National Ambulance Service (NHM information)",
+      "domain": "nhm.gov.in",
+      "canonical_url": "https://nhm.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "National Ambulance Service (NHM information) provides official information about emergency response and public assistance in India. Emergency contact availability and local response arrangements should be checked through the relevant official channel.",
+      "source_type": "emergency_service",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Emergency Services",
+        "Public Safety",
+        "Government Helpline",
+        "Health Assistance"
+      ],
+      "keywords": [
+        "112 emergency India",
+        "emergency helpline India",
+        "ambulance emergency number",
+        "police fire ambulance help",
+        "emergency response service",
+        "national emergency number",
+        "state emergency services"
+      ],
+      "use_cases": [
+        "Find official emergency contact and response information",
+        "Understand how to seek urgent assistance through the national or local response system"
+      ]
+    },
+    {
+      "id": "health_india_041",
+      "name": "AIIMS Bhopal",
+      "domain": "aiimsbhopal.edu.in",
+      "canonical_url": "https://aiimsbhopal.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Bhopal is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Madhya Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Bhopal",
+        "AIIMS Bhopal official website",
+        "AIIMS Bhopal hospital",
+        "hospital appointments",
+        "AIIMS Bhopal doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Bhopal Madhya Pradesh",
+        "hospital in madhya pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_042",
+      "name": "AIIMS Bhubaneswar",
+      "domain": "aiimsbhubaneswar.nic.in",
+      "canonical_url": "https://aiimsbhubaneswar.nic.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Bhubaneswar is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Odisha",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Bhubaneswar",
+        "AIIMS Bhubaneswar official website",
+        "AIIMS Bhubaneswar hospital",
+        "hospital appointments",
+        "AIIMS Bhubaneswar doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Bhubaneswar Odisha",
+        "hospital in odisha"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_043",
+      "name": "AIIMS Jodhpur",
+      "domain": "aiimsjodhpur.edu.in",
+      "canonical_url": "https://www.aiimsjodhpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Jodhpur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Jodhpur",
+        "AIIMS Jodhpur official website",
+        "AIIMS Jodhpur hospital",
+        "hospital appointments",
+        "AIIMS Jodhpur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Jodhpur Rajasthan",
+        "hospital in rajasthan"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_044",
+      "name": "AIIMS Patna",
+      "domain": "aiimspatna.edu.in",
+      "canonical_url": "https://aiimspatna.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Patna is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Patna",
+        "AIIMS Patna official website",
+        "AIIMS Patna hospital",
+        "hospital appointments",
+        "AIIMS Patna doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Patna Bihar",
+        "hospital in bihar"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_045",
+      "name": "AIIMS Raipur",
+      "domain": "aiimsraipur.edu.in",
+      "canonical_url": "https://www.aiimsraipur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Raipur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Chhattisgarh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Raipur",
+        "AIIMS Raipur official website",
+        "AIIMS Raipur hospital",
+        "hospital appointments",
+        "AIIMS Raipur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Raipur Chhattisgarh",
+        "hospital in chhattisgarh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_046",
+      "name": "AIIMS Rishikesh",
+      "domain": "aiimsrishikesh.edu.in",
+      "canonical_url": "https://aiimsrishikesh.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Rishikesh is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttarakhand",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Rishikesh",
+        "AIIMS Rishikesh official website",
+        "AIIMS Rishikesh hospital",
+        "hospital appointments",
+        "AIIMS Rishikesh doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Rishikesh Uttarakhand",
+        "hospital in uttarakhand"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_047",
+      "name": "AIIMS Raebareli",
+      "domain": "aiimsrbl.edu.in",
+      "canonical_url": "https://aiimsrbl.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Raebareli is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Raebareli",
+        "AIIMS Raebareli official website",
+        "AIIMS Raebareli hospital",
+        "hospital appointments",
+        "AIIMS Raebareli doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Raebareli Uttar Pradesh",
+        "hospital in uttar pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_048",
+      "name": "AIIMS Gorakhpur",
+      "domain": "aiimsgorakhpur.edu.in",
+      "canonical_url": "https://aiimsgorakhpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Gorakhpur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Gorakhpur",
+        "AIIMS Gorakhpur official website",
+        "AIIMS Gorakhpur hospital",
+        "hospital appointments",
+        "AIIMS Gorakhpur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Gorakhpur Uttar Pradesh",
+        "hospital in uttar pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_049",
+      "name": "AIIMS Mangalagiri",
+      "domain": "aiimsmangalagiri.edu.in",
+      "canonical_url": "https://www.aiimsmangalagiri.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Mangalagiri is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Andhra Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Mangalagiri",
+        "AIIMS Mangalagiri official website",
+        "AIIMS Mangalagiri hospital",
+        "hospital appointments",
+        "AIIMS Mangalagiri doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Mangalagiri Andhra Pradesh",
+        "hospital in andhra pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_050",
+      "name": "AIIMS Nagpur",
+      "domain": "aiimsnagpur.edu.in",
+      "canonical_url": "https://aiimsnagpur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Nagpur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Nagpur",
+        "AIIMS Nagpur official website",
+        "AIIMS Nagpur hospital",
+        "hospital appointments",
+        "AIIMS Nagpur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Nagpur Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_051",
+      "name": "AIIMS Bathinda",
+      "domain": "aiimsbathinda.edu.in",
+      "canonical_url": "https://aiimsbathinda.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Bathinda is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Punjab",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Bathinda",
+        "AIIMS Bathinda official website",
+        "AIIMS Bathinda hospital",
+        "hospital appointments",
+        "AIIMS Bathinda doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Bathinda Punjab",
+        "hospital in punjab"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_052",
+      "name": "AIIMS Bibinagar",
+      "domain": "aiimsbibinagar.edu.in",
+      "canonical_url": "https://aiimsbibinagar.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Bibinagar is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Bibinagar",
+        "AIIMS Bibinagar official website",
+        "AIIMS Bibinagar hospital",
+        "hospital appointments",
+        "AIIMS Bibinagar doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Bibinagar Telangana",
+        "hospital in telangana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_053",
+      "name": "AIIMS Kalyani",
+      "domain": "aiimskalyani.edu.in",
+      "canonical_url": "https://aiimskalyani.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Kalyani is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Kalyani",
+        "AIIMS Kalyani official website",
+        "AIIMS Kalyani hospital",
+        "hospital appointments",
+        "AIIMS Kalyani doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Kalyani West Bengal",
+        "hospital in west bengal"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_054",
+      "name": "AIIMS Deoghar",
+      "domain": "aiimsdeoghar.edu.in",
+      "canonical_url": "https://aiimsdeoghar.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Deoghar is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jharkhand",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Deoghar",
+        "AIIMS Deoghar official website",
+        "AIIMS Deoghar hospital",
+        "hospital appointments",
+        "AIIMS Deoghar doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Deoghar Jharkhand",
+        "hospital in jharkhand"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_055",
+      "name": "AIIMS Bilaspur",
+      "domain": "aiimsbilaspur.edu.in",
+      "canonical_url": "https://aiimsbilaspur.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Bilaspur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Himachal Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Bilaspur",
+        "AIIMS Bilaspur official website",
+        "AIIMS Bilaspur hospital",
+        "hospital appointments",
+        "AIIMS Bilaspur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Bilaspur Himachal Pradesh",
+        "hospital in himachal pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_056",
+      "name": "AIIMS Rajkot",
+      "domain": "aiimsrajkot.edu.in",
+      "canonical_url": "https://aiimsrajkot.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Rajkot is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Rajkot",
+        "AIIMS Rajkot official website",
+        "AIIMS Rajkot hospital",
+        "hospital appointments",
+        "AIIMS Rajkot doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Rajkot Gujarat",
+        "hospital in gujarat"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_057",
+      "name": "AIIMS Guwahati",
+      "domain": "aiimsguwahati.ac.in",
+      "canonical_url": "https://aiimsguwahati.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Guwahati is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Assam",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Guwahati",
+        "AIIMS Guwahati official website",
+        "AIIMS Guwahati hospital",
+        "hospital appointments",
+        "AIIMS Guwahati doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Guwahati Assam",
+        "hospital in assam"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_058",
+      "name": "AIIMS Jammu (Vijaypur)",
+      "domain": "aiimsjammu.edu.in",
+      "canonical_url": "https://www.aiimsjammu.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Jammu (Vijaypur) is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Jammu (Vijaypur)",
+        "AIIMS Jammu (Vijaypur) official website",
+        "AIIMS Jammu (Vijaypur) hospital",
+        "hospital appointments",
+        "AIIMS Jammu (Vijaypur) doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Jammu (Vijaypur) Jammu and Kashmir",
+        "hospital in jammu and kashmir"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_059",
+      "name": "AIIMS Madurai",
+      "domain": "aiimsmadurai.edu.in",
+      "canonical_url": "https://aiimsmadurai.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Madurai is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Madurai",
+        "AIIMS Madurai official website",
+        "AIIMS Madurai hospital",
+        "hospital appointments",
+        "AIIMS Madurai doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Madurai Tamil Nadu",
+        "hospital in tamil nadu"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_060",
+      "name": "AIIMS Awantipora",
+      "domain": "aiimsawantipora.edu.in",
+      "canonical_url": "https://aiimsawantipora.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Awantipora is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Awantipora",
+        "AIIMS Awantipora official website",
+        "AIIMS Awantipora hospital",
+        "hospital appointments",
+        "AIIMS Awantipora doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Awantipora Jammu and Kashmir",
+        "hospital in jammu and kashmir"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_061",
+      "name": "AIIMS Darbhanga",
+      "domain": "aiimsdarbhanga.edu.in",
+      "canonical_url": "https://aiimsdarbhanga.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Darbhanga is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Darbhanga",
+        "AIIMS Darbhanga official website",
+        "AIIMS Darbhanga hospital",
+        "hospital appointments",
+        "AIIMS Darbhanga doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Darbhanga Bihar",
+        "hospital in bihar"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_062",
+      "name": "AIIMS Majra (Rewari)",
+      "domain": "aiimsrewari.edu.in",
+      "canonical_url": "https://aiimsrewari.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIIMS Majra (Rewari) is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "aiims_institution",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "AIIMS Majra (Rewari)",
+        "AIIMS Majra (Rewari) official website",
+        "AIIMS Majra (Rewari) hospital",
+        "hospital appointments",
+        "AIIMS Majra (Rewari) doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIIMS Majra (Rewari) Haryana",
+        "hospital in haryana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_063",
+      "name": "Sir Ganga Ram Hospital",
+      "domain": "sgrh.com",
+      "canonical_url": "https://www.sgrh.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sir Ganga Ram Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Sir Ganga Ram Hospital",
+        "Sir Ganga Ram Hospital official website",
+        "Sir Ganga Ram Hospital hospital",
+        "hospital appointments",
+        "Sir Ganga Ram Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Sir Ganga Ram Hospital Delhi",
+        "hospital in delhi"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_064",
+      "name": "Indraprastha Apollo Hospitals",
+      "domain": "apollohospitals.com",
+      "canonical_url": "https://www.apollohospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indraprastha Apollo Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Indraprastha Apollo Hospitals",
+        "Indraprastha Apollo Hospitals official website",
+        "Indraprastha Apollo Hospitals hospital",
+        "hospital appointments",
+        "Indraprastha Apollo Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Indraprastha Apollo Hospitals Delhi",
+        "hospital in delhi"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_065",
+      "name": "Max Super Speciality Hospital, Saket",
+      "domain": "maxhealthcare.in",
+      "canonical_url": "https://www.maxhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Max Super Speciality Hospital, Saket is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Max Super Speciality Hospital, Saket",
+        "Max Super Speciality Hospital, Saket official website",
+        "Max Super Speciality Hospital, Saket hospital",
+        "hospital appointments",
+        "Max Super Speciality Hospital, Saket doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Max Super Speciality Hospital, Saket Delhi",
+        "hospital in delhi"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_066",
+      "name": "Medanta - The Medicity",
+      "domain": "medanta.org",
+      "canonical_url": "https://www.medanta.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Medanta - The Medicity is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Medanta - The Medicity",
+        "Medanta - The Medicity official website",
+        "Medanta - The Medicity hospital",
+        "hospital appointments",
+        "Medanta - The Medicity doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Medanta - The Medicity Haryana",
+        "hospital in haryana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_067",
+      "name": "Safdarjung Hospital",
+      "domain": "vmmc-sjh.mohfw.gov.in",
+      "canonical_url": "https://vmmc-sjh.mohfw.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Safdarjung Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Safdarjung Hospital",
+        "Safdarjung Hospital official website",
+        "Safdarjung Hospital hospital",
+        "hospital appointments",
+        "Safdarjung Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Safdarjung Hospital Delhi",
+        "hospital in delhi"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_068",
+      "name": "Dr. Ram Manohar Lohia Hospital",
+      "domain": "rmlh.nic.in",
+      "canonical_url": "https://rmlh.nic.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Dr. Ram Manohar Lohia Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Dr. Ram Manohar Lohia Hospital",
+        "Dr. Ram Manohar Lohia Hospital official website",
+        "Dr. Ram Manohar Lohia Hospital hospital",
+        "hospital appointments",
+        "Dr. Ram Manohar Lohia Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Dr. Ram Manohar Lohia Hospital Delhi",
+        "hospital in delhi"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_069",
+      "name": "Sir H. N. Reliance Foundation Hospital",
+      "domain": "rfhospital.org",
+      "canonical_url": "https://www.rfhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sir H. N. Reliance Foundation Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Sir H. N. Reliance Foundation Hospital",
+        "Sir H. N. Reliance Foundation Hospital official website",
+        "Sir H. N. Reliance Foundation Hospital hospital",
+        "hospital appointments",
+        "Sir H. N. Reliance Foundation Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Sir H. N. Reliance Foundation Hospital Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_070",
+      "name": "Lilavati Hospital",
+      "domain": "lilavatihospital.com",
+      "canonical_url": "https://www.lilavatihospital.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Lilavati Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Lilavati Hospital",
+        "Lilavati Hospital official website",
+        "Lilavati Hospital hospital",
+        "hospital appointments",
+        "Lilavati Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Lilavati Hospital Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_071",
+      "name": "Nanavati Max Super Speciality Hospital",
+      "domain": "nanavatimaxhospital.org",
+      "canonical_url": "https://www.nanavatimaxhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nanavati Max Super Speciality Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Nanavati Max Super Speciality Hospital",
+        "Nanavati Max Super Speciality Hospital official website",
+        "Nanavati Max Super Speciality Hospital hospital",
+        "hospital appointments",
+        "Nanavati Max Super Speciality Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Nanavati Max Super Speciality Hospital Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_072",
+      "name": "KEM Hospital Mumbai",
+      "domain": "kem.edu",
+      "canonical_url": "https://www.kem.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KEM Hospital Mumbai is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "KEM Hospital Mumbai",
+        "KEM Hospital Mumbai official website",
+        "KEM Hospital Mumbai hospital",
+        "hospital appointments",
+        "KEM Hospital Mumbai doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "KEM Hospital Mumbai Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_073",
+      "name": "B. J. Government Medical College and Sassoon General Hospital",
+      "domain": "bjgmcpune.com",
+      "canonical_url": "https://bjgmcpune.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "B. J. Government Medical College and Sassoon General Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "B. J. Government Medical College and Sassoon General Hospital",
+        "B. J. Government Medical College and Sassoon General Hospital official website",
+        "B. J. Government Medical College and Sassoon General Hospital hospital",
+        "hospital appointments",
+        "B. J. Government Medical College and Sassoon General Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "B. J. Government Medical College and Sassoon General Hospital Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_074",
+      "name": "Deenanath Mangeshkar Hospital",
+      "domain": "dmhospital.org",
+      "canonical_url": "https://www.dmhospital.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Deenanath Mangeshkar Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Deenanath Mangeshkar Hospital",
+        "Deenanath Mangeshkar Hospital official website",
+        "Deenanath Mangeshkar Hospital hospital",
+        "hospital appointments",
+        "Deenanath Mangeshkar Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Deenanath Mangeshkar Hospital Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_075",
+      "name": "Narayana Health City",
+      "domain": "narayanahealth.org",
+      "canonical_url": "https://www.narayanahealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Narayana Health City is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Narayana Health City",
+        "Narayana Health City official website",
+        "Narayana Health City hospital",
+        "hospital appointments",
+        "Narayana Health City doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Narayana Health City Karnataka",
+        "hospital in karnataka"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_076",
+      "name": "Manipal Hospital Old Airport Road",
+      "domain": "manipalhospitals.com",
+      "canonical_url": "https://www.manipalhospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Manipal Hospital Old Airport Road is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Manipal Hospital Old Airport Road",
+        "Manipal Hospital Old Airport Road official website",
+        "Manipal Hospital Old Airport Road hospital",
+        "hospital appointments",
+        "Manipal Hospital Old Airport Road doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Manipal Hospital Old Airport Road Karnataka",
+        "hospital in karnataka"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_077",
+      "name": "Victoria Hospital Bengaluru",
+      "domain": "bmc.gov.in",
+      "canonical_url": "https://bmc.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_verification",
+        "method": "manual_review"
+      },
+      "description": "Victoria Hospital Bengaluru is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Victoria Hospital Bengaluru",
+        "Victoria Hospital Bengaluru official website",
+        "Victoria Hospital Bengaluru hospital",
+        "hospital appointments",
+        "Victoria Hospital Bengaluru doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Victoria Hospital Bengaluru Karnataka",
+        "hospital in karnataka"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_078",
+      "name": "NIMHANS",
+      "domain": "nimhans.ac.in",
+      "canonical_url": "https://nimhans.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NIMHANS is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "NIMHANS",
+        "NIMHANS official website",
+        "NIMHANS hospital",
+        "hospital appointments",
+        "NIMHANS doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "NIMHANS Karnataka",
+        "hospital in karnataka"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_079",
+      "name": "Christian Medical College Vellore",
+      "domain": "cmch-vellore.edu",
+      "canonical_url": "https://www.cmch-vellore.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Christian Medical College Vellore is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Christian Medical College Vellore",
+        "Christian Medical College Vellore official website",
+        "Christian Medical College Vellore hospital",
+        "hospital appointments",
+        "Christian Medical College Vellore doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Christian Medical College Vellore Tamil Nadu",
+        "hospital in tamil nadu"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_080",
+      "name": "MGM Healthcare Chennai",
+      "domain": "mgmhealthcare.in",
+      "canonical_url": "https://mgmhealthcare.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MGM Healthcare Chennai is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "MGM Healthcare Chennai",
+        "MGM Healthcare Chennai official website",
+        "MGM Healthcare Chennai hospital",
+        "hospital appointments",
+        "MGM Healthcare Chennai doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "MGM Healthcare Chennai Tamil Nadu",
+        "hospital in tamil nadu"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_081",
+      "name": "Rajiv Gandhi Government General Hospital",
+      "domain": "cmchistn.com",
+      "canonical_url": "https://www.cmchistn.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Rajiv Gandhi Government General Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Rajiv Gandhi Government General Hospital",
+        "Rajiv Gandhi Government General Hospital official website",
+        "Rajiv Gandhi Government General Hospital hospital",
+        "hospital appointments",
+        "Rajiv Gandhi Government General Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Rajiv Gandhi Government General Hospital Tamil Nadu",
+        "hospital in tamil nadu"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_082",
+      "name": "Amrita Hospital Faridabad",
+      "domain": "amritahospitals.org",
+      "canonical_url": "https://www.amritahospitals.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Amrita Hospital Faridabad is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Haryana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Amrita Hospital Faridabad",
+        "Amrita Hospital Faridabad official website",
+        "Amrita Hospital Faridabad hospital",
+        "hospital appointments",
+        "Amrita Hospital Faridabad doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Amrita Hospital Faridabad Haryana",
+        "hospital in haryana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_083",
+      "name": "Government Medical College and Hospital Chandigarh",
+      "domain": "gmch.gov.in",
+      "canonical_url": "https://gmch.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government Medical College and Hospital Chandigarh is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Chandigarh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Government Medical College and Hospital Chandigarh",
+        "Government Medical College and Hospital Chandigarh official website",
+        "Government Medical College and Hospital Chandigarh hospital",
+        "hospital appointments",
+        "Government Medical College and Hospital Chandigarh doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Government Medical College and Hospital Chandigarh Chandigarh",
+        "hospital in chandigarh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_084",
+      "name": "SMS Hospital Jaipur",
+      "domain": "medicaleducation.rajasthan.gov.in",
+      "canonical_url": "https://medicaleducation.rajasthan.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "SMS Hospital Jaipur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "SMS Hospital Jaipur",
+        "SMS Hospital Jaipur official website",
+        "SMS Hospital Jaipur hospital",
+        "hospital appointments",
+        "SMS Hospital Jaipur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "SMS Hospital Jaipur Rajasthan",
+        "hospital in rajasthan"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_085",
+      "name": "Yashoda Hospitals",
+      "domain": "yashodahospitals.com",
+      "canonical_url": "https://www.yashodahospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Yashoda Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Yashoda Hospitals",
+        "Yashoda Hospitals official website",
+        "Yashoda Hospitals hospital",
+        "hospital appointments",
+        "Yashoda Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Yashoda Hospitals Telangana",
+        "hospital in telangana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_086",
+      "name": "NIMS Hyderabad",
+      "domain": "nims.edu.in",
+      "canonical_url": "https://nims.edu.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NIMS Hyderabad is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "NIMS Hyderabad",
+        "NIMS Hyderabad official website",
+        "NIMS Hyderabad hospital",
+        "hospital appointments",
+        "NIMS Hyderabad doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "NIMS Hyderabad Telangana",
+        "hospital in telangana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_087",
+      "name": "KIMS Hospitals Hyderabad",
+      "domain": "kimshospitals.com",
+      "canonical_url": "https://www.kimshospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KIMS Hospitals Hyderabad is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "KIMS Hospitals Hyderabad",
+        "KIMS Hospitals Hyderabad official website",
+        "KIMS Hospitals Hyderabad hospital",
+        "hospital appointments",
+        "KIMS Hospitals Hyderabad doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "KIMS Hospitals Hyderabad Telangana",
+        "hospital in telangana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_088",
+      "name": "AIG Hospitals",
+      "domain": "aighospitals.com",
+      "canonical_url": "https://www.aighospitals.com/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AIG Hospitals is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Telangana",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "AIG Hospitals",
+        "AIG Hospitals official website",
+        "AIG Hospitals hospital",
+        "hospital appointments",
+        "AIG Hospitals doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "AIG Hospitals Telangana",
+        "hospital in telangana"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_089",
+      "name": "SCB Medical College and Hospital",
+      "domain": "scbmch.in",
+      "canonical_url": "https://scbmch.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "SCB Medical College and Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Odisha",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "SCB Medical College and Hospital",
+        "SCB Medical College and Hospital official website",
+        "SCB Medical College and Hospital hospital",
+        "hospital appointments",
+        "SCB Medical College and Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "SCB Medical College and Hospital Odisha",
+        "hospital in odisha"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_090",
+      "name": "IGIMS Patna",
+      "domain": "www.igims.org",
+      "canonical_url": "https://www.igims.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IGIMS Patna is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "IGIMS Patna",
+        "IGIMS Patna official website",
+        "IGIMS Patna hospital",
+        "hospital appointments",
+        "IGIMS Patna doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "IGIMS Patna Bihar",
+        "hospital in bihar"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_091",
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+      "domain": "sctimst.ac.in",
+      "canonical_url": "https://www.sctimst.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sree Chitra Tirunal Institute for Medical Sciences and Technology is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology official website",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology hospital",
+        "hospital appointments",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology Kerala",
+        "hospital in kerala"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_092",
+      "name": "KIMSHEALTH",
+      "domain": "kimshealth.org",
+      "canonical_url": "https://www.kimshealth.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KIMSHEALTH is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "KIMSHEALTH",
+        "KIMSHEALTH official website",
+        "KIMSHEALTH hospital",
+        "hospital appointments",
+        "KIMSHEALTH doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "KIMSHEALTH Kerala",
+        "hospital in kerala"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_093",
+      "name": "King George's Medical University",
+      "domain": "kgmu.org",
+      "canonical_url": "https://www.kgmu.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "King George's Medical University is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "King George's Medical University",
+        "King George's Medical University official website",
+        "King George's Medical University hospital",
+        "hospital appointments",
+        "King George's Medical University doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "King George's Medical University Uttar Pradesh",
+        "hospital in uttar pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_094",
+      "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+      "domain": "sgpgims.org.in",
+      "canonical_url": "https://sgpgims.org.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sanjay Gandhi Postgraduate Institute of Medical Sciences is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences official website",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences hospital",
+        "hospital appointments",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences Uttar Pradesh",
+        "hospital in uttar pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_095",
+      "name": "Institute of Medical Sciences, Banaras Hindu University",
+      "domain": "bhu.ac.in",
+      "canonical_url": "https://www.bhu.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Institute of Medical Sciences, Banaras Hindu University is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Uttar Pradesh",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Institute of Medical Sciences, Banaras Hindu University",
+        "Institute of Medical Sciences, Banaras Hindu University official website",
+        "Institute of Medical Sciences, Banaras Hindu University hospital",
+        "hospital appointments",
+        "Institute of Medical Sciences, Banaras Hindu University doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Institute of Medical Sciences, Banaras Hindu University Uttar Pradesh",
+        "hospital in uttar pradesh"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_096",
+      "name": "Government Medical College Nagpur",
+      "domain": "gmcnagpur.org",
+      "canonical_url": "https://gmcnagpur.org/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government Medical College Nagpur is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Government Medical College Nagpur",
+        "Government Medical College Nagpur official website",
+        "Government Medical College Nagpur hospital",
+        "hospital appointments",
+        "Government Medical College Nagpur doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Government Medical College Nagpur Maharashtra",
+        "hospital in maharashtra"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_097",
+      "name": "IPGMER and SSKM Hospital",
+      "domain": "ipgmer.gov.in",
+      "canonical_url": "https://ipgmer.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IPGMER and SSKM Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "IPGMER and SSKM Hospital",
+        "IPGMER and SSKM Hospital official website",
+        "IPGMER and SSKM Hospital hospital",
+        "hospital appointments",
+        "IPGMER and SSKM Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "IPGMER and SSKM Hospital West Bengal",
+        "hospital in west bengal"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_098",
+      "name": "Gauhati Medical College and Hospital",
+      "domain": "gmch.assam.gov.in",
+      "canonical_url": "https://gmch.assam.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Gauhati Medical College and Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Assam",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Gauhati Medical College and Hospital",
+        "Gauhati Medical College and Hospital official website",
+        "Gauhati Medical College and Hospital hospital",
+        "hospital appointments",
+        "Gauhati Medical College and Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Gauhati Medical College and Hospital Assam",
+        "hospital in assam"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_099",
+      "name": "Civil Hospital Ahmedabad",
+      "domain": "civilhospitalahd.gujarat.gov.in",
+      "canonical_url": "https://civilhospitalahd.gujarat.gov.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Civil Hospital Ahmedabad is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Hospital",
+        "Patient Services",
+        "Medical Specialists",
+        "Healthcare"
+      ],
+      "keywords": [
+        "Civil Hospital Ahmedabad",
+        "Civil Hospital Ahmedabad official website",
+        "Civil Hospital Ahmedabad hospital",
+        "hospital appointments",
+        "Civil Hospital Ahmedabad doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Civil Hospital Ahmedabad Gujarat",
+        "hospital in gujarat"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_100",
+      "name": "Dayanand Medical College and Hospital",
+      "domain": "dmch.edu",
+      "canonical_url": "https://www.dmch.edu/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Dayanand Medical College and Hospital is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Punjab",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Dayanand Medical College and Hospital",
+        "Dayanand Medical College and Hospital official website",
+        "Dayanand Medical College and Hospital hospital",
+        "hospital appointments",
+        "Dayanand Medical College and Hospital doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Dayanand Medical College and Hospital Punjab",
+        "hospital in punjab"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    },
+    {
+      "id": "health_india_101",
+      "name": "Sher-i-Kashmir Institute of Medical Sciences",
+      "domain": "skims.ac.in",
+      "canonical_url": "https://skims.ac.in/",
+      "category": "health-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Sher-i-Kashmir Institute of Medical Sciences is a hospital or medical institution in India providing clinical care and, where applicable, specialist services, medical education or research. Consult its official website for departments, appointments, patient services and current facility information.",
+      "source_type": "hospital",
+      "review_required": true,
+      "region": "Jammu and Kashmir",
+      "labels": [
+        "Public Medical Institution",
+        "Teaching Hospital",
+        "Patient Services",
+        "Medical Education"
+      ],
+      "keywords": [
+        "Sher-i-Kashmir Institute of Medical Sciences",
+        "Sher-i-Kashmir Institute of Medical Sciences official website",
+        "Sher-i-Kashmir Institute of Medical Sciences hospital",
+        "hospital appointments",
+        "Sher-i-Kashmir Institute of Medical Sciences doctors",
+        "hospital departments",
+        "patient registration",
+        "OPD schedule",
+        "hospital contact number",
+        "medical services",
+        "Sher-i-Kashmir Institute of Medical Sciences Jammu and Kashmir",
+        "hospital in jammu and kashmir"
+      ],
+      "use_cases": [
+        "Find hospital departments, specialties and patient information",
+        "Check official appointment, OPD or registration instructions",
+        "Locate hospital contact details and available patient support services"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "social-media",
+  "language": "en",
+  "category_name": "Social Media",
+  "count": 16,
+  "urls": [
+    {
+      "id": "social_media_001",
+      "name": "Facebook",
+      "domain": "www.facebook.com",
+      "canonical_url": "https://www.facebook.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Facebook is a social networking service for connecting with people, sharing posts, photos and videos, joining groups, following pages and communicating with communities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Network",
+        "Friends and Community",
+        "Groups and Pages",
+        "Posts and Sharing"
+      ],
+      "keywords": [
+        "Facebook",
+        "Facebook login",
+        "social media",
+        "connect with friends",
+        "Facebook groups",
+        "Facebook pages",
+        "share photos and videos",
+        "community groups",
+        "Facebook Marketplace",
+        "Facebook help"
+      ],
+      "use_cases": [
+        "Connect with friends, family and other people",
+        "Join groups and follow pages based on interests",
+        "Create or manage a page for a business or community"
+      ]
+    },
+    {
+      "id": "social_media_002",
+      "name": "Instagram",
+      "domain": "www.instagram.com",
+      "canonical_url": "https://www.instagram.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Instagram is a social media platform for sharing photos, videos, Stories and Reels, following creators and businesses, and communicating through direct messages.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Media",
+        "Photo and Video Sharing",
+        "Short-form Video",
+        "Creator Profiles",
+        "Messaging"
+      ],
+      "keywords": [
+        "Instagram",
+        "Instagram login",
+        "share photos online",
+        "Instagram Reels",
+        "Instagram Stories",
+        "follow creators",
+        "Instagram direct messages",
+        "business profile",
+        "photo sharing app",
+        "Instagram help"
+      ],
+      "use_cases": [
+        "Share photos, videos, Stories and Reels",
+        "Discover and follow creators, brands and topics",
+        "Manage a personal or business profile"
+      ]
+    },
+    {
+      "id": "social_media_003",
+      "name": "WhatsApp",
+      "domain": "www.whatsapp.com",
+      "canonical_url": "https://www.whatsapp.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "WhatsApp is a messaging service for private and group chats, voice and video calls, and sharing photos, videos, documents and other media through mobile and desktop apps.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Messaging App",
+        "Voice and Video Calls",
+        "Group Chats",
+        "File and Media Sharing"
+      ],
+      "keywords": [
+        "WhatsApp",
+        "WhatsApp Web",
+        "send messages",
+        "voice call app",
+        "video calls",
+        "group chat",
+        "share photos and documents",
+        "WhatsApp Business",
+        "WhatsApp download",
+        "WhatsApp support"
+      ],
+      "use_cases": [
+        "Send messages and media to individual contacts or groups",
+        "Make voice and video calls over the internet",
+        "Use WhatsApp Web or business messaging features"
+      ]
+    },
+    {
+      "id": "social_media_004",
+      "name": "YouTube",
+      "domain": "www.youtube.com",
+      "canonical_url": "https://www.youtube.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "YouTube is an online video platform where people watch, publish and share videos, follow channels, view live streams and find tutorials, learning content and entertainment.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Video Platform",
+        "Video Sharing",
+        "Learning and Tutorials",
+        "Entertainment",
+        "Live Streaming"
+      ],
+      "keywords": [
+        "YouTube",
+        "watch videos online",
+        "YouTube channels",
+        "video sharing",
+        "how to videos",
+        "online tutorials",
+        "YouTube Shorts",
+        "music videos",
+        "live streaming",
+        "upload videos"
+      ],
+      "use_cases": [
+        "Watch educational videos, tutorials and entertainment",
+        "Follow channels and creators for new content",
+        "Publish videos or manage a channel"
+      ]
+    },
+    {
+      "id": "social_media_005",
+      "name": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "canonical_url": "https://www.linkedin.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "LinkedIn is a professional networking platform where people create career profiles, connect with colleagues, search for jobs, follow organizations and share professional updates.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Professional Networking",
+        "Jobs and Careers",
+        "Recruitment",
+        "Business Community",
+        "Professional Content"
+      ],
+      "keywords": [
+        "LinkedIn",
+        "LinkedIn profile",
+        "professional networking",
+        "find a job",
+        "job search",
+        "career development",
+        "recruitment",
+        "hire employees",
+        "company page",
+        "professional connections"
+      ],
+      "use_cases": [
+        "Create and maintain a professional profile",
+        "Search for jobs and connect with recruiters",
+        "Build professional connections and follow organizations"
+      ]
+    },
+    {
+      "id": "social_media_006",
+      "name": "X",
+      "domain": "x.com",
+      "canonical_url": "https://x.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "X is a social networking platform for publishing short posts, following accounts, sharing media and participating in public conversations and real-time discussions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Network",
+        "Public Updates",
+        "News and Discussions",
+        "Short Posts"
+      ],
+      "keywords": [
+        "X",
+        "Twitter",
+        "X social media",
+        "Twitter login",
+        "publish posts",
+        "follow accounts",
+        "trending topics",
+        "public conversations",
+        "news updates",
+        "social networking"
+      ],
+      "use_cases": [
+        "Follow public accounts for news and announcements",
+        "Publish posts and participate in public discussions",
+        "Discover trending topics and conversations"
+      ]
+    },
+    {
+      "id": "social_media_007",
+      "name": "Zoho Arattai",
+      "domain": "arattai.in",
+      "canonical_url": "https://www.arattai.in/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoho Arattai is a messaging and communication app developed by Zoho. It supports text and voice messages, audio and video calls, groups, meetings, stories, channels and media sharing across devices.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Messaging App",
+        "Voice and Video Calls",
+        "Groups and Channels",
+        "Stories and Media Sharing",
+        "Privacy-focused Communication"
+      ],
+      "keywords": [
+        "Zoho Arattai",
+        "Arattai",
+        "Arattai messenger",
+        "Indian messaging app",
+        "secure chat app",
+        "send voice messages",
+        "audio video calls",
+        "group messaging",
+        "Arattai channels",
+        "Arattai stories",
+        "Arattai desktop app"
+      ],
+      "use_cases": [
+        "Chat with individuals and groups using messages and voice notes",
+        "Make audio or video calls and share documents or media",
+        "Follow channels or publish stories for communication and updates"
+      ]
+    },
+    {
+      "id": "social_media_008",
+      "name": "Snapchat",
+      "domain": "www.snapchat.com",
+      "canonical_url": "https://www.snapchat.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Snapchat is a social media and messaging app for sharing photos and short videos, sending Snaps and chats, using creative lenses, and viewing Stories and Spotlight content.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Media",
+        "Photo and Video Messaging",
+        "Stories and Spotlight",
+        "Creative Camera Tools",
+        "Messaging"
+      ],
+      "keywords": [
+        "Snapchat",
+        "Snapchat login",
+        "send snaps",
+        "photo messaging",
+        "video messages",
+        "Snapchat Stories",
+        "Spotlight videos",
+        "camera filters",
+        "AR lenses",
+        "Snapchat friends"
+      ],
+      "use_cases": [
+        "Share photo and video Snaps with friends",
+        "Create Stories and explore Spotlight content",
+        "Use camera lenses and messaging features to communicate"
+      ]
+    },
+    {
+      "id": "social_media_009",
+      "name": "Pinterest",
+      "domain": "www.pinterest.com",
+      "canonical_url": "https://www.pinterest.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Pinterest is a visual discovery platform where users find, save and organize images and ideas into boards for interests such as home design, fashion, recipes, crafts and travel.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Visual Discovery",
+        "Ideas and Inspiration",
+        "Image Collections",
+        "Interest Boards"
+      ],
+      "keywords": [
+        "Pinterest",
+        "Pinterest ideas",
+        "save images",
+        "inspiration boards",
+        "home decor ideas",
+        "fashion inspiration",
+        "recipe ideas",
+        "DIY projects",
+        "travel inspiration",
+        "Pinterest search"
+      ],
+      "use_cases": [
+        "Discover ideas and visual inspiration for personal projects",
+        "Save and organize Pins into topic-based boards",
+        "Explore products, styles, recipes and creative ideas"
+      ]
+    },
+    {
+      "id": "social_media_010",
+      "name": "Reddit",
+      "domain": "www.reddit.com",
+      "canonical_url": "https://www.reddit.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Reddit is a community discussion platform organized into topic-based forums called subreddits, where members post questions, share links and take part in discussions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Discussion Community",
+        "Online Forums",
+        "Questions and Answers",
+        "Interest Groups"
+      ],
+      "keywords": [
+        "Reddit",
+        "Reddit forums",
+        "subreddit",
+        "ask a question",
+        "community discussions",
+        "topic-based groups",
+        "product experiences",
+        "discussion threads",
+        "Reddit search",
+        "Reddit account"
+      ],
+      "use_cases": [
+        "Find discussions about a topic, product or interest",
+        "Ask questions and learn from community conversations",
+        "Join topic-based communities and contribute posts or comments"
+      ]
+    },
+    {
+      "id": "social_media_011",
+      "name": "Discord",
+      "domain": "discord.com",
+      "canonical_url": "https://discord.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Discord is a communication platform built around servers and channels where communities, friends and teams can chat by text, voice and video, share media and organize events.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Community Platform",
+        "Text and Voice Chat",
+        "Video Communication",
+        "Servers and Channels",
+        "Gaming Communities"
+      ],
+      "keywords": [
+        "Discord",
+        "Discord login",
+        "Discord servers",
+        "community chat",
+        "voice channels",
+        "video chat",
+        "group messaging",
+        "gaming communities",
+        "screen sharing",
+        "Discord app"
+      ],
+      "use_cases": [
+        "Join servers and participate in topic-based communities",
+        "Communicate through text, voice and video channels",
+        "Create a server for a group, project or community"
+      ]
+    },
+    {
+      "id": "social_media_012",
+      "name": "Telegram",
+      "domain": "telegram.org",
+      "canonical_url": "https://telegram.org/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telegram is a cloud-based messaging service for private and group chats, large channels, file sharing and voice or video communication across supported devices.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Messaging App",
+        "Channels and Groups",
+        "File Sharing",
+        "Voice and Video Calls",
+        "Cloud Messaging"
+      ],
+      "keywords": [
+        "Telegram",
+        "Telegram Messenger",
+        "Telegram Web",
+        "secure messaging",
+        "group chat app",
+        "Telegram channels",
+        "broadcast messages",
+        "share large files",
+        "voice calls",
+        "Telegram desktop"
+      ],
+      "use_cases": [
+        "Send messages and files to contacts or groups",
+        "Follow channels for announcements and public updates",
+        "Use Telegram across supported mobile and desktop devices"
+      ]
+    },
+    {
+      "id": "social_media_013",
+      "name": "Threads",
+      "domain": "www.threads.net",
+      "canonical_url": "https://www.threads.net/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Threads is a text-focused social networking app from Meta for sharing posts, replying to conversations, following people and discovering public discussions and updates.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Network",
+        "Text-based Posts",
+        "Public Conversations",
+        "Creator Community"
+      ],
+      "keywords": [
+        "Threads",
+        "Threads app",
+        "Meta Threads",
+        "text social network",
+        "share posts",
+        "reply to threads",
+        "follow creators",
+        "public conversations",
+        "social updates",
+        "Threads profile"
+      ],
+      "use_cases": [
+        "Publish text updates and share media with followers",
+        "Reply to posts and take part in public conversations",
+        "Discover and follow people and topics"
+      ]
+    },
+    {
+      "id": "social_media_014",
+      "name": "Twitch",
+      "domain": "www.twitch.tv",
+      "canonical_url": "https://www.twitch.tv/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Twitch is a live-streaming platform focused on gaming, esports, music, creative work and other live content, with chat features that let viewers interact with streamers and communities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Live Streaming",
+        "Gaming and Esports",
+        "Creator Channels",
+        "Live Chat",
+        "Entertainment"
+      ],
+      "keywords": [
+        "Twitch",
+        "Twitch live",
+        "watch game streams",
+        "live gaming",
+        "esports streaming",
+        "Twitch channels",
+        "streamer chat",
+        "music live streams",
+        "broadcast gameplay",
+        "Twitch creator"
+      ],
+      "use_cases": [
+        "Watch live streams and recorded broadcasts",
+        "Join live chats and follow streamers",
+        "Create and manage a channel to broadcast content"
+      ]
+    },
+    {
+      "id": "social_media_017",
+      "name": "Quora",
+      "domain": "www.quora.com",
+      "canonical_url": "https://www.quora.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quora is a question-and-answer platform where people ask questions, share knowledge and read answers and discussions from contributors across a wide range of subjects.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Questions and Answers",
+        "Knowledge Sharing",
+        "Community Discussions",
+        "Learning and Research"
+      ],
+      "keywords": [
+        "Quora",
+        "ask questions online",
+        "answers and advice",
+        "knowledge sharing",
+        "community Q&A",
+        "Quora spaces",
+        "learn about topics",
+        "expert opinions",
+        "read discussions",
+        "Quora login"
+      ],
+      "use_cases": [
+        "Ask questions and receive answers from the community",
+        "Research a topic through answers and related discussions",
+        "Share knowledge and follow subjects of interest"
+      ]
+    },
+    {
+      "id": "social_media_020",
+      "name": "Tumblr",
+      "domain": "www.tumblr.com",
+      "canonical_url": "https://www.tumblr.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tumblr is a social blogging platform where users publish multimedia posts, follow blogs, reblog content and participate in interest-based communities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "Social Blogging",
+        "Creative Publishing",
+        "Multimedia Posts",
+        "Interest Communities"
+      ],
+      "keywords": [
+        "Tumblr",
+        "Tumblr blog",
+        "microblogging",
+        "social blogging",
+        "publish photos and text",
+        "GIF posts",
+        "reblog content",
+        "creative communities",
+        "Tumblr themes",
+        "follow blogs"
+      ],
+      "use_cases": [
+        "Create a blog and publish text, images, audio or video posts",
+        "Follow blogs and reblog content from other users",
+        "Explore communities built around creative interests"
+      ]
+    }
+  ]
+}

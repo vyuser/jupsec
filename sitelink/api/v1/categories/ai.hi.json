@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "ai",
+  "language": "hi",
+  "category_name": "एआई और कृत्रिम बुद्धिमत्ता",
+  "count": 10,
+  "urls": [
+    {
+      "id": "ai_001",
+      "name": "चैटजीपीटी",
+      "domain": "chatgpt.com",
+      "canonical_url": "https://chatgpt.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "लेखन, शोध, सीखने, समस्याएँ सुलझाने और कोडिंग में मदद करने वाला AI सहायक।",
+      "labels": [
+        "लेखन",
+        "शोध",
+        "सीखना",
+        "AI सहायक"
+      ],
+      "keywords": [
+        "चैटबॉट",
+        "जनरेटिव एआई",
+        "सवालों के जवाब",
+        "मसौदा लिखना",
+        "सारांश",
+        "पढ़ाई",
+        "कोडिंग सहायता",
+        "विचार"
+      ],
+      "use_cases": [
+        "दस्तावेज़ और ईमेल के मसौदे बनाएँ",
+        "विषयों को समझें और जानकारी का सार पाएँ",
+        "कोड समझने में सहायता लें"
+      ]
+    },
+    {
+      "id": "ai_002",
+      "name": "क्लोद",
+      "domain": "claude.ai",
+      "canonical_url": "https://claude.ai/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "लेखन, विश्लेषण, सीखने और जानकारी के साथ काम करने के लिए AI सहायक।",
+      "labels": [
+        "लेखन",
+        "विश्लेषण",
+        "सीखना",
+        "AI सहायक"
+      ],
+      "keywords": [
+        "चैटबॉट",
+        "जनरेटिव एआई",
+        "दस्तावेज़ विश्लेषण",
+        "सारांश",
+        "तर्क क्षमता",
+        "कोडिंग सहायता"
+      ],
+      "use_cases": [
+        "दस्तावेज़ों की समीक्षा और सारांश बनाएँ",
+        "लिखित सामग्री विकसित और बेहतर करें",
+        "विचारों और तकनीकी सवालों पर चर्चा करें"
+      ]
+    },
+    {
+      "id": "ai_003",
+      "name": "गूगल जेमिनी",
+      "domain": "gemini.google.com",
+      "canonical_url": "https://gemini.google.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "रोज़मर्रा के सवालों, सीखने, योजना बनाने और रचनात्मक कामों के लिए Google का AI सहायक।",
+      "labels": [
+        "AI सहायक",
+        "सीखना",
+        "उत्पादकता",
+        "शोध"
+      ],
+      "keywords": [
+        "चैटबॉट",
+        "जनरेटिव एआई",
+        "Google AI",
+        "पढ़ाई",
+        "विचार",
+        "योजना",
+        "लेखन"
+      ],
+      "use_cases": [
+        "सवाल पूछें और विषयों को जानें",
+        "काम और परियोजनाओं की योजना बनाएँ",
+        "लेखन और सीखने में मदद लें"
+      ]
+    },
+    {
+      "id": "ai_004",
+      "name": "माइक्रोसॉफ्ट कोपायलट",
+      "domain": "copilot.microsoft.com",
+      "canonical_url": "https://copilot.microsoft.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "जानकारी खोजने, लिखने, योजना बनाने और उत्पादकता के लिए AI सहायक।",
+      "labels": [
+        "AI सहायक",
+        "उत्पादकता",
+        "लेखन"
+      ],
+      "keywords": [
+        "चैटबॉट",
+        "Microsoft AI",
+        "खोज सहायक",
+        "काम",
+        "सारांश",
+        "विचार"
+      ],
+      "use_cases": [
+        "रोज़मर्रा के कामों में मदद लें",
+        "सामग्री का मसौदा बनाएँ और सुधारें",
+        "जानकारी और विचारों को खोजें"
+      ]
+    },
+    {
+      "id": "ai_005",
+      "name": "परप्लेक्सिटी",
+      "domain": "perplexity.ai",
+      "canonical_url": "https://www.perplexity.ai/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "सवालों के जवाब खोजने और स्रोत ढूँढने के लिए AI-आधारित उत्तर एवं शोध सेवा।",
+      "labels": [
+        "शोध",
+        "खोज",
+        "सीखना"
+      ],
+      "keywords": [
+        "उत्तर इंजन",
+        "AI खोज",
+        "वेब शोध",
+        "स्रोत",
+        "तथ्य खोजना",
+        "प्रश्न"
+      ],
+      "use_cases": [
+        "किसी विषय पर शोध करें",
+        "प्रश्न से जुड़े स्रोत खोजें",
+        "कई पृष्ठों की जानकारी की तुलना करें"
+      ]
+    },
+    {
+      "id": "ai_006",
+      "name": "हगिंग फेस",
+      "domain": "huggingface.co",
+      "canonical_url": "https://huggingface.co/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "मशीन लर्निंग मॉडल, डेटासेट और ऐप्लिकेशन खोजने व साझा करने का प्लेटफ़ॉर्म।",
+      "labels": [
+        "AI मॉडल",
+        "डेवलपर टूल",
+        "शोध"
+      ],
+      "keywords": [
+        "मशीन लर्निंग",
+        "ओपन सोर्स मॉडल",
+        "डेटासेट",
+        "ट्रांसफ़ॉर्मर्स",
+        "डेमो ऐप",
+        "डेवलपर"
+      ],
+      "use_cases": [
+        "मशीन लर्निंग मॉडल खोजें",
+        "डेटासेट और डेमो ढूँढें",
+        "AI विकास परियोजनाएँ साझा करें"
+      ]
+    },
+    {
+      "id": "ai_007",
+      "name": "गूगल एआई स्टूडियो",
+      "domain": "aistudio.google.com",
+      "canonical_url": "https://aistudio.google.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "Google के जनरेटिव AI मॉडल और प्रॉम्प्ट के साथ प्रयोग करने का ब्राउज़र-आधारित कार्यक्षेत्र।",
+      "labels": [
+        "AI विकास",
+        "डेवलपर टूल",
+        "प्रोटोटाइप बनाना"
+      ],
+      "keywords": [
+        "Gemini API",
+        "प्रॉम्प्ट परीक्षण",
+        "जनरेटिव AI",
+        "मॉडल प्लेग्राउंड",
+        "प्रोटोटाइप"
+      ],
+      "use_cases": [
+        "AI मॉडल के साथ प्रॉम्प्ट आज़माएँ",
+        "जनरेटिव AI विचारों के प्रोटोटाइप बनाएँ",
+        "मॉडल की क्षमताएँ जानें"
+      ]
+    },
+    {
+      "id": "ai_008",
+      "name": "ओपनएआई प्लेटफॉर्म",
+      "domain": "platform.openai.com",
+      "canonical_url": "https://platform.openai.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "OpenAI API और संबंधित टूल से एप्लिकेशन बनाने का डेवलपर प्लेटफ़ॉर्म।",
+      "labels": [
+        "AI विकास",
+        "डेवलपर टूल",
+        "API"
+      ],
+      "keywords": [
+        "API",
+        "LLM",
+        "मॉडल एकीकरण",
+        "डेवलपर दस्तावेज़",
+        "एप्लिकेशन विकास"
+      ],
+      "use_cases": [
+        "AI आधारित एप्लिकेशन बनाएँ",
+        "API दस्तावेज़ देखें",
+        "डेवलपर परियोजनाएँ प्रबंधित करें"
+      ]
+    },
+    {
+      "id": "ai_009",
+      "name": "एंथ्रोपिक",
+      "domain": "anthropic.com",
+      "canonical_url": "https://www.anthropic.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "Anthropic की आधिकारिक वेबसाइट, जो AI अनुसंधान और उत्पादों पर काम करने वाली कंपनी है।",
+      "labels": [
+        "AI अनुसंधान",
+        "AI उत्पाद",
+        "कंपनी वेबसाइट"
+      ],
+      "keywords": [
+        "Claude",
+        "कृत्रिम बुद्धिमत्ता",
+        "AI सुरक्षा",
+        "अनुसंधान कंपनी",
+        "कंपनी की जानकारी"
+      ],
+      "use_cases": [
+        "Anthropic और उसके उत्पादों के बारे में जानें",
+        "कंपनी और अनुसंधान की जानकारी पढ़ें",
+        "आधिकारिक उत्पाद संसाधन खोजें"
+      ]
+    },
+    {
+      "id": "ai_010",
+      "name": "गिटहब कोपायलट",
+      "domain": "github.com/features/copilot",
+      "canonical_url": "https://github.com/features/copilot",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "description": "डेवलपर वर्कफ़्लो और समर्थित कोडिंग वातावरणों के साथ एकीकृत AI कोडिंग सहायक।",
+      "labels": [
+        "कोडिंग",
+        "डेवलपर टूल",
+        "उत्पादकता"
+      ],
+      "keywords": [
+        "कोड पूरा करना",
+        "प्रोग्रामिंग सहायक",
+        "सॉफ्टवेयर विकास",
+        "IDE",
+        "डेवलपर उत्पादकता"
+      ],
+      "use_cases": [
+        "कोडिंग सुझाव पाएँ",
+        "कोड को समझें और उस पर काम करें",
+        "सॉफ्टवेयर विकास कार्यों में सहायता लें"
+      ]
+    }
+  ]
+}

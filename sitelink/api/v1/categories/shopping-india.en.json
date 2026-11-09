@@ -1,0 +1,745 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "shopping-india",
+  "language": "en",
+  "category_name": "Shopping India",
+  "count": 18,
+  "urls": [
+    {
+      "id": "shopping_india_001",
+      "name": "Amazon India",
+      "domain": "www.amazon.in",
+      "canonical_url": "https://www.amazon.in/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Amazon India is an online marketplace for customers in India to discover and purchase products across categories such as electronics, home, fashion, books and everyday essentials. It also provides order, delivery, payment and return management.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Marketplace",
+        "Multi-category Shopping",
+        "Electronics and Home",
+        "Orders and Delivery"
+      ],
+      "keywords": [
+        "Amazon India",
+        "Amazon.in",
+        "shop online India",
+        "buy products online",
+        "online shopping deals",
+        "electronics shopping",
+        "home and kitchen products",
+        "track Amazon order",
+        "Amazon returns India",
+        "Amazon customer support"
+      ],
+      "use_cases": [
+        "Compare products and prices across shopping categories",
+        "Place orders and track delivery in supported Indian locations",
+        "Manage payments, returns and customer support requests"
+      ]
+    },
+    {
+      "id": "shopping_india_002",
+      "name": "Flipkart",
+      "domain": "www.flipkart.com",
+      "canonical_url": "https://www.flipkart.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Flipkart is an Indian e-commerce marketplace offering products across categories including mobiles, electronics, fashion, home, appliances and daily-use items. Customers can browse listings, compare products, place orders and manage deliveries and returns.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Marketplace",
+        "Electronics and Mobiles",
+        "Fashion and Home",
+        "Orders and Delivery"
+      ],
+      "keywords": [
+        "Flipkart",
+        "Flipkart online shopping",
+        "shop mobiles online",
+        "buy electronics India",
+        "fashion shopping",
+        "home appliances online",
+        "Flipkart offers",
+        "track Flipkart order",
+        "Flipkart returns",
+        "Flipkart customer care"
+      ],
+      "use_cases": [
+        "Find and compare products across multiple categories",
+        "Purchase mobiles, electronics, fashion and home products",
+        "Track orders and access returns or customer support"
+      ]
+    },
+    {
+      "id": "shopping_india_003",
+      "name": "Myntra",
+      "domain": "www.myntra.com",
+      "canonical_url": "https://www.myntra.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Myntra is an online fashion and lifestyle shopping platform in India. It offers clothing, footwear, accessories, beauty and personal-care products from a range of brands, with tools to browse collections and manage orders.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Fashion Marketplace",
+        "Clothing and Footwear",
+        "Fashion Brands",
+        "Beauty and Accessories"
+      ],
+      "keywords": [
+        "Myntra",
+        "Myntra shopping",
+        "online fashion India",
+        "buy clothes online",
+        "women clothing",
+        "men fashion",
+        "kids clothing",
+        "shoes and footwear",
+        "fashion accessories",
+        "Myntra sale",
+        "track Myntra order"
+      ],
+      "use_cases": [
+        "Browse clothing, footwear and accessories by category or brand",
+        "Discover fashion collections and seasonal offers",
+        "Manage fashion orders, exchanges and returns"
+      ]
+    },
+    {
+      "id": "shopping_india_004",
+      "name": "Ajio",
+      "domain": "www.ajio.com",
+      "canonical_url": "https://www.ajio.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AJIO is an Indian fashion and lifestyle shopping destination operated by Reliance Retail. It offers apparel, footwear, accessories and lifestyle products, including Indian and international brands.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Fashion Shopping",
+        "Clothing and Footwear",
+        "Lifestyle Brands",
+        "Online Retail"
+      ],
+      "keywords": [
+        "AJIO",
+        "Ajio online shopping",
+        "fashion shopping India",
+        "buy clothes online",
+        "women fashion",
+        "men fashion",
+        "ethnic wear online",
+        "footwear and accessories",
+        "international fashion brands",
+        "AJIO sale",
+        "AJIO returns"
+      ],
+      "use_cases": [
+        "Explore fashion and lifestyle collections from available brands",
+        "Shop clothing, footwear and accessories online",
+        "Review order, delivery and return information"
+      ]
+    },
+    {
+      "id": "shopping_india_005",
+      "name": "Tata CLiQ",
+      "domain": "www.tatacliq.com",
+      "canonical_url": "https://www.tatacliq.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tata CLiQ is an Indian online shopping platform within the Tata digital and retail ecosystem. It offers products across selected categories such as fashion, lifestyle and electronics, with product discovery and online order services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Shopping",
+        "Tata Retail Platform",
+        "Fashion and Lifestyle",
+        "Electronics"
+      ],
+      "keywords": [
+        "Tata CLiQ",
+        "Tata Cliq online",
+        "Tata shopping website",
+        "shop fashion online India",
+        "buy electronics online",
+        "watches and accessories",
+        "brand shopping",
+        "Tata CLiQ offers",
+        "order tracking",
+        "Tata CLiQ customer support"
+      ],
+      "use_cases": [
+        "Browse available fashion, lifestyle and electronics products",
+        "Compare brands and product details before buying",
+        "Manage orders and find delivery or return support"
+      ]
+    },
+    {
+      "id": "shopping_india_006",
+      "name": "JioMart",
+      "domain": "www.jiomart.com",
+      "canonical_url": "https://www.jiomart.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "JioMart is Reliance Retail's online shopping platform in India, offering groceries and products across categories such as fashion, electronics, home and kitchen, and general merchandise. Product availability and delivery options depend on the customer's location.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Marketplace",
+        "Grocery Shopping",
+        "Home and Electronics",
+        "Reliance Retail"
+      ],
+      "keywords": [
+        "JioMart",
+        "Jio Mart online shopping",
+        "online grocery India",
+        "buy fruits and vegetables",
+        "daily essentials delivery",
+        "home and kitchen shopping",
+        "electronics online",
+        "fashion shopping",
+        "JioMart offers",
+        "JioMart order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and household essentials for a serviceable address",
+        "Browse products across JioMart's available shopping categories",
+        "Check delivery, payment and order support information"
+      ]
+    },
+    {
+      "id": "shopping_india_007",
+      "name": "BigBasket",
+      "domain": "www.bigbasket.com",
+      "canonical_url": "https://www.bigbasket.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BigBasket is an online grocery and retail service in India for ordering groceries, fresh food and household essentials. Its website supports product search, basket management, online payment and delivery options in serviceable cities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Grocery",
+        "Fresh Food",
+        "Household Essentials",
+        "Scheduled and Quick Delivery"
+      ],
+      "keywords": [
+        "BigBasket",
+        "bigbasket online",
+        "online grocery shopping India",
+        "grocery home delivery",
+        "fruits and vegetables online",
+        "milk and dairy delivery",
+        "daily household items",
+        "BigBasket app",
+        "quick grocery delivery",
+        "BigBasket order tracking"
+      ],
+      "use_cases": [
+        "Order groceries, fresh produce and household essentials",
+        "Reorder frequently purchased items and manage a shopping basket",
+        "Choose available delivery options for a serviceable location"
+      ]
+    },
+    {
+      "id": "shopping_india_008",
+      "name": "Blinkit",
+      "domain": "blinkit.com",
+      "canonical_url": "https://blinkit.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Blinkit is an India-focused quick-commerce service that delivers groceries, fresh produce and a range of everyday products from nearby stores. Its catalogue and delivery availability vary by city and local delivery area.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Quick Commerce",
+        "Grocery Delivery",
+        "Daily Essentials",
+        "Local Delivery"
+      ],
+      "keywords": [
+        "Blinkit",
+        "Blinkit app",
+        "quick grocery delivery",
+        "groceries in minutes",
+        "fruits and vegetables delivery",
+        "daily essentials online",
+        "snacks and beverages",
+        "personal care delivery",
+        "Blinkit service area",
+        "Blinkit order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and daily essentials for an eligible address",
+        "Browse available household, food and personal-care products",
+        "Check local delivery coverage and order status"
+      ]
+    },
+    {
+      "id": "shopping_india_009",
+      "name": "Swiggy Instamart",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Swiggy Instamart is Swiggy's quick-commerce shopping service in India. It provides online ordering for groceries and a range of everyday products, with assortment and delivery times based on local availability.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Quick Commerce",
+        "Online Grocery",
+        "Everyday Essentials",
+        "Local Delivery"
+      ],
+      "keywords": [
+        "Swiggy Instamart",
+        "Instamart",
+        "Swiggy grocery delivery",
+        "quick commerce India",
+        "order groceries online",
+        "daily essentials delivery",
+        "snacks and beverages",
+        "fruits and vegetables",
+        "Instamart app",
+        "Instamart delivery near me"
+      ],
+      "use_cases": [
+        "Order groceries and everyday products in supported areas",
+        "Browse local product availability and delivery options",
+        "Track an Instamart order through Swiggy"
+      ]
+    },
+    {
+      "id": "shopping_india_010",
+      "name": "Zepto",
+      "domain": "www.zepto.com",
+      "canonical_url": "https://www.zepto.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zepto is an India-focused quick-commerce platform for ordering groceries, fresh produce, snacks, household supplies and other everyday products. Serviceability and available products depend on the delivery address.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Quick Commerce",
+        "Grocery Delivery",
+        "Fresh Food",
+        "Household Essentials"
+      ],
+      "keywords": [
+        "Zepto",
+        "Zepto app",
+        "online grocery delivery",
+        "groceries in minutes",
+        "fresh fruits and vegetables",
+        "milk and dairy delivery",
+        "snacks online",
+        "household supplies",
+        "Zepto cities",
+        "Zepto order tracking"
+      ],
+      "use_cases": [
+        "Order groceries and daily-use products in a supported city",
+        "Browse fresh food, pantry and household categories",
+        "Check delivery availability for a particular address"
+      ]
+    },
+    {
+      "id": "shopping_india_011",
+      "name": "Nykaa",
+      "domain": "www.nykaa.com",
+      "canonical_url": "https://www.nykaa.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nykaa is an Indian beauty and lifestyle retailer offering makeup, skincare, haircare, personal care, fragrances and related products. Its shopping platform also includes fashion and products for different customer needs.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Beauty Shopping",
+        "Makeup and Cosmetics",
+        "Skincare and Haircare",
+        "Personal Care"
+      ],
+      "keywords": [
+        "Nykaa",
+        "Nykaa online shopping",
+        "buy makeup online",
+        "beauty products India",
+        "skincare products",
+        "haircare products",
+        "cosmetics online",
+        "perfume and fragrance",
+        "Nykaa Fashion",
+        "Nykaa offers",
+        "Nykaa customer support"
+      ],
+      "use_cases": [
+        "Explore makeup, skincare, haircare and personal-care products",
+        "Compare beauty brands and product information",
+        "Manage purchases and find order or return support"
+      ]
+    },
+    {
+      "id": "shopping_india_012",
+      "name": "Meesho",
+      "domain": "www.meesho.com",
+      "canonical_url": "https://www.meesho.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Meesho is an Indian online shopping marketplace with products across categories such as fashion, home, kitchen, beauty and everyday needs. Customers can browse seller listings, place orders and manage delivery and returns.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Marketplace",
+        "Value Shopping",
+        "Fashion and Home",
+        "Seller Marketplace"
+      ],
+      "keywords": [
+        "Meesho",
+        "Meesho online shopping",
+        "budget shopping India",
+        "low price products",
+        "clothing online",
+        "home and kitchen items",
+        "beauty products",
+        "reselling marketplace",
+        "Meesho app",
+        "track Meesho order",
+        "Meesho returns"
+      ],
+      "use_cases": [
+        "Discover products across fashion, home and everyday categories",
+        "Compare listings and prices from marketplace sellers",
+        "Place orders and manage delivery or return requests"
+      ]
+    },
+    {
+      "id": "shopping_india_013",
+      "name": "FirstCry",
+      "domain": "www.firstcry.com",
+      "canonical_url": "https://www.firstcry.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "FirstCry is an India-focused online retailer for babies, children and parents. Its catalogue includes baby care, clothing, toys, feeding products, nursery items, footwear and other parenting essentials.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Baby and Kids Shopping",
+        "Parenting Products",
+        "Kids Clothing",
+        "Toys and Baby Care"
+      ],
+      "keywords": [
+        "FirstCry",
+        "FirstCry India",
+        "baby products online",
+        "baby clothes",
+        "newborn essentials",
+        "kids clothing online",
+        "toys for children",
+        "diapers and baby care",
+        "feeding products",
+        "parenting shopping",
+        "FirstCry app"
+      ],
+      "use_cases": [
+        "Shop for newborn, baby and child-care essentials",
+        "Browse kids clothing, toys, footwear and nursery products",
+        "Find product information and manage orders"
+      ]
+    },
+    {
+      "id": "shopping_india_014",
+      "name": "Croma",
+      "domain": "www.croma.com",
+      "canonical_url": "https://www.croma.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Croma is an Indian specialist retailer for consumer electronics and appliances, operating stores and an online shopping platform. Customers can explore mobiles, computers, televisions, appliances and accessories, as well as related product and service information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Electronics Retail",
+        "Mobiles and Computers",
+        "Home Appliances",
+        "Omnichannel Shopping",
+        "After-sales Services"
+      ],
+      "keywords": [
+        "Croma",
+        "Croma online shopping",
+        "buy electronics India",
+        "mobile phones online",
+        "laptops and computers",
+        "televisions",
+        "home appliances",
+        "camera and audio",
+        "Croma store near me",
+        "Croma ZipCare",
+        "electronics offers"
+      ],
+      "use_cases": [
+        "Compare electronics, gadgets and home appliances",
+        "Browse products online or locate a Croma store",
+        "Find product support and eligible after-sales service information"
+      ]
+    },
+    {
+      "id": "shopping_india_015",
+      "name": "Reliance Digital",
+      "domain": "www.reliancedigital.in",
+      "canonical_url": "https://www.reliancedigital.in/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Reliance Digital is an Indian electronics retailer offering smartphones, laptops, televisions, home appliances, audio products and accessories through its online store and physical retail network.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Electronics Retail",
+        "Mobiles and Computing",
+        "Home Appliances",
+        "Store Locator",
+        "Product Support"
+      ],
+      "keywords": [
+        "Reliance Digital",
+        "Reliance Digital online",
+        "electronics shopping India",
+        "buy smartphone online",
+        "laptops online",
+        "TV and home appliances",
+        "refrigerator washing machine",
+        "audio accessories",
+        "Reliance Digital store locator",
+        "resQ service",
+        "Reliance Digital offers"
+      ],
+      "use_cases": [
+        "Browse and compare electronics and home appliances",
+        "Shop online or find a nearby Reliance Digital store",
+        "Access product guides, order information and service support"
+      ]
+    },
+    {
+      "id": "shopping_india_016",
+      "name": "Decathlon India",
+      "domain": "www.decathlon.in",
+      "canonical_url": "https://www.decathlon.in/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Decathlon India is a sports and outdoor retailer offering equipment, clothing, footwear and accessories for a wide range of sports and physical activities. Customers can shop online and find stores across India.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Sports Retail",
+        "Sports Equipment",
+        "Activewear and Footwear",
+        "Outdoor Activities",
+        "Store Locator"
+      ],
+      "keywords": [
+        "Decathlon India",
+        "Decathlon online shopping",
+        "sports equipment India",
+        "sports shoes",
+        "fitness equipment",
+        "gym clothes",
+        "cycling gear",
+        "camping equipment",
+        "sports accessories",
+        "Decathlon store near me",
+        "sports products"
+      ],
+      "use_cases": [
+        "Find equipment and clothing for a chosen sport or activity",
+        "Compare sports footwear, apparel and equipment",
+        "Locate a store and check available shopping or collection options"
+      ]
+    },
+    {
+      "id": "shopping_india_017",
+      "name": "IndiaMART",
+      "domain": "www.indiamart.com",
+      "canonical_url": "https://www.indiamart.com/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IndiaMART is an Indian business-to-business marketplace that helps buyers discover suppliers, manufacturers, wholesalers and service providers across many product and industry categories.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "B2B Marketplace",
+        "Business Suppliers",
+        "Wholesale Trade",
+        "Manufacturers and Distributors",
+        "Business Enquiries"
+      ],
+      "keywords": [
+        "IndiaMART",
+        "IndiaMART online",
+        "B2B marketplace India",
+        "find manufacturers",
+        "wholesale suppliers",
+        "bulk product suppliers",
+        "industrial products",
+        "business enquiry",
+        "compare suppliers",
+        "IndiaMART seller",
+        "buy wholesale online"
+      ],
+      "use_cases": [
+        "Find manufacturers, wholesalers and business suppliers",
+        "Compare product listings and contact sellers for quotations",
+        "Promote a business or product listing to potential buyers"
+      ]
+    },
+    {
+      "id": "shopping_india_018",
+      "name": "OLX India",
+      "domain": "www.olx.in",
+      "canonical_url": "https://www.olx.in/",
+      "category": "shopping-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "OLX India is an online classifieds marketplace where people can browse and post listings for pre-owned and new goods, including vehicles, electronics, furniture and other local items. Listings and transactions are arranged between users.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Online Classifieds",
+        "Buy and Sell",
+        "Second-hand Goods",
+        "Local Listings",
+        "User Marketplace"
+      ],
+      "keywords": [
+        "OLX India",
+        "OLX.in",
+        "buy and sell used items",
+        "second hand products India",
+        "used cars for sale",
+        "used bikes",
+        "sell old phone",
+        "used furniture",
+        "local classifieds",
+        "post free ad",
+        "OLX near me"
+      ],
+      "use_cases": [
+        "Search local listings for used and new items",
+        "Post an advertisement to sell an eligible item",
+        "Contact listing users to discuss product details and transactions"
+      ]
+    }
+  ]
+}

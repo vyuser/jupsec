@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "popular",
+  "language": "en",
+  "category_name": "Popular Websites",
+  "count": 20,
+  "urls": [
+    {
+      "id": "popular_001",
+      "name": "Google",
+      "domain": "www.google.com",
+      "canonical_url": "https://www.google.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Google provides web search, maps, email, online storage, productivity tools and other internet services that help people find information and complete everyday tasks.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Search Engine",
+        "Online Services",
+        "Maps and Information",
+        "Email and Productivity"
+      ],
+      "keywords": [
+        "Google",
+        "Google search",
+        "search the internet",
+        "find websites",
+        "look up information",
+        "Google Maps",
+        "Gmail",
+        "Google Drive",
+        "online search",
+        "search engine"
+      ],
+      "use_cases": [
+        "Search for websites, answers, images and news",
+        "Find places and directions with Google Maps",
+        "Access Google services such as Gmail and Drive"
+      ]
+    },
+    {
+      "id": "popular_002",
+      "name": "Microsoft",
+      "domain": "www.microsoft.com",
+      "canonical_url": "https://www.microsoft.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Microsoft develops Windows, Microsoft 365, Azure cloud services, business software, developer tools and devices for individuals, organizations and IT teams.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Software and Technology",
+        "Windows",
+        "Cloud Services",
+        "Office and Productivity",
+        "Business Tools"
+      ],
+      "keywords": [
+        "Microsoft",
+        "Windows download",
+        "Microsoft 365",
+        "Office apps",
+        "Word Excel PowerPoint",
+        "Azure cloud",
+        "Microsoft account",
+        "Teams",
+        "business software",
+        "Microsoft support"
+      ],
+      "use_cases": [
+        "Learn about Windows, Microsoft 365 and other products",
+        "Access Microsoft account and product support",
+        "Explore Azure cloud and business technology services"
+      ]
+    },
+    {
+      "id": "popular_003",
+      "name": "YouTube",
+      "domain": "www.youtube.com",
+      "canonical_url": "https://www.youtube.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "YouTube is an online video platform where people can watch, publish and share videos, follow creators, learn from tutorials and access music and entertainment content.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Video Platform",
+        "Entertainment",
+        "Learning and Tutorials",
+        "Creator Content"
+      ],
+      "keywords": [
+        "YouTube",
+        "watch videos online",
+        "video search",
+        "how to videos",
+        "tutorials",
+        "music videos",
+        "YouTube Shorts",
+        "YouTube channel",
+        "upload videos",
+        "YouTube Premium"
+      ],
+      "use_cases": [
+        "Watch educational videos, tutorials and entertainment",
+        "Follow channels and creators for new videos",
+        "Publish and manage a video channel"
+      ]
+    },
+    {
+      "id": "popular_004",
+      "name": "Facebook",
+      "domain": "www.facebook.com",
+      "canonical_url": "https://www.facebook.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Facebook is a social networking service for connecting with people, sharing posts and photos, joining groups, following pages and communicating with communities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Social Network",
+        "Friends and Community",
+        "Groups and Pages",
+        "Posts and Sharing"
+      ],
+      "keywords": [
+        "Facebook",
+        "social media",
+        "connect with friends",
+        "Facebook login",
+        "Facebook groups",
+        "business pages",
+        "share photos",
+        "community groups",
+        "Facebook Marketplace",
+        "Facebook help"
+      ],
+      "use_cases": [
+        "Connect with friends and family",
+        "Join interest-based groups and follow community pages",
+        "Create or manage a page for a business or organization"
+      ]
+    },
+    {
+      "id": "popular_005",
+      "name": "Instagram",
+      "domain": "www.instagram.com",
+      "canonical_url": "https://www.instagram.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Instagram is a social media platform for sharing photos, videos, Stories and Reels, following creators and businesses, and messaging other users.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Social Media",
+        "Photo and Video Sharing",
+        "Short Videos",
+        "Creator Profiles",
+        "Messaging"
+      ],
+      "keywords": [
+        "Instagram",
+        "Instagram login",
+        "share photos",
+        "Instagram Reels",
+        "Stories",
+        "follow creators",
+        "Instagram messages",
+        "business profile",
+        "photo sharing app",
+        "Instagram help"
+      ],
+      "use_cases": [
+        "Share photos, videos, Stories and Reels",
+        "Discover and follow creators, brands and interests",
+        "Manage a personal or business Instagram profile"
+      ]
+    },
+    {
+      "id": "popular_006",
+      "name": "WhatsApp",
+      "domain": "www.whatsapp.com",
+      "canonical_url": "https://www.whatsapp.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "WhatsApp provides private messaging, voice and video calls, group conversations and media sharing through mobile and desktop applications, including WhatsApp Web.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Messaging App",
+        "Voice and Video Calls",
+        "Group Chats",
+        "File and Media Sharing"
+      ],
+      "keywords": [
+        "WhatsApp",
+        "WhatsApp Web",
+        "send messages",
+        "free internet calls",
+        "video call app",
+        "group chat",
+        "share photos",
+        "share documents",
+        "WhatsApp Business",
+        "WhatsApp download"
+      ],
+      "use_cases": [
+        "Send messages, photos, videos and documents",
+        "Make voice and video calls with contacts",
+        "Use WhatsApp Web or WhatsApp Business for supported communication needs"
+      ]
+    },
+    {
+      "id": "popular_007",
+      "name": "Amazon",
+      "domain": "www.amazon.com",
+      "canonical_url": "https://www.amazon.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Amazon operates online shopping marketplaces and related digital services, allowing customers in supported markets to browse products, place orders and manage delivery and returns.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Online Shopping",
+        "E-commerce Marketplace",
+        "Product Discovery",
+        "Orders and Delivery",
+        "Customer Service"
+      ],
+      "keywords": [
+        "Amazon",
+        "shop online",
+        "buy products online",
+        "Amazon shopping",
+        "online marketplace",
+        "track Amazon order",
+        "delivery status",
+        "return an order",
+        "product reviews",
+        "Amazon customer service"
+      ],
+      "use_cases": [
+        "Search and compare products in an Amazon marketplace",
+        "Place orders and track deliveries",
+        "Find order, payment, return and customer support information"
+      ]
+    },
+    {
+      "id": "popular_008",
+      "name": "Apple",
+      "domain": "www.apple.com",
+      "canonical_url": "https://www.apple.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Apple designs and sells devices such as iPhone, Mac, iPad and Apple Watch, along with operating systems, apps, digital services and customer support resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Consumer Technology",
+        "Devices",
+        "Software and Services",
+        "App Ecosystem",
+        "Customer Support"
+      ],
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "MacBook",
+        "Mac",
+        "iPad",
+        "Apple Watch",
+        "Apple ID",
+        "App Store",
+        "Apple support",
+        "device service"
+      ],
+      "use_cases": [
+        "Explore Apple devices, software and services",
+        "Find product specifications and purchase information for supported markets",
+        "Get help with an Apple device, account or service"
+      ]
+    },
+    {
+      "id": "popular_009",
+      "name": "Wikipedia",
+      "domain": "www.wikipedia.org",
+      "canonical_url": "https://www.wikipedia.org/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Wikipedia is a free online encyclopedia created and maintained by volunteers, offering articles and reference information across a wide range of subjects and languages.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Online Encyclopedia",
+        "Reference Information",
+        "Education and Learning",
+        "Research"
+      ],
+      "keywords": [
+        "Wikipedia",
+        "online encyclopedia",
+        "look up facts",
+        "general knowledge",
+        "reference articles",
+        "research information",
+        "history articles",
+        "science information",
+        "Wikipedia languages",
+        "free encyclopedia"
+      ],
+      "use_cases": [
+        "Read background information about people, places and topics",
+        "Explore reference articles for study and general learning",
+        "Follow citations in articles to locate further sources"
+      ]
+    },
+    {
+      "id": "popular_010",
+      "name": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "canonical_url": "https://www.linkedin.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "LinkedIn is a professional networking platform where individuals build career profiles, connect with colleagues, search for jobs and employers, and share professional updates.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Professional Networking",
+        "Jobs and Careers",
+        "Recruitment",
+        "Business Community",
+        "Learning"
+      ],
+      "keywords": [
+        "LinkedIn",
+        "professional profile",
+        "find a job",
+        "job search",
+        "career networking",
+        "recruitment",
+        "hire employees",
+        "company page",
+        "work experience profile",
+        "LinkedIn Learning"
+      ],
+      "use_cases": [
+        "Create and maintain a professional profile",
+        "Search for jobs and connect with recruiters",
+        "Build business connections and follow organizations"
+      ]
+    },
+    {
+      "id": "popular_011",
+      "name": "Reddit",
+      "domain": "www.reddit.com",
+      "canonical_url": "https://www.reddit.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Reddit is a community discussion platform organized into topic-based forums called subreddits, where members post questions, share links and take part in discussions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Discussion Community",
+        "Online Forums",
+        "Questions and Answers",
+        "Interest Groups"
+      ],
+      "keywords": [
+        "Reddit",
+        "online forums",
+        "subreddit",
+        "ask a question",
+        "community discussions",
+        "product experiences",
+        "hobby groups",
+        "discussion threads",
+        "Reddit search",
+        "Reddit account"
+      ],
+      "use_cases": [
+        "Find discussions about a topic, product or interest",
+        "Ask questions and learn from community conversations",
+        "Join topic-based communities and contribute posts or comments"
+      ]
+    },
+    {
+      "id": "popular_012",
+      "name": "X",
+      "domain": "x.com",
+      "canonical_url": "https://x.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "X is a social networking and public conversation platform where users publish short posts, follow accounts, share media and follow real-time discussions and updates.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Social Network",
+        "Public Updates",
+        "News and Discussions",
+        "Short Posts"
+      ],
+      "keywords": [
+        "X",
+        "Twitter",
+        "social media updates",
+        "post on X",
+        "follow accounts",
+        "trending topics",
+        "public conversations",
+        "news updates",
+        "X account",
+        "Twitter login"
+      ],
+      "use_cases": [
+        "Follow public accounts for updates and announcements",
+        "Publish posts and participate in public discussions",
+        "Discover trending topics and conversations"
+      ]
+    },
+    {
+      "id": "popular_013",
+      "name": "Zoho",
+      "domain": "www.zoho.com",
+      "canonical_url": "https://www.zoho.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoho provides cloud-based business applications for areas such as customer relationship management, email, finance, collaboration, human resources and business operations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Business Software",
+        "CRM",
+        "Productivity Apps",
+        "Cloud Applications",
+        "Business Management"
+      ],
+      "keywords": [
+        "Zoho",
+        "Zoho CRM",
+        "business applications",
+        "online office suite",
+        "business email",
+        "sales management software",
+        "customer management",
+        "Zoho Books",
+        "team collaboration",
+        "cloud business tools"
+      ],
+      "use_cases": [
+        "Explore business applications for sales, customer support and operations",
+        "Manage customer relationships and sales activities with relevant Zoho products",
+        "Compare plans and access product support or account resources"
+      ]
+    },
+    {
+      "id": "popular_014",
+      "name": "Netflix",
+      "domain": "www.netflix.com",
+      "canonical_url": "https://www.netflix.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Netflix is a subscription-based entertainment service offering films, television series, documentaries and other streaming titles in countries where the service is available.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Video Streaming",
+        "Movies and Series",
+        "Entertainment",
+        "Subscription Service"
+      ],
+      "keywords": [
+        "Netflix",
+        "watch movies online",
+        "stream TV shows",
+        "Netflix series",
+        "documentaries",
+        "Netflix account",
+        "streaming subscription",
+        "new movies",
+        "Netflix plans",
+        "Netflix help"
+      ],
+      "use_cases": [
+        "Browse films, series and documentaries available in your location",
+        "Manage a Netflix profile, membership and viewing preferences",
+        "Get help with streaming, billing or account access"
+      ]
+    },
+    {
+      "id": "popular_015",
+      "name": "ChatGPT",
+      "domain": "chatgpt.com",
+      "canonical_url": "https://chatgpt.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ChatGPT is an AI assistant that can help users ask questions, draft and revise text, learn concepts, analyze information and work through a range of creative and practical tasks.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "AI Assistant",
+        "Writing and Editing",
+        "Learning Support",
+        "Research Assistance",
+        "Productivity"
+      ],
+      "keywords": [
+        "ChatGPT",
+        "AI chatbot",
+        "AI assistant",
+        "ask questions",
+        "writing help",
+        "summarize text",
+        "learn with AI",
+        "brainstorm ideas",
+        "analyze information",
+        "ChatGPT login"
+      ],
+      "use_cases": [
+        "Ask questions and get explanations on a wide range of subjects",
+        "Draft, rewrite and summarize everyday or professional content",
+        "Explore ideas and get help planning or analyzing tasks"
+      ]
+    },
+    {
+      "id": "popular_016",
+      "name": "Yahoo",
+      "domain": "www.yahoo.com",
+      "canonical_url": "https://www.yahoo.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Yahoo is an internet portal providing access to news, email, search, finance information, sports coverage and other online content and services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Web Portal",
+        "News and Media",
+        "Email",
+        "Finance Information",
+        "Sports"
+      ],
+      "keywords": [
+        "Yahoo",
+        "Yahoo Mail",
+        "Yahoo login",
+        "latest news",
+        "Yahoo Finance",
+        "stock market news",
+        "sports updates",
+        "web portal",
+        "email account",
+        "Yahoo help"
+      ],
+      "use_cases": [
+        "Access Yahoo Mail and manage email",
+        "Read news, sports and finance information",
+        "Use Yahoo's portal to find online content and services"
+      ]
+    },
+    {
+      "id": "popular_017",
+      "name": "Cloudflare",
+      "domain": "www.cloudflare.com",
+      "canonical_url": "https://www.cloudflare.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cloudflare provides internet infrastructure and security services, including content delivery, DNS, website performance, application protection and network services for websites and organizations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Internet Infrastructure",
+        "Website Security",
+        "CDN and Performance",
+        "DNS Services",
+        "Network Protection"
+      ],
+      "keywords": [
+        "Cloudflare",
+        "website security",
+        "CDN",
+        "content delivery network",
+        "DNS management",
+        "DDoS protection",
+        "web application firewall",
+        "website performance",
+        "Cloudflare dashboard",
+        "Zero Trust network"
+      ],
+      "use_cases": [
+        "Explore services for improving website speed and availability",
+        "Review security and network protection options for a website",
+        "Manage DNS, application and network services through Cloudflare tools"
+      ]
+    },
+    {
+      "id": "popular_018",
+      "name": "Adobe",
+      "domain": "www.adobe.com",
+      "canonical_url": "https://www.adobe.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Adobe develops creative, document and digital experience software, including tools for image editing, graphic design, video production, PDF documents and digital content workflows.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Creative Software",
+        "Graphic Design",
+        "PDF Tools",
+        "Video and Imaging",
+        "Digital Documents"
+      ],
+      "keywords": [
+        "Adobe",
+        "Adobe Acrobat",
+        "Photoshop",
+        "Illustrator",
+        "Premiere Pro",
+        "PDF editor",
+        "graphic design software",
+        "photo editing",
+        "video editing",
+        "Adobe Creative Cloud"
+      ],
+      "use_cases": [
+        "Explore software for design, photography and video work",
+        "Create, edit, sign or manage PDF documents with supported tools",
+        "Find product plans, downloads and Adobe support"
+      ]
+    },
+    {
+      "id": "popular_019",
+      "name": "Zoom",
+      "domain": "zoom.com",
+      "canonical_url": "https://www.zoom.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoom provides video communications and collaboration tools, including online meetings, video calls, webinars, chat and related workplace communication services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Video Meetings",
+        "Online Collaboration",
+        "Webinars",
+        "Team Communication",
+        "Workplace Tools"
+      ],
+      "keywords": [
+        "Zoom",
+        "Zoom meeting",
+        "video conferencing",
+        "join a meeting",
+        "host online meeting",
+        "Zoom download",
+        "webinar platform",
+        "screen sharing",
+        "team chat",
+        "remote work meetings"
+      ],
+      "use_cases": [
+        "Join or host an online video meeting",
+        "Run webinars and share presentations with participants",
+        "Explore collaboration tools for distributed teams"
+      ]
+    },
+    {
+      "id": "popular_020",
+      "name": "Dropbox",
+      "domain": "www.dropbox.com",
+      "canonical_url": "https://www.dropbox.com/",
+      "category": "popular",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Dropbox provides cloud storage and file collaboration services that let individuals and organizations store, sync, share and work with files across supported devices.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Cloud Storage",
+        "File Sharing",
+        "File Synchronization",
+        "Team Collaboration",
+        "Backup"
+      ],
+      "keywords": [
+        "Dropbox",
+        "online file storage",
+        "cloud storage",
+        "share files",
+        "sync files",
+        "Dropbox login",
+        "file backup",
+        "send large files",
+        "team file sharing",
+        "Dropbox app"
+      ],
+      "use_cases": [
+        "Store and access files across supported devices",
+        "Share files and folders with other people",
+        "Collaborate on shared content and manage file access"
+      ]
+    }
+  ]
+}

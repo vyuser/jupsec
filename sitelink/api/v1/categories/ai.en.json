@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "ai",
+  "language": "en",
+  "category_name": "AI & Artificial Intelligence",
+  "count": 10,
+  "urls": [
+    {
+      "id": "ai_001",
+      "name": "ChatGPT",
+      "domain": "chatgpt.com",
+      "canonical_url": "https://chatgpt.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "ChatGPT is an AI assistant for asking questions, drafting and editing text, summarizing information, learning, brainstorming, analyzing content, and getting help with coding and problem-solving.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Assistant",
+        "Writing and Editing",
+        "Research and Learning",
+        "Coding Support",
+        "Productivity"
+      ],
+      "keywords": [
+        "ChatGPT",
+        "OpenAI ChatGPT",
+        "AI chatbot",
+        "generative AI assistant",
+        "ask questions",
+        "write an email",
+        "draft documents",
+        "summarize text",
+        "explain a topic",
+        "study help",
+        "brainstorm ideas",
+        "coding assistance",
+        "analyze files",
+        "problem solving"
+      ],
+      "use_cases": [
+        "Draft, rewrite, and summarize emails, reports, and other documents",
+        "Learn about unfamiliar topics through explanations and follow-up questions",
+        "Explore ideas, plan tasks, and organize information",
+        "Get help understanding code and solving programming problems"
+      ]
+    },
+    {
+      "id": "ai_002",
+      "name": "Claude",
+      "domain": "claude.ai",
+      "canonical_url": "https://claude.ai/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Claude is an AI assistant from Anthropic for conversational help, writing, document analysis, summarization, research, reasoning, and software development tasks.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Assistant",
+        "Document Analysis",
+        "Writing and Editing",
+        "Research",
+        "Coding Support"
+      ],
+      "keywords": [
+        "Claude AI",
+        "Anthropic Claude",
+        "AI chatbot",
+        "AI writing assistant",
+        "analyze documents",
+        "summarize long files",
+        "review text",
+        "reasoning assistant",
+        "research help",
+        "coding assistant",
+        "explain code",
+        "brainstorming"
+      ],
+      "use_cases": [
+        "Review and summarize long documents or supplied text",
+        "Draft, edit, and refine written material",
+        "Explore complex questions and compare possible approaches",
+        "Get assistance with code, debugging, and technical explanations"
+      ]
+    },
+    {
+      "id": "ai_003",
+      "name": "Google Gemini",
+      "domain": "gemini.google.com",
+      "canonical_url": "https://gemini.google.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Google Gemini is an AI assistant for answering questions, learning, writing, planning, and creative work, with availability and features that can vary by country, account, and device.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Assistant",
+        "Learning",
+        "Writing",
+        "Planning",
+        "Google AI"
+      ],
+      "keywords": [
+        "Google Gemini",
+        "Gemini AI",
+        "Google chatbot",
+        "AI assistant",
+        "ask Google AI",
+        "study help",
+        "explain topics",
+        "write content",
+        "plan a trip",
+        "brainstorm ideas",
+        "creative assistance",
+        "mobile AI assistant"
+      ],
+      "use_cases": [
+        "Ask questions and get explanations on general topics",
+        "Get help with writing, rewriting, and creative ideas",
+        "Plan activities and organize personal or work tasks",
+        "Use supported Gemini experiences on compatible devices and accounts"
+      ]
+    },
+    {
+      "id": "ai_004",
+      "name": "Microsoft Copilot",
+      "domain": "copilot.microsoft.com",
+      "canonical_url": "https://copilot.microsoft.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Microsoft Copilot is an AI assistant for finding information, answering questions, drafting content, planning, and everyday productivity, with features that may differ across markets and account types.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Assistant",
+        "Search and Discovery",
+        "Writing",
+        "Productivity",
+        "Microsoft"
+      ],
+      "keywords": [
+        "Microsoft Copilot",
+        "Copilot AI",
+        "Microsoft AI assistant",
+        "AI search assistant",
+        "ask questions",
+        "web information",
+        "draft content",
+        "summarize information",
+        "plan tasks",
+        "productivity assistant",
+        "Microsoft account"
+      ],
+      "use_cases": [
+        "Explore questions and discover information from the web",
+        "Draft and improve everyday written content",
+        "Summarize information and develop ideas",
+        "Get assistance with personal and work-related tasks"
+      ]
+    },
+    {
+      "id": "ai_005",
+      "name": "Perplexity",
+      "domain": "perplexity.ai",
+      "canonical_url": "https://www.perplexity.ai/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Perplexity is an AI-powered search and answer service that helps users investigate questions, explore web information, and review linked sources in support of research.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Search",
+        "Research",
+        "Answer Engine",
+        "Source Discovery",
+        "Learning"
+      ],
+      "keywords": [
+        "Perplexity AI",
+        "AI search engine",
+        "answer engine",
+        "web research",
+        "research questions",
+        "find sources",
+        "source links",
+        "fact finding",
+        "compare websites",
+        "topic research",
+        "search assistant"
+      ],
+      "use_cases": [
+        "Research a topic and explore relevant web sources",
+        "Find source links related to a question",
+        "Compare information presented across multiple pages",
+        "Build an initial reading list for further research"
+      ]
+    },
+    {
+      "id": "ai_006",
+      "name": "Hugging Face",
+      "domain": "huggingface.co",
+      "canonical_url": "https://huggingface.co/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Hugging Face is a machine-learning collaboration platform for discovering, sharing, and working with AI models, datasets, interactive applications, and open-source development tools.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Models",
+        "Machine Learning",
+        "Datasets",
+        "Developer Tools",
+        "Open Source"
+      ],
+      "keywords": [
+        "Hugging Face",
+        "Hugging Face Hub",
+        "machine learning models",
+        "open source AI",
+        "download AI models",
+        "LLM models",
+        "transformers library",
+        "AI datasets",
+        "model demos",
+        "Spaces apps",
+        "model hosting",
+        "AI developer community"
+      ],
+      "use_cases": [
+        "Discover and compare machine-learning models for a project",
+        "Find and share datasets for AI and machine-learning work",
+        "Try interactive model demos and community applications",
+        "Collaborate on and publish AI development resources"
+      ]
+    },
+    {
+      "id": "ai_007",
+      "name": "Google AI Studio",
+      "domain": "aistudio.google.com",
+      "canonical_url": "https://aistudio.google.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Google AI Studio is a browser-based developer workspace for trying Gemini models, testing prompts, experimenting with model settings, and prototyping generative AI applications; access depends on supported regions and service terms.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Development",
+        "Gemini Models",
+        "Prompt Testing",
+        "Prototyping",
+        "Developer Tools"
+      ],
+      "keywords": [
+        "Google AI Studio",
+        "AI Studio",
+        "Gemini API",
+        "Gemini playground",
+        "test AI prompts",
+        "prompt engineering",
+        "model playground",
+        "generative AI prototype",
+        "API key",
+        "AI developer workspace",
+        "model settings"
+      ],
+      "use_cases": [
+        "Test prompts and compare responses from supported Gemini models",
+        "Prototype generative AI ideas in a browser workspace",
+        "Explore model settings and supported capabilities",
+        "Prepare experiments before integrating the Gemini API into an application"
+      ]
+    },
+    {
+      "id": "ai_008",
+      "name": "OpenAI Platform",
+      "domain": "platform.openai.com",
+      "canonical_url": "https://platform.openai.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "The OpenAI Platform provides developer tools, API documentation, and account resources for building applications with OpenAI models and services, subject to supported-country and service requirements.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Development",
+        "Developer Platform",
+        "APIs",
+        "Model Integration",
+        "Documentation"
+      ],
+      "keywords": [
+        "OpenAI Platform",
+        "OpenAI API",
+        "AI API",
+        "LLM API",
+        "model integration",
+        "API documentation",
+        "build AI application",
+        "developer tools",
+        "API keys",
+        "AI application development",
+        "platform account"
+      ],
+      "use_cases": [
+        "Build software applications that use OpenAI models and APIs",
+        "Read API guides and developer documentation",
+        "Manage developer platform projects and API resources",
+        "Explore model and platform capabilities for an application"
+      ]
+    },
+    {
+      "id": "ai_009",
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "canonical_url": "https://www.anthropic.com/",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "Anthropic is an artificial intelligence research and product company that develops Claude and related AI technologies, and publishes information about its research, products, and approach to AI safety.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Research",
+        "AI Company",
+        "Claude Products",
+        "AI Safety",
+        "Company Information"
+      ],
+      "keywords": [
+        "Anthropic",
+        "Anthropic AI",
+        "Claude company",
+        "AI research company",
+        "artificial intelligence research",
+        "AI safety",
+        "Claude models",
+        "company information",
+        "Anthropic products",
+        "AI policy and research"
+      ],
+      "use_cases": [
+        "Learn about Anthropic, its organization, and AI products",
+        "Explore information about Claude and related services",
+        "Read company research and material about AI safety",
+        "Find official company announcements and product resources"
+      ]
+    },
+    {
+      "id": "ai_010",
+      "name": "GitHub Copilot",
+      "domain": "github.com/features/copilot",
+      "canonical_url": "https://github.com/features/copilot",
+      "category": "ai",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": null,
+        "method": null
+      },
+      "description": "GitHub Copilot is an AI coding assistant that helps developers write, understand, and improve code through supported editors, chat experiences, and other GitHub development workflows.",
+      "source_type": null,
+      "review_required": null,
+      "region": "Global",
+      "labels": [
+        "AI Coding Assistant",
+        "Software Development",
+        "Code Completion",
+        "Developer Tools",
+        "Productivity"
+      ],
+      "keywords": [
+        "GitHub Copilot",
+        "AI coding assistant",
+        "code completion",
+        "code suggestions",
+        "programming help",
+        "IDE assistant",
+        "developer productivity",
+        "explain code",
+        "write code",
+        "debugging support",
+        "GitHub developer tools",
+        "coding chat"
+      ],
+      "use_cases": [
+        "Get code suggestions while working in a supported editor",
+        "Ask for explanations of code and programming concepts",
+        "Support code writing, review, and development tasks",
+        "Use supported Copilot features within GitHub and development tools"
+      ]
+    }
+  ]
+}

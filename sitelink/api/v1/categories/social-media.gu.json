@@ -1,0 +1,659 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "social-media",
+  "language": "gu",
+  "category_name": "સોશિયલ મીડિયા",
+  "count": 16,
+  "urls": [
+    {
+      "id": "social_media_001",
+      "name": "ફેસબુક",
+      "domain": "www.facebook.com",
+      "canonical_url": "https://www.facebook.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Facebook એ લોકોને જોડાવા, પોસ્ટ્સ, ફોટા અને વીડિયો શેર કરવા, ગ્રુપમાં જોડાવા, પેજ ફોલો કરવા અને સમુદાયો સાથે વાતચીત કરવા માટેની સોશિયલ નેટવર્કિંગ સેવા છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ નેટવર્ક",
+        "મિત્રો અને સમુદાય",
+        "ગ્રુપ અને પેજ",
+        "પોસ્ટ્સ અને શેરિંગ"
+      ],
+      "keywords": [
+        "Facebook",
+        "Facebook લૉગિન",
+        "સોશિયલ મીડિયા",
+        "મિત્રો સાથે જોડાઓ",
+        "Facebook ગ્રુપ",
+        "Facebook પેજ",
+        "ફોટા અને વીડિયો શેર કરો",
+        "સમુદાયના ગ્રુપ",
+        "Facebook Marketplace",
+        "Facebook મદદ"
+      ],
+      "use_cases": [
+        "મિત્રો, પરિવાર અને અન્ય લોકો સાથે જોડાવું",
+        "રુચિ મુજબના ગ્રુપમાં જોડાવું અને પેજ ફોલો કરવું",
+        "વ્યવસાય અથવા સમુદાય માટે પેજ બનાવવું કે સંચાલિત કરવું"
+      ]
+    },
+    {
+      "id": "social_media_002",
+      "name": "ઇન્સ્ટાગ્રામ",
+      "domain": "www.instagram.com",
+      "canonical_url": "https://www.instagram.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Instagram એ ફોટા, વીડિયો, Stories અને Reels શેર કરવા, ક્રિએટર્સ અને વ્યવસાયોને ફોલો કરવા તથા ડાયરેક્ટ મેસેજ દ્વારા વાતચીત કરવા માટેનું સોશિયલ મીડિયા પ્લેટફોર્મ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ મીડિયા",
+        "ફોટા અને વીડિયો શેરિંગ",
+        "ટૂંકા વીડિયો",
+        "ક્રિએટર પ્રોફાઇલ્સ",
+        "મેસેજિંગ"
+      ],
+      "keywords": [
+        "Instagram",
+        "Instagram લૉગિન",
+        "ઓનલાઇન ફોટા શેર કરો",
+        "Instagram Reels",
+        "Instagram Stories",
+        "ક્રિએટર્સને ફોલો કરો",
+        "Instagram ડાયરેક્ટ મેસેજ",
+        "વ્યવસાયિક પ્રોફાઇલ",
+        "ફોટા શેર કરવાની એપ",
+        "Instagram મદદ"
+      ],
+      "use_cases": [
+        "ફોટા, વીડિયો, Stories અને Reels શેર કરવું",
+        "ક્રિએટર્સ, બ્રાન્ડ્સ અને વિષયો શોધવા અને ફોલો કરવા",
+        "વ્યક્તિગત અથવા વ્યવસાયિક પ્રોફાઇલ સંચાલિત કરવી"
+      ]
+    },
+    {
+      "id": "social_media_003",
+      "name": "વોટ્સએપ",
+      "domain": "www.whatsapp.com",
+      "canonical_url": "https://www.whatsapp.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "WhatsApp એ ખાનગી અને ગ્રુપ ચેટ, વૉઇસ અને વીડિયો કૉલ તથા મોબાઇલ અને ડેસ્કટૉપ એપ્સ દ્વારા ફોટા, વીડિયો, દસ્તાવેજો અને અન્ય મીડિયા શેર કરવા માટેની મેસેજિંગ સેવા છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "મેસેજિંગ એપ",
+        "વૉઇસ અને વીડિયો કૉલ",
+        "ગ્રુપ ચેટ",
+        "ફાઇલ અને મીડિયા શેરિંગ"
+      ],
+      "keywords": [
+        "WhatsApp",
+        "WhatsApp Web",
+        "મેસેજ મોકલો",
+        "વૉઇસ કૉલ એપ",
+        "વીડિયો કૉલ",
+        "ગ્રુપ ચેટ",
+        "ફોટા અને દસ્તાવેજો શેર કરો",
+        "WhatsApp Business",
+        "WhatsApp ડાઉનલોડ",
+        "WhatsApp સપોર્ટ"
+      ],
+      "use_cases": [
+        "વ્યક્તિગત સંપર્કો અથવા ગ્રુપને મેસેજ અને મીડિયા મોકલવું",
+        "ઇન્ટરનેટ દ્વારા વૉઇસ અને વીડિયો કૉલ કરવો",
+        "WhatsApp Web અથવા વ્યવસાયિક મેસેજિંગ સુવિધાઓનો ઉપયોગ કરવો"
+      ]
+    },
+    {
+      "id": "social_media_004",
+      "name": "યુટ્યુબ",
+      "domain": "www.youtube.com",
+      "canonical_url": "https://www.youtube.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "YouTube એ ઓનલાઇન વીડિયો પ્લેટફોર્મ છે, જ્યાં લોકો વીડિયો જુએ છે, પ્રકાશિત કરે છે અને શેર કરે છે, ચેનલો ફોલો કરે છે, લાઇવ સ્ટ્રીમ જુએ છે તથા ટ્યુટોરિયલ્સ, શૈક્ષણિક સામગ્રી અને મનોરંજન મેળવે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "વીડિયો પ્લેટફોર્મ",
+        "વીડિયો શેરિંગ",
+        "શિક્ષણ અને ટ્યુટોરિયલ્સ",
+        "મનોરંજન",
+        "લાઇવ સ્ટ્રીમિંગ"
+      ],
+      "keywords": [
+        "YouTube",
+        "ઓનલાઇન વીડિયો જુઓ",
+        "YouTube ચેનલો",
+        "વીડિયો શેરિંગ",
+        "કેવી રીતે કરવું તે દર્શાવતા વીડિયો",
+        "ઓનલાઇન ટ્યુટોરિયલ્સ",
+        "YouTube Shorts",
+        "મ્યુઝિક વીડિયો",
+        "લાઇવ સ્ટ્રીમિંગ",
+        "વીડિયો અપલોડ કરો"
+      ],
+      "use_cases": [
+        "શૈક્ષણિક વીડિયો, ટ્યુટોરિયલ્સ અને મનોરંજન જોવું",
+        "નવી સામગ્રી માટે ચેનલો અને ક્રિએટર્સને ફોલો કરવું",
+        "વીડિયો પ્રકાશિત કરવા અથવા ચેનલ સંચાલિત કરવી"
+      ]
+    },
+    {
+      "id": "social_media_005",
+      "name": "લિંક્ડઇન",
+      "domain": "www.linkedin.com",
+      "canonical_url": "https://www.linkedin.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "LinkedIn એ વ્યાવસાયિક નેટવર્કિંગ પ્લેટફોર્મ છે, જ્યાં લોકો કારકિર્દીની પ્રોફાઇલ બનાવે છે, સહકર્મીઓ સાથે જોડાય છે, નોકરીઓ શોધે છે, સંસ્થાઓને ફોલો કરે છે અને વ્યાવસાયિક અપડેટ્સ શેર કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "વ્યાવસાયિક નેટવર્કિંગ",
+        "નોકરી અને કારકિર્દી",
+        "ભરતી",
+        "વ્યવસાયિક સમુદાય",
+        "વ્યાવસાયિક સામગ્રી"
+      ],
+      "keywords": [
+        "LinkedIn",
+        "LinkedIn પ્રોફાઇલ",
+        "વ્યાવસાયિક નેટવર્કિંગ",
+        "નોકરી શોધો",
+        "નોકરીની શોધ",
+        "કારકિર્દી વિકાસ",
+        "ભરતી",
+        "કર્મચારીઓની ભરતી કરો",
+        "કંપની પેજ",
+        "વ્યાવસાયિક સંપર્કો"
+      ],
+      "use_cases": [
+        "વ્યાવસાયિક પ્રોફાઇલ બનાવવી અને જાળવવી",
+        "નોકરીઓ શોધવી અને ભરતીકારો સાથે જોડાવું",
+        "વ્યાવસાયિક સંપર્કો વધારવા અને સંસ્થાઓને ફોલો કરવી"
+      ]
+    },
+    {
+      "id": "social_media_006",
+      "name": "X",
+      "domain": "x.com",
+      "canonical_url": "https://x.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "X એ ટૂંકી પોસ્ટ્સ પ્રકાશિત કરવા, એકાઉન્ટ્સ ફોલો કરવા, મીડિયા શેર કરવા અને જાહેર વાતચીત તથા રીઅલ-ટાઇમ ચર્ચાઓમાં ભાગ લેવા માટેનું સોશિયલ નેટવર્કિંગ પ્લેટફોર્મ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ નેટવર્ક",
+        "જાહેર અપડેટ્સ",
+        "સમાચાર અને ચર્ચાઓ",
+        "ટૂંકી પોસ્ટ્સ"
+      ],
+      "keywords": [
+        "X",
+        "Twitter",
+        "X સોશિયલ મીડિયા",
+        "Twitter લૉગિન",
+        "પોસ્ટ્સ પ્રકાશિત કરો",
+        "એકાઉન્ટ્સ ફોલો કરો",
+        "ટ્રેન્ડિંગ વિષયો",
+        "જાહેર વાતચીત",
+        "સમાચારના અપડેટ્સ",
+        "સોશિયલ નેટવર્કિંગ"
+      ],
+      "use_cases": [
+        "સમાચાર અને જાહેરાતો માટે જાહેર એકાઉન્ટ્સ ફોલો કરવું",
+        "પોસ્ટ્સ પ્રકાશિત કરવી અને જાહેર ચર્ચાઓમાં ભાગ લેવો",
+        "ટ્રેન્ડિંગ વિષયો અને ચર્ચાઓ શોધવી"
+      ]
+    },
+    {
+      "id": "social_media_007",
+      "name": "ઝોહો અરટ્ટાઈ",
+      "domain": "arattai.in",
+      "canonical_url": "https://www.arattai.in/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zoho Arattai એ Zoho દ્વારા વિકસાવવામાં આવેલી મેસેજિંગ અને સંચાર એપ છે. તે વિવિધ ડિવાઇસ પર ટેક્સ્ટ અને વૉઇસ મેસેજ, ઑડિયો અને વીડિયો કૉલ, ગ્રુપ, મીટિંગ, સ્ટોરીઝ, ચેનલો અને મીડિયા શેરિંગને સપોર્ટ કરે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "મેસેજિંગ એપ",
+        "વૉઇસ અને વીડિયો કૉલ",
+        "ગ્રુપ અને ચેનલો",
+        "સ્ટોરીઝ અને મીડિયા શેરિંગ",
+        "ગોપનીયતા પર કેન્દ્રિત સંચાર"
+      ],
+      "keywords": [
+        "Zoho Arattai",
+        "Arattai",
+        "Arattai મેસેન્જર",
+        "ભારતીય મેસેજિંગ એપ",
+        "સુરક્ષિત ચેટ એપ",
+        "વૉઇસ મેસેજ મોકલો",
+        "ઑડિયો અને વીડિયો કૉલ",
+        "ગ્રુપ મેસેજિંગ",
+        "Arattai ચેનલો",
+        "Arattai સ્ટોરીઝ",
+        "Arattai ડેસ્કટૉપ એપ"
+      ],
+      "use_cases": [
+        "મેસેજ અને વૉઇસ નોટ દ્વારા વ્યક્તિઓ અને ગ્રુપ સાથે ચેટ કરવું",
+        "ઑડિયો અથવા વીડિયો કૉલ કરવો અને દસ્તાવેજો કે મીડિયા શેર કરવું",
+        "સંચાર અને અપડેટ્સ માટે ચેનલો ફોલો કરવી અથવા સ્ટોરીઝ પ્રકાશિત કરવી"
+      ]
+    },
+    {
+      "id": "social_media_008",
+      "name": "સ્નેપચેટ",
+      "domain": "www.snapchat.com",
+      "canonical_url": "https://www.snapchat.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Snapchat એ ફોટા અને ટૂંકા વીડિયો શેર કરવા, Snaps અને ચેટ મોકલવા, ક્રિએટિવ લેન્સનો ઉપયોગ કરવા તથા Stories અને Spotlight સામગ્રી જોવા માટેની સોશિયલ મીડિયા અને મેસેજિંગ એપ છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ મીડિયા",
+        "ફોટા અને વીડિયો મેસેજિંગ",
+        "Stories અને Spotlight",
+        "ક્રિએટિવ કેમેરા ટૂલ્સ",
+        "મેસેજિંગ"
+      ],
+      "keywords": [
+        "Snapchat",
+        "Snapchat લૉગિન",
+        "Snaps મોકલો",
+        "ફોટો મેસેજિંગ",
+        "વીડિયો મેસેજ",
+        "Snapchat Stories",
+        "Spotlight વીડિયો",
+        "કેમેરા ફિલ્ટર્સ",
+        "AR લેન્સ",
+        "Snapchat મિત્રો"
+      ],
+      "use_cases": [
+        "મિત્રો સાથે ફોટા અને વીડિયો Snaps શેર કરવું",
+        "Stories બનાવવી અને Spotlight સામગ્રી જોવી",
+        "વાતચીત માટે કેમેરા લેન્સ અને મેસેજિંગ સુવિધાઓનો ઉપયોગ કરવો"
+      ]
+    },
+    {
+      "id": "social_media_009",
+      "name": "પિન્ટરેસ્ટ",
+      "domain": "www.pinterest.com",
+      "canonical_url": "https://www.pinterest.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Pinterest એ દૃશ્ય આધારિત શોધ પ્લેટફોર્મ છે, જ્યાં વપરાશકર્તાઓ ઘરનું ડિઝાઇન, ફેશન, વાનગીઓ, હસ્તકલા અને મુસાફરી જેવી રુચિઓ માટેના ફોટા અને વિચારો શોધે છે, સાચવે છે અને બોર્ડમાં ગોઠવે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "દૃશ્ય આધારિત શોધ",
+        "વિચારો અને પ્રેરણા",
+        "છબીઓના સંગ્રહ",
+        "રુચિ આધારિત બોર્ડ"
+      ],
+      "keywords": [
+        "Pinterest",
+        "Pinterest વિચારો",
+        "છબીઓ સાચવો",
+        "પ્રેરણાના બોર્ડ",
+        "ઘરની સજાવટના વિચારો",
+        "ફેશન માટે પ્રેરણા",
+        "વાનગીઓના વિચારો",
+        "DIY પ્રોજેક્ટ્સ",
+        "મુસાફરી માટે પ્રેરણા",
+        "Pinterest શોધ"
+      ],
+      "use_cases": [
+        "વ્યક્તિગત પ્રોજેક્ટ્સ માટે વિચારો અને દૃશ્ય પ્રેરણા શોધવી",
+        "Pins ને વિષય આધારિત બોર્ડમાં સાચવવા અને ગોઠવવા",
+        "પ્રોડક્ટ્સ, શૈલીઓ, વાનગીઓ અને સર્જનાત્મક વિચારો શોધવા"
+      ]
+    },
+    {
+      "id": "social_media_010",
+      "name": "રેડિટ",
+      "domain": "www.reddit.com",
+      "canonical_url": "https://www.reddit.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Reddit એ સમુદાય આધારિત ચર્ચા પ્લેટફોર્મ છે, જે વિષય આધારિત ફોરમમાં ગોઠવાયેલું છે; આ ફોરમને subreddits કહેવામાં આવે છે. અહીં સભ્યો પ્રશ્નો પોસ્ટ કરે છે, લિંક્સ શેર કરે છે અને ચર્ચાઓમાં ભાગ લે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "ચર્ચા સમુદાય",
+        "ઓનલાઇન ફોરમ",
+        "પ્રશ્નો અને જવાબો",
+        "રુચિ આધારિત ગ્રુપ"
+      ],
+      "keywords": [
+        "Reddit",
+        "Reddit ફોરમ",
+        "subreddit",
+        "પ્રશ્ન પૂછો",
+        "સમુદાયની ચર્ચાઓ",
+        "વિષય આધારિત ગ્રુપ",
+        "પ્રોડક્ટના અનુભવો",
+        "ચર્ચાના થ્રેડ્સ",
+        "Reddit શોધ",
+        "Reddit એકાઉન્ટ"
+      ],
+      "use_cases": [
+        "કોઈ વિષય, પ્રોડક્ટ અથવા રુચિ વિશેની ચર્ચાઓ શોધવી",
+        "પ્રશ્નો પૂછવા અને સમુદાયની વાતચીતમાંથી શીખવું",
+        "વિષય આધારિત સમુદાયોમાં જોડાવું અને પોસ્ટ્સ અથવા ટિપ્પણીઓ આપવી"
+      ]
+    },
+    {
+      "id": "social_media_011",
+      "name": "ડિસ્કોર્ડ",
+      "domain": "discord.com",
+      "canonical_url": "https://discord.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Discord એ સર્વર અને ચેનલો પર આધારિત સંચાર પ્લેટફોર્મ છે, જ્યાં સમુદાયો, મિત્રો અને ટીમો ટેક્સ્ટ, વૉઇસ અને વીડિયો દ્વારા ચેટ કરી શકે છે, મીડિયા શેર કરી શકે છે અને ઇવેન્ટ્સનું આયોજન કરી શકે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સમુદાય પ્લેટફોર્મ",
+        "ટેક્સ્ટ અને વૉઇસ ચેટ",
+        "વીડિયો સંચાર",
+        "સર્વર અને ચેનલો",
+        "ગેમિંગ સમુદાયો"
+      ],
+      "keywords": [
+        "Discord",
+        "Discord લૉગિન",
+        "Discord સર્વર",
+        "સમુદાય ચેટ",
+        "વૉઇસ ચેનલો",
+        "વીડિયો ચેટ",
+        "ગ્રુપ મેસેજિંગ",
+        "ગેમિંગ સમુદાયો",
+        "સ્ક્રીન શેરિંગ",
+        "Discord એપ"
+      ],
+      "use_cases": [
+        "સર્વરમાં જોડાવું અને વિષય આધારિત સમુદાયોમાં ભાગ લેવો",
+        "ટેક્સ્ટ, વૉઇસ અને વીડિયો ચેનલો દ્વારા વાતચીત કરવી",
+        "ગ્રુપ, પ્રોજેક્ટ અથવા સમુદાય માટે સર્વર બનાવવું"
+      ]
+    },
+    {
+      "id": "social_media_012",
+      "name": "ટેલિગ્રામ",
+      "domain": "telegram.org",
+      "canonical_url": "https://telegram.org/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telegram એ ક્લાઉડ આધારિત મેસેજિંગ સેવા છે, જે સપોર્ટેડ ડિવાઇસ પર ખાનગી અને ગ્રુપ ચેટ, મોટી ચેનલો, ફાઇલ શેરિંગ તથા વૉઇસ અથવા વીડિયો સંચારની સુવિધા આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "મેસેજિંગ એપ",
+        "ચેનલો અને ગ્રુપ",
+        "ફાઇલ શેરિંગ",
+        "વૉઇસ અને વીડિયો કૉલ",
+        "ક્લાઉડ મેસેજિંગ"
+      ],
+      "keywords": [
+        "Telegram",
+        "Telegram Messenger",
+        "Telegram Web",
+        "સુરક્ષિત મેસેજિંગ",
+        "ગ્રુપ ચેટ એપ",
+        "Telegram ચેનલો",
+        "બ્રોડકાસ્ટ મેસેજ",
+        "મોટી ફાઇલો શેર કરો",
+        "વૉઇસ કૉલ",
+        "Telegram ડેસ્કટૉપ"
+      ],
+      "use_cases": [
+        "સંપર્કો અથવા ગ્રુપને મેસેજ અને ફાઇલો મોકલવી",
+        "જાહેરાતો અને જાહેર અપડેટ્સ માટે ચેનલો ફોલો કરવી",
+        "સપોર્ટેડ મોબાઇલ અને ડેસ્કટૉપ ડિવાઇસ પર Telegram નો ઉપયોગ કરવો"
+      ]
+    },
+    {
+      "id": "social_media_013",
+      "name": "થ્રેડ્સ",
+      "domain": "www.threads.net",
+      "canonical_url": "https://www.threads.net/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Threads એ Meta ની ટેક્સ્ટ પર કેન્દ્રિત સોશિયલ નેટવર્કિંગ એપ છે, જેમાં પોસ્ટ્સ શેર કરી શકાય છે, ચર્ચાઓના જવાબ આપી શકાય છે, લોકોને ફોલો કરી શકાય છે અને જાહેર ચર્ચાઓ તથા અપડેટ્સ શોધી શકાય છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ નેટવર્ક",
+        "ટેક્સ્ટ આધારિત પોસ્ટ્સ",
+        "જાહેર વાતચીત",
+        "ક્રિએટર સમુદાય"
+      ],
+      "keywords": [
+        "Threads",
+        "Threads એપ",
+        "Meta Threads",
+        "ટેક્સ્ટ સોશિયલ નેટવર્ક",
+        "પોસ્ટ્સ શેર કરો",
+        "થ્રેડ્સના જવાબ આપો",
+        "ક્રિએટર્સને ફોલો કરો",
+        "જાહેર વાતચીત",
+        "સોશિયલ અપડેટ્સ",
+        "Threads પ્રોફાઇલ"
+      ],
+      "use_cases": [
+        "ફોલોઅર્સ સાથે ટેક્સ્ટ અપડેટ્સ પ્રકાશિત કરવા અને મીડિયા શેર કરવું",
+        "પોસ્ટ્સના જવાબ આપવા અને જાહેર વાતચીતમાં ભાગ લેવો",
+        "લોકો અને વિષયો શોધવા તથા ફોલો કરવા"
+      ]
+    },
+    {
+      "id": "social_media_014",
+      "name": "ટ્વિચ",
+      "domain": "www.twitch.tv",
+      "canonical_url": "https://www.twitch.tv/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Twitch એ ગેમિંગ, ઇસ્પોર્ટ્સ, સંગીત, સર્જનાત્મક કામ અને અન્ય લાઇવ સામગ્રી પર કેન્દ્રિત લાઇવ-સ્ટ્રીમિંગ પ્લેટફોર્મ છે. તેની ચેટ સુવિધાઓ દર્શકોને સ્ટ્રીમર્સ અને સમુદાયો સાથે વાતચીત કરવાની મંજૂરી આપે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "લાઇવ સ્ટ્રીમિંગ",
+        "ગેમિંગ અને ઇસ્પોર્ટ્સ",
+        "ક્રિએટર ચેનલો",
+        "લાઇવ ચેટ",
+        "મનોરંજન"
+      ],
+      "keywords": [
+        "Twitch",
+        "Twitch લાઇવ",
+        "ગેમ સ્ટ્રીમ જુઓ",
+        "લાઇવ ગેમિંગ",
+        "ઇસ્પોર્ટ્સ સ્ટ્રીમિંગ",
+        "Twitch ચેનલો",
+        "સ્ટ્રીમર ચેટ",
+        "લાઇવ મ્યુઝિક સ્ટ્રીમ",
+        "ગેમપ્લેનું પ્રસારણ કરો",
+        "Twitch ક્રિએટર"
+      ],
+      "use_cases": [
+        "લાઇવ સ્ટ્રીમ અને રેકોર્ડ કરેલા પ્રસારણ જોવા",
+        "લાઇવ ચેટમાં જોડાવું અને સ્ટ્રીમર્સને ફોલો કરવું",
+        "સામગ્રીનું પ્રસારણ કરવા માટે ચેનલ બનાવવી અને સંચાલિત કરવી"
+      ]
+    },
+    {
+      "id": "social_media_017",
+      "name": "ક્વોરા",
+      "domain": "www.quora.com",
+      "canonical_url": "https://www.quora.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quora એ પ્રશ્નો અને જવાબો માટેનું પ્લેટફોર્મ છે, જ્યાં લોકો પ્રશ્નો પૂછે છે, જ્ઞાન શેર કરે છે અને વિવિધ વિષયોના યોગદાનકર્તાઓના જવાબો તથા ચર્ચાઓ વાંચે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "પ્રશ્નો અને જવાબો",
+        "જ્ઞાનની વહેંચણી",
+        "સમુદાયની ચર્ચાઓ",
+        "શિક્ષણ અને સંશોધન"
+      ],
+      "keywords": [
+        "Quora",
+        "ઓનલાઇન પ્રશ્નો પૂછો",
+        "જવાબો અને સલાહ",
+        "જ્ઞાનની વહેંચણી",
+        "સમુદાયના પ્રશ્નો અને જવાબો",
+        "Quora Spaces",
+        "વિષયો વિશે જાણો",
+        "નિષ્ણાતોના અભિપ્રાયો",
+        "ચર્ચાઓ વાંચો",
+        "Quora લૉગિન"
+      ],
+      "use_cases": [
+        "પ્રશ્નો પૂછવા અને સમુદાય પાસેથી જવાબો મેળવવા",
+        "જવાબો અને સંબંધિત ચર્ચાઓ દ્વારા કોઈ વિષય પર સંશોધન કરવું",
+        "જ્ઞાન શેર કરવું અને રુચિના વિષયો ફોલો કરવા"
+      ]
+    },
+    {
+      "id": "social_media_020",
+      "name": "ટમ્બલર",
+      "domain": "www.tumblr.com",
+      "canonical_url": "https://www.tumblr.com/",
+      "category": "social-media",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tumblr એ સોશિયલ બ્લોગિંગ પ્લેટફોર્મ છે, જ્યાં વપરાશકર્તાઓ મલ્ટિમીડિયા પોસ્ટ્સ પ્રકાશિત કરે છે, બ્લોગ્સ ફોલો કરે છે, સામગ્રી રીબ્લોગ કરે છે અને રુચિ આધારિત સમુદાયોમાં ભાગ લે છે.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Global",
+      "labels": [
+        "સોશિયલ બ્લોગિંગ",
+        "સર્જનાત્મક પ્રકાશન",
+        "મલ્ટિમીડિયા પોસ્ટ્સ",
+        "રુચિ આધારિત સમુદાયો"
+      ],
+      "keywords": [
+        "Tumblr",
+        "Tumblr બ્લોગ",
+        "માઇક્રોબ્લોગિંગ",
+        "સોશિયલ બ્લોગિંગ",
+        "ફોટા અને ટેક્સ્ટ પ્રકાશિત કરો",
+        "GIF પોસ્ટ્સ",
+        "સામગ્રી રીબ્લોગ કરો",
+        "સર્જનાત્મક સમુદાયો",
+        "Tumblr થીમ્સ",
+        "બ્લોગ્સ ફોલો કરો"
+      ],
+      "use_cases": [
+        "બ્લોગ બનાવવો અને ટેક્સ્ટ, છબીઓ, ઑડિયો અથવા વીડિયો પોસ્ટ્સ પ્રકાશિત કરવી",
+        "બ્લોગ્સ ફોલો કરવા અને અન્ય વપરાશકર્તાઓની સામગ્રી રીબ્લોગ કરવી",
+        "સર્જનાત્મક રુચિઓની આસપાસ બનેલા સમુદાયો શોધવા"
+      ]
+    }
+  ]
+}

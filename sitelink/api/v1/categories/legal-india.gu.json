@@ -1,0 +1,1463 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "legal-india",
+  "language": "gu",
+  "category_name": "ભારતની કાનૂની સેવાઓ",
+  "count": 41,
+  "urls": [
+    {
+      "id": "legal_india_001",
+      "name": "ભારતની સર્વોચ્ચ અદાલત",
+      "domain": "www.sci.gov.in",
+      "canonical_url": "https://www.sci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ભારતની સર્વોચ્ચ અદાલતની સત્તાવાર વેબસાઇટ, જેમાં તેના અધિકારક્ષેત્ર, ન્યાયાધીશો, સૂચનાઓ, ચુકાદાઓ, કોઝ લિસ્ટ અને કેસ સંબંધિત સેવાઓની માહિતી મળે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "સર્વોચ્ચ અદાલત",
+        "ન્યાયતંત્ર",
+        "ચુકાદાઓ",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "ભારતની સર્વોચ્ચ અદાલત",
+        "સર્વોચ્ચ અદાલતના કેસની સ્થિતિ",
+        "સર્વોચ્ચ અદાલતના ચુકાદાઓ",
+        "ભારતની સર્વોચ્ચ અદાલત",
+        "સર્વોચ્ચ અદાલતની કોઝ લિસ્ટ",
+        "સર્વોચ્ચ અદાલતની સૂચનાઓ",
+        "સર્વોચ્ચ અદાલતની વેબસાઇટ"
+      ],
+      "use_cases": [
+        "સર્વોચ્ચ અદાલતની સત્તાવાર સૂચનાઓ અને સંસ્થાકીય માહિતી વાંચો",
+        "ચુકાદાઓ, કોઝ લિસ્ટ અને કેસ સંબંધિત સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_002",
+      "name": "ઈ-કોર્ટ્સ ઇન્ડિયા",
+      "domain": "ecourts.gov.in",
+      "canonical_url": "https://ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય ઈ-કોર્ટ્સ પોર્ટલ, જે ભારતભરની અદાલતોની ઑનલાઇન સેવાઓ સાથે જોડે છે. તેમાં કેસની માહિતી, અદાલતી સેવાઓ અને સંબંધિત ન્યાયિક પોર્ટલની લિંક્સ સામેલ છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "અદાલતી સેવાઓ",
+        "eCourts",
+        "કેસ શોધ",
+        "ન્યાયિક સેવાઓ"
+      ],
+      "keywords": [
+        "eCourts India",
+        "ભારતીય અદાલતના કેસની સ્થિતિ",
+        "જિલ્લા અદાલતની ઑનલાઇન સેવાઓ",
+        "ભારતમાં અદાલતી કેસ શોધ",
+        "અદાલતી સેવા પોર્ટલ",
+        "અદાલતી સુનાવણીની માહિતી"
+      ],
+      "use_cases": [
+        "ભારતભરની અદાલતોની ઑનલાઇન સેવાઓ અને લિંક્સ શોધો",
+        "કેસની માહિતી અને સંબંધિત eCourts સેવાઓ સુધી પહોંચો"
+      ]
+    },
+    {
+      "id": "legal_india_003",
+      "name": "ઈ-કોર્ટ્સ જિલ્લા અદાલત સેવાઓ",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "જિલ્લા અને ગૌણ અદાલતો માટેનું ઑનલાઇન સેવા પોર્ટલ, જે કેસની સ્થિતિ, હુકમો, ચુકાદાઓ અને અદાલતની અન્ય માહિતી મેળવવામાં મદદ કરે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "જિલ્લા અદાલતો",
+        "કેસની સ્થિતિ",
+        "અદાલતી હુકમો",
+        "ઑનલાઇન અદાલતી સેવાઓ"
+      ],
+      "keywords": [
+        "જિલ્લા અદાલતના કેસની સ્થિતિ",
+        "ભારતમાં જિલ્લા અદાલતના કેસની શોધ",
+        "અદાલતી હુકમ ડાઉનલોડ",
+        "કેસ નંબરથી શોધ",
+        "પક્ષકારના નામથી કેસ શોધ",
+        "ગૌણ અદાલતોની સેવાઓ"
+      ],
+      "use_cases": [
+        "જિલ્લા અદાલતના કેસની સ્થિતિ તપાસો",
+        "ઉપલબ્ધ હુકમો, ચુકાદાઓ અને અદાલતની માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_004",
+      "name": "ઉચ્ચ અદાલતો અને જિલ્લા અદાલતોની સૂચિ",
+      "domain": "www.india.gov.in",
+      "canonical_url": "https://www.india.gov.in/directory/contact-directory",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "સરકારી ડિરેક્ટરી, જે ભારતની સર્વોચ્ચ અદાલત, ઉચ્ચ અદાલતો અને જિલ્લા અદાલતોની સત્તાવાર વેબસાઇટ્સ તથા સંપર્ક માહિતી શોધવામાં મદદ કરે છે.",
+      "source_type": "official_government_directory",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "અદાલતોની સૂચિ",
+        "ઉચ્ચ અદાલતો",
+        "જિલ્લા અદાલતો",
+        "સરકારી ડિરેક્ટરી"
+      ],
+      "keywords": [
+        "ભારતીય ઉચ્ચ અદાલતોની વેબસાઇટ્સ",
+        "જિલ્લા અદાલતના સંપર્કની વિગતો",
+        "સર્વોચ્ચ અદાલતની ડિરેક્ટરી",
+        "ભારતમાં અદાલતનું સરનામું",
+        "ઉચ્ચ અદાલતની સંપર્ક માહિતી",
+        "સત્તાવાર ન્યાયતંત્રની ડિરેક્ટરી"
+      ],
+      "use_cases": [
+        "ઉચ્ચ અદાલત અથવા જિલ્લા અદાલતની સત્તાવાર વેબસાઇટ શોધો",
+        "ન્યાયતંત્રની સંપર્ક અને ડિરેક્ટરી માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_005",
+      "name": "ભારતીય અદાલતોનું ઈ-ફાઇલિંગ",
+      "domain": "filing.ecourts.gov.in",
+      "canonical_url": "https://filing.ecourts.gov.in/pdedev/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "ભાગ લેનારી ભારતીય અદાલતો માટેનું ઑનલાઇન ઈ-ફાઇલિંગ પોર્ટલ, જે કેસના દસ્તાવેજો અને સંબંધિત ફાઇલિંગ પ્રક્રિયાઓ ઇલેક્ટ્રોનિક રીતે સબમિટ કરવા માટે છે. ફાઇલિંગની ઉપલબ્ધતા અને પાત્રતા સંબંધિત અદાલત તથા લાગુ નિયમો પર આધારિત છે.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ઈ-ફાઇલિંગ",
+        "અદાલતી ફાઇલિંગ",
+        "ઑનલાઇન કાનૂની દસ્તાવેજો",
+        "ન્યાયિક સેવાઓ"
+      ],
+      "keywords": [
+        "ભારતીય અદાલતોનું ઈ-ફાઇલિંગ",
+        "ભારતમાં ઑનલાઇન કેસ દાખલ કરો",
+        "અદાલતી દસ્તાવેજોનું ઈ-ફાઇલિંગ",
+        "ઑનલાઇન અરજી ફાઇલિંગ",
+        "અદાલતી દસ્તાવેજો સબમિટ કરો",
+        "eCourts ફાઇલિંગ પોર્ટલ"
+      ],
+      "use_cases": [
+        "અદાલત ઑનલાઇન ફાઇલિંગની સુવિધા આપે છે કે નહીં તે તપાસો",
+        "ઇલેક્ટ્રોનિક ફાઇલિંગ સેવાઓ અને માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_006",
+      "name": "રાષ્ટ્રીય ન્યાયિક ડેટા ગ્રીડ",
+      "domain": "njdg.ecourts.gov.in",
+      "canonical_url": "https://njdg.ecourts.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય ન્યાયિક ડેટા ગ્રીડ ભાગ લેનારી ભારતીય અદાલતોમાં કેસ દાખલ થવા, બાકી રહેવા અને નિકાલ અંગેની શોધી શકાય તેવી એકત્રિત માહિતી આપે છે. તેમાં રાષ્ટ્રીય, રાજ્ય અને અદાલત-સ્તરના દૃશ્યો ઉપલબ્ધ છે.",
+      "source_type": "official_judicial_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ન્યાયિક ડેટા",
+        "કેસોની પેન્ડન્સી",
+        "અદાલતી આંકડા",
+        "જાહેર ડેટા"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય ન્યાયિક ડેટા ગ્રીડ",
+        "ભારતનું NJDG",
+        "અદાલતી કેસોની પેન્ડન્સીનો ડેટા",
+        "ભારતના ન્યાયિક આંકડા",
+        "કેસ નિકાલના આંકડા",
+        "રાજ્યવાર અદાલતી ડેટા"
+      ],
+      "use_cases": [
+        "અદાલતોમાં બાકી કેસો અને નિકાલના આંકડા જુઓ",
+        "અદાલતના સ્તર, રાજ્ય અથવા અન્ય ઉપલબ્ધ ફિલ્ટર પ્રમાણે ન્યાયિક ડેટા તપાસો"
+      ]
+    },
+    {
+      "id": "legal_india_007",
+      "name": "ભારતીય અદાલતોની કોઝ લિસ્ટ",
+      "domain": "services.ecourts.gov.in",
+      "canonical_url": "https://services.ecourts.gov.in/ecourtindia_v6/?p=cause_list/index",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "અદાલતોની કોઝ લિસ્ટ અને સુનાવણીના સમયપત્રક શોધવા માટેની સત્તાવાર eCourts સેવા. તેની ઉપલબ્ધતા અને પ્રકાશનની વિગતો સંબંધિત અદાલત તથા બેન્ચ પર આધારિત છે.",
+      "source_type": "official_government_service",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "કોઝ લિસ્ટ",
+        "સુનાવણીનું સમયપત્રક",
+        "અદાલતી કેલેન્ડર",
+        "eCourts"
+      ],
+      "keywords": [
+        "ભારતીય અદાલતની કોઝ લિસ્ટ",
+        "દૈનિક કોઝ લિસ્ટ",
+        "અદાલતી સુનાવણીની યાદી",
+        "કેસની સુનાવણીની તારીખ",
+        "જિલ્લા અદાલતની કોઝ લિસ્ટ",
+        "ઉચ્ચ અદાલતની કોઝ લિસ્ટ"
+      ],
+      "use_cases": [
+        "ભાગ લેનારી અદાલતની પ્રકાશિત કોઝ લિસ્ટ શોધો",
+        "યાદીમાં સમાવાયેલા કેસો અને સુનાવણીનું સમયપત્રક તપાસો"
+      ]
+    },
+    {
+      "id": "legal_india_008",
+      "name": "ભારતીય અદાલતો અને ટ્રિબ્યુનલના ચુકાદાઓ",
+      "domain": "judgments.ecourts.gov.in",
+      "canonical_url": "https://judgments.ecourts.gov.in/pdfsearch/index.php",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ભારતીય eCourts સિસ્ટમ દ્વારા ઉપલબ્ધ કરાયેલા ચુકાદાઓ અને હુકમો શોધવા માટેની સત્તાવાર ન્યાયિક શોધ સેવા. શોધની ઉપલબ્ધતા સંબંધિત અદાલત અને દસ્તાવેજના રેકોર્ડ પર આધારિત છે.",
+      "source_type": "official_government_service",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ચુકાદાની શોધ",
+        "અદાલતી હુકમો",
+        "કાનૂની સંશોધન",
+        "eCourts"
+      ],
+      "keywords": [
+        "ભારતીય અદાલતોના ચુકાદાઓ",
+        "ભારતમાં અદાલતી હુકમો શોધો",
+        "ચુકાદાનો ડેટાબેઝ",
+        "eCourts ચુકાદાની શોધ",
+        "અદાલતી નિર્ણયની શોધ",
+        "કાનૂની કેસ સંશોધન"
+      ],
+      "use_cases": [
+        "અદાલતનો ચુકાદો અથવા હુકમ શોધો",
+        "કાનૂની સંશોધન અને સંદર્ભ માટે ન્યાયિક નિર્ણયો શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_009",
+      "name": "રાષ્ટ્રીય કાનૂની સેવા સત્તામંડળ (NALSA)",
+      "domain": "nalsa.gov.in",
+      "canonical_url": "https://nalsa.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય કાનૂની સેવા સત્તામંડળ ભારતમાં કાનૂની સહાય અને ન્યાય સુધી પહોંચવાની પહેલોનું સંકલન કરે છે. તેમાં કાનૂની સેવા સંસ્થાઓ, પાત્રતા અને સહાય કાર્યક્રમોની માહિતી સામેલ છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "કાનૂની સહાય",
+        "મફત કાનૂની મદદ",
+        "ન્યાય સુધી પહોંચ",
+        "સરકારી સત્તામંડળ"
+      ],
+      "keywords": [
+        "NALSA",
+        "ભારતમાં મફત કાનૂની સહાય",
+        "મફત વકીલ માટેની પાત્રતા",
+        "કાનૂની સેવા સત્તામંડળ",
+        "કાનૂની સહાય માટેની અરજી",
+        "લોક અદાલતની માહિતી",
+        "ભારતમાં કાનૂની સહાય"
+      ],
+      "use_cases": [
+        "મફત કાનૂની સેવાઓ મેળવવાની રીત જાણો",
+        "કાનૂની સહાય કાર્યક્રમો અને લોક અદાલતો વિશે માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_010",
+      "name": "ઈ-જાગૃતિ ગ્રાહક આયોગ પોર્ટલ",
+      "domain": "e-jagriti.gov.in",
+      "canonical_url": "https://e-jagriti.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "પાત્ર ગ્રાહક ફરિયાદો, ઑનલાઇન ફાઇલિંગ, કેસ ટ્રેકિંગ, સુનાવણીની માહિતી અને ગ્રાહક આયોગની સેવાઓ મેળવવા માટે ભારત સરકારનું એકીકૃત ગ્રાહક ન્યાય પ્લેટફોર્મ.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ગ્રાહક ફરિયાદો",
+        "ગ્રાહક આયોગ",
+        "ઈ-ફાઇલિંગ",
+        "કેસ ટ્રેકિંગ"
+      ],
+      "keywords": [
+        "ઈ-જાગૃતિ",
+        "ગ્રાહક ફરિયાદ ઑનલાઇન દાખલ કરો",
+        "ગ્રાહક અદાલતના કેસની સ્થિતિ",
+        "ભારતમાં ગ્રાહક આયોગ",
+        "ગ્રાહક વિવાદ ફાઇલિંગ",
+        "ગ્રાહક કેસ ટ્રેકિંગ",
+        "ગ્રાહક ફરિયાદ પોર્ટલ"
+      ],
+      "use_cases": [
+        "પાત્ર ગ્રાહક વિવાદ ઑનલાઇન દાખલ કરો અથવા તેનું સંચાલન કરો",
+        "ગ્રાહક આયોગના કેસની પ્રગતિ ટ્રેક કરો અને કેસની માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_011",
+      "name": "રાષ્ટ્રીય ગ્રાહક વિવાદ નિવારણ આયોગ",
+      "domain": "ncdrc.nic.in",
+      "canonical_url": "https://ncdrc.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "ભારતનું રાષ્ટ્રીય ગ્રાહક વિવાદ નિવારણ આયોગ, જે તેના અધિકારક્ષેત્ર, કાર્યવાહી, હુકમો અને પાત્ર ગ્રાહક બાબતો માટેની સેવાઓની માહિતી આપે છે.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ગ્રાહક આયોગ",
+        "ગ્રાહક વિવાદો",
+        "રાષ્ટ્રીય આયોગ",
+        "કાનૂની કાર્યવાહી"
+      ],
+      "keywords": [
+        "NCDRC",
+        "ભારતનું રાષ્ટ્રીય ગ્રાહક આયોગ",
+        "ગ્રાહક અદાલતનું રાષ્ટ્રીય આયોગ",
+        "ગ્રાહક અપીલ",
+        "NCDRC કેસની સ્થિતિ",
+        "ગ્રાહક વિવાદના હુકમો"
+      ],
+      "use_cases": [
+        "રાષ્ટ્રીય સ્તરની ગ્રાહક કાર્યવાહી અંગે સત્તાવાર માહિતી મેળવો",
+        "આયોગની સૂચનાઓ, હુકમો અને કેસ સંબંધિત સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_012",
+      "name": "રાષ્ટ્રીય ગ્રાહક હેલ્પલાઇન",
+      "domain": "consumerhelpline.gov.in",
+      "canonical_url": "https://consumerhelpline.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય ગ્રાહક હેલ્પલાઇન ગ્રાહકોને માલ અને સેવાઓ અંગે ફરિયાદો નોંધાવવામાં તથા સરકાર-સમર્થિત ગ્રાહક ફરિયાદ માધ્યમો દ્વારા કાનૂની કાર્યવાહી પહેલાં સહાય મેળવવામાં મદદ કરે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ગ્રાહક સહાય",
+        "ફરિયાદ સહાય",
+        "ગ્રાહક અધિકારો",
+        "હેલ્પલાઇન"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય ગ્રાહક હેલ્પલાઇન",
+        "ભારતમાં ગ્રાહક ફરિયાદ હેલ્પલાઇન",
+        "ગ્રાહક ફરિયાદ નોંધાવો",
+        "ગ્રાહક ફરિયાદની સ્થિતિ",
+        "1915 ગ્રાહક હેલ્પલાઇન",
+        "ઉત્પાદન અથવા સેવા અંગે ફરિયાદ"
+      ],
+      "use_cases": [
+        "ગ્રાહક ફરિયાદ નોંધાવો અથવા તેની આગળની કાર્યવાહી તપાસો",
+        "ઉત્પાદન અથવા સેવા અંગેની ફરિયાદ ઉકેલવા માટે માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_013",
+      "name": "આવાસ અને શહેરી બાબતોનું મંત્રાલય",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "આવાસ અને શહેરી બાબતોની નીતિઓ તથા કાર્યક્રમો માટે જવાબદાર કેન્દ્ર સરકારનું મંત્રાલય. તેમાં શહેરી વિકાસ અને આવાસ નિયમન સંબંધિત સત્તાવાર માહિતી અને લિંક્સ સામેલ છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "સરકારી મંત્રાલય",
+        "આવાસ",
+        "શહેરી વિકાસ",
+        "નીતિની માહિતી"
+      ],
+      "keywords": [
+        "આવાસ અને શહેરી બાબતોનું મંત્રાલય",
+        "ભારતનું MoHUA",
+        "આવાસ મંત્રાલયની યોજનાઓ",
+        "ભારતમાં શહેરી વિકાસ",
+        "સરકારી આવાસની માહિતી",
+        "RERA સત્તામંડળની માહિતી"
+      ],
+      "use_cases": [
+        "આવાસ અને શહેરી વિકાસની નીતિઓ અંગે સત્તાવાર માહિતી મેળવો",
+        "મંત્રાલયના કાર્યક્રમો અને સંબંધિત નિયમનકારી સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_014",
+      "name": "MahaRERA",
+      "domain": "maharera.maharashtra.gov.in",
+      "canonical_url": "https://maharera.maharashtra.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "મહારાષ્ટ્ર રિયલ એસ્ટેટ રેગ્યુલેટરી ઑથોરિટી, જે મહારાષ્ટ્ર RERA હેઠળ આવતી રિયલ એસ્ટેટ બાબતો માટે પ્રોજેક્ટ અને એજન્ટની નોંધણીની માહિતી, નિયમનકારી અપડેટ્સ અને સેવાઓ આપે છે.",
+      "source_type": "official_state_regulator",
+      "review_required": false,
+      "region": "Maharashtra",
+      "labels": [
+        "રિયલ એસ્ટેટ નિયમન",
+        "મહારાષ્ટ્ર RERA",
+        "પ્રોજેક્ટ શોધ",
+        "મિલકત સંબંધિત ફરિયાદો"
+      ],
+      "keywords": [
+        "MahaRERA",
+        "મહારાષ્ટ્ર RERA વેબસાઇટ",
+        "નોંધાયેલ રિયલ એસ્ટેટ પ્રોજેક્ટ તપાસો",
+        "MahaRERA પ્રોજેક્ટ શોધ",
+        "મહારાષ્ટ્રમાં બિલ્ડર સામે ફરિયાદ",
+        "RERA એજન્ટ નોંધણી",
+        "મહારાષ્ટ્ર રિયલ એસ્ટેટ નિયમનકાર"
+      ],
+      "use_cases": [
+        "મહારાષ્ટ્રના રિયલ એસ્ટેટ પ્રોજેક્ટની નોંધણી અને વિગતો તપાસો",
+        "લાગુ પડતી MahaRERA ફરિયાદ અને નિયમનકારી સેવાઓ શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_015",
+      "name": "રાજ્ય અને કેન્દ્રશાસિત પ્રદેશોની RERA સત્તાઓની સૂચિ",
+      "domain": "mohua.gov.in",
+      "canonical_url": "https://mohua.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોની રિયલ એસ્ટેટ રેગ્યુલેટરી ઑથોરિટીઝ શોધવા માટેની સરકારી ડિરેક્ટરી. કોઈ અરજી કરતા પહેલાં વપરાશકર્તાઓએ વર્તમાન સત્તાવાર પોર્ટલ અને અધિકારક્ષેત્રની ખાતરી કરવી જોઈએ.",
+      "source_type": "official_government_directory",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RERA ડિરેક્ટરી",
+        "રાજ્ય સત્તાઓ",
+        "રિયલ એસ્ટેટ નિયમન",
+        "સરકારી ડિરેક્ટરી"
+      ],
+      "keywords": [
+        "ભારતની રાજ્ય RERA વેબસાઇટ્સ",
+        "RERA સત્તામંડળોની યાદી",
+        "કેન્દ્રશાસિત પ્રદેશનું RERA",
+        "રાજ્યનું RERA પોર્ટલ શોધો",
+        "રિયલ એસ્ટેટ નિયમનકારોની ડિરેક્ટરી",
+        "RERA ફરિયાદ સત્તામંડળ"
+      ],
+      "use_cases": [
+        "મિલકતના સ્થાન માટે યોગ્ય RERA સત્તામંડળ ઓળખો",
+        "સંબંધિત રાજ્ય અથવા કેન્દ્રશાસિત પ્રદેશના રિયલ એસ્ટેટ નિયમનકારની વેબસાઇટ શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_016",
+      "name": "રિયલ એસ્ટેટ અપીલ ટ્રિબ્યુનલની સૂચિ",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "review_required",
+        "method": "official_directory_reference"
+      },
+      "description": "રિયલ એસ્ટેટ અપીલ ટ્રિબ્યુનલ અને સંબંધિત સત્તાવાર માહિતી શોધવામાં મદદ કરવા માટેની સરકારી ડિરેક્ટરીની એન્ટ્રી. કોઈ સૂચિ પર આધાર રાખતા પહેલાં સંબંધિત રાજ્ય અથવા કેન્દ્રશાસિત પ્રદેશના ટ્રિબ્યુનલની ખાતરી કરવી જોઈએ.",
+      "source_type": "official_government_directory",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ટ્રિબ્યુનલ ડિરેક્ટરી",
+        "RERA અપીલો",
+        "અપીલ ટ્રિબ્યુનલ",
+        "સરકારી ડિરેક્ટરી"
+      ],
+      "keywords": [
+        "ભારતનું રિયલ એસ્ટેટ અપીલ ટ્રિબ્યુનલ",
+        "RERA અપીલ ટ્રિબ્યુનલ",
+        "RERA અપીલ સત્તામંડળ",
+        "રાજ્ય RERA ટ્રિબ્યુનલ",
+        "ટ્રિબ્યુનલની સંપર્ક વિગતો",
+        "રિયલ એસ્ટેટ અપીલ મંચ"
+      ],
+      "use_cases": [
+        "RERA બાબત માટેનું અપીલ ટ્રિબ્યુનલ ઓળખો",
+        "અપીલ તૈયાર કરતાં પહેલાં ટ્રિબ્યુનલની સત્તાવાર માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_017",
+      "name": "રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલ (NCLT)",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલ કાયદા દ્વારા સોંપવામાં આવેલી કંપની કાયદા અને નાદારી સંબંધિત બાબતોનો નિર્ણય કરે છે. તે બેન્ચ, ફાઇલિંગ, સુનાવણી, હુકમો અને કોઝ લિસ્ટની માહિતી આપે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "કંપની કાયદો",
+        "નાદારી",
+        "ટ્રિબ્યુનલ",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલ",
+        "ભારતનું NCLT",
+        "NCLT કેસની સ્થિતિ",
+        "કંપની અરજી ફાઇલિંગ",
+        "IBC નાદારી ટ્રિબ્યુનલ",
+        "NCLTના હુકમો",
+        "NCLT કોઝ લિસ્ટ"
+      ],
+      "use_cases": [
+        "NCLTની બેન્ચ અને કેસની માહિતી શોધો",
+        "કંપની કાયદા અને નાદારીની કાર્યવાહી માટે સત્તાવાર સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_018",
+      "name": "રાષ્ટ્રીય કંપની કાયદા અપીલ ટ્રિબ્યુનલ (NCLAT)",
+      "domain": "nclat.nic.in",
+      "canonical_url": "https://nclat.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "રાષ્ટ્રીય કંપની કાયદા અપીલ ટ્રિબ્યુનલ કાયદા હેઠળ સોંપાયેલી અપીલો અને અન્ય બાબતોની સુનાવણી કરે છે. તેમાં NCLT અને સ્પર્ધા કાયદાની કાર્યવાહીઓમાંથી ઊભી થતી નિર્ધારિત અપીલોનો સમાવેશ થાય છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "અપીલ ટ્રિબ્યુનલ",
+        "કંપની કાયદાની અપીલો",
+        "નાદારીની અપીલો",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "NCLAT",
+        "રાષ્ટ્રીય કંપની કાયદા અપીલ ટ્રિબ્યુનલ",
+        "NCLAT કેસની સ્થિતિ",
+        "NCLAT અપીલ ફાઇલિંગ",
+        "NCLATના ચુકાદાઓ",
+        "ભારતમાં કંપની કાયદાની અપીલ",
+        "નાદારી અપીલ ટ્રિબ્યુનલ"
+      ],
+      "use_cases": [
+        "NCLATના અધિકારક્ષેત્રમાં આવતી અપીલની માહિતી મેળવો",
+        "ટ્રિબ્યુનલની સૂચનાઓ, હુકમો અને કેસ સંબંધિત સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_021",
+      "name": "કેન્દ્રીય વહીવટી ટ્રિબ્યુનલ (CAT)",
+      "domain": "cgat.gov.in",
+      "canonical_url": "https://cgat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "કેન્દ્રીય વહીવટી ટ્રિબ્યુનલ તેના કાયદાકીય અધિકારક્ષેત્ર હેઠળ આવતાં જાહેર સેવકોની સેવા સંબંધિત નિર્ધારિત વિવાદો અને કેન્દ્ર સરકારની રોજગાર બાબતોનો નિર્ણય કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "વહીવટી ટ્રિબ્યુનલ",
+        "સરકારી સેવા બાબતો",
+        "સેવા વિવાદો",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "ભારતનું CAT ટ્રિબ્યુનલ",
+        "કેન્દ્રીય વહીવટી ટ્રિબ્યુનલ",
+        "સરકારી કર્મચારીનો સેવા કેસ",
+        "CAT કેસની સ્થિતિ",
+        "સેવા બાબતનું ટ્રિબ્યુનલ",
+        "CATના હુકમો"
+      ],
+      "use_cases": [
+        "પાત્ર કેન્દ્ર સરકારની સેવા સંબંધિત વિવાદોની માહિતી મેળવો",
+        "CATની બેન્ચ, કેસ અને હુકમોની માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_022",
+      "name": "સશસ્ત્ર દળોનું ટ્રિબ્યુનલ (AFT)",
+      "domain": "aftdelhi.nic.in",
+      "canonical_url": "https://aftdelhi.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "સશસ્ત્ર દળોનું ટ્રિબ્યુનલ સશસ્ત્ર દળોના સભ્યો અને અન્ય પાત્ર અરજદારોને લગતી સેવા બાબતો તથા તેના કાયદાકીય અધિકારક્ષેત્ર હેઠળની અપીલોનો નિકાલ કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સશસ્ત્ર દળોનું ટ્રિબ્યુનલ",
+        "લશ્કરી સેવા બાબતો",
+        "અપીલો",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "ભારતનું AFT",
+        "સશસ્ત્ર દળોનું ટ્રિબ્યુનલ",
+        "લશ્કરી સેવા કેસ",
+        "સશસ્ત્ર દળોની અપીલ ટ્રિબ્યુનલ",
+        "AFT કેસની સ્થિતિ",
+        "AFTનો ચુકાદો"
+      ],
+      "use_cases": [
+        "પાત્ર સશસ્ત્ર દળોની સેવા બાબત માટે ટ્રિબ્યુનલની માહિતી મેળવો",
+        "AFTની સૂચનાઓ, કેસની માહિતી અને હુકમો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_023",
+      "name": "રાષ્ટ્રીય હરિત ટ્રિબ્યુનલ (NGT)",
+      "domain": "www.greentribunal.gov.in",
+      "canonical_url": "https://www.greentribunal.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય હરિત ટ્રિબ્યુનલ પર્યાવરણ કાયદાઓ હેઠળ આવતાં નિર્ધારિત પર્યાવરણીય વિવાદો અને અપીલોનો નિર્ણય કરે છે તથા ટ્રિબ્યુનલના હુકમો, સૂચનાઓ અને કેસની માહિતી ઉપલબ્ધ કરાવે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "પર્યાવરણ કાયદો",
+        "હરિત ટ્રિબ્યુનલ",
+        "પર્યાવરણીય વિવાદો",
+        "કેસના હુકમો"
+      ],
+      "keywords": [
+        "ભારતનું NGT",
+        "રાષ્ટ્રીય હરિત ટ્રિબ્યુનલ",
+        "પર્યાવરણ કેસ ફાઇલિંગ",
+        "પર્યાવરણીય ટ્રિબ્યુનલના હુકમો",
+        "પ્રદૂષણ અંગે ટ્રિબ્યુનલમાં ફરિયાદ",
+        "NGT કેસની સ્થિતિ",
+        "પર્યાવરણ કાયદાની અપીલ"
+      ],
+      "use_cases": [
+        "NGTના અધિકારક્ષેત્રમાં આવતી પર્યાવરણીય બાબતોની માહિતી મેળવો",
+        "ટ્રિબ્યુનલના હુકમો અને કેસ સંબંધિત સૂચનાઓ મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_024",
+      "name": "સિક્યોરિટીઝ અપીલ ટ્રિબ્યુનલ (SAT)",
+      "domain": "sat.gov.in",
+      "canonical_url": "https://sat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "સિક્યોરિટીઝ અપીલ ટ્રિબ્યુનલ સિક્યોરિટીઝ અને અન્ય લાગુ નાણાકીય બજાર કાયદાઓ હેઠળ સોંપાયેલી અપીલો અને બાબતોની સુનાવણી કરે છે. તેમાં નાણાકીય નિયમનકારોના નિર્ધારિત નિર્ણયોની અપીલોનો સમાવેશ થાય છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "સિક્યોરિટીઝ કાયદો",
+        "નાણાકીય અપીલો",
+        "અપીલ ટ્રિબ્યુનલ",
+        "બજાર નિયમન"
+      ],
+      "keywords": [
+        "ભારતનું SAT",
+        "સિક્યોરિટીઝ અપીલ ટ્રિબ્યુનલ",
+        "SEBIના હુકમ સામે અપીલ",
+        "સિક્યોરિટીઝ બજારની અપીલ",
+        "SAT કેસની સ્થિતિ",
+        "નાણાકીય નિયમનકાર સામે અપીલ"
+      ],
+      "use_cases": [
+        "SATના અધિકારક્ષેત્રમાં આવતી અપીલની માહિતી મેળવો",
+        "ટ્રિબ્યુનલના હુકમો અને સુનાવણી સંબંધિત માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_025",
+      "name": "વીજળી માટેનું અપીલ ટ્રિબ્યુનલ (APTEL)",
+      "domain": "aptel.gov.in",
+      "canonical_url": "https://aptel.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "વીજળી માટેનું અપીલ ટ્રિબ્યુનલ વીજળી ક્ષેત્રના કાયદાઓ હેઠળ સોંપાયેલી અપીલો અને બાબતોની સુનાવણી કરે છે. તેમાં નિર્ધારિત નિયમનકારી નિર્ણયો અને વીજળી સંબંધિત વિવાદોનો સમાવેશ થાય છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "વીજળીનું નિયમન",
+        "ઊર્જા અપીલો",
+        "અપીલ ટ્રિબ્યુનલ",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "APTEL",
+        "વીજળી માટેનું અપીલ ટ્રિબ્યુનલ",
+        "ભારતમાં વીજળીની અપીલ",
+        "વીજળી નિયમનકારના હુકમ સામે અપીલ",
+        "વીજ ક્ષેત્રનું ટ્રિબ્યુનલ",
+        "APTEL કેસની સ્થિતિ",
+        "ઊર્જા કાયદાનું ટ્રિબ્યુનલ"
+      ],
+      "use_cases": [
+        "વીજળી ક્ષેત્રની અપીલ અંગે માહિતી મેળવો",
+        "APTELના હુકમો, સૂચનાઓ અને કેસ સંબંધિત સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_026",
+      "name": "ટેલિકોમ વિવાદ નિવારણ અને અપીલ ટ્રિબ્યુનલ (TDSAT)",
+      "domain": "tdsat.gov.in",
+      "canonical_url": "https://tdsat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "ટેલિકોમ વિવાદ નિવારણ અને અપીલ ટ્રિબ્યુનલ લાગુ ટેલિકોમ્યુનિકેશન તથા અન્ય ક્ષેત્ર-વિશિષ્ટ કાયદાઓ હેઠળ તેને સોંપાયેલા વિવાદો અને અપીલોનો નિર્ણય કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "ટેલિકોમ વિવાદો",
+        "ક્ષેત્ર-વિશિષ્ટ અપીલો",
+        "અપીલ ટ્રિબ્યુનલ",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "TDSAT",
+        "ટેલિકોમ વિવાદ નિવારણ ટ્રિબ્યુનલ",
+        "ભારતમાં ટેલિકોમ વિવાદ",
+        "ટેલિકોમ અપીલ ટ્રિબ્યુનલ",
+        "પ્રસારણ વિવાદ ટ્રિબ્યુનલ",
+        "TDSAT કેસની સ્થિતિ",
+        "TDSATના હુકમો"
+      ],
+      "use_cases": [
+        "TDSATના અધિકારક્ષેત્રમાં આવતા વિવાદની માહિતી મેળવો",
+        "ટ્રિબ્યુનલના કેસની માહિતી, સૂચનાઓ અને હુકમો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_027",
+      "name": "કસ્ટમ્સ, એક્સાઇઝ અને સર્વિસ ટેક્સ અપીલ ટ્રિબ્યુનલ (CESTAT)",
+      "domain": "cestat.gov.in",
+      "canonical_url": "https://cestat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "pending_review",
+        "method": "official_directory_reference"
+      },
+      "description": "કસ્ટમ્સ, એક્સાઇઝ અને સર્વિસ ટેક્સ અપીલ ટ્રિબ્યુનલ તેના કાયદાકીય અધિકારક્ષેત્ર હેઠળ કસ્ટમ્સ, કેન્દ્રીય એક્સાઇઝ અને સર્વિસ ટેક્સ સંબંધિત અપીલોની સુનાવણી કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કરવેરાની અપીલો",
+        "કસ્ટમ્સ",
+        "પરોક્ષ કર",
+        "અપીલ ટ્રિબ્યુનલ"
+      ],
+      "keywords": [
+        "CESTAT",
+        "ભારતમાં કસ્ટમ્સ ટ્રિબ્યુનલ",
+        "એક્સાઇઝ અપીલ",
+        "સર્વિસ ટેક્સ અપીલ",
+        "કસ્ટમ્સ ડ્યુટી કેસ",
+        "CESTAT કેસની સ્થિતિ",
+        "પરોક્ષ કર ટ્રિબ્યુનલ"
+      ],
+      "use_cases": [
+        "પાત્ર કસ્ટમ્સ અથવા પરોક્ષ કરની અપીલ અંગે માહિતી મેળવો",
+        "CESTATની બેન્ચ, કોઝ લિસ્ટ અને હુકમોની માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_028",
+      "name": "આવકવેરા અપીલ ટ્રિબ્યુનલ (ITAT)",
+      "domain": "itat.gov.in",
+      "canonical_url": "https://itat.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "આવકવેરા અપીલ ટ્રિબ્યુનલ આવકવેરા કાયદા હેઠળની અપીલોની સુનાવણી કરે છે અને બેન્ચ, કેસની યાદીઓ, હુકમો તથા ટ્રિબ્યુનલની પ્રક્રિયાઓ અંગે સત્તાવાર માહિતી આપે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "આવકવેરાની અપીલો",
+        "કર ટ્રિબ્યુનલ",
+        "કેસની માહિતી",
+        "હુકમો"
+      ],
+      "keywords": [
+        "ITAT",
+        "આવકવેરા અપીલ ટ્રિબ્યુનલ",
+        "ભારતમાં આવકવેરાની અપીલ",
+        "કર ટ્રિબ્યુનલ કેસની સ્થિતિ",
+        "ITAT કોઝ લિસ્ટ",
+        "ITATના હુકમો",
+        "આવકવેરા મુકદ્દમો"
+      ],
+      "use_cases": [
+        "ITAT સમક્ષ આવકવેરાની અપીલ અંગે માહિતી મેળવો",
+        "ટ્રિબ્યુનલની કોઝ લિસ્ટ, હુકમો અને કેસ સંબંધિત સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_029",
+      "name": "રેલવે દાવા ટ્રિબ્યુનલ (RCT)",
+      "domain": "rct.indianrail.gov.in",
+      "canonical_url": "https://rct.indianrail.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "રેલવે દાવા ટ્રિબ્યુનલ રેલવે અકસ્માતો, અનિચ્છનીય ઘટનાઓ અને તેના કાયદાકીય અધિકારક્ષેત્ર હેઠળની અન્ય બાબતોમાંથી ઊભા થતા નિર્ધારિત દાવાઓનો નિર્ણય કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "રેલવે દાવા",
+        "પરિવહન કાયદો",
+        "દાવા ટ્રિબ્યુનલ",
+        "કેસની માહિતી"
+      ],
+      "keywords": [
+        "રેલવે દાવા ટ્રિબ્યુનલ",
+        "ભારતનું RCT",
+        "રેલવે અકસ્માત વળતરનો દાવો",
+        "ટ્રેનની ઘટનાનો ટ્રિબ્યુનલમાં દાવો",
+        "રેલવે દાવાના કેસની સ્થિતિ",
+        "રેલવે વળતર"
+      ],
+      "use_cases": [
+        "પાત્ર રેલવે દાવા અંગે માહિતી મેળવો",
+        "ટ્રિબ્યુનલની પ્રક્રિયાઓ અને કેસ સંબંધિત સંસાધનો મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_030",
+      "name": "શ્રમ અદાલતો અને ઔદ્યોગિક ટ્રિબ્યુનલની સૂચિ",
+      "domain": "labour.gov.in",
+      "canonical_url": "https://labour.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "કેન્દ્ર સરકારના શ્રમ મંત્રાલયનું પોર્ટલ શ્રમ સંબંધિત માહિતી અને ડિરેક્ટરી માટેના પ્રારંભિક સંદર્ભો આપે છે. સક્ષમ શ્રમ અદાલત અથવા ઔદ્યોગિક ટ્રિબ્યુનલ વિવાદ, નોકરીદાતા અને લાગુ અધિકારક્ષેત્ર પર આધારિત હોય છે.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "શ્રમ કાયદો",
+        "ઔદ્યોગિક વિવાદો",
+        "અદાલતોની સૂચિ",
+        "સરકારી માહિતી"
+      ],
+      "keywords": [
+        "ભારતમાં શ્રમ અદાલત",
+        "ઔદ્યોગિક ટ્રિબ્યુનલની સૂચિ",
+        "શ્રમ વિવાદનું મંચ",
+        "રોજગાર વિવાદ ટ્રિબ્યુનલ",
+        "ભારતનું શ્રમ મંત્રાલય",
+        "ઔદ્યોગિક વિવાદનો કેસ"
+      ],
+      "use_cases": [
+        "કેન્દ્ર સરકારના શ્રમ કાયદા અને સંબંધિત સરકારી સંસાધનો શોધો",
+        "વધુ ચકાસણી માટે યોગ્ય શ્રમ અદાલત અથવા ઔદ્યોગિક ટ્રિબ્યુનલ ઓળખો"
+      ]
+    },
+    {
+      "id": "legal_india_031",
+      "name": "ભારતીય સ્પર્ધા આયોગ (CCI)",
+      "domain": "cci.gov.in",
+      "canonical_url": "https://cci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ભારતીય સ્પર્ધા આયોગ ભારતમાં સ્પર્ધા કાયદાનો અમલ કરે છે અને સ્પર્ધા સંબંધિત બાબતો, હુકમો, નિયમનો, જાગૃતિ પ્રવૃત્તિઓ તથા માહિતી અથવા ફરિયાદ રજૂ કરવાની પ્રક્રિયાઓ અંગે માહિતી આપે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "સ્પર્ધા કાયદો",
+        "બજાર નિયમન",
+        "સ્પર્ધા અંગેની ફરિયાદો",
+        "હુકમો"
+      ],
+      "keywords": [
+        "ભારતનું CCI",
+        "ભારતીય સ્પર્ધા આયોગ",
+        "સ્પર્ધા કાયદા અંગે ફરિયાદ",
+        "ભારતમાં સ્પર્ધા વિરોધી પ્રથા",
+        "કાર્ટેલ અંગે ફરિયાદ",
+        "CCIના હુકમો",
+        "વિલીનીકરણનું નિયમન"
+      ],
+      "use_cases": [
+        "સ્પર્ધા કાયદાના નિયમો અને CCIની પ્રક્રિયાઓ જાણો",
+        "સ્પર્ધા સંબંધિત બાબતો, હુકમો અને નિયમનકારી અપડેટ્સ શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_032",
+      "name": "SAFEMA હેઠળનું અપીલ ટ્રિબ્યુનલ",
+      "domain": "atfp.gov.in",
+      "canonical_url": "https://atfp.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": null,
+      "verification": {
+        "status": "verified",
+        "method": "official_directory_reference"
+      },
+      "description": "SAFEMA હેઠળનું અપીલ ટ્રિબ્યુનલ લાગુ જપ્તી અને સંબંધિત કાયદાઓ હેઠળ સોંપાયેલી અપીલો તથા બાબતોની માહિતી આપે છે. વપરાશકર્તાઓએ વર્તમાન અધિકારક્ષેત્ર અને ફાઇલિંગની આવશ્યકતાઓની ખાતરી કરવી જોઈએ.",
+      "source_type": "official_government_portal",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "કાયદા હેઠળની અપીલો",
+        "SAFEMA",
+        "અપીલ ટ્રિબ્યુનલ",
+        "કાનૂની કાર્યવાહી"
+      ],
+      "keywords": [
+        "SAFEMA અપીલ ટ્રિબ્યુનલ",
+        "SAFEMA હેઠળનું અપીલ ટ્રિબ્યુનલ",
+        "ભારતમાં જપ્તી સામે અપીલ",
+        "મિલકત જપ્તી ટ્રિબ્યુનલ",
+        "ATFP કેસની માહિતી",
+        "SAFEMAના હુકમો"
+      ],
+      "use_cases": [
+        "ટ્રિબ્યુનલને સોંપાયેલી બાબતો અંગે સત્તાવાર માહિતી મેળવો",
+        "લાગુ અધિકારક્ષેત્ર અને અપીલની પ્રક્રિયાઓ તપાસો"
+      ]
+    },
+    {
+      "id": "legal_india_033",
+      "name": "કેન્દ્રીય વીજળી નિયમન આયોગ (CERC)",
+      "domain": "cercind.gov.in",
+      "canonical_url": "https://cercind.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "કેન્દ્રીય વીજળી નિયમન આયોગ ભારતમાં વીજળી ક્ષેત્રના નિર્ધારિત પાસાઓનું નિયમન કરે છે અને નિયમનો, હુકમો, સૂચનાઓ તથા નિયમનકારી કાર્યવાહીઓની માહિતી પ્રકાશિત કરે છે.",
+      "source_type": "official_regulator_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "વીજળીનું નિયમન",
+        "ઊર્જા નીતિ",
+        "નિયમનકારી હુકમો",
+        "સરકારી નિયમનકાર"
+      ],
+      "keywords": [
+        "ભારતનું CERC",
+        "કેન્દ્રીય વીજળી નિયમન આયોગ",
+        "ભારતમાં વીજળીના નિયમનો",
+        "વીજ બજારનું નિયમન",
+        "CERCના હુકમો",
+        "વીજળીના દરનું નિયમન",
+        "ઊર્જા નિયમનકાર"
+      ],
+      "use_cases": [
+        "વીજળી ક્ષેત્રના નિયમનો અને નિયમનકારી હુકમો વાંચો",
+        "CERCની કાર્યવાહી અને નીતિ અપડેટ્સ અંગે માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_035",
+      "name": "કેન્દ્રીયકૃત જાહેર ફરિયાદ નિવારણ અને દેખરેખ પ્રણાલી",
+      "domain": "pgportal.gov.in",
+      "canonical_url": "https://pgportal.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "CPGRAMS ભારત સરકારનું જાહેર ફરિયાદ પ્લેટફોર્મ છે. તે ભાગ લેનારી કેન્દ્ર અને રાજ્યની જાહેર સત્તાઓને મોકલેલી પાત્ર સેવા-વિતરણ ફરિયાદો માટે સ્થિતિ ટ્રેકિંગ અને જ્યાં ઉપલબ્ધ હોય ત્યાં અપીલની સુવિધા આપે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "જાહેર ફરિયાદો",
+        "સરકારી ફરિયાદો",
+        "ફરિયાદ ટ્રેકિંગ",
+        "નાગરિક સેવાઓ"
+      ],
+      "keywords": [
+        "CPGRAMS",
+        "ભારતનું PG Portal",
+        "સરકારી ફરિયાદ દાખલ કરો",
+        "ઑનલાઇન જાહેર ફરિયાદ",
+        "સરકારી ફરિયાદની સ્થિતિ",
+        "કેન્દ્ર સરકારની ફરિયાદ",
+        "જાહેર સેવા અંગે ફરિયાદ"
+      ],
+      "use_cases": [
+        "સરકારી સેવા વિતરણ અંગે પાત્ર ફરિયાદ નોંધાવો",
+        "ફરિયાદ ટ્રેક કરો અને લાગુ પડતી હોય ત્યારે ઉપલબ્ધ અપીલ પ્રક્રિયાનો ઉપયોગ કરો"
+      ]
+    },
+    {
+      "id": "legal_india_036",
+      "name": "રાષ્ટ્રીય સાયબર ક્રાઇમ રિપોર્ટિંગ પોર્ટલ",
+      "domain": "cybervolunteer.mha.gov.in",
+      "canonical_url": "https://cybervolunteer.mha.gov.in/webform/Volunteer_AuthoLogin.aspx",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય સાયબર ક્રાઇમ રિપોર્ટિંગ પોર્ટલ પાત્ર સાયબર ગુનાઓ અને ઑનલાઇન છેતરપિંડીની જાણ કરવા માટે ભારત સરકારનું માધ્યમ આપે છે. ફરિયાદો સંબંધિત કાયદા અમલીકરણ સત્તાઓને મોકલવામાં આવે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "સાયબર ગુનાની જાણ",
+        "ઑનલાઇન છેતરપિંડી",
+        "સરકારી પોર્ટલ",
+        "જાહેર સુરક્ષા"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય સાયબર ક્રાઇમ રિપોર્ટિંગ પોર્ટલ",
+        "ભારતમાં સાયબર ગુનાની જાણ કરો",
+        "ઑનલાઇન છેતરપિંડીની ફરિયાદ",
+        "સાયબર છેતરપિંડીની જાણ",
+        "નાણાકીય સાયબર ગુનાની જાણ",
+        "સાયબર ક્રાઇમ ફરિયાદની સ્થિતિ",
+        "1930 સાયબર છેતરપિંડી"
+      ],
+      "use_cases": [
+        "પાત્ર સાયબર ગુના અથવા ઑનલાઇન છેતરપિંડીની જાણ કરો",
+        "સાયબર ગુનાની ફરિયાદ સબમિટ કરવા માટે સત્તાવાર માર્ગદર્શન મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_037",
+      "name": "માહિતી અધિકાર ઑનલાઇન",
+      "domain": "rtionline.gov.in",
+      "canonical_url": "https://rtionline.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "કેન્દ્ર સરકારનું RTI Online પોર્ટલ ભારતીય નાગરિકોને ભાગ લેનારી કેન્દ્રીય જાહેર સત્તાઓ સમક્ષ માહિતી અધિકારની અરજીઓ અને પ્રથમ અપીલો સબમિટ કરવાની તથા તેમની સ્થિતિ ટ્રેક કરવાની સુવિધા આપે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "માહિતીનો અધિકાર",
+        "RTI અરજીઓ",
+        "પ્રથમ અપીલ",
+        "નાગરિક સેવાઓ"
+      ],
+      "keywords": [
+        "ભારતનું RTI Online",
+        "કેન્દ્ર સરકાર સમક્ષ ઑનલાઇન RTI દાખલ કરો",
+        "માહિતી અધિકારની અરજી",
+        "RTIની પ્રથમ અપીલ",
+        "RTIની સ્થિતિ તપાસો",
+        "DoPTનું RTI પોર્ટલ",
+        "સરકારી માહિતી માટે વિનંતી"
+      ],
+      "use_cases": [
+        "પાત્ર કેન્દ્રીય જાહેર સત્તા સમક્ષ RTI અરજી સબમિટ કરો",
+        "પ્રથમ અપીલ દાખલ કરો અને અરજીની સ્થિતિ તપાસો"
+      ]
+    },
+    {
+      "id": "legal_india_038",
+      "name": "ઇન્ડિયા કોડ",
+      "domain": "indiacode.gov.in",
+      "canonical_url": "https://indiacode.gov.in/home",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ઇન્ડિયા કોડ એ ભારત સરકાર દ્વારા પ્રકાશિત અધિનિયમો અને કાનૂની લખાણો સહિતના કેન્દ્રીય કાયદાઓ મેળવવા માટેનો સત્તાવાર ડેટાબેઝ છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ભારતીય કાયદા",
+        "કેન્દ્રીય અધિનિયમો",
+        "કાનૂની સંશોધન",
+        "સરકારી ડેટાબેઝ"
+      ],
+      "keywords": [
+        "ઇન્ડિયા કોડ",
+        "ભારતીય કાયદા ઑનલાઇન",
+        "ભારતના કેન્દ્રીય અધિનિયમો",
+        "મૂળ અધિનિયમો ડાઉનલોડ",
+        "ભારતીય કાયદાઓની શોધ",
+        "સત્તાવાર કાયદા ડેટાબેઝ",
+        "અધિનિયમ અને કલમ શોધ"
+      ],
+      "use_cases": [
+        "કેન્દ્રીય અધિનિયમ અથવા કાનૂની જોગવાઈનો લખાણ શોધો",
+        "કાનૂની સંશોધન માટે સત્તાવાર કાયદાકીય સામગ્રી વાંચો"
+      ]
+    },
+    {
+      "id": "legal_india_039",
+      "name": "કાયદા અને ન્યાય મંત્રાલય",
+      "domain": "lawmin.gov.in",
+      "canonical_url": "https://lawmin.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "કાયદા અને ન્યાય મંત્રાલય કેન્દ્ર સરકારના કાનૂની કાર્યો, કાયદા ઘડવાની કામગીરી, ન્યાય વહીવટ તથા સંબંધિત વિભાગો અને પહેલો અંગે સત્તાવાર માહિતી આપે છે.",
+      "source_type": "official_government_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "કાયદા મંત્રાલય",
+        "સરકારી નીતિ",
+        "કાનૂની બાબતો",
+        "ન્યાય વહીવટ"
+      ],
+      "keywords": [
+        "ભારતનું કાયદા અને ન્યાય મંત્રાલય",
+        "કાયદા મંત્રાલયની વેબસાઇટ",
+        "કાનૂની બાબતોનો વિભાગ",
+        "ભારતની સરકારી કાનૂની નીતિ",
+        "ભારતમાં ન્યાય વહીવટ",
+        "કાનૂની બાબતોનું મંત્રાલય"
+      ],
+      "use_cases": [
+        "કેન્દ્રના કાયદા અને ન્યાય વહીવટ અંગે સત્તાવાર માહિતી મેળવો",
+        "મંત્રાલયના વિભાગો, જાહેરાતો અને સંબંધિત સંસાધનો શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_040",
+      "name": "સંકલિત સરકારી ઑનલાઇન ડિરેક્ટરી: ટ્રિબ્યુનલ અને અર્ધ-ન્યાયિક સંસ્થાઓ",
+      "domain": "igod.gov.in",
+      "canonical_url": "https://igod.gov.in/jud/E082/organizations",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "સંકલિત સરકારી ઑનલાઇન ડિરેક્ટરી ભારતમાં સરકારી ટ્રિબ્યુનલ અને અર્ધ-ન્યાયિક સંસ્થાઓની સત્તાવાર લિંક્સ તથા સંગઠન સંબંધિત માહિતી આપે છે.",
+      "source_type": "official_government_directory",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "સરકારી ડિરેક્ટરી",
+        "ટ્રિબ્યુનલ",
+        "અર્ધ-ન્યાયિક સંસ્થાઓ",
+        "સત્તાવાર લિંક્સ"
+      ],
+      "keywords": [
+        "IGOD ટ્રિબ્યુનલ ડિરેક્ટરી",
+        "ભારતીય ટ્રિબ્યુનલની વેબસાઇટ્સ",
+        "અર્ધ-ન્યાયિક સંસ્થાઓની ડિરેક્ટરી",
+        "સરકારી ટ્રિબ્યુનલનો સંપર્ક",
+        "ભારતની સત્તાવાર ટ્રિબ્યુનલ લિંક્સ",
+        "ટ્રિબ્યુનલ સંસ્થાની ડિરેક્ટરી"
+      ],
+      "use_cases": [
+        "ટ્રિબ્યુનલ અથવા અર્ધ-ન્યાયિક સંસ્થાની સત્તાવાર વેબસાઇટ શોધો",
+        "સરકારી સંસ્થા અને સંપર્ક માહિતી મેળવો"
+      ]
+    },
+    {
+      "id": "legal_india_041",
+      "name": "ઈ-સમિતિ, ભારતની સર્વોચ્ચ અદાલત",
+      "domain": "ecommitteesci.gov.in",
+      "canonical_url": "https://ecommitteesci.gov.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "ભારતની સર્વોચ્ચ અદાલતની ઈ-સમિતિ ભારતીય ન્યાયતંત્ર માટે માહિતી અને સંચાર ટેકનોલોજીની પહેલોનું નેતૃત્વ કરે છે તથા eCourts સેવાઓ અને ડિજિટલ અદાલત પ્રોજેક્ટ્સ અંગે માહિતી આપે છે.",
+      "source_type": "official_judicial_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "ન્યાયિક ટેકનોલોજી",
+        "eCourts પ્રોજેક્ટ",
+        "ડિજિટલ ન્યાયતંત્ર",
+        "સર્વોચ્ચ અદાલત"
+      ],
+      "keywords": [
+        "સર્વોચ્ચ અદાલતની ઈ-સમિતિ",
+        "ભારતીય ન્યાયતંત્રની ડિજિટલ સેવાઓ",
+        "ભારતનો eCourts પ્રોજેક્ટ",
+        "અદાલતી ટેકનોલોજીની પહેલો",
+        "ઈ-સેવા કેન્દ્ર",
+        "ભારતમાં વર્ચ્યુઅલ અદાલતો",
+        "eCourts મોબાઇલ એપ"
+      ],
+      "use_cases": [
+        "ભારતીય ન્યાયતંત્રમાં શરૂ કરાયેલી ડિજિટલ સેવાઓ વિશે જાણો",
+        "eCourts પહેલોની લિંક્સ અને માહિતી શોધો"
+      ]
+    },
+    {
+      "id": "legal_india_042",
+      "name": "રાષ્ટ્રીય મહિલા આયોગ",
+      "domain": "ncw.nic.in",
+      "canonical_url": "https://ncw.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય મહિલા આયોગ મહિલાઓના અધિકારો અને સુરક્ષા સંબંધિત બાબતોનું નિરાકરણ કરતી કાયદા દ્વારા સ્થાપિત સંસ્થા છે. તે પોતાની કાનૂની સત્તાની મર્યાદામાં ફરિયાદો અને કાર્યો અંગે માહિતી આપે છે.",
+      "source_type": "official_statutory_commission",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "મહિલા અધિકારો",
+        "કાયદા દ્વારા સ્થાપિત આયોગ",
+        "ફરિયાદની માહિતી",
+        "જાહેર સહાય"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય મહિલા આયોગ",
+        "NCWમાં ઑનલાઇન ફરિયાદ",
+        "ભારતમાં મહિલા અધિકાર અંગે ફરિયાદ",
+        "NCW ફરિયાદ",
+        "મહિલા સુરક્ષા આયોગ",
+        "NCWની સંપર્ક વિગતો"
+      ],
+      "use_cases": [
+        "NCWના અધિકારક્ષેત્રમાં ફરિયાદ સબમિટ કરવાની માહિતી મેળવો",
+        "આયોગની ભૂમિકા અને ઉપલબ્ધ સહાય માધ્યમો જાણો"
+      ]
+    },
+    {
+      "id": "legal_india_043",
+      "name": "રાષ્ટ્રીય માનવ અધિકાર આયોગ",
+      "domain": "nhrc.nic.in",
+      "canonical_url": "https://nhrc.nic.in/",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "રાષ્ટ્રીય માનવ અધિકાર આયોગ ભારતની કાયદા દ્વારા સ્થાપિત માનવ અધિકાર સંસ્થા છે. તે પોતાના અધિકારક્ષેત્રમાં માનવ અધિકારના રક્ષણ, ફરિયાદો, તપાસ, સૂચનાઓ અને ભલામણો અંગે માહિતી આપે છે.",
+      "source_type": "official_statutory_commission",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "માનવ અધિકારો",
+        "કાયદા દ્વારા સ્થાપિત આયોગ",
+        "ફરિયાદો",
+        "જાહેર માહિતી"
+      ],
+      "keywords": [
+        "રાષ્ટ્રીય માનવ અધિકાર આયોગ",
+        "ભારતના NHRCમાં ફરિયાદ",
+        "માનવ અધિકાર અંગે ઑનલાઇન ફરિયાદ",
+        "NHRC કેસની સ્થિતિ",
+        "ભારતનો માનવ અધિકાર આયોગ",
+        "NHRC માર્ગદર્શિકા"
+      ],
+      "use_cases": [
+        "NHRCના અધિકારક્ષેત્રમાં માનવ અધિકારની ફરિયાદ નોંધાવવાની માહિતી મેળવો",
+        "NHRCની સૂચનાઓ, ભલામણો અને જાહેર માહિતી વાંચો"
+      ]
+    },
+    {
+      "id": "legal_india_045",
+      "name": "રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલની કોઝ લિસ્ટ",
+      "domain": "nclt.gov.in",
+      "canonical_url": "https://nclt.gov.in/all-cause-list",
+      "category": "legal-india",
+      "status": "published",
+      "verified_at": "2026-10-21T00:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "official_source_review"
+      },
+      "description": "બેન્ચ પ્રમાણેની કોઝ લિસ્ટ અને સુનાવણીની યાદીઓ માટેનું સત્તાવાર NCLT પેજ, જે વપરાશકર્તાઓને રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલ સમક્ષ સુનાવણી માટે નિર્ધારિત કેસો તપાસવામાં મદદ કરે છે.",
+      "source_type": "official_tribunal_portal",
+      "review_required": false,
+      "region": "India",
+      "labels": [
+        "NCLT કોઝ લિસ્ટ",
+        "સુનાવણીનું સમયપત્રક",
+        "કંપની કાયદા ટ્રિબ્યુનલ",
+        "અદાલતી યાદીઓ"
+      ],
+      "keywords": [
+        "NCLT કોઝ લિસ્ટ",
+        "NCLTની દૈનિક સુનાવણી યાદી",
+        "રાષ્ટ્રીય કંપની કાયદા ટ્રિબ્યુનલની સુનાવણીની તારીખ",
+        "NCLT બેન્ચની કોઝ લિસ્ટ",
+        "કંપની અરજીની સુનાવણી",
+        "NCLT કેસની યાદી"
+      ],
+      "use_cases": [
+        "NCLTમાં નિર્ધારિત કેસો અને સુનાવણીની યાદીઓ તપાસો",
+        "કંપની કાયદા અથવા નાદારીની બાબત માટે સંબંધિત બેન્ચની કોઝ લિસ્ટ શોધો"
+      ]
+    }
+  ]
+}

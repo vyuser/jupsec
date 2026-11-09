@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="JupitoSecure SiteLink is a curated directory of public website destinations.">
+  <title>JupitoSecure SiteLink — Website Directory</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <section id="languageScreen" class="language-screen" aria-labelledby="languageTitle">
+    <div class="language-card">
+      
+      <p class="eyebrow">JUPITOSECURE</p>
+      <h1 id="languageTitle">SiteLink</h1>
+      <h2 data-i18n="chooseLanguage">Language settings</h2>
+      <p class="muted" data-i18n="languageIntro">Choose your preferred display language. You can change it anytime in
+        Settings.</p>
+      <div id="languageOptions" class="language-options">
+        <button class="language-option selected" data-language="en">English</button>
+        <button class="language-option" data-language="hi">हिंदी (Hindi)</button>
+        <button class="language-option" data-language="mr">मराठी (Marathi)</button>
+        <button class="language-option" data-language="gu">ગુજરાતી (Gujarati)</button>
+        <!--<button class="language-option" data-language="ta">தமிழ் (Tamil)</button>
+        <button class="language-option" data-language="te">తెలుగు (Telugu)</button>
+        <button class="language-option" data-language="bn">বাংলা (Bengali)</button> -->
+      </div>
+      <button id="continueButton" class="btn btn-primary btn-wide" data-i18n="continue">Save language</button>
+    </div>
+  </section>
+
+  <div id="appShell" class="app-shell is-hidden">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand-banner-copy">
+
+        <a class="brand-lockup" href="#home" aria-label="SiteLink home"><img src="img/jupitosecure-logo.png"
+            alt="Jupito Secure Hero Right"
+            class="hero-visual-image-small"><span><b>JupitoSecure</b><strong>SiteLink</strong></span></a>
+        <p>Trusted Websites for Daily Life</p>
+      </div>
+      <nav class="side-nav" aria-label="Main navigation">
+        <button class="nav-item active" data-view="home"><span class="nav-icon">⌂</span><span
+            data-i18n="home">Home</span></button>
+      </nav>
+      <div class="sidebar-note"><b data-i18n="directoryNoteTitle">Curated directory</b>
+        <p data-i18n="directoryNote">SiteLink helps you find public website destinations. External sites are operated
+          independently.</p>
+      </div>
+    </aside>
+    <div class="sidebar-scrim" id="sidebarScrim"></div>
+    <main class="main-content" id="home">
+      <header class="topbar">
+        <button class="icon-btn mobile-menu" id="menuButton" aria-label="Open menu">☰</button>
+        <div class="brand-banner-copy">
+
+          <a class="brand-lockup" href="#home" aria-label="SiteLink home"><img src="img/jupitosecure-logo.png"
+              alt="Jupito Secure Hero Right"
+              class="hero-visual-image-small"><span><b>JupitoSecure</b><strong>SiteLink</strong></span></a>
+          <p>Trusted Websites for Daily Life</p>
+        </div>
+        <div class="topbar-spacer"></div>
+        <button class="header-select" id="headerLanguage" aria-label="Change language"><span
+            id="currentLanguage">English</span></button>
+        <button class="theme-toggle" id="themeToggle" aria-label="Switch to dark mode" title="Switch theme"><span
+            class="sun">☼</span><span class="moon">☾</span></button>
+      </header>
+       <header class="topbar-search">
+         <form class="search-bar" id="searchForm" role="search">
+          <span class="search-symbol" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Website, service, purpose or keyword…"
+            aria-label="Search websites">
+          <button class="btn btn-primary search-submit" type="submit" data-i18n="search">Search</button>
+        </form>
+       </header>
+       
+
+      <section class="brand-banner" aria-label="SiteLink directory summary">
+
+        <p class="brand-banner-count">1,159 Verified Websites <span aria-hidden="true">·</span> 15 Categories</p>
+      </section>
+      <section class="search-intro">
+        <div class="filter-toolbar">
+          <button class="filter-button category-filter-button" id="categoryButton"><span id="selectedCategoryIcon"
+              class="selected-category-icon" aria-hidden="true"></span><span id="selectedCategoryName"
+              class="selected-category-name" data-i18n="popularWebsites">Popular websites</span></button>
+          <button class="filter-button" id="labelsButton"><span aria-hidden="true">◇</span><span
+              data-i18n="labels">Labels</span><span class="filter-count" id="labelCount"></span></button>
+          <label class="sort-wrap"><span class="sr-only">Sort results</span><select id="sortSelect"
+              aria-label="Sort results">
+              <option value="relevance">Relevance</option>
+              <option value="az">A–Z</option>
+              <option value="recent">Recently added</option>
+            </select></label>
+        </div>
+       
+      </section>
+
+
+
+
+
+      <section class="results-section" aria-labelledby="resultsTitle">
+        <div class="results-heading">
+          <div>
+            <h2 id="resultsTitle" data-i18n="popularWebsites">Popular websites</h2>
+            <p id="resultSummary" class="muted">Popular websites</p>
+          </div><button class="text-btn" id="clearFilters" data-i18n="clearAll">Clear all</button>
+        </div>
+        <div id="activeChips" class="active-chips"></div>
+        <div id="websiteResults" class="results-list" aria-live="polite"></div>
+        <div id="emptyState" class="empty-state is-hidden">
+          <div class="empty-symbol">⌕</div>
+          <h3 data-i18n="noResults">No websites found</h3>
+          <p data-i18n="tryAgain">Try another search or remove a filter.</p><button class="btn btn-secondary"
+            id="emptyClear" data-i18n="clearFilters">Clear filters</button>
+        </div>
+        <div class="pagination-row"><button id="loadMore" class="btn btn-secondary is-hidden" data-i18n="loadMore">Load
+            more</button></div>
+      </section>
+      <footer class="site-footer"><span>© 2026 Jupito DeepTech Pvt Ltd.</span><span data-i18n="footerDisclaimer">SiteLink
+          is an independent directory, not the operator of listed websites.</span></footer>
+    </main>
+  </div>
+
+  <!-- Category selection popup -->
+  <div class="overlay is-hidden" id="categoryDialog" role="dialog" aria-modal="true"
+    aria-labelledby="categoryDialogTitle">
+    <section class="dialog-card">
+      <div class="dialog-head">
+        <div>
+          <h2 id="categoryDialogTitle" data-i18n="selectCategory">Select category</h2>
+          <p class="muted" data-i18n="categoryHint">Choose one category.</p>
+        </div><button class="icon-btn" data-close-dialog aria-label="Close">×</button>
+      </div>
+      <input class="dialog-search" id="categorySearch" type="search" placeholder="Search categories…"
+        aria-label="Search categories">
+      <div id="categoryChoices" class="choice-list"></div>
+      <div class="dialog-actions"><button class="btn btn-secondary" id="categoryReset"
+          data-i18n="reset">Reset</button><button class="btn btn-primary" id="categoryApply"
+          data-i18n="apply">Apply</button></div>
+    </section>
+  </div>
+
+  <!-- Labels selection popup -->
+  <div class="overlay is-hidden" id="labelsDialog" role="dialog" aria-modal="true" aria-labelledby="labelsDialogTitle">
+    <section class="dialog-card">
+      <div class="dialog-head">
+        <div>
+          <h2 id="labelsDialogTitle" data-i18n="selectLabels">Select labels</h2>
+          <p class="muted" data-i18n="labelsHint">Choose one or more labels.</p>
+        </div><button class="icon-btn" data-close-dialog aria-label="Close">×</button>
+      </div>
+      <input class="dialog-search" id="labelsSearch" type="search" placeholder="Search labels…"
+        aria-label="Search labels">
+      <div id="labelChoices" class="choice-list"></div>
+      <div class="dialog-actions"><button class="btn btn-secondary" id="labelsReset"
+          data-i18n="reset">Reset</button><button class="btn btn-primary" id="labelsApply"
+          data-i18n="apply">Apply</button></div>
+    </section>
+  </div>
+
+  <!-- Website information and launch checkpoint -->
+  <div class="overlay is-hidden" id="infoDialog" role="dialog" aria-modal="true" aria-labelledby="infoTitle">
+    <section class="dialog-card info-card">
+      <div class="dialog-head">
+        <div>
+          <p class="eyebrow" data-i18n="websiteInformation">WEBSITE INFORMATION</p>
+          <h2 id="infoTitle">Website</h2>
+          <p id="infoCategory" class="muted"></p>
+        </div><button class="icon-btn" data-close-dialog aria-label="Close">×</button>
+      </div>
+      <p id="infoDescription" class="info-description"></p>
+      <h3 data-i18n="usefulFor">Useful for</h3>
+      <div id="infoLabels" class="label-list"></div>
+      <div class="destination-box"><span class="destination-icon">↗</span>
+        <div><b data-i18n="destination">Destination</b><a id="infoUrl" href="#" target="_blank"
+            rel="noopener noreferrer"></a></div><button class="icon-btn" id="copyUrl"
+          aria-label="Copy URL">Copy</button>
+      </div>
+      <p class="external-notice" data-i18n="externalNotice">This is an external website operated by its respective
+        owner. Jupitosecure SiteLink does not control its content, services or privacy practices.</p>
+      <div class="dialog-actions"><button class="btn btn-secondary" data-close-dialog
+          data-i18n="cancel">Cancel</button><button class="btn btn-primary" id="launchWebsite"
+          data-i18n="launchWebsite">Launch website ↗</button></div>
+    </section>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="js/popular-data.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,2734 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "jobs-india",
+  "language": "en",
+  "category_name": "Jobs India",
+  "count": 64,
+  "urls": [
+    {
+      "id": "jobs_india_001",
+      "name": "National Career Service",
+      "domain": "www.ncs.gov.in",
+      "canonical_url": "https://www.ncs.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Government of India employment portal that connects jobseekers, employers, counsellors and skill providers. It provides job search and matching, career guidance, job-fair information, training resources and related employment services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Job Portal",
+        "Job Search",
+        "Career Guidance",
+        "Job Fairs",
+        "Skill Development"
+      ],
+      "keywords": [
+        "National Career Service",
+        "NCS India",
+        "government jobs India",
+        "private jobs India",
+        "find jobs online",
+        "job vacancies",
+        "job search by city",
+        "career counselling",
+        "resume building",
+        "job fairs",
+        "skill training",
+        "employment registration",
+        "NCS mobile app",
+        "job seeker support"
+      ],
+      "use_cases": [
+        "Search government and private-sector vacancies across India",
+        "Create or manage a jobseeker profile and explore career guidance",
+        "Find job fairs, training resources and employment support"
+      ]
+    },
+    {
+      "id": "jobs_india_002",
+      "name": "Union Public Service Commission (UPSC)",
+      "domain": "upsc.gov.in",
+      "canonical_url": "https://upsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India's central constitutional recruitment commission, responsible for conducting examinations and selection processes for civil services and other Union government posts. Candidates can find examination notifications, eligibility details, application guidance, schedules and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Government Recruitment",
+        "Civil Services",
+        "Competitive Exams",
+        "Exam Notifications",
+        "Results"
+      ],
+      "keywords": [
+        "UPSC",
+        "Union Public Service Commission",
+        "UPSC exam",
+        "civil services exam",
+        "IAS exam",
+        "IPS exam",
+        "IFS exam",
+        "UPSC notification",
+        "government officer jobs",
+        "UPSC eligibility",
+        "exam calendar",
+        "admit card",
+        "UPSC result",
+        "application form"
+      ],
+      "use_cases": [
+        "Check official UPSC examination notifications and schedules",
+        "Read eligibility rules and application instructions",
+        "Find examination results and recruitment updates"
+      ]
+    },
+    {
+      "id": "jobs_india_003",
+      "name": "Staff Selection Commission (SSC)",
+      "domain": "ssc.gov.in",
+      "canonical_url": "https://ssc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India's central recruitment commission that conducts examinations for recruitment to various ministries, departments and government offices. The portal publishes examination notices, application information, admit cards, answer keys and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Government Jobs",
+        "Recruitment Exams",
+        "SSC Exams",
+        "Admit Cards",
+        "Results"
+      ],
+      "keywords": [
+        "SSC",
+        "Staff Selection Commission",
+        "SSC jobs",
+        "SSC CGL",
+        "SSC CHSL",
+        "SSC MTS",
+        "SSC GD",
+        "government vacancies",
+        "SSC notification",
+        "exam dates",
+        "SSC admit card",
+        "answer key",
+        "SSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Explore SSC recruitment examinations and current notices",
+        "Check exam dates, eligibility and application instructions",
+        "Access admit-card, answer-key and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_004",
+      "name": "Institute of Banking Personnel Selection (IBPS)",
+      "domain": "www.ibps.in",
+      "canonical_url": "https://www.ibps.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IBPS is an Indian personnel-selection organisation that supports recruitment and assessment for banks and other participating institutions. Its portal provides information about common recruitment processes, examination notices, online applications, mock tests and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bank Recruitment",
+        "Banking Exams",
+        "IBPS CRP",
+        "Exam Applications",
+        "Results"
+      ],
+      "keywords": [
+        "IBPS",
+        "bank jobs India",
+        "bank exam",
+        "IBPS PO",
+        "IBPS Clerk",
+        "IBPS SO",
+        "IBPS RRB",
+        "bank recruitment",
+        "common recruitment process",
+        "bank exam notification",
+        "online application",
+        "mock test",
+        "admit card",
+        "exam result"
+      ],
+      "use_cases": [
+        "Find recruitment notifications for participating banks",
+        "Review eligibility, examination stages and application dates",
+        "Use official application, mock-test and result resources"
+      ]
+    },
+    {
+      "id": "jobs_india_005",
+      "name": "Railway Recruitment Boards",
+      "domain": "www.rrbapply.gov.in",
+      "canonical_url": "https://www.rrbapply.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Railway Recruitment Boards conduct recruitment processes for posts across Indian Railways. The official application portal and relevant regional RRB websites provide vacancy notices, eligibility conditions, application updates, examination information and candidate notices.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Railway Jobs",
+        "Government Recruitment",
+        "RRB Exams",
+        "Central Government Jobs",
+        "Application Updates"
+      ],
+      "keywords": [
+        "Railway Recruitment Board",
+        "RRB jobs",
+        "Indian Railway jobs",
+        "railway vacancy",
+        "RRB notification",
+        "RRB ALP",
+        "RRB Technician",
+        "RRB NTPC",
+        "Group D recruitment",
+        "railway exam",
+        "railway application",
+        "RRB admit card",
+        "railway result",
+        "regional RRB"
+      ],
+      "use_cases": [
+        "Look for railway recruitment notices and eligible posts",
+        "Check the relevant regional board for candidate updates",
+        "Review application and examination information"
+      ]
+    },
+    {
+      "id": "jobs_india_006",
+      "name": "Employment News",
+      "domain": "employmentnews.gov.in",
+      "canonical_url": "https://employmentnews.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Employment News is the Government of India's employment and career publication. It carries recruitment advertisements, vacancy announcements and career-related information, including opportunities in government organisations and other employers.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Job News",
+        "Recruitment Advertisements",
+        "Career Information",
+        "Vacancy Updates"
+      ],
+      "keywords": [
+        "Employment News",
+        "Rozgar Samachar",
+        "government job news",
+        "latest government vacancies",
+        "recruitment advertisement",
+        "job notification",
+        "employment newspaper",
+        "weekly job paper",
+        "PSU recruitment",
+        "central government jobs",
+        "career news",
+        "vacancy details"
+      ],
+      "use_cases": [
+        "Browse published recruitment advertisements and vacancy notices",
+        "Find career and employment information from official announcements",
+        "Track opportunities advertised by government organisations"
+      ]
+    },
+    {
+      "id": "jobs_india_007",
+      "name": "LinkedIn Jobs",
+      "domain": "www.linkedin.com/jobs",
+      "canonical_url": "https://www.linkedin.com/jobs/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "LinkedIn's professional job-search service helps people discover vacancies across industries and locations, follow employers and connect job searching with professional profiles and career networking. Listings and eligibility depend on the employer and location.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Professional Job Search",
+        "Career Networking",
+        "Employer Profiles",
+        "Industry Jobs",
+        "Recruitment"
+      ],
+      "keywords": [
+        "LinkedIn Jobs",
+        "LinkedIn job search",
+        "jobs in India",
+        "professional jobs",
+        "IT jobs",
+        "work from home jobs",
+        "remote jobs",
+        "company careers",
+        "job alerts",
+        "apply for jobs",
+        "recruiters",
+        "career networking",
+        "internships",
+        "job vacancies by location"
+      ],
+      "use_cases": [
+        "Search professional vacancies by role, company and location",
+        "Explore employers and follow organisations of interest",
+        "Use a professional profile to support job applications and networking"
+      ]
+    },
+    {
+      "id": "jobs_india_008",
+      "name": "Naukri.com",
+      "domain": "www.naukri.com",
+      "canonical_url": "https://www.naukri.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Naukri.com is an India-focused online recruitment marketplace where jobseekers can search vacancies across industries and experience levels, maintain career profiles and connect with recruiters. Availability and application requirements are set by individual employers.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Job Search",
+        "Recruitment Marketplace",
+        "Professional Careers",
+        "Resume Profile",
+        "Recruiter Connections"
+      ],
+      "keywords": [
+        "Naukri.com",
+        "Naukri jobs",
+        "jobs in India",
+        "latest job vacancies",
+        "search jobs by city",
+        "fresher jobs",
+        "experienced jobs",
+        "IT jobs",
+        "work from home jobs",
+        "resume upload",
+        "job alerts",
+        "recruiter search",
+        "private company jobs",
+        "career opportunities"
+      ],
+      "use_cases": [
+        "Search vacancies by job title, skill, experience and location",
+        "Create or update a profile and resume for recruiter discovery",
+        "Explore fresher, experienced and sector-specific opportunities"
+      ]
+    },
+    {
+      "id": "jobs_india_009",
+      "name": "Indeed India",
+      "domain": "in.indeed.com",
+      "canonical_url": "https://in.indeed.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indeed India is a job-search service for discovering vacancies across industries, locations and employment types. Jobseekers can review employer-posted opportunities and use available profile and application tools; individual employers determine hiring requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Job Search",
+        "Job Listings",
+        "Employer Search",
+        "Career Opportunities",
+        "Job Applications"
+      ],
+      "keywords": [
+        "Indeed India",
+        "Indeed jobs",
+        "jobs in India",
+        "job search",
+        "latest vacancies",
+        "jobs near me",
+        "part time jobs",
+        "full time jobs",
+        "remote jobs",
+        "work from home",
+        "fresher jobs",
+        "company reviews",
+        "salary information",
+        "apply online"
+      ],
+      "use_cases": [
+        "Search jobs by role, keyword and city",
+        "Compare available opportunities and employer information",
+        "Find full-time, part-time and remote listings"
+      ]
+    },
+    {
+      "id": "jobs_india_010",
+      "name": "Foundit",
+      "domain": "www.foundit.in",
+      "canonical_url": "https://www.foundit.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Foundit is an online recruitment platform serving jobseekers and employers, with professional and specialist opportunities across sectors. Users can search roles, explore career resources and use available profile and job-application features.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Professional Job Search",
+        "Specialist Recruitment",
+        "Career Resources",
+        "Job Alerts"
+      ],
+      "keywords": [
+        "Foundit",
+        "Foundit jobs",
+        "Monster jobs India",
+        "professional vacancies",
+        "specialist jobs",
+        "IT recruitment",
+        "management jobs",
+        "job search India",
+        "fresher opportunities",
+        "experienced professionals",
+        "resume profile",
+        "job alerts",
+        "career advice"
+      ],
+      "use_cases": [
+        "Explore professional and specialist vacancies by skill or industry",
+        "Find roles suited to experience and career level",
+        "Use available profile and career resources when applying"
+      ]
+    },
+    {
+      "id": "jobs_india_011",
+      "name": "Apna",
+      "domain": "apna.co",
+      "canonical_url": "https://apna.co/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Apna is an India-focused employment platform with local and entry-level opportunities across business operations, sales, customer support, delivery and other frontline roles. Job availability and hiring terms vary by city and employer.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Local Job Search",
+        "Entry-Level Jobs",
+        "Frontline Hiring",
+        "Sales and Operations",
+        "Jobseeker Support"
+      ],
+      "keywords": [
+        "Apna jobs",
+        "jobs near me",
+        "local jobs India",
+        "10th pass jobs",
+        "12th pass jobs",
+        "fresher jobs",
+        "sales jobs",
+        "delivery jobs",
+        "telecaller jobs",
+        "office assistant jobs",
+        "work from home jobs",
+        "part time jobs",
+        "job search by city",
+        "blue collar jobs"
+      ],
+      "use_cases": [
+        "Find nearby entry-level and frontline job opportunities",
+        "Search sales, delivery, office and operations roles",
+        "Explore vacancies by city and experience requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_012",
+      "name": "Internshala",
+      "domain": "internshala.com",
+      "canonical_url": "https://internshala.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Internshala is an India-based platform for discovering internships, fresher jobs and early-career opportunities. It also provides career-learning resources and information to help students and recent graduates explore practical work experience.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Internships",
+        "Fresher Jobs",
+        "Student Careers",
+        "Early-Career Opportunities",
+        "Career Learning"
+      ],
+      "keywords": [
+        "Internshala",
+        "internships India",
+        "paid internship",
+        "work from home internship",
+        "summer internship",
+        "student internship",
+        "fresher jobs",
+        "entry level jobs",
+        "part time internship",
+        "remote internship",
+        "internship certificate",
+        "apply for internship",
+        "graduate jobs"
+      ],
+      "use_cases": [
+        "Find internships by role, location and work arrangement",
+        "Explore fresher and entry-level job opportunities",
+        "Discover career resources for students and recent graduates"
+      ]
+    },
+    {
+      "id": "jobs_india_013",
+      "name": "Freshersworld",
+      "domain": "www.freshersworld.com",
+      "canonical_url": "https://www.freshersworld.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freshersworld focuses on entry-level and fresher recruitment, including opportunities advertised by companies and information about selected government and private-sector openings. Candidates should check each listing for eligibility and application details.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Fresher Jobs",
+        "Entry-Level Recruitment",
+        "Graduate Careers",
+        "Job Notifications"
+      ],
+      "keywords": [
+        "Freshersworld",
+        "fresher jobs",
+        "jobs for fresh graduates",
+        "entry level jobs India",
+        "graduate jobs",
+        "BE jobs",
+        "BTech jobs",
+        "government jobs for freshers",
+        "private jobs for freshers",
+        "walk in interview",
+        "off campus placement",
+        "campus recruitment",
+        "job alerts"
+      ],
+      "use_cases": [
+        "Search vacancies suitable for fresh graduates and entry-level applicants",
+        "Explore private-sector and advertised recruitment opportunities",
+        "Review eligibility and application instructions for each listing"
+      ]
+    },
+    {
+      "id": "jobs_india_014",
+      "name": "Cutshort",
+      "domain": "cutshort.io",
+      "canonical_url": "https://cutshort.io/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Cutshort is a technology-oriented hiring platform connecting professionals with companies, including startups. It focuses on specialist roles in software, product and related functions, with opportunities and selection processes determined by hiring organisations.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Technology Jobs",
+        "Startup Hiring",
+        "Software Careers",
+        "Product Roles",
+        "Professional Recruitment"
+      ],
+      "keywords": [
+        "Cutshort",
+        "tech jobs India",
+        "software developer jobs",
+        "startup jobs",
+        "product manager jobs",
+        "engineering jobs",
+        "developer hiring",
+        "IT careers",
+        "remote tech jobs",
+        "data jobs",
+        "design jobs",
+        "technology recruitment",
+        "startup careers"
+      ],
+      "use_cases": [
+        "Find software and technology vacancies at companies and startups",
+        "Explore product, engineering and related specialist roles",
+        "Discover opportunities matched to professional skills"
+      ]
+    },
+    {
+      "id": "jobs_india_015",
+      "name": "Wellfound",
+      "domain": "wellfound.com",
+      "canonical_url": "https://wellfound.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Wellfound is a startup-focused hiring platform connecting candidates with startup companies and roles across engineering, product, design and business functions. Job availability, location eligibility and hiring terms are set by each startup.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Startup Jobs",
+        "Technology Careers",
+        "Product and Design Roles",
+        "Global Hiring Marketplace"
+      ],
+      "keywords": [
+        "Wellfound",
+        "AngelList Talent",
+        "startup jobs",
+        "startup careers",
+        "tech startup jobs",
+        "engineering jobs",
+        "product jobs",
+        "design jobs",
+        "remote startup jobs",
+        "early stage companies",
+        "startup hiring",
+        "founding team jobs",
+        "international startup roles"
+      ],
+      "use_cases": [
+        "Explore career opportunities at startups",
+        "Search engineering, product, design and business roles",
+        "Review location and remote-work requirements on individual listings"
+      ]
+    },
+    {
+      "id": "jobs_india_016",
+      "name": "Hirist",
+      "domain": "www.hirist.com",
+      "canonical_url": "https://www.hirist.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Hirist is a specialist recruitment platform focused on technology and IT careers in India. It lists roles for technical professionals and helps candidates discover opportunities according to skills, experience and job preferences.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "IT Jobs",
+        "Technology Recruitment",
+        "Software Careers",
+        "Specialist Roles"
+      ],
+      "keywords": [
+        "Hirist",
+        "Hirist jobs",
+        "IT jobs India",
+        "software jobs",
+        "technology jobs",
+        "developer jobs",
+        "Java jobs",
+        "Python jobs",
+        "data science jobs",
+        "cloud jobs",
+        "cybersecurity jobs",
+        "experienced IT jobs",
+        "tech recruitment"
+      ],
+      "use_cases": [
+        "Search IT and software vacancies by skill and experience",
+        "Explore specialist technology roles",
+        "Review employer requirements and application details"
+      ]
+    },
+    {
+      "id": "jobs_india_017",
+      "name": "Instahyre",
+      "domain": "www.instahyre.com",
+      "canonical_url": "https://www.instahyre.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Instahyre is a technology and professional hiring platform that helps employers discover candidates and candidates explore relevant openings. Its listings include technology, product, data and other specialist roles, with hiring criteria set by employers.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Technology Hiring",
+        "Professional Jobs",
+        "Product and Data Roles",
+        "Recruiter Matching"
+      ],
+      "keywords": [
+        "Instahyre",
+        "Instahyre jobs",
+        "tech jobs India",
+        "product manager jobs",
+        "software engineer jobs",
+        "data analyst jobs",
+        "data science jobs",
+        "developer hiring",
+        "professional recruitment",
+        "IT careers",
+        "job matching",
+        "startup jobs",
+        "experienced professionals"
+      ],
+      "use_cases": [
+        "Explore technology, product and data vacancies",
+        "Discover roles aligned with skills and professional experience",
+        "Review recruiter and employer opportunities"
+      ]
+    },
+    {
+      "id": "jobs_india_018",
+      "name": "AICTE Internship Portal",
+      "domain": "internship.aicte-india.org",
+      "canonical_url": "https://internship.aicte-india.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The AICTE Internship Portal is an initiative associated with India's technical-education ecosystem, intended to connect students with internship opportunities and career-development resources. Students should check the portal and each opportunity for current eligibility and application conditions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Student Internships",
+        "Technical Education",
+        "Career Opportunities",
+        "Industry Exposure"
+      ],
+      "keywords": [
+        "AICTE internship",
+        "AICTE Internship Portal",
+        "engineering internship",
+        "student internship India",
+        "technical internship",
+        "college internship",
+        "internship opportunities",
+        "industry training",
+        "graduate internship",
+        "internship application",
+        "AICTE students",
+        "career experience"
+      ],
+      "use_cases": [
+        "Explore internship opportunities relevant to students",
+        "Review eligibility and application details for listed internships",
+        "Find industry exposure and early-career experience"
+      ]
+    },
+    {
+      "id": "jobs_india_019",
+      "name": "PM Internship Scheme",
+      "domain": "pminternship.mca.gov.in",
+      "canonical_url": "https://pminternship.mca.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Prime Minister's Internship Scheme is a Government of India initiative intended to provide eligible young people with internship opportunities in participating companies. Scheme rules, application windows, participating organisations and eligibility conditions should be checked on the official portal.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Government Internship Scheme",
+        "Youth Opportunities",
+        "Company Internships",
+        "Student and Graduate Careers"
+      ],
+      "keywords": [
+        "PM Internship Scheme",
+        "Prime Minister internship",
+        "government internship India",
+        "MCA internship scheme",
+        "paid internship scheme",
+        "company internship",
+        "youth internship",
+        "internship eligibility",
+        "internship application",
+        "PMIS",
+        "internship portal India"
+      ],
+      "use_cases": [
+        "Check scheme eligibility, guidelines and application windows",
+        "Explore internship opportunities with participating companies",
+        "Review official updates and application status"
+      ]
+    },
+    {
+      "id": "jobs_india_020",
+      "name": "National Apprenticeship Promotion Scheme",
+      "domain": "www.apprenticeshipindia.gov.in",
+      "canonical_url": "https://www.apprenticeshipindia.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The National Apprenticeship Promotion Scheme supports apprenticeship training in India by encouraging employers and apprentices to participate in structured workplace training. The portal provides scheme and employer-related information; applicants should confirm current rules and registration steps.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Apprenticeships",
+        "Workplace Training",
+        "Skill Development",
+        "Employer Participation"
+      ],
+      "keywords": [
+        "National Apprenticeship Promotion Scheme",
+        "NAPS",
+        "apprenticeship India",
+        "apprentice jobs",
+        "apprenticeship registration",
+        "vocational training",
+        "on the job training",
+        "skill development",
+        "employer apprenticeship",
+        "stipend information",
+        "apprentice vacancies"
+      ],
+      "use_cases": [
+        "Understand apprenticeship opportunities and scheme information",
+        "Explore employer participation and training pathways",
+        "Check current apprentice registration and eligibility requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_021",
+      "name": "National Apprenticeship Training Scheme (NATS)",
+      "domain": "nats.education.gov.in",
+      "canonical_url": "https://nats.education.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The National Apprenticeship Training Scheme provides structured apprenticeship training opportunities for eligible graduates, diploma holders and other specified candidates in India. The official portal provides programme information and related registration services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Apprenticeships",
+        "Graduate Training",
+        "Diploma Training",
+        "Work-Based Learning"
+      ],
+      "keywords": [
+        "NATS",
+        "National Apprenticeship Training Scheme",
+        "graduate apprentice",
+        "diploma apprentice",
+        "apprenticeship jobs India",
+        "technical training",
+        "engineering apprenticeship",
+        "NATS registration",
+        "apprentice opportunities",
+        "work based training",
+        "stipend",
+        "student career"
+      ],
+      "use_cases": [
+        "Check apprenticeship opportunities for eligible graduates and diploma holders",
+        "Review programme rules and registration requirements",
+        "Explore practical workplace training pathways"
+      ]
+    },
+    {
+      "id": "jobs_india_022",
+      "name": "Public Enterprises Selection Board (PESB)",
+      "domain": "pesb.gov.in",
+      "canonical_url": "https://pesb.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PESB is the Government of India's selection body for senior management appointments in central public sector enterprises. Its website publishes vacancy notices, eligibility requirements, application procedures and selection-related information for leadership positions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Leadership",
+        "PSU Recruitment",
+        "Senior Executive Selection",
+        "Government Appointments"
+      ],
+      "keywords": [
+        "PESB",
+        "Public Enterprises Selection Board",
+        "PSU director jobs",
+        "government leadership jobs",
+        "CMD vacancy",
+        "director recruitment",
+        "public sector executive",
+        "senior management recruitment",
+        "central PSU jobs",
+        "PESB vacancy",
+        "application guidelines",
+        "board level appointments"
+      ],
+      "use_cases": [
+        "Find senior leadership vacancy notices in central public sector enterprises",
+        "Review eligibility and selection guidelines for executive posts",
+        "Access official application and recruitment updates"
+      ]
+    },
+    {
+      "id": "jobs_india_023",
+      "name": "ONGC",
+      "domain": "ongcindia.com",
+      "canonical_url": "https://ongcindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Oil and Natural Gas Corporation is an Indian public-sector energy company. Its careers and recruitment information covers advertised opportunities in technical, engineering, operations, management and other functions; applicants should follow the official notification for eligibility and selection details.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Energy Sector Careers",
+        "Public Sector Recruitment",
+        "Engineering Jobs",
+        "Technical and Operations Roles"
+      ],
+      "keywords": [
+        "ONGC careers",
+        "ONGC recruitment",
+        "ONGC jobs",
+        "oil and gas jobs India",
+        "petroleum engineering jobs",
+        "geology jobs",
+        "engineering vacancies",
+        "PSU jobs",
+        "graduate trainee",
+        "executive recruitment",
+        "energy sector careers",
+        "government company jobs"
+      ],
+      "use_cases": [
+        "Check ONGC recruitment notices and advertised vacancies",
+        "Explore technical, engineering and corporate career paths",
+        "Review official eligibility, selection and application details"
+      ]
+    },
+    {
+      "id": "jobs_india_024",
+      "name": "Indian Oil Corporation",
+      "domain": "iocl.com",
+      "canonical_url": "https://iocl.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Oil Corporation Limited is an Indian public-sector energy company operating across petroleum, refining, pipelines and related businesses. Its careers pages publish recruitment notices and application information for technical, executive and other roles.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Energy Sector Careers",
+        "PSU Recruitment",
+        "Engineering Jobs",
+        "Executive Opportunities"
+      ],
+      "keywords": [
+        "Indian Oil careers",
+        "IOCL recruitment",
+        "IOCL jobs",
+        "Indian Oil vacancy",
+        "oil and gas careers",
+        "refinery jobs",
+        "engineering jobs PSU",
+        "executive recruitment",
+        "apprentice recruitment",
+        "technical jobs",
+        "government company careers"
+      ],
+      "use_cases": [
+        "Find current IndianOil recruitment advertisements",
+        "Explore technical, apprentice and executive opportunities when advertised",
+        "Read official eligibility criteria and apply within stated dates"
+      ]
+    },
+    {
+      "id": "jobs_india_025",
+      "name": "Bharat Heavy Electricals Limited (BHEL)",
+      "domain": "bhel.com",
+      "canonical_url": "https://www.bhel.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BHEL is an Indian public-sector engineering and manufacturing company serving power and industrial sectors. Its recruitment information covers engineering, technical, supervisory, apprentice and other roles announced through official notices.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Engineering Careers",
+        "Manufacturing Jobs",
+        "PSU Recruitment",
+        "Technical Recruitment"
+      ],
+      "keywords": [
+        "BHEL careers",
+        "BHEL recruitment",
+        "BHEL jobs",
+        "engineering jobs India",
+        "PSU vacancy",
+        "mechanical engineer jobs",
+        "electrical engineer jobs",
+        "manufacturing careers",
+        "apprentice jobs",
+        "technical recruitment",
+        "government company jobs"
+      ],
+      "use_cases": [
+        "Check BHEL recruitment and apprenticeship announcements",
+        "Explore engineering and industrial career opportunities",
+        "Review official post requirements and application instructions"
+      ]
+    },
+    {
+      "id": "jobs_india_026",
+      "name": "Bharat Electronics Limited (BEL)",
+      "domain": "bel-india.in",
+      "canonical_url": "https://bel-india.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BEL is an Indian public-sector company that develops and manufactures electronics and defence-related systems. Its careers information includes recruitment notices for engineering, technical, management and other positions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Defence Electronics Careers",
+        "Engineering Jobs",
+        "PSU Recruitment",
+        "Technical Roles"
+      ],
+      "keywords": [
+        "BEL careers",
+        "BEL recruitment",
+        "Bharat Electronics jobs",
+        "defence electronics jobs",
+        "electronics engineer jobs",
+        "PSU jobs",
+        "engineering vacancies",
+        "technical officer",
+        "project engineer",
+        "trainee engineer",
+        "government company recruitment"
+      ],
+      "use_cases": [
+        "Find BEL recruitment notices and available positions",
+        "Explore electronics, engineering and project-related roles",
+        "Check qualifications, selection stages and application dates"
+      ]
+    },
+    {
+      "id": "jobs_india_027",
+      "name": "Steel Authority of India Limited (SAIL)",
+      "domain": "sail.co.in",
+      "canonical_url": "https://sail.co.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "SAIL is an Indian public-sector steel producer. Its recruitment information covers opportunities across steel plants, mines, technical operations, management, apprenticeships and supporting functions when vacancies are announced.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Steel Industry Careers",
+        "PSU Recruitment",
+        "Plant and Technical Jobs",
+        "Apprenticeships"
+      ],
+      "keywords": [
+        "SAIL careers",
+        "SAIL recruitment",
+        "SAIL jobs",
+        "steel plant jobs",
+        "steel industry careers",
+        "PSU vacancy",
+        "management trainee",
+        "operator technician",
+        "mining jobs",
+        "apprentice recruitment",
+        "engineering jobs India"
+      ],
+      "use_cases": [
+        "Check SAIL recruitment notices for plants and units",
+        "Explore technical, operational and management opportunities",
+        "Review official vacancy and apprenticeship requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_028",
+      "name": "Coal India Limited",
+      "domain": "coalindia.in",
+      "canonical_url": "https://www.coalindia.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Coal India Limited is an Indian public-sector coal mining company. Its recruitment information covers management trainees, technical and operational positions, apprenticeships and subsidiary-level opportunities announced through official channels.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Mining Careers",
+        "PSU Recruitment",
+        "Technical and Operations Jobs",
+        "Apprenticeships"
+      ],
+      "keywords": [
+        "Coal India careers",
+        "Coal India recruitment",
+        "CIL jobs",
+        "coal mining jobs India",
+        "management trainee",
+        "mining engineer jobs",
+        "geologist jobs",
+        "PSU recruitment",
+        "apprentice vacancies",
+        "subsidiary recruitment",
+        "technical jobs"
+      ],
+      "use_cases": [
+        "Find Coal India and subsidiary recruitment announcements",
+        "Explore mining, engineering and management roles",
+        "Review official eligibility and selection details"
+      ]
+    },
+    {
+      "id": "jobs_india_029",
+      "name": "Power Grid Corporation of India",
+      "domain": "powergrid.in",
+      "canonical_url": "https://www.powergrid.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Power Grid Corporation of India Limited is a public-sector power transmission company. Its employment pages publish recruitment for engineering, executive, trainee and other roles, including regional and corporate-centre opportunities.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Power Sector Careers",
+        "Engineering Recruitment",
+        "PSU Jobs",
+        "Trainee Opportunities"
+      ],
+      "keywords": [
+        "POWERGRID careers",
+        "Power Grid recruitment",
+        "POWERGRID jobs",
+        "power transmission jobs",
+        "electrical engineer jobs",
+        "GATE recruitment",
+        "engineer trainee",
+        "diploma trainee",
+        "PSU jobs",
+        "regional recruitment",
+        "government company careers"
+      ],
+      "use_cases": [
+        "Browse POWERGRID employment opportunities and active notices",
+        "Explore engineering, trainee and regional recruitment",
+        "Check application windows and official recruitment documents"
+      ]
+    },
+    {
+      "id": "jobs_india_030",
+      "name": "NTPC Limited",
+      "domain": "ntpc.co.in",
+      "canonical_url": "https://ntpc.co.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NTPC Limited is an Indian public-sector power generation company. Its careers information covers recruitment and training opportunities in engineering, operations, management and other functions across its businesses.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Power Generation Careers",
+        "PSU Recruitment",
+        "Engineering Jobs",
+        "Trainee Opportunities"
+      ],
+      "keywords": [
+        "NTPC careers",
+        "NTPC recruitment",
+        "NTPC jobs",
+        "power plant jobs",
+        "power sector careers",
+        "engineering jobs",
+        "GATE recruitment",
+        "executive trainee",
+        "diploma trainee",
+        "PSU vacancy",
+        "energy jobs India"
+      ],
+      "use_cases": [
+        "Check NTPC recruitment and trainee announcements",
+        "Explore engineering, operations and corporate roles",
+        "Review official eligibility and application instructions"
+      ]
+    },
+    {
+      "id": "jobs_india_031",
+      "name": "State Bank of India Careers",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/web/careers",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "State Bank of India's careers portal publishes recruitment notices for roles in India's largest public-sector bank, including officer, associate, specialist and other positions. Candidates can review official notifications, application links, examination updates and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Bank Careers",
+        "Public Sector Bank Jobs",
+        "Bank Exams",
+        "Recruitment Notices",
+        "Results"
+      ],
+      "keywords": [
+        "SBI careers",
+        "SBI recruitment",
+        "SBI jobs",
+        "State Bank of India vacancy",
+        "SBI PO",
+        "SBI Clerk",
+        "SBI SO",
+        "bank jobs India",
+        "bank exam notification",
+        "online application",
+        "admit card",
+        "SBI result",
+        "bank officer jobs"
+      ],
+      "use_cases": [
+        "Find SBI recruitment notifications for officer and associate roles",
+        "Review eligibility, selection stages and application dates",
+        "Access official examination and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_032",
+      "name": "Reserve Bank of India",
+      "domain": "rbi.org.in",
+      "canonical_url": "https://www.rbi.org.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Reserve Bank of India is India's central bank. Its official website provides institutional and regulatory information and publishes career and recruitment notices for positions such as officers, assistants and specialist roles when advertised.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Central Bank Careers",
+        "Financial Sector Recruitment",
+        "Officer Jobs",
+        "Recruitment Notices"
+      ],
+      "keywords": [
+        "RBI careers",
+        "RBI recruitment",
+        "Reserve Bank of India jobs",
+        "RBI Grade B",
+        "RBI Assistant",
+        "central bank jobs",
+        "banking sector careers",
+        "officer recruitment",
+        "RBI notification",
+        "exam eligibility",
+        "application form",
+        "RBI result"
+      ],
+      "use_cases": [
+        "Check RBI career and recruitment announcements",
+        "Review official notifications for officer, assistant and specialist roles",
+        "Find eligibility, examination and application information"
+      ]
+    },
+    {
+      "id": "jobs_india_033",
+      "name": "NABARD",
+      "domain": "nabard.org",
+      "canonical_url": "https://www.nabard.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NABARD is India's development finance institution focused on agriculture and rural development. Its recruitment information covers officer, assistant and specialist positions, alongside institutional resources relevant to rural finance and development.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Development Finance Careers",
+        "Banking Recruitment",
+        "Rural Development",
+        "Officer Jobs"
+      ],
+      "keywords": [
+        "NABARD careers",
+        "NABARD recruitment",
+        "NABARD jobs",
+        "Grade A recruitment",
+        "Grade B recruitment",
+        "development finance jobs",
+        "rural banking careers",
+        "agriculture finance jobs",
+        "assistant manager",
+        "officer vacancy",
+        "banking exam India"
+      ],
+      "use_cases": [
+        "Explore NABARD recruitment and officer opportunities",
+        "Review eligibility and examination notifications",
+        "Learn about careers in rural finance and development"
+      ]
+    },
+    {
+      "id": "jobs_india_034",
+      "name": "HDFC Bank",
+      "domain": "www.hdfcbank.com",
+      "canonical_url": "https://www.hdfcbank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HDFC Bank is a private-sector bank in India. Its careers information helps candidates explore opportunities across banking, technology, operations, sales, customer service, risk and corporate functions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Bank Careers",
+        "Banking Jobs",
+        "Finance and Operations",
+        "Technology Roles"
+      ],
+      "keywords": [
+        "HDFC Bank careers",
+        "HDFC Bank jobs",
+        "private bank jobs India",
+        "banking careers",
+        "relationship manager jobs",
+        "bank sales jobs",
+        "bank operations",
+        "customer service jobs",
+        "finance jobs",
+        "technology jobs bank",
+        "graduate banking jobs",
+        "bank recruitment"
+      ],
+      "use_cases": [
+        "Explore career opportunities across HDFC Bank functions",
+        "Find banking, sales, operations and technology roles",
+        "Review job requirements and official application information"
+      ]
+    },
+    {
+      "id": "jobs_india_035",
+      "name": "ICICI Bank",
+      "domain": "www.icicibank.com",
+      "canonical_url": "https://www.icicibank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ICICI Bank is a private-sector bank in India. Its careers resources cover opportunities in banking, customer service, relationship management, technology, operations, risk and other business functions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Bank Careers",
+        "Banking Jobs",
+        "Customer and Relationship Roles",
+        "Technology Careers"
+      ],
+      "keywords": [
+        "ICICI Bank careers",
+        "ICICI Bank jobs",
+        "private bank recruitment",
+        "banking jobs India",
+        "relationship manager",
+        "bank officer jobs",
+        "bank sales jobs",
+        "bank operations careers",
+        "customer service banking",
+        "IT jobs bank",
+        "finance careers"
+      ],
+      "use_cases": [
+        "Explore ICICI Bank vacancies across business and support functions",
+        "Search banking, relationship, technology and operations roles",
+        "Review official role descriptions and application requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_036",
+      "name": "Axis Bank",
+      "domain": "www.axisbank.com",
+      "canonical_url": "https://www.axisbank.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Axis Bank is a private-sector bank in India. Its careers information covers roles in retail and corporate banking, sales, customer service, operations, technology, risk and other professional functions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Bank Careers",
+        "Banking Jobs",
+        "Sales and Operations",
+        "Technology Roles"
+      ],
+      "keywords": [
+        "Axis Bank careers",
+        "Axis Bank jobs",
+        "bank jobs India",
+        "private banking careers",
+        "relationship officer jobs",
+        "bank sales careers",
+        "bank operations jobs",
+        "customer service jobs",
+        "IT banking jobs",
+        "finance jobs",
+        "graduate bank jobs"
+      ],
+      "use_cases": [
+        "Find Axis Bank career opportunities by function and location",
+        "Explore customer-facing, sales, operations and technology roles",
+        "Check official job descriptions and application information"
+      ]
+    },
+    {
+      "id": "jobs_india_037",
+      "name": "National Stock Exchange of India",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The National Stock Exchange of India is a major Indian securities exchange and financial-market infrastructure institution. Its careers information relates to opportunities in market operations, technology, regulation, risk, data and corporate functions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Financial Markets Careers",
+        "Exchange Jobs",
+        "Finance and Technology",
+        "Professional Recruitment"
+      ],
+      "keywords": [
+        "NSE India careers",
+        "National Stock Exchange jobs",
+        "stock exchange careers",
+        "capital markets jobs",
+        "financial services jobs",
+        "market operations",
+        "fintech careers",
+        "risk management jobs",
+        "compliance jobs",
+        "data analyst finance",
+        "technology jobs exchange"
+      ],
+      "use_cases": [
+        "Explore career opportunities in financial-market infrastructure",
+        "Find roles in technology, operations, risk and related functions",
+        "Review official recruitment information and role requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_038",
+      "name": "BSE",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BSE is an Indian stock exchange and financial-market institution. Its career opportunities may span market operations, technology, data, compliance, risk, business and corporate functions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Financial Markets Careers",
+        "Exchange Jobs",
+        "Capital Markets",
+        "Professional Roles"
+      ],
+      "keywords": [
+        "BSE careers",
+        "BSE jobs",
+        "Bombay Stock Exchange careers",
+        "stock market jobs",
+        "capital markets careers",
+        "financial services recruitment",
+        "market operations jobs",
+        "compliance jobs",
+        "risk jobs",
+        "fintech jobs",
+        "technology careers finance"
+      ],
+      "use_cases": [
+        "Explore BSE career and recruitment information",
+        "Find opportunities related to markets, technology and business functions",
+        "Review official role details and application requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_039",
+      "name": "ICAI",
+      "domain": "www.icai.org",
+      "canonical_url": "https://www.icai.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Institute of Chartered Accountants of India is the statutory professional body regulating the chartered accountancy profession in India. Its website provides professional, education, membership, examination and career-related resources, including information relevant to students and members.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Professional Body",
+        "Chartered Accountancy",
+        "Career Resources",
+        "Professional Development",
+        "Examinations"
+      ],
+      "keywords": [
+        "ICAI",
+        "Institute of Chartered Accountants of India",
+        "chartered accountant careers",
+        "CA jobs",
+        "CA students",
+        "ICAI placement",
+        "CA articleship",
+        "CA examination",
+        "professional development",
+        "membership services",
+        "accounting careers",
+        "campus placement"
+      ],
+      "use_cases": [
+        "Find official information about the chartered accountancy profession",
+        "Explore student, member, examination and career resources",
+        "Locate relevant placement and professional-development information"
+      ]
+    },
+    {
+      "id": "jobs_india_040",
+      "name": "ICAI Campus Placement Portal",
+      "domain": "cmib.icai.org",
+      "canonical_url": "https://cmib.icai.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "null",
+      "verification": {
+        "status": "pending_review",
+        "method": "manual_review"
+      },
+      "description": "The ICAI Campus Placement Portal supports placement-related activities for eligible chartered accountants through the Institute of Chartered Accountants of India. Candidates and participating employers should consult the portal for current placement schedules, eligibility and registration instructions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "CA Campus Placement",
+        "Chartered Accountants",
+        "Graduate Recruitment",
+        "Employer Placement"
+      ],
+      "keywords": [
+        "ICAI campus placement",
+        "CA placement",
+        "chartered accountant jobs",
+        "ICAI placement programme",
+        "CA fresher jobs",
+        "campus recruitment CA",
+        "accounting jobs",
+        "finance jobs",
+        "CA recruitment",
+        "placement registration",
+        "employer registration"
+      ],
+      "use_cases": [
+        "Check campus placement schedules and eligibility for chartered accountants",
+        "Review candidate and employer registration information",
+        "Explore placement opportunities announced through ICAI"
+      ]
+    },
+    {
+      "id": "jobs_india_041",
+      "name": "Bar Council of India",
+      "domain": "www.barcouncilofindia.org",
+      "canonical_url": "https://www.barcouncilofindia.org/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Bar Council of India is the statutory regulatory body for the legal profession and legal education in India. It is not a general job-search portal; its website is primarily relevant for regulatory information, professional rules, legal education and notices that may be useful to law students and practitioners.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Legal Profession",
+        "Professional Regulation",
+        "Legal Education",
+        "Regulatory Notices"
+      ],
+      "keywords": [
+        "Bar Council of India",
+        "BCI",
+        "law profession India",
+        "legal career information",
+        "advocate enrolment",
+        "legal education",
+        "law college approval",
+        "bar council rules",
+        "legal profession regulation",
+        "law student resources",
+        "advocate information"
+      ],
+      "use_cases": [
+        "Find official regulatory information relevant to advocates and law students",
+        "Review notices and information about legal education and professional rules",
+        "Use the site for professional regulation rather than general job listings"
+      ]
+    },
+    {
+      "id": "jobs_india_042",
+      "name": "Urban Company",
+      "domain": "www.urbancompany.com",
+      "canonical_url": "https://www.urbancompany.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Urban Company is a service marketplace connecting customers with trained professionals for home and personal services in supported markets. Its platform and company career channels may be relevant to service professionals and corporate candidates; opportunities depend on city and current hiring.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Service Professional Opportunities",
+        "Home Services",
+        "Marketplace Work",
+        "Corporate Careers"
+      ],
+      "keywords": [
+        "Urban Company careers",
+        "Urban Company partner",
+        "service professional jobs",
+        "beautician jobs",
+        "salon jobs",
+        "home cleaning jobs",
+        "electrician jobs",
+        "plumber jobs",
+        "AC technician jobs",
+        "appliance repair jobs",
+        "gig work India",
+        "service partner registration"
+      ],
+      "use_cases": [
+        "Explore service-professional opportunities in supported cities",
+        "Learn about joining the platform as a service partner where available",
+        "Find corporate career information through official company channels"
+      ]
+    },
+    {
+      "id": "jobs_india_043",
+      "name": "Swiggy",
+      "domain": "www.swiggy.com",
+      "canonical_url": "https://www.swiggy.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Swiggy is an Indian food delivery and convenience platform. Its delivery-partner and company career channels may provide opportunities in delivery operations, logistics, technology, business and corporate functions, subject to location and current hiring.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Delivery Partner Work",
+        "Gig Opportunities",
+        "Logistics",
+        "Corporate Careers"
+      ],
+      "keywords": [
+        "Swiggy careers",
+        "Swiggy delivery partner",
+        "delivery jobs",
+        "delivery boy jobs",
+        "delivery executive",
+        "gig jobs India",
+        "part time delivery",
+        "food delivery work",
+        "logistics jobs",
+        "warehouse jobs",
+        "operations careers",
+        "Swiggy recruitment"
+      ],
+      "use_cases": [
+        "Explore delivery-partner opportunities in supported locations",
+        "Find company career information across operations and corporate functions",
+        "Review onboarding and work requirements before joining"
+      ]
+    },
+    {
+      "id": "jobs_india_044",
+      "name": "Zomato",
+      "domain": "www.zomato.com",
+      "canonical_url": "https://www.zomato.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zomato is an Indian food-services platform. Delivery-partner opportunities and corporate recruitment are handled through the company's official channels and depend on location, role availability and current hiring requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Delivery Partner Work",
+        "Gig Opportunities",
+        "Food Services",
+        "Corporate Careers"
+      ],
+      "keywords": [
+        "Zomato careers",
+        "Zomato delivery partner",
+        "delivery jobs India",
+        "food delivery jobs",
+        "delivery executive",
+        "gig work",
+        "part time delivery jobs",
+        "logistics careers",
+        "operations jobs",
+        "Zomato recruitment",
+        "corporate jobs"
+      ],
+      "use_cases": [
+        "Explore delivery-partner work where available",
+        "Find corporate and operations career information",
+        "Check location-specific onboarding and role requirements"
+      ]
+    },
+    {
+      "id": "jobs_india_045",
+      "name": "WorkIndia",
+      "domain": "www.workindia.in",
+      "canonical_url": "https://www.workindia.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "WorkIndia is an India-focused job platform with local vacancies in areas such as sales, delivery, office administration, customer support and operations. Jobseekers can search by role and location and should verify employer details and terms for each listing.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Local Job Search",
+        "Frontline Jobs",
+        "Entry-Level Work",
+        "Sales and Operations"
+      ],
+      "keywords": [
+        "WorkIndia",
+        "WorkIndia jobs",
+        "local jobs India",
+        "jobs near me",
+        "sales jobs",
+        "delivery jobs",
+        "office boy jobs",
+        "office assistant jobs",
+        "telecaller jobs",
+        "customer support jobs",
+        "10th pass jobs",
+        "12th pass jobs",
+        "part time jobs",
+        "fresher vacancies"
+      ],
+      "use_cases": [
+        "Search nearby jobs by role and city",
+        "Explore frontline, office, sales and operations vacancies",
+        "Review employer details and job conditions before applying"
+      ]
+    },
+    {
+      "id": "jobs_india_046",
+      "name": "Quikr Jobs",
+      "domain": "www.quikr.com/jobs",
+      "canonical_url": "https://www.quikr.com/jobs/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Quikr Jobs is a jobs section of the Quikr classifieds platform, with local and entry-level listings. Listing availability and service activity may vary; users should confirm that vacancies are current and verify employers before sharing personal information or applying.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Local Job Listings",
+        "Entry-Level Jobs",
+        "Classifieds",
+        "Job Search"
+      ],
+      "keywords": [
+        "Quikr Jobs",
+        "Quikr job search",
+        "local vacancies",
+        "jobs near me",
+        "entry level jobs",
+        "sales jobs",
+        "delivery jobs",
+        "office jobs",
+        "part time work",
+        "fresher jobs",
+        "classified job listings",
+        "job search India"
+      ],
+      "use_cases": [
+        "Browse local and entry-level job advertisements",
+        "Search listings by role and location where available",
+        "Verify vacancy details and employer identity before responding"
+      ]
+    },
+    {
+      "id": "jobs_india_047",
+      "name": "Freelancer",
+      "domain": "www.freelancer.in",
+      "canonical_url": "https://www.freelancer.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Freelancer is an online marketplace where clients post projects and independent professionals bid or offer services across fields such as software, design, writing, marketing and business support. Project access and payment terms are subject to platform rules and location eligibility.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Freelance Marketplace",
+        "Project-Based Work",
+        "Remote Work",
+        "Independent Professionals",
+        "Global Platform"
+      ],
+      "keywords": [
+        "Freelancer",
+        "Freelancer.com",
+        "freelance jobs",
+        "online freelance work",
+        "remote projects",
+        "work from home freelance",
+        "bid on projects",
+        "software development freelance",
+        "graphic design projects",
+        "writing jobs online",
+        "digital marketing freelance",
+        "client projects",
+        "independent contractor"
+      ],
+      "use_cases": [
+        "Browse client projects and freelance service opportunities",
+        "Create a professional profile and respond to suitable project listings",
+        "Explore remote project work across professional categories"
+      ]
+    },
+    {
+      "id": "jobs_india_048",
+      "name": "Upwork",
+      "domain": "www.upwork.com",
+      "canonical_url": "https://www.upwork.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Upwork is a global freelance work marketplace connecting businesses with independent professionals for contract projects and ongoing work. It supports freelancers in many countries, subject to location restrictions, legal eligibility and platform requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Freelance Marketplace",
+        "Remote Contract Work",
+        "Professional Services",
+        "Global Platform",
+        "Client Projects"
+      ],
+      "keywords": [
+        "Upwork",
+        "Upwork freelancer",
+        "freelance jobs",
+        "remote contract work",
+        "work from home projects",
+        "online freelance jobs",
+        "client projects",
+        "software developer freelance",
+        "design freelancer",
+        "writing contracts",
+        "virtual assistant jobs",
+        "consulting projects",
+        "freelancer profile"
+      ],
+      "use_cases": [
+        "Find contract projects that match professional skills",
+        "Create a freelancer profile and submit proposals to clients",
+        "Explore remote work while checking country and contract eligibility"
+      ]
+    },
+    {
+      "id": "jobs_india_049",
+      "name": "Fiverr",
+      "domain": "www.fiverr.com",
+      "canonical_url": "https://www.fiverr.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fiverr is an online services marketplace where freelancers offer defined services to clients across areas such as design, writing, programming, video, marketing and business support. Service availability and seller eligibility are governed by platform rules.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Freelance Services Marketplace",
+        "Online Work",
+        "Digital Services",
+        "Global Platform"
+      ],
+      "keywords": [
+        "Fiverr",
+        "Fiverr freelancer",
+        "sell services online",
+        "freelance marketplace",
+        "online freelance work",
+        "graphic design gigs",
+        "logo design",
+        "writing services",
+        "programming services",
+        "video editing services",
+        "digital marketing services",
+        "virtual assistant",
+        "remote freelance work"
+      ],
+      "use_cases": [
+        "Explore freelance services and service categories",
+        "Create or manage service offers where seller registration is available",
+        "Find client work in digital and professional service areas"
+      ]
+    },
+    {
+      "id": "jobs_india_050",
+      "name": "Truelancer",
+      "domain": "www.truelancer.com",
+      "canonical_url": "https://www.truelancer.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Truelancer is an online freelance marketplace connecting clients and independent professionals for projects and services in areas such as technology, design, writing and business support. Users should review platform fees, payment terms and project requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Freelance Marketplace",
+        "Project-Based Work",
+        "Remote Services",
+        "Independent Professionals"
+      ],
+      "keywords": [
+        "Truelancer",
+        "Truelancer jobs",
+        "freelance projects",
+        "online freelance work",
+        "remote jobs",
+        "work from home projects",
+        "hire freelancer",
+        "software projects",
+        "graphic design freelance",
+        "content writing jobs",
+        "virtual assistant work",
+        "Indian freelance platform"
+      ],
+      "use_cases": [
+        "Explore freelance projects across professional categories",
+        "Create a profile and find work aligned with your skills",
+        "Review project terms and platform payment rules"
+      ]
+    },
+    {
+      "id": "jobs_india_051",
+      "name": "Guru",
+      "domain": "www.guru.com",
+      "canonical_url": "https://www.guru.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Guru is an online freelance marketplace where businesses and independent professionals connect for project-based work across technical, creative and business service categories. Project terms, payment arrangements and eligibility are governed by the platform and individual clients.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Freelance Marketplace",
+        "Professional Projects",
+        "Remote Work",
+        "Global Platform"
+      ],
+      "keywords": [
+        "Guru freelance",
+        "Guru.com jobs",
+        "freelance projects",
+        "remote contract work",
+        "software development freelance",
+        "design projects",
+        "writing freelance",
+        "business services",
+        "virtual assistant jobs",
+        "independent professional",
+        "client projects",
+        "work from home"
+      ],
+      "use_cases": [
+        "Search freelance projects by skill and service category",
+        "Build a professional profile and connect with potential clients",
+        "Review project scope and payment arrangements before accepting work"
+      ]
+    },
+    {
+      "id": "jobs_india_052",
+      "name": "Remote OK",
+      "domain": "remoteok.com",
+      "canonical_url": "https://remoteok.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Remote OK is a job board focused on remote work, with listings commonly covering technology and other professional roles. Each employer sets its own location, time-zone, experience and work-authorisation requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Remote Job Board",
+        "Technology Careers",
+        "Flexible Work",
+        "International Listings"
+      ],
+      "keywords": [
+        "Remote OK",
+        "RemoteOK jobs",
+        "remote jobs",
+        "work from home jobs",
+        "work from anywhere",
+        "remote developer jobs",
+        "software engineer remote",
+        "remote tech jobs",
+        "distributed teams",
+        "global remote work",
+        "online jobs",
+        "remote job board"
+      ],
+      "use_cases": [
+        "Browse remote vacancies by role and category",
+        "Check whether each job accepts applicants in your country",
+        "Compare employer requirements for time zone and experience"
+      ]
+    },
+    {
+      "id": "jobs_india_053",
+      "name": "We Work Remotely",
+      "domain": "weworkremotely.com",
+      "canonical_url": "https://weworkremotely.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "We Work Remotely is a job board for remote professional roles across areas such as programming, design, marketing, customer support and business. Remote does not always mean worldwide, so applicants should check each employer's location and work-authorisation conditions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Remote Job Board",
+        "Professional Careers",
+        "Distributed Work",
+        "International Listings"
+      ],
+      "keywords": [
+        "We Work Remotely",
+        "WWR jobs",
+        "remote jobs",
+        "work from home",
+        "remote software jobs",
+        "remote design jobs",
+        "remote marketing jobs",
+        "customer support remote",
+        "distributed teams",
+        "work from anywhere",
+        "international remote jobs",
+        "online careers"
+      ],
+      "use_cases": [
+        "Search remote roles across professional functions",
+        "Review country, time-zone and work-authorisation restrictions",
+        "Explore opportunities with distributed and remote-first employers"
+      ]
+    },
+    {
+      "id": "jobs_india_054",
+      "name": "FlexJobs",
+      "domain": "www.flexjobs.com",
+      "canonical_url": "https://www.flexjobs.com/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "FlexJobs is a job-search service specialising in remote, hybrid, flexible, part-time and freelance opportunities. Some features or job-search services may require a paid membership, and applicants should check each listing's location and eligibility requirements.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "global",
+      "labels": [
+        "Flexible Job Search",
+        "Remote Jobs",
+        "Part-Time Work",
+        "Freelance Opportunities",
+        "Paid Membership Service"
+      ],
+      "keywords": [
+        "FlexJobs",
+        "FlexJobs jobs",
+        "remote jobs",
+        "hybrid jobs",
+        "flexible jobs",
+        "part time jobs",
+        "freelance jobs",
+        "work from home",
+        "telecommute jobs",
+        "flexible schedule",
+        "legitimate remote jobs",
+        "career search membership"
+      ],
+      "use_cases": [
+        "Search remote, hybrid, part-time and flexible vacancies",
+        "Filter opportunities by work arrangement and career category",
+        "Check membership terms and individual job eligibility before applying"
+      ]
+    },
+    {
+      "id": "jobs_india_055",
+      "name": "Maharashtra Public Service Commission",
+      "domain": "mpsc.gov.in",
+      "canonical_url": "https://mpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Maharashtra Public Service Commission conducts recruitment examinations and selection processes for eligible posts in the Maharashtra state government. Its official website publishes advertisements, examination schedules, candidate instructions and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Maharashtra Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Exam Results"
+      ],
+      "keywords": [
+        "MPSC",
+        "Maharashtra Public Service Commission",
+        "MPSC recruitment",
+        "MPSC jobs",
+        "MPSC exam",
+        "Maharashtra government vacancy",
+        "Rajyaseva exam",
+        "state services exam",
+        "MPSC notification",
+        "admit card",
+        "exam calendar",
+        "MPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Find Maharashtra state government recruitment notifications",
+        "Review exam eligibility, schedules and application instructions",
+        "Check candidate notices and examination results"
+      ]
+    },
+    {
+      "id": "jobs_india_056",
+      "name": "MahaSwayam",
+      "domain": "www.mahaswayam.gov.in",
+      "canonical_url": "https://www.mahaswayam.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "MahaSwayam is a Maharashtra government employment and skill-development portal intended to connect jobseekers with employment and training resources. Users can explore state-focused job information and related skill-development services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Maharashtra",
+      "labels": [
+        "Maharashtra Employment",
+        "State Job Portal",
+        "Skill Development",
+        "Jobseeker Services"
+      ],
+      "keywords": [
+        "MahaSwayam",
+        "Maha Swayam",
+        "Maharashtra jobs",
+        "Maharashtra employment portal",
+        "jobs in Maharashtra",
+        "skill development Maharashtra",
+        "job registration",
+        "local vacancies",
+        "employment exchange",
+        "training courses",
+        "career services",
+        "job seeker registration"
+      ],
+      "use_cases": [
+        "Explore employment resources and vacancies in Maharashtra",
+        "Find information about skill-development and training opportunities",
+        "Use available jobseeker services and registration guidance"
+      ]
+    },
+    {
+      "id": "jobs_india_057",
+      "name": "Delhi Subordinate Services Selection Board",
+      "domain": "dsssb.delhi.gov.in",
+      "canonical_url": "https://dsssb.delhi.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "DSSSB conducts recruitment examinations and selection processes for specified posts under the Government of the National Capital Territory of Delhi and associated bodies. Its website publishes vacancy advertisements, examination notices, admit-card information and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Delhi",
+      "labels": [
+        "Delhi Government Jobs",
+        "State Recruitment Board",
+        "Recruitment Exams",
+        "Exam Notices"
+      ],
+      "keywords": [
+        "DSSSB",
+        "Delhi Subordinate Services Selection Board",
+        "DSSSB recruitment",
+        "Delhi government jobs",
+        "Delhi vacancy",
+        "DSSSB notification",
+        "teacher recruitment Delhi",
+        "clerical jobs Delhi",
+        "government exam",
+        "admit card",
+        "answer key",
+        "DSSSB result",
+        "online application"
+      ],
+      "use_cases": [
+        "Search DSSSB recruitment advertisements for Delhi posts",
+        "Review eligibility and examination instructions",
+        "Check admit-card, answer-key and result notices"
+      ]
+    },
+    {
+      "id": "jobs_india_058",
+      "name": "Tamil Nadu Public Service Commission",
+      "domain": "www.tnpsc.gov.in",
+      "canonical_url": "https://www.tnpsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "TNPSC conducts recruitment examinations for eligible posts in the Tamil Nadu state government. Its official portal provides notifications, examination schedules, application guidance, hall-ticket information and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Tamil Nadu",
+      "labels": [
+        "Tamil Nadu Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Exam Results"
+      ],
+      "keywords": [
+        "TNPSC",
+        "Tamil Nadu Public Service Commission",
+        "TNPSC recruitment",
+        "Tamil Nadu government jobs",
+        "TNPSC group 1",
+        "TNPSC group 2",
+        "TNPSC group 4",
+        "state services exam",
+        "TNPSC notification",
+        "hall ticket",
+        "exam calendar",
+        "TNPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Find Tamil Nadu state recruitment notifications",
+        "Check examination schedules, eligibility and application details",
+        "Access hall-ticket and result information"
+      ]
+    },
+    {
+      "id": "jobs_india_059",
+      "name": "Karnataka Public Service Commission",
+      "domain": "kpsc.kar.nic.in",
+      "canonical_url": "https://kpsc.kar.nic.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "KPSC conducts recruitment and selection processes for eligible Karnataka state government posts. Its official website provides recruitment notifications, examination information, application instructions and candidate updates.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Karnataka",
+      "labels": [
+        "Karnataka Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Candidate Notices"
+      ],
+      "keywords": [
+        "KPSC",
+        "Karnataka Public Service Commission",
+        "KPSC recruitment",
+        "Karnataka government jobs",
+        "KPSC exam",
+        "KAS exam",
+        "state government vacancy",
+        "KPSC notification",
+        "exam dates",
+        "admit card",
+        "answer key",
+        "KPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Explore Karnataka state government recruitment notices",
+        "Review eligibility and application procedures for KPSC examinations",
+        "Check examination and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_060",
+      "name": "Kerala Public Service Commission",
+      "domain": "www.keralapsc.gov.in",
+      "canonical_url": "https://www.keralapsc.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kerala Public Service Commission conducts recruitment examinations and selection processes for eligible Kerala state government posts. Its website provides notifications, candidate registration information, examination schedules, advice and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Kerala",
+      "labels": [
+        "Kerala Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Candidate Registration"
+      ],
+      "keywords": [
+        "Kerala PSC",
+        "KPSC Kerala",
+        "Kerala Public Service Commission",
+        "Kerala PSC jobs",
+        "Kerala government vacancies",
+        "PSC notification",
+        "PSC one time registration",
+        "Kerala PSC exam",
+        "admit card",
+        "ranked list",
+        "PSC result",
+        "government jobs Kerala"
+      ],
+      "use_cases": [
+        "Find Kerala state recruitment notifications and vacancies",
+        "Review candidate registration and examination requirements",
+        "Check ranked lists, advice and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_061",
+      "name": "West Bengal Public Service Commission",
+      "domain": "psc.wb.gov.in",
+      "canonical_url": "https://psc.wb.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "WBPSC conducts recruitment examinations and selection processes for eligible posts in the West Bengal state government. Its official portal publishes advertisements, examination schedules, application information and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "West Bengal",
+      "labels": [
+        "West Bengal Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Results"
+      ],
+      "keywords": [
+        "WBPSC",
+        "West Bengal Public Service Commission",
+        "WBPSC recruitment",
+        "West Bengal government jobs",
+        "PSC exam West Bengal",
+        "state service exam",
+        "WBPSC notification",
+        "government vacancy",
+        "admit card",
+        "exam schedule",
+        "WBPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Explore West Bengal state recruitment notifications",
+        "Review eligibility, examination schedules and application guidance",
+        "Check official candidate notices and results"
+      ]
+    },
+    {
+      "id": "jobs_india_062",
+      "name": "Gujarat Public Service Commission",
+      "domain": "gpsc.gujarat.gov.in",
+      "canonical_url": "https://gpsc.gujarat.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "GPSC conducts recruitment examinations and selection processes for eligible posts in the Gujarat state government. Its official website publishes advertisements, examination programmes, application instructions and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Gujarat",
+      "labels": [
+        "Gujarat Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Exam Programme"
+      ],
+      "keywords": [
+        "GPSC",
+        "Gujarat Public Service Commission",
+        "GPSC recruitment",
+        "Gujarat government jobs",
+        "GPSC exam",
+        "Gujarat state vacancy",
+        "class 1 2 recruitment",
+        "GPSC notification",
+        "exam programme",
+        "admit card",
+        "GPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Find Gujarat state government recruitment advertisements",
+        "Review post eligibility and examination programmes",
+        "Access official application and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_063",
+      "name": "Rajasthan Public Service Commission",
+      "domain": "rpsc.rajasthan.gov.in",
+      "canonical_url": "https://rpsc.rajasthan.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "RPSC conducts recruitment examinations and selection processes for eligible Rajasthan state government posts. Its portal provides recruitment advertisements, examination calendars, application information, admit-card notices and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Rajasthan",
+      "labels": [
+        "Rajasthan Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Exam Calendar"
+      ],
+      "keywords": [
+        "RPSC",
+        "Rajasthan Public Service Commission",
+        "RPSC recruitment",
+        "Rajasthan government jobs",
+        "RPSC RAS",
+        "RAS exam",
+        "RPSC notification",
+        "state service vacancy",
+        "exam calendar",
+        "admit card",
+        "answer key",
+        "RPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Explore Rajasthan state government recruitment notices",
+        "Check examination calendars, eligibility and application details",
+        "Find admit-card, answer-key and result updates"
+      ]
+    },
+    {
+      "id": "jobs_india_064",
+      "name": "Bihar Public Service Commission",
+      "domain": "bpsc.bihar.gov.in",
+      "canonical_url": "https://bpsc.bihar.gov.in/",
+      "category": "jobs-india",
+      "status": "published",
+      "verified_at": "2026-10-23T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BPSC conducts recruitment examinations and selection processes for eligible Bihar state government posts. Its official website publishes vacancy notices, examination schedules, application guidance, admit-card information and results.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "Bihar",
+      "labels": [
+        "Bihar Government Jobs",
+        "State Public Service Commission",
+        "Recruitment Exams",
+        "Candidate Updates"
+      ],
+      "keywords": [
+        "BPSC",
+        "Bihar Public Service Commission",
+        "BPSC recruitment",
+        "Bihar government jobs",
+        "BPSC exam",
+        "Bihar vacancy",
+        "combined competitive examination",
+        "BPSC notification",
+        "exam dates",
+        "admit card",
+        "answer key",
+        "BPSC result",
+        "online application"
+      ],
+      "use_cases": [
+        "Find Bihar state government recruitment advertisements",
+        "Review eligibility, examination and application instructions",
+        "Check official candidate notices and results"
+      ]
+    }
+  ]
+}

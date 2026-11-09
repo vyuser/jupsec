@@ -1,0 +1,3664 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 4,
+  "category": "banking-finance-india",
+  "language": "en",
+  "category_name": "Banking & Finance India",
+  "count": 88,
+  "urls": [
+    {
+      "id": "banking_finance_india_001",
+      "name": "State Bank of India",
+      "domain": "sbi.bank.in",
+      "canonical_url": "https://sbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "State Bank of India is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "state bank of india",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_003",
+      "name": "HDFC Bank",
+      "domain": "www.hdfc.bank.in",
+      "canonical_url": "https://www.hdfc.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "HDFC Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "hdfc bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_004",
+      "name": "ICICI Bank",
+      "domain": "www.icici.bank.in",
+      "canonical_url": "https://www.icici.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ICICI Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "icici bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_005",
+      "name": "Axis Bank",
+      "domain": "www.axis.bank.in",
+      "canonical_url": "https://www.axis.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Axis Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "axis bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_006",
+      "name": "Punjab National Bank",
+      "domain": "pnb.bank.in",
+      "canonical_url": "https://pnb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab National Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "punjab national bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_007",
+      "name": "Bank of Baroda",
+      "domain": "www.bankofbaroda.in",
+      "canonical_url": "https://www.bankofbaroda.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of Baroda is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "bank of baroda",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_008",
+      "name": "Canara Bank",
+      "domain": "www.canarabank.bank.in",
+      "canonical_url": "https://www.canarabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Canara Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "canara bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_009",
+      "name": "Union Bank of India",
+      "domain": "www.unionbankonline.bank.in",
+      "canonical_url": "https://www.unionbankonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Union Bank of India is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "union bank of india",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_010",
+      "name": "Kotak Mahindra Bank",
+      "domain": "www.kotak.bank.in",
+      "canonical_url": "https://www.kotak.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kotak Mahindra Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "kotak mahindra bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_011",
+      "name": "IndusInd Bank",
+      "domain": "www.indusind.bank.in",
+      "canonical_url": "https://www.indusind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IndusInd Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "indusind bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_012",
+      "name": "IDFC FIRST Bank",
+      "domain": "www.idfcfirst.bank.in",
+      "canonical_url": "https://www.idfcfirst.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IDFC FIRST Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "idfc first bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_013",
+      "name": "Bank of India",
+      "domain": "bankofindia.bank.in",
+      "canonical_url": "https://bankofindia.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of India is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "bank of india",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_014",
+      "name": "Indian Bank",
+      "domain": "indianbank.bank.in",
+      "canonical_url": "https://indianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "indian bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_015",
+      "name": "Central Bank of India",
+      "domain": "centralbank.bank.in",
+      "canonical_url": "https://centralbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Central Bank of India is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "central bank of india",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_016",
+      "name": "RBI Sachet",
+      "domain": "sachet.rbi.org.in",
+      "canonical_url": "https://sachet.rbi.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "RBI Sachet is the Reserve Bank of India's public portal for information and reporting related to unauthorised deposit-taking activities. It helps members of the public identify relevant authorities and submit information or complaints.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "RBI Public Portal",
+        "Consumer Protection",
+        "Unauthorised Deposit Reporting",
+        "Financial Awareness"
+      ],
+      "keywords": [
+        "RBI Sachet",
+        "Reserve Bank of India Sachet",
+        "report illegal deposit scheme",
+        "unauthorised deposit",
+        "ponzi scheme complaint",
+        "financial fraud reporting",
+        "deposit taking company",
+        "investor awareness"
+      ],
+      "use_cases": [
+        "Check information about entities or schemes involved in deposit-taking",
+        "Find the appropriate channel to report suspected unauthorised deposit activity",
+        "Read public guidance on financial awareness and consumer protection"
+      ]
+    },
+    {
+      "id": "banking_finance_india_017",
+      "name": "SEBI",
+      "domain": "www.sebi.gov.in",
+      "canonical_url": "https://www.sebi.gov.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Securities and Exchange Board of India (SEBI) is India's securities-market regulator. Its official website provides regulatory announcements, investor education, intermediary information and investor grievance resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Market Regulator",
+        "Investor Protection",
+        "Securities Market",
+        "Investor Education",
+        "Complaints"
+      ],
+      "keywords": [
+        "SEBI",
+        "Securities and Exchange Board of India",
+        "share market regulator",
+        "stock market rules",
+        "investor complaint",
+        "securities market",
+        "registered broker",
+        "mutual fund regulation",
+        "investor education"
+      ],
+      "use_cases": [
+        "Check securities-market regulations, circulars and official announcements",
+        "Find investor education and grievance-redressal information",
+        "Verify information about regulated market intermediaries"
+      ]
+    },
+    {
+      "id": "banking_finance_india_018",
+      "name": "NSE India",
+      "domain": "www.nseindia.com",
+      "canonical_url": "https://www.nseindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NSE India is the official website of the National Stock Exchange of India. It provides market data, trading and listing information, indices, products and resources for investors and market participants.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Stock Exchange",
+        "Share Market",
+        "Market Data",
+        "Investor Resources",
+        "Listed Companies"
+      ],
+      "keywords": [
+        "NSE India",
+        "National Stock Exchange",
+        "share market today",
+        "stock market prices",
+        "Nifty index",
+        "market data",
+        "listed companies",
+        "equity trading",
+        "investor information",
+        "market holidays"
+      ],
+      "use_cases": [
+        "Check exchange market information, indices and market activity",
+        "Find listed-company and market-participant information",
+        "Access investor resources and exchange-related notices"
+      ]
+    },
+    {
+      "id": "banking_finance_india_019",
+      "name": "BSE India",
+      "domain": "www.bseindia.com",
+      "canonical_url": "https://www.bseindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BSE India is the official website of BSE Limited, a recognised Indian stock exchange. It provides market information, indices, listed-company disclosures, trading-related resources and investor services.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Stock Exchange",
+        "Share Market",
+        "Market Data",
+        "Investor Resources",
+        "Listed Companies"
+      ],
+      "keywords": [
+        "BSE India",
+        "Bombay Stock Exchange",
+        "BSE Sensex",
+        "share market",
+        "stock prices",
+        "market data",
+        "listed company results",
+        "corporate announcements",
+        "investor services"
+      ],
+      "use_cases": [
+        "Check BSE market information and benchmark indices",
+        "Find listed-company announcements and disclosures",
+        "Access exchange information and investor resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_020",
+      "name": "NPCI",
+      "domain": "www.npci.org.in",
+      "canonical_url": "https://www.npci.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The National Payments Corporation of India (NPCI) develops and operates retail payment and settlement systems in India. Its website explains payment products, participating institutions, ecosystem updates and support resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payment Network",
+        "Digital Payments",
+        "UPI",
+        "Retail Payment Systems",
+        "Financial Infrastructure"
+      ],
+      "keywords": [
+        "NPCI",
+        "National Payments Corporation of India",
+        "UPI",
+        "RuPay",
+        "IMPS",
+        "FASTag",
+        "AePS",
+        "digital payment system",
+        "bank payment network",
+        "payment services"
+      ],
+      "use_cases": [
+        "Learn about India's retail payment systems and NPCI products",
+        "Find official information about UPI and other supported payment services",
+        "Review ecosystem updates, participating banks and payment resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_022",
+      "name": "National Payments Corporation of India - BHIM",
+      "domain": "www.bhimupi.org.in",
+      "canonical_url": "https://www.bhimupi.org.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "BHIM is India's UPI-based payment application, developed under the NPCI ecosystem, for sending and receiving money through supported bank accounts. Its official website provides app information, features and user guidance.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "UPI Payments",
+        "Payment App",
+        "Money Transfers",
+        "QR Payments",
+        "Digital Payments"
+      ],
+      "keywords": [
+        "BHIM",
+        "BHIM UPI",
+        "UPI app",
+        "send money",
+        "receive money",
+        "scan and pay",
+        "QR code payment",
+        "bank to bank transfer",
+        "digital payment app",
+        "BHIM customer support"
+      ],
+      "use_cases": [
+        "Find official information about the BHIM UPI application and its features",
+        "Learn how to send or receive money using supported UPI functions",
+        "Access app guidance, FAQs and support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_023",
+      "name": "Paytm",
+      "domain": "paytm.com",
+      "canonical_url": "https://paytm.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Paytm is an Indian digital payments and financial-services platform. Its website provides information about consumer payment services, merchant payment solutions and other supported financial products.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Digital Payments",
+        "Payment Platform",
+        "Merchant Services",
+        "Money Transfers",
+        "Financial Services"
+      ],
+      "keywords": [
+        "Paytm",
+        "Paytm app",
+        "online payment",
+        "UPI payment",
+        "mobile recharge",
+        "bill payment",
+        "scan and pay",
+        "merchant QR",
+        "business payment",
+        "Paytm customer care"
+      ],
+      "use_cases": [
+        "Find information about supported Paytm payment and bill-payment services",
+        "Explore payment acceptance and related tools for merchants",
+        "Access official product guidance, app information and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_024",
+      "name": "PhonePe",
+      "domain": "www.phonepe.com",
+      "canonical_url": "https://www.phonepe.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "PhonePe is an Indian digital payments platform offering UPI-based payments and a range of consumer and merchant services. Its website provides product information, payment guidance and business solutions.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Digital Payments",
+        "UPI Payments",
+        "Payment App",
+        "Merchant Services",
+        "Financial Services"
+      ],
+      "keywords": [
+        "PhonePe",
+        "PhonePe app",
+        "UPI payment",
+        "send money",
+        "scan and pay",
+        "bill payment",
+        "mobile recharge",
+        "merchant payment",
+        "PhonePe business",
+        "customer support"
+      ],
+      "use_cases": [
+        "Find information about UPI and other supported payment services",
+        "Explore payment acceptance and business solutions",
+        "Access app guidance, service information and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_025",
+      "name": "Groww",
+      "domain": "groww.in",
+      "canonical_url": "https://groww.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Groww is an Indian investment platform providing access to supported investment products such as stocks and mutual funds. Its website offers product information, investing tools and educational resources.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Investment Platform",
+        "Stock Broking",
+        "Mutual Funds",
+        "Investor Tools",
+        "Personal Finance"
+      ],
+      "keywords": [
+        "Groww",
+        "investing app",
+        "stock investment",
+        "share market",
+        "mutual fund investment",
+        "demat account",
+        "trading account",
+        "SIP",
+        "investment portfolio",
+        "investor education"
+      ],
+      "use_cases": [
+        "Explore supported stock and mutual-fund investment services",
+        "Find information about opening and using an investment account",
+        "Access portfolio tools, product details and investor learning resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_026",
+      "name": "Zerodha",
+      "domain": "zerodha.com",
+      "canonical_url": "https://zerodha.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Zerodha is an Indian stockbroker offering online trading and investing services. Its website provides information about brokerage products, market tools, investment education and customer support.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Stock Broking",
+        "Online Trading",
+        "Investment Platform",
+        "Market Tools",
+        "Investor Education"
+      ],
+      "keywords": [
+        "Zerodha",
+        "stock broker",
+        "trading account",
+        "demat account",
+        "share trading",
+        "equity investing",
+        "mutual funds",
+        "Kite trading platform",
+        "brokerage charges",
+        "Varsity investor education"
+      ],
+      "use_cases": [
+        "Find information about Zerodha's brokerage and trading services",
+        "Explore market tools and supported investment products",
+        "Access investor education, account guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_027",
+      "name": "AMFI",
+      "domain": "www.amfiindia.com",
+      "canonical_url": "https://www.amfiindia.com/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "The Association of Mutual Funds in India (AMFI) is the mutual fund industry's association. Its website provides industry information, investor education, mutual-fund awareness resources and distributor-related information.",
+      "source_type": "suggested_official_domain",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Mutual Fund Industry",
+        "Investor Education",
+        "Fund Information",
+        "Industry Association"
+      ],
+      "keywords": [
+        "AMFI",
+        "Association of Mutual Funds in India",
+        "mutual fund information",
+        "mutual fund NAV",
+        "AMFI registered distributor",
+        "mutual fund investor education",
+        "SIP awareness",
+        "mutual fund industry"
+      ],
+      "use_cases": [
+        "Read educational material about mutual funds and investing",
+        "Find industry information and distributor-related resources",
+        "Access official mutual-fund awareness and investor guidance"
+      ]
+    },
+    {
+      "id": "banking_finance_india_090",
+      "name": "Bandhan Bank",
+      "domain": "bandhan.bank.in",
+      "canonical_url": "https://bandhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bandhan Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "bandhan bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_028",
+      "name": "CSB Bank",
+      "domain": "csb.bank.in",
+      "canonical_url": "https://csb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "CSB Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "csb bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_029",
+      "name": "City Union Bank",
+      "domain": "cityunionbank.bank.in",
+      "canonical_url": "https://cityunionbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "City Union Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "city union bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_030",
+      "name": "DCB Bank",
+      "domain": "www.dcb.bank.in",
+      "canonical_url": "https://www.dcb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "DCB Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "dcb bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_031",
+      "name": "Dhanlaxmi Bank",
+      "domain": "www.dhan.bank.in",
+      "canonical_url": "https://www.dhan.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Dhanlaxmi Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "dhanlaxmi bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_032",
+      "name": "Federal Bank",
+      "domain": "www.federal.bank.in",
+      "canonical_url": "https://www.federal.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Federal Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "federal bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_033",
+      "name": "Jammu & Kashmir Bank",
+      "domain": "ibank.jkb.bank.in",
+      "canonical_url": "https://ibank.jkb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jammu & Kashmir Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "jammu & kashmir bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_034",
+      "name": "Karnataka Bank",
+      "domain": "www.karnatakabank.bank.in",
+      "canonical_url": "https://www.karnatakabank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "karnataka bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_035",
+      "name": "Karur Vysya Bank",
+      "domain": "www.kvb.bank.in",
+      "canonical_url": "https://www.kvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karur Vysya Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "karur vysya bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_036",
+      "name": "Nainital Bank",
+      "domain": "www.nainitalbank.bank.in",
+      "canonical_url": "https://www.nainitalbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nainital Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "nainital bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_037",
+      "name": "RBL Bank",
+      "domain": "www.rbl.bank.in",
+      "canonical_url": "https://www.rbl.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "RBL Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "rbl bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_038",
+      "name": "South Indian Bank",
+      "domain": "www.southindianbank.bank.in",
+      "canonical_url": "https://www.southindianbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "South Indian Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "south indian bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_039",
+      "name": "Tamilnad Mercantile Bank",
+      "domain": "www.tmb.bank.in",
+      "canonical_url": "https://www.tmb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamilnad Mercantile Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "tamilnad mercantile bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_040",
+      "name": "YES BANK",
+      "domain": "yes.bank.in",
+      "canonical_url": "https://yes.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "YES BANK is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "yes bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_041",
+      "name": "IDBI Bank",
+      "domain": "www.idbi.bank.in",
+      "canonical_url": "https://www.idbi.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "IDBI Bank is a private sector bank operating in India. Its official website provides information about personal and business banking, accounts, deposits, loans, digital services and customer support.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Private Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "idbi bank",
+        "private bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "personal loan",
+        "home loan",
+        "business banking",
+        "net banking",
+        "mobile banking",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Compare and learn about the bank's personal and business banking services",
+        "Find information on accounts, deposits and available loan products",
+        "Access digital banking, branch and customer-support resources"
+      ]
+    },
+    {
+      "id": "banking_finance_india_042",
+      "name": "Indian Overseas Bank",
+      "domain": "www.iob.bank.in",
+      "canonical_url": "https://www.iob.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Indian Overseas Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "indian overseas bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_043",
+      "name": "Punjab & Sind Bank",
+      "domain": "punjabandsind.bank.in",
+      "canonical_url": "https://punjabandsind.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab & Sind Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "punjab & sind bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_044",
+      "name": "UCO Bank",
+      "domain": "www.uco.bank.in",
+      "canonical_url": "https://www.uco.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "UCO Bank is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "uco bank",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_045",
+      "name": "Bank of Maharashtra",
+      "domain": "bankofmaharashtra.bank.in",
+      "canonical_url": "https://bankofmaharashtra.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bank of Maharashtra is an Indian public sector bank offering banking services to retail, business and institutional customers. Its official website provides information about accounts, deposits, lending, digital banking and customer assistance.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Public Sector Bank",
+        "Banking",
+        "Accounts & Deposits",
+        "Loans",
+        "Digital Banking"
+      ],
+      "keywords": [
+        "bank of maharashtra",
+        "public sector bank",
+        "government bank",
+        "bank account",
+        "savings account",
+        "current account",
+        "fixed deposit",
+        "bank loan",
+        "internet banking",
+        "mobile banking",
+        "bank customer care",
+        "branch and atm"
+      ],
+      "use_cases": [
+        "Find official information about savings, current and deposit accounts",
+        "Explore retail, business and other banking or lending services",
+        "Access internet banking information, branch details and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_046",
+      "name": "AU Small Finance Bank",
+      "domain": "www.au.bank.in",
+      "canonical_url": "https://www.au.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "AU Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "au small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_047",
+      "name": "Capital Small Finance Bank",
+      "domain": "www.capital.bank.in",
+      "canonical_url": "https://www.capital.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Capital Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "capital small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_048",
+      "name": "Equitas Small Finance Bank",
+      "domain": "equitas.bank.in",
+      "canonical_url": "https://equitas.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Equitas Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "equitas small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_049",
+      "name": "ESAF Small Finance Bank",
+      "domain": "www.esaf.bank.in",
+      "canonical_url": "https://www.esaf.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "ESAF Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "esaf small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_050",
+      "name": "Jana Small Finance Bank",
+      "domain": "www.jana.bank.in",
+      "canonical_url": "https://www.jana.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jana Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "jana small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_051",
+      "name": "Shivalik Small Finance Bank",
+      "domain": "shivalik.bank.in",
+      "canonical_url": "https://shivalik.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Shivalik Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "shivalik small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_052",
+      "name": "Suryoday Small Finance Bank",
+      "domain": "suryoday.bank.in",
+      "canonical_url": "https://suryoday.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Suryoday Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "suryoday small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_053",
+      "name": "Ujjivan Small Finance Bank",
+      "domain": "www.ujjivansfb.bank.in",
+      "canonical_url": "https://www.ujjivansfb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Ujjivan Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "ujjivan small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_054",
+      "name": "Unity Small Finance Bank",
+      "domain": "unity.bank.in",
+      "canonical_url": "https://unity.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Unity Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "unity small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_055",
+      "name": "Utkarsh Small Finance Bank",
+      "domain": "www.utkarsh.bank.in",
+      "canonical_url": "https://www.utkarsh.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Utkarsh Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "utkarsh small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_056",
+      "name": "slice Small Finance Bank",
+      "domain": "slice.bank.in",
+      "canonical_url": "https://slice.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "slice Small Finance Bank is a Small Finance Bank operating in India with a focus on banking access for individuals and underserved customer segments, including small businesses. Its website provides information about deposit, payment and lending services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Small Finance Bank",
+        "Financial Inclusion",
+        "Savings & Deposits",
+        "Small Business Banking",
+        "Loans"
+      ],
+      "keywords": [
+        "slice small finance bank",
+        "small finance bank",
+        "small finance bank account",
+        "savings account",
+        "fixed deposit",
+        "recurring deposit",
+        "small business loan",
+        "micro enterprise finance",
+        "banking services",
+        "mobile banking",
+        "customer care"
+      ],
+      "use_cases": [
+        "Explore savings, deposit and everyday banking options",
+        "Find banking and credit information relevant to individuals and small businesses",
+        "Access digital banking guidance and customer support"
+      ]
+    },
+    {
+      "id": "banking_finance_india_057",
+      "name": "Airtel Payments Bank",
+      "domain": "www.airtelpayments.bank.in",
+      "canonical_url": "https://www.airtelpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Airtel Payments Bank is a payments bank operating in India. Its official website provides information about permitted deposit-account, digital payment, remittance and related customer services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payments Bank",
+        "Digital Payments",
+        "Money Transfers",
+        "Account Services",
+        "Mobile Banking"
+      ],
+      "keywords": [
+        "airtel payments bank",
+        "payments bank",
+        "payment bank account",
+        "digital payments",
+        "money transfer",
+        "mobile banking",
+        "remittance",
+        "bill payment",
+        "merchant payment",
+        "customer care",
+        "account services"
+      ],
+      "use_cases": [
+        "Find information about the bank's payment and account services",
+        "Explore supported digital payment, transfer and remittance options",
+        "Access official app, service and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_058",
+      "name": "India Post Payments Bank",
+      "domain": "ippbonline.bank.in",
+      "canonical_url": "https://ippbonline.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "India Post Payments Bank is a payments bank operating in India. Its official website provides information about permitted deposit-account, digital payment, remittance and related customer services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payments Bank",
+        "Digital Payments",
+        "Money Transfers",
+        "Account Services",
+        "Mobile Banking"
+      ],
+      "keywords": [
+        "india post payments bank",
+        "payments bank",
+        "payment bank account",
+        "digital payments",
+        "money transfer",
+        "mobile banking",
+        "remittance",
+        "bill payment",
+        "merchant payment",
+        "customer care",
+        "account services"
+      ],
+      "use_cases": [
+        "Find information about the bank's payment and account services",
+        "Explore supported digital payment, transfer and remittance options",
+        "Access official app, service and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_059",
+      "name": "Fino Payments Bank",
+      "domain": "www.fino.bank.in",
+      "canonical_url": "https://www.fino.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Fino Payments Bank is a payments bank operating in India. Its official website provides information about permitted deposit-account, digital payment, remittance and related customer services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payments Bank",
+        "Digital Payments",
+        "Money Transfers",
+        "Account Services",
+        "Mobile Banking"
+      ],
+      "keywords": [
+        "fino payments bank",
+        "payments bank",
+        "payment bank account",
+        "digital payments",
+        "money transfer",
+        "mobile banking",
+        "remittance",
+        "bill payment",
+        "merchant payment",
+        "customer care",
+        "account services"
+      ],
+      "use_cases": [
+        "Find information about the bank's payment and account services",
+        "Explore supported digital payment, transfer and remittance options",
+        "Access official app, service and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_060",
+      "name": "Jio Payments Bank",
+      "domain": "www.jiopayments.bank.in",
+      "canonical_url": "https://www.jiopayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jio Payments Bank is a payments bank operating in India. Its official website provides information about permitted deposit-account, digital payment, remittance and related customer services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payments Bank",
+        "Digital Payments",
+        "Money Transfers",
+        "Account Services",
+        "Mobile Banking"
+      ],
+      "keywords": [
+        "jio payments bank",
+        "payments bank",
+        "payment bank account",
+        "digital payments",
+        "money transfer",
+        "mobile banking",
+        "remittance",
+        "bill payment",
+        "merchant payment",
+        "customer care",
+        "account services"
+      ],
+      "use_cases": [
+        "Find information about the bank's payment and account services",
+        "Explore supported digital payment, transfer and remittance options",
+        "Access official app, service and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_061",
+      "name": "NSDL Payments Bank",
+      "domain": "nsdlpayments.bank.in",
+      "canonical_url": "https://nsdlpayments.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "NSDL Payments Bank is a payments bank operating in India. Its official website provides information about permitted deposit-account, digital payment, remittance and related customer services.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "India",
+      "labels": [
+        "Payments Bank",
+        "Digital Payments",
+        "Money Transfers",
+        "Account Services",
+        "Mobile Banking"
+      ],
+      "keywords": [
+        "nsdl payments bank",
+        "payments bank",
+        "payment bank account",
+        "digital payments",
+        "money transfer",
+        "mobile banking",
+        "remittance",
+        "bill payment",
+        "merchant payment",
+        "customer care",
+        "account services"
+      ],
+      "use_cases": [
+        "Find information about the bank's payment and account services",
+        "Explore supported digital payment, transfer and remittance options",
+        "Access official app, service and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_062",
+      "name": "Andhra Pradesh Grameena Bank",
+      "domain": "apgb.bank.in",
+      "canonical_url": "https://apgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Andhra Pradesh Grameena Bank is a Regional Rural Bank serving customers in Andhra Pradesh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Andhra Pradesh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "andhra pradesh grameena bank",
+        "andhra pradesh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_063",
+      "name": "Arunachal Pradesh Rural Bank",
+      "domain": "www.aprb.bank.in",
+      "canonical_url": "https://www.aprb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Arunachal Pradesh Rural Bank is a Regional Rural Bank serving customers in Arunachal Pradesh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Arunachal Pradesh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "arunachal pradesh rural bank",
+        "arunachal pradesh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_064",
+      "name": "Assam Gramin Bank",
+      "domain": "agvb.bank.in",
+      "canonical_url": "https://agvb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Assam Gramin Bank is a Regional Rural Bank serving customers in Assam. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Assam, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "assam gramin bank",
+        "assam gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_065",
+      "name": "Bihar Gramin Bank",
+      "domain": "bgb.bank.in",
+      "canonical_url": "https://bgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bihar Gramin Bank is a Regional Rural Bank serving customers in Bihar. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Bihar, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "bihar gramin bank",
+        "bihar gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_066",
+      "name": "Chhattisgarh Rajya Gramin Bank",
+      "domain": "cgb.bank.in",
+      "canonical_url": "https://cgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Chhattisgarh Rajya Gramin Bank is a Regional Rural Bank serving customers in Chhattisgarh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Chhattisgarh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "chhattisgarh rajya gramin bank",
+        "chhattisgarh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_067",
+      "name": "Gujarat Gramin Bank",
+      "domain": "www.ggb.bank.in",
+      "canonical_url": "https://www.ggb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Gujarat Gramin Bank is a Regional Rural Bank serving customers in Gujarat. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Gujarat, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "gujarat gramin bank",
+        "gujarat gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_068",
+      "name": "Haryana Gramin Bank",
+      "domain": "hgb.bank.in",
+      "canonical_url": "https://hgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Haryana Gramin Bank is a Regional Rural Bank serving customers in Haryana. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Haryana, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "haryana gramin bank",
+        "haryana gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_069",
+      "name": "Himachal Pradesh Gramin Bank",
+      "domain": "www.hpgb.bank.in",
+      "canonical_url": "https://www.hpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Himachal Pradesh Gramin Bank is a Regional Rural Bank serving customers in Himachal Pradesh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Himachal Pradesh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "himachal pradesh gramin bank",
+        "himachal pradesh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_070",
+      "name": "Jammu and Kashmir Grameen Bank",
+      "domain": "www.jkgrameen.bank.in",
+      "canonical_url": "https://www.jkgrameen.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jammu and Kashmir Grameen Bank is a Regional Rural Bank serving customers in Jammu and Kashmir. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Jammu and Kashmir, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "jammu and kashmir grameen bank",
+        "jammu and kashmir gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_071",
+      "name": "Jharkhand Rajya Gramin Bank",
+      "domain": "www.jrgbank.bank.in",
+      "canonical_url": "https://www.jrgbank.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Jharkhand Rajya Gramin Bank is a Regional Rural Bank serving customers in Jharkhand. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Jharkhand, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "jharkhand rajya gramin bank",
+        "jharkhand gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_072",
+      "name": "Karnataka Grameena Bank",
+      "domain": "karnatakagb.bank.in",
+      "canonical_url": "https://karnatakagb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Karnataka Grameena Bank is a Regional Rural Bank serving customers in Karnataka. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Karnataka, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "karnataka grameena bank",
+        "karnataka gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_073",
+      "name": "Kerala Gramin Bank",
+      "domain": "kgb.bank.in",
+      "canonical_url": "https://kgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Kerala Gramin Bank is a Regional Rural Bank serving customers in Kerala. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Kerala, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "kerala gramin bank",
+        "kerala gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_074",
+      "name": "Madhya Pradesh Gramin Bank",
+      "domain": "mpgb.bank.in",
+      "canonical_url": "https://mpgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Madhya Pradesh Gramin Bank is a Regional Rural Bank serving customers in Madhya Pradesh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Madhya Pradesh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "madhya pradesh gramin bank",
+        "madhya pradesh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_075",
+      "name": "Maharashtra Gramin Bank",
+      "domain": "www.mahagramin.bank.in",
+      "canonical_url": "https://www.mahagramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Maharashtra Gramin Bank is a Regional Rural Bank serving customers in Maharashtra. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Maharashtra, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "maharashtra gramin bank",
+        "maharashtra gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_076",
+      "name": "Manipur Rural Bank",
+      "domain": "manipurrural.bank.in",
+      "canonical_url": "https://manipurrural.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Manipur Rural Bank is a Regional Rural Bank serving customers in Manipur. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Manipur, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "manipur rural bank",
+        "manipur gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_077",
+      "name": "Meghalaya Rural Bank",
+      "domain": "megrb.bank.in",
+      "canonical_url": "https://megrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Meghalaya Rural Bank is a Regional Rural Bank serving customers in Meghalaya. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Meghalaya, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "meghalaya rural bank",
+        "meghalaya gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_078",
+      "name": "Mizoram Rural Bank",
+      "domain": "www.mrb.bank.in",
+      "canonical_url": "https://www.mrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Mizoram Rural Bank is a Regional Rural Bank serving customers in Mizoram. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Mizoram, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "mizoram rural bank",
+        "mizoram gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_079",
+      "name": "Nagaland Rural Bank",
+      "domain": "www.nrb.bank.in",
+      "canonical_url": "https://www.nrb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Nagaland Rural Bank is a Regional Rural Bank serving customers in Nagaland. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Nagaland, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "nagaland rural bank",
+        "nagaland gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_080",
+      "name": "Odisha Grameen Bank",
+      "domain": "ebank.ogb.bank.in",
+      "canonical_url": "https://ebank.ogb.bank.in/OGB/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Odisha Grameen Bank is a Regional Rural Bank serving customers in Odisha. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Odisha, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "odisha grameen bank",
+        "odisha gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_081",
+      "name": "Punjab Gramin Bank",
+      "domain": "pgb.bank.in",
+      "canonical_url": "https://pgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Punjab Gramin Bank is a Regional Rural Bank serving customers in Punjab. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Punjab, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "punjab gramin bank",
+        "punjab gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_082",
+      "name": "Rajasthan Gramin Bank",
+      "domain": "www.rgb.bank.in",
+      "canonical_url": "https://www.rgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Rajasthan Gramin Bank is a Regional Rural Bank serving customers in Rajasthan. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Rajasthan, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "rajasthan gramin bank",
+        "rajasthan gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_083",
+      "name": "Tamil Nadu Grama Bank",
+      "domain": "tngb.bank.in",
+      "canonical_url": "https://tngb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tamil Nadu Grama Bank is a Regional Rural Bank serving customers in Tamil Nadu. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Tamil Nadu, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "tamil nadu grama bank",
+        "tamil nadu gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_084",
+      "name": "Telangana Grameena Bank",
+      "domain": "tgb.bank.in",
+      "canonical_url": "https://tgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Telangana Grameena Bank is a Regional Rural Bank serving customers in Telangana. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Telangana, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "telangana grameena bank",
+        "telangana gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_085",
+      "name": "Tripura Gramin Bank",
+      "domain": "ibanking.tripuragramin.bank.in",
+      "canonical_url": "https://ibanking.tripuragramin.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Tripura Gramin Bank is a Regional Rural Bank serving customers in Tripura. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Tripura, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "tripura gramin bank",
+        "tripura gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_086",
+      "name": "Uttar Pradesh Gramin Bank",
+      "domain": "upgb.bank.in",
+      "canonical_url": "https://upgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Uttar Pradesh Gramin Bank is a Regional Rural Bank serving customers in Uttar Pradesh. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Uttar Pradesh, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "uttar pradesh gramin bank",
+        "uttar pradesh gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_087",
+      "name": "Uttarakhand Gramin Bank",
+      "domain": "ukgb.bank.in",
+      "canonical_url": "https://ukgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Uttarakhand Gramin Bank is a Regional Rural Bank serving customers in Uttarakhand. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "Uttarakhand, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "uttarakhand gramin bank",
+        "uttarakhand gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_088",
+      "name": "Bangiya Gramin Vikash Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Bangiya Gramin Vikash Bank is a Regional Rural Bank serving customers in West Bengal. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "West Bengal, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "bangiya gramin vikash bank",
+        "west bengal gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    },
+    {
+      "id": "banking_finance_india_089",
+      "name": "Paschim Banga Gramin Bank",
+      "domain": "www.wbgb.bank.in",
+      "canonical_url": "https://www.wbgb.bank.in/",
+      "category": "banking-finance-india",
+      "status": "published",
+      "verified_at": "2026-10-19T10:00:00Z",
+      "verification": {
+        "status": "verified",
+        "method": "manual_review"
+      },
+      "description": "Paschim Banga Gramin Bank is a Regional Rural Bank serving customers in West Bengal. It provides locally focused banking access for rural households, farmers and small businesses within its notified operating area.",
+      "source_type": "official_bank_directory_candidate",
+      "review_required": true,
+      "region": "West Bengal, India",
+      "labels": [
+        "Regional Rural Bank",
+        "Rural Banking",
+        "Agricultural Finance",
+        "Customer Banking"
+      ],
+      "keywords": [
+        "paschim banga gramin bank",
+        "west bengal gramin bank",
+        "regional rural bank",
+        "rural bank",
+        "bank account",
+        "savings account",
+        "agriculture loan",
+        "farmer banking",
+        "rural finance",
+        "bank customer care"
+      ],
+      "use_cases": [
+        "Find the bank's official information and services for customers in its operating area",
+        "Explore banking access and finance options for rural households, farmers and small businesses",
+        "Locate branch, account and customer-support information"
+      ]
+    }
+  ]
+}
