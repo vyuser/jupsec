@@ -11,7 +11,7 @@
   const copy = {
     en: {
       chooseLanguage: "Choose your language",
-      languageIntro: "Verification status does not 100% guarantee a website can never be compromised.",
+      languageIntro: "Verification status does not 100% guarantee a website can never be compromised.Select a language to continue. You can change it later.",
       continue: "Continue",
       home: "Home",
       directoryNoteTitle: "Curated directory",
@@ -67,7 +67,7 @@
     hi: {
       chooseLanguage: "अपनी भाषा चुनें",
       languageIntro:
-        "सत्यापन की स्थिति इस बात की 100% गारंटी नहीं देती कि वेबसाइट कभी भी हैक नहीं हो सकती।",
+        "सत्यापन की स्थिति इस बात की 100% गारंटी नहीं देती कि वेबसाइट कभी भी हैक नहीं हो सकती। जारी रखने के लिए भाषा चुनें। आप इसे बाद में बदल सकते हैं।",
       continue: "जारी रखें",
       home: "होम",
       directoryNoteTitle: "चयनित निर्देशिका",
@@ -121,7 +121,7 @@
 
     mr: {
       chooseLanguage: "तुमची भाषा निवडा",
-      languageIntro: "सत्यापन स्थितीमुळे वेबसाइट कधीही हॅक होऊ शकत नाही याची १००% हमी मिळत नाही.",
+      languageIntro: "सत्यापन स्थितीमुळे वेबसाइट कधीही हॅक होऊ शकत नाही याची १००% हमी मिळत नाही. पुढे जाण्यासाठी भाषा निवडा. तुम्ही ती नंतर बदलू शकता.",
       continue: "पुढे चला",
       home: "मुख्यपृष्ठ",
       directoryNoteTitle: "निवडक निर्देशिका",
@@ -175,7 +175,7 @@
 
     gu: {
       chooseLanguage: "તમારી ભાષા પસંદ કરો",
-      languageIntro: "ચકાસણી સ્થિતિ 100% ગેરંટી આપતી નથી કે વેબસાઇટ સાથે ક્યારેય ચેડા થઈ શકશે નહીં.",
+      languageIntro: "ચકાસણી સ્થિતિ 100% ગેરંટી આપતી નથી કે વેબસાઇટ સાથે ક્યારેય ચેડા થઈ શકશે નહીં. આગળ વધવા માટે ભાષા પસંદ કરો. તમે તેને પછીથી બદલી શકો છો.",
       continue: "આગળ વધો",
       home: "મુખ્ય પૃષ્ઠ",
       directoryNoteTitle: "પસંદ કરેલી ડિરેક્ટરી",
@@ -497,6 +497,8 @@
     state.categories = [];
     state.labels = [];
     state.pendingLabels = [];
+    $("#labelsSearch").value = "";
+    $("#labelChoices").replaceChildren();
 
     render();
 
@@ -770,10 +772,30 @@
     $("#loadMore").classList.toggle("is-hidden", shown.length >= list.length);
   }
 
+  // Labels are scoped to the currently selected category and language.
+  // state.websites contains only the active language catalogue.
   function allLabels() {
-    return [...new Set(state.websites.flatMap((s) => s.labels))].sort((a, b) =>
-      a.localeCompare(b),
+    const sites = state.category
+      ? state.websites.filter((site) => site.category === state.category)
+      : state.websites;
+
+    const unique = new Map();
+    for (const site of sites) {
+      for (const label of site.labels) {
+        const key = normalize(label);
+        if (key && !unique.has(key)) unique.set(key, label);
+      }
+    }
+    return [...unique.values()].sort((a, b) =>
+      a.localeCompare(b, state.language),
     );
+  }
+
+  function resetCategoryLabels() {
+    state.labels = [];
+    state.pendingLabels = [];
+    $("#labelsSearch").value = "";
+    $("#labelChoices").replaceChildren();
   }
 
   function renderCategoryChoices() {
@@ -803,7 +825,12 @@
   function renderLabelChoices() {
     const q = normalize($("#labelsSearch").value);
 
-    const choices = allLabels().filter((x) => normalize(x).includes(q));
+    const available = allLabels();
+    const allowed = new Set(available.map(normalize));
+    state.pendingLabels = state.pendingLabels.filter((label) =>
+      allowed.has(normalize(label)),
+    );
+    const choices = available.filter((x) => normalize(x).includes(q));
 
     $("#labelChoices").innerHTML =
       choices
@@ -1007,11 +1034,17 @@
   });
 
   $("#categoryApply").addEventListener("click", () => {
-    state.category = state.pendingCategory;
+    const nextCategory = state.pendingCategory || null;
+    if (nextCategory !== state.category) {
+      state.category = nextCategory;
+      resetCategoryLabels();
+    }
     state.visible = PAGE_SIZE;
 
     closeDialogs();
     render();
+    // Rebuild from scratch so reopening never shows previous-category labels.
+    renderLabelChoices();
   });
 
   $("#labelsReset").addEventListener("click", () => {
@@ -1020,7 +1053,10 @@
   });
 
   $("#labelsApply").addEventListener("click", () => {
-    state.labels = [...state.pendingLabels];
+    const allowed = new Set(allLabels().map(normalize));
+    state.labels = state.pendingLabels.filter((label) =>
+      allowed.has(normalize(label)),
+    );
     state.visible = PAGE_SIZE;
 
     closeDialogs();
